@@ -5,7 +5,7 @@ show_date: true
 title: "Data Science: Querying DnD Session Notes with Vector Databases and AI"
 date: 2025-06-01
 img: 
-tags: [Data Science, Databases, Python, Programming]
+tags: [Data Science, Databases, Python, Programming, AI]
 category: Data Science
 author: Strakul
 description: ""
