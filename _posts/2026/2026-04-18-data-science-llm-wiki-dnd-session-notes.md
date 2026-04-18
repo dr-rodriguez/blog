@@ -14,7 +14,8 @@ toc: yes
 
 [![Graph representation of notes in the LLM Wiki. Green are labels, red correspond to the character Zinjaro, and blue correspond to the character Soren](assets/img/posts/2026/20260418/graph.png)](assets/img/posts/2026/20260418/graph.png)
 
-Over the past few weeks, the AI community has been all abuzz about a post from [Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy) about LLM wikis. I've seen a handful of videos about it and decided to give it a try with my DnD session notes. This is an alternative to a traditional RAG (Retrieval Augmented Generation), such as the one I did in one of my prior blog posts—[Data Science: Querying DnD Session Notes with Vector Databases and AI]({% post_url 2025/2025-06-01-data-science-querying-dnd-session-notes-with-vector-databases-and-ai %}).
+Over the past few weeks, the AI community has been all abuzz about a post from [Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy) about LLM wikis. I've seen a handful of videos about it and decided to give it a try with my DnD session notes. This is an alternative to a traditional RAG (Retrieval Augmented Generation), such as the one I did in one of my prior blog posts—[Data Science: Querying DnD Session Notes with Vector Databases and AI]({% post_url 2025/2025-06-01-data-science-querying-dnd-session-notes-with-vector-databases-and-ai %}). 
+While a RAG uses a search engine (a vector database) to retrieve information, the LLM wiki approach uses an AI agent to browse through files like a human would.
 
 Here are the guidelines Karpathy presented: [https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
 
@@ -24,25 +25,25 @@ A lot of people have been praising this approach, so I wanted to give it a try. 
 
 ## Preparing the LLM Wiki
 
-Steps:
-- Created blank Obsidian project (can choose your IDE of choice)
-- Launched Gemini CLI in that project folder (can choose your own agentic workflow of choice)
+Here are the basic steps I followed:
+- Created blank [Obsidian](https://obsidian.md/) project (can choose your IDE of choice)
+- Launched [Gemini CLI](https://geminicli.com/docs/get-started/installation/) in that project folder (can choose your own agentic workflow of choice)
 - Pasted the link to the LLM Wiki document and asked it to create that
 - Iterated on setup, such as tags and folder structure (I like a wiki/sources folder and keeping the raw/ folder clean after ingests are successful)
 - Started loading data
 
-My first data load was a bit too much. I had downloaded my session notes as a single Markdown file and asked the agent to split it by session date. It worked well, but produced over a hundred Markdown files. Ultimately, this is better, but a single ingest command with all that information took a while and didn't create all the linkages and set of information I wanted. It relied heavily on some spreadsheets I had for characters and locations (which I provided as CSV files), but didn't create character-specific pages until I asked it to much later down the line.
+My first data load was a bit much. I had downloaded my session notes as a single Markdown file and asked the agent to split it by session date. It worked well, but produced over a hundred Markdown files. Ultimately, this is better, but a single ingest command with all that information took a while and didn't create all the linkages and set of information I wanted. It relied heavily on some spreadsheets I had for characters and locations (which I provided as CSV files), but didn't create character-specific pages until I asked it to later down the line.
 
 For example, I used the following to create character-specific notes:
 *Create character wiki notes, similar to that created for @"wiki/Characters/Villhelm Emberstoke.md", for all player characters in Zinjaro's current party: Aolis, Maxim, Brambleberry, Ogra, and also include Thadius and Wobbles. Then populate these wiki pages with information gleaned from the session notes. This is a context-heavy operation, so spin up multiple sub-agents for this, maybe one per character, and provide each with detailed instructions of what it should do.*
 
-[![](assets/img/posts/2026/20260418/subagents.png)](assets/img/posts/2026/20260418/subagents.png)
+[![Screenshot of mult-agent workflow creating character notes](assets/img/posts/2026/20260418/subagents.png)](assets/img/posts/2026/20260418/subagents.png)
 
-After some iteration, I got all my notes in place and the wiki prepared with three agent skills: ingest, query, and lint. I haven't used lint much yet, but ingest and query appear to be working well. I did some iteration on the ingest since I wanted to add labels and address frequent issues with Unicode characters.
+After some iteration, I got all my notes in place and the wiki prepared with three agent skills: **ingest**, **query**, and **lint**. I haven't used **lint** much yet, but **ingest** and **query** appear to be working well. I did some iteration on the **ingest** since I wanted to add labels and address frequent issues with Unicode characters.
 
 ## Query Examples
 
-Used [OpenCode](https://opencode.ai/) with Gemma 4:e4b and 26b_a4b on my personal machine for some of these. This was using Ollama with a 32k context window and thinking enabled.
+Used [OpenCode](https://opencode.ai/) with Gemma 4:e4b and 26b_a4b on my personal machine for some of these. This was using [Ollama](https://ollama.com/) with a 32k context window and thinking enabled.
 For the Gemini responses, I used the Gemini CLI with Auto (Gemini 3) for the model selection. That introduces some variance, but not much.
 
 In all cases, I explicitly specified to use the query skill and cleared the context between questions. 
@@ -73,7 +74,7 @@ Let's jump to the questions.
 * *August 1, 2024: Purchased Detect Thoughts.*  
 * *September 5, 2024: Purchased Leomund's Tiny Hut.*
 
-[![](assets/img/posts/2026/20260418/gemini_query.png)](assets/img/posts/2026/20260418/gemini_query.png)
+[![Screenshot of Gemini query response](assets/img/posts/2026/20260418/gemini_query.png)](assets/img/posts/2026/20260418/gemini_query.png)
 
 #### My Review
 Looking at the thinking for Gemma 4:26b, it looked like it was going in the right direction, but focused more on buying scrolls instead of finding them and so missed details (and thus answered incorrectly). It was more complete in its response than the e4b model, which is expected. Gemini using Auto was far better with a lot more detail and relevant context.
@@ -198,3 +199,5 @@ On the other hand, Gemini CLI reported sometimes a context length of 580k, somet
 My RAG re-run comparisons were more token-light and returned results faster, but suffered if the matched documents weren't relevant. A good RAG is hard to set up as there may be multiple approaches to take in determining what are the best documents to supply the model with. My default setup failed to find good matches for some of the queries and got extremely incorrect answers. The LLM wiki works around that situation by requiring the model to do the matching via direct searches. As long as it has a good context window and proper skills it can do a good job with that.
 
 Overall, a local LLM wiki was easier to set up than a RAG but may be of limited use. It feels much more token-heavy, which can be a limiting factor for some, and to really benefit you do want to use a better model. If you have thousands of documents, the RAG would be better, but for simple hobby projects like these, it may be a good alternative to the complexity that using a RAG introduces. 
+
+If you'd like to try out this LLM Wiki setup, you can grab a copy of it from Github [here](https://github.com/dr-rodriguez/dnd-llm-wiki).
