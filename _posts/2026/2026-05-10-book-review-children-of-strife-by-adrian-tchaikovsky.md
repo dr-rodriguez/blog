@@ -1,3 +1,18 @@
+---
+layout: post
+read_time: true
+show_date: true
+title: "Book Review: Children of Strife by Adrian Tchaikovsky"
+date: 2026-05-10
+img: posts/2026/20260510/231953328.jpg
+tags: [Books, Science Fiction]
+category: Books
+author: Strakul
+description: "Book review for Children of Strife by Adrian Tchaikovsky"
+---
+
+[![](assets/img/posts/2026/20260510/231953328.jpg)](assets/img/posts/2026/20260510/231953328.jpg)
+
 Children of Strife is the 4th book in the Children of Time series. It continues the trend of terraforming planets, alien creatures, and forays into the nature of consciousness. Here is the Goodreads blurb:
 
 *From the award-winning master of sci-fi Adrian Tchaikovsky, Children of Strife is the unmissable follow-up space opera to the highly acclaimed Children of Time, Children of Ruin and Children of Memory.*  
@@ -40,4 +55,4 @@ We also get to see a new species, the mantis shrimp-like Stomatopods of Kern's W
 
 #### Final Thoughts
 
-This was a pretty good book. I don't think it was the strongest in the series, but it lives up to the title. There is a lot of tension and conflict in this one, personified by several of the characters and their interactions with each other. The plot was well paced and the setting makes me want to see other worlds in this universe. I still want to learn more about the simulation machine, for example. The characters are pretty good, I can totally imagine today's wealthy and powerful behaving like those in the first age of the story. Overall, if you've already been reading this series this a worthy addition to it and I can recommend picking it up. If you haven't yet started, Children of Time is where to begin. 
+This was a pretty good book. I don't think it was the strongest in the series, but it lives up to the title. There is a lot of tension and conflict in this one, personified by several of the characters and their interactions with each other. The plot was well paced and the setting makes me want to see other worlds in this universe. I still want to learn more about the simulation machine, for example. The characters are pretty good, I can totally imagine today's wealthy and powerful behaving like those in the first age of the story. Overall, if you've already been reading this series this a worthy addition to it and I can recommend picking it up. If you haven't yet started, Children of Time is where to begin.
