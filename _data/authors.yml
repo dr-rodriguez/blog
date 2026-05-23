@@ -6,17 +6,12 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
+Strakul:
+  name: David Rodriguez
+  twitter: Strakul
+  url: https://bsky.app/profile/strakul.bsky.social
+
 david_rodriguez:
   name: David Rodriguez
   twitter: Strakul
-  url: https://github.com/dr-rodriguez/
-
-cotes:
-  name: Cotes Chung
-  twitter: cotes2020
-  url: https://github.com/cotes2020/
-
-sille_bille:
-  name: Dinesh Prasanth Moluguwan Krishnamoorthy
-  twitter: dinesh_MKD
-  url: https://github.com/SilleBille/
+  url: https://bsky.app/profile/strakul.bsky.social
