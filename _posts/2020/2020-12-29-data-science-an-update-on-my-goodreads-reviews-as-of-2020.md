@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](assets/img/posts/2020/20201229/wordcloud.png)](assets/img/posts/2020/20201229/wordcloud_1.png)
+![](/assets/img/posts/2020/20201229/wordcloud_1.png)
 
 A few years ago, in 2016, I wrote a brief post on statistics when looking at my [Goodreads reviews](https://strakul.blogspot.com/2016/09/data-science-my-goodreads-reviews_13.html). A friend's comment recently reminded me of this work and I decided to update it with information all the way up to the present day. Unfortunately, a big limitation has been that, as of earlier this month, Goodreads discontinued their API. I had a lot of code written to access it and generate the plots and had to spend some time rewriting it to use a CSV export of my library. It's not the same, but I was able to reconstruct most of the information. So without further ado, let's look at what we can discover.
 
@@ -39,7 +39,7 @@ One of the basic stats, though, is the number of books I've read (and/or added) 
   
 
 
-[![](assets/img/posts/2020/20201229/book_counts.png)](assets/img/posts/2020/20201229/book_counts_1.png)
+![](/assets/img/posts/2020/20201229/book_counts_1.png)
 
   
 
@@ -55,7 +55,7 @@ An important consideration is also how long are the books I read. I'm a fan of e
   
 
 
-[![](assets/img/posts/2020/20201229/page_histogram_1.png)](assets/img/posts/2020/20201229/page_histogram.png)
+![](/assets/img/posts/2020/20201229/page_histogram.png)
 
   
 
@@ -65,7 +65,7 @@ Another interesting aspect of this is when do I read. Do I read newly released n
   
 
 
-[![](assets/img/posts/2020/20201229/years_1.png)](assets/img/posts/2020/20201229/years.png)
+![](/assets/img/posts/2020/20201229/years.png)
 
   
 
@@ -77,7 +77,7 @@ One thing I do in Goodreads is to rate and review the books I read. Now, I do fa
   
 
 
-[![](assets/img/posts/2020/20201229/rating_comparison.png)](assets/img/posts/2020/20201229/rating_comparison_1.png)
+![](/assets/img/posts/2020/20201229/rating_comparison_1.png)
 
   
 
@@ -92,7 +92,7 @@ I was also curious as to what I write in my reviews, so I did a quick analysis o
   
 
 
-[![](assets/img/posts/2020/20201229/words_frequency.png)](assets/img/posts/2020/20201229/words_frequency_1.png)
+![](/assets/img/posts/2020/20201229/words_frequency_1.png)
 
   
 
@@ -104,7 +104,7 @@ And who are the authors that I tend to read and review? That is also an easy plo
   
 
 
-[![](assets/img/posts/2020/20201229/author_frequency.png)](assets/img/posts/2020/20201229/author_frequency_1.png)
+![](/assets/img/posts/2020/20201229/author_frequency_1.png)
 
   
 
@@ -119,7 +119,7 @@ One thing I decided to explore this time was to examine how I rate some of my mo
   
 
 
-[![](assets/img/posts/2020/20201229/rating_author.png)](assets/img/posts/2020/20201229/rating_author_1.png)
+![](/assets/img/posts/2020/20201229/rating_author_1.png)
 
   
 

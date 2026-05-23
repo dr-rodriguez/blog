@@ -34,7 +34,7 @@ If your database contains some geoJSON objects, you can create a [2dsphere index
 **World Geodetic System**  
 MongoDB, and in fact a lot of other applications too, make use of the World Geodetic System as a reference frame for any spatial information. The version used by MongoDB is [WGS84](https://spatialreference.org/ref/epsg/4326/), which is also used by things like the Global Positioning System. Now, I'm not an expert at geodesy, but as I understand it this provides a model of an oblate spheroid for the Earth whose coordinates are based on the Earth's center of mass. Because the Equatorial system of astronomical coordinates is based on the projection of Earth's longitude and latitude lines out into space, we can express Right Ascension and Declination as longitude and latitude, respectively. The only concern we would need to worry about is that in astronomy we deal with a perfect unit-sphere whereas on Earth we need to take into account the oblateness of the Earth.  
   
-[![](assets/img/posts/2019/20190707/768px-WGS84_mean_Earth_radius_1.png)](assets/img/posts/2019/20190707/768px-WGS84_mean_Earth_radius.png)  
+![](/assets/img/posts/2019/20190707/768px-WGS84_mean_Earth_radius.png)  
 ---  
 The 1984 World Geodetic System revision, not to scale  
   
@@ -44,7 +44,7 @@ In order to use MongoDB queries for astronomical sky searches we need to take in
 To calculate the scaling between degrees and meters, we can make use of the below function, which computes the radius of curvature at the Meridian and returns how much 1 degree is in meters. The basic equation for the radius of curvature is as follows, where a is the semimajor axis, e the eccentricity, and phi the latitude:  
 
 
-[![](assets/img/posts/2019/20190707/curvature_1.png)](assets/img/posts/2019/20190707/curvature.png)
+![](/assets/img/posts/2019/20190707/curvature.png)
 
   
 And here is that expressed as a Python function:  

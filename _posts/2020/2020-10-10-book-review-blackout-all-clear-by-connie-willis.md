@@ -32,7 +32,7 @@ The two books follow three main characters, Merope, Polly, and Mike. However, th
 
 **Setting / World Building**
 
-[![](assets/img/posts/2020/20201010/8733972.jpg)](assets/img/posts/2020/20201010/8733972.jpg)
+![](/assets/img/posts/2020/20201010/8733972.jpg)
 
   
 This novel is set in the same universe as [Doomsday Book](https://strakul.blogspot.com/2020/02/book-review-doomsday-book-by-connie.html) and [To Say Nothing of the Dog](https://strakul.blogspot.com/2020/07/book-review-to-say-nothing-of-dog-by.html). We start of in Oxford in 2060, where time travel exists and is being used by historians to conduct research into the past. Our three main characters are students researching various aspects of life during World War II and get assignments into the past. I certainly learnt a lot of details that I didn't know about in terms of England's participation in WW2, both from the book itself but also from looking up information afterwards or chatting with friends.

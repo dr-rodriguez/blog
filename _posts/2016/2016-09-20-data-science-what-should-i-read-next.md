@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](assets/img/posts/2016/20160920/DT_zoom_border_1.png)](assets/img/posts/2016/20160920/DT_zoom_border.png)
+![](/assets/img/posts/2016/20160920/DT_zoom_border.png)
 
   
 As I wrote about [last week](http://strakul.blogspot.com/2016/09/data-science-my-goodreads-reviews_13.html), I’ve spent a bit of time looking over my reviews on [Goodreads](https://www.goodreads.com/) to explore trends in what authors I read, how fast I read, and how I review books. In today’s post, we’ll tackle something a little more ambitious: given the data I can readily access from the [Goodreads API](https://www.goodreads.com/api?rel=nofollow), can I predict how I will rate books I haven’t yet read?  
@@ -33,7 +33,7 @@ I used Python’s [scikit-learn](http://scikit-learn.org/stable/index.html) to c
   
 
 
-[![](assets/img/posts/2016/20160920/decision_tree_rating_2.png)](assets/img/posts/2016/20160920/decision_tree_rating_2_1.png)
+![](/assets/img/posts/2016/20160920/decision_tree_rating_2_1.png)
 
   
   
@@ -50,7 +50,7 @@ The first model I created was the classifier, which attempts to predict whether 
   
 
 
-[![](assets/img/posts/2016/20160920/confusion_matrix_1.png)](assets/img/posts/2016/20160920/confusion_matrix.png)
+![](/assets/img/posts/2016/20160920/confusion_matrix.png)
 
   
 Overall, the model did moderately OK. It correctly predicted 3/4 1-3 star books. For 4-star books, it predicted 12 4-star reviews, but only 7 of those are accurate. That’s a precision (positive predictive value) of 7/12=0.58. The sensitivity (aka recall or true positive rate) is 7/10=0.7. For 5-star reviews my model has a precision of 5/8=0.62, but a sensitivity of 5/10=0.5. We’re dealing with a small number of reviews and with limited features to explore so it’s not surprising that we’re not doing amazing.  
@@ -61,7 +61,7 @@ One final aspect of these models we can consider is the importance of the variou
   
 
 
-[![](assets/img/posts/2016/20160920/rf_features.png)](assets/img/posts/2016/20160920/rf_features_1.png)
+![](/assets/img/posts/2016/20160920/rf_features_1.png)
 
   
   

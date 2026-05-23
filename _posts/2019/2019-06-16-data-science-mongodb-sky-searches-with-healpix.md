@@ -17,7 +17,7 @@ This is the third blog post in a series about utilizing MongoDB NoSQL databases 
 **What is HEALPix?**  
 HEALPix stands for Hierarchical Equal Area isoLatitude Pixelisation and is an algorithm for dividing up the sky in equal-area pixels. Each pixel can in turn be partitioned to 4 equal-area pixels and so forth providing a progressively finer resolution with each level.  
   
-[![](assets/img/posts/2019/20190616/healpixGridRefinement.jpg)](assets/img/posts/2019/20190616/healpixGridRefinement.jpg)  
+![](/assets/img/posts/2019/20190616/healpixGridRefinement.jpg)  
 ---  
 Diagram of progressively smaller HEALPix pixels. Credit: [NASA JPL](https://healpix.jpl.nasa.gov/)  
 The nice thing about HEALPix is that, after you pick a resolution level, each pixel can be represented by a single, unique integer. Well, almost unique- there's the matter of the coordinate grid you are using and the two main ways you can number HEALPix pixels (ring vs nested). For most astronomy applications, though, I'll make use equatorial coordinates on the ICRS reference frame and use a nested numbering scheme. The details of that are not terribly important, but given that other standards (like MOC, mentioned below) use this scheme I recommend sticking to it and avoid having to convert back and forth between reference frames or numbering systems.  

@@ -16,7 +16,7 @@ This evening, I noticed my apartment was bathed in an eerie orange light. I figu
 I had a look outside, and this is what I saw:  
 
 
-[![](assets/img/posts/2012/20120118/IMG_3932.JPG)](assets/img/posts/2012/20120106/IMG_3932.JPG)
+![](/assets/img/posts/2012/20120106/IMG_3932.JPG)
 
   
 I'll have to post another picture on some other day so you can see how unusual this is; it's usually far clearer (**Update** : see [here](http://strakul.blogspot.com/2012/01/chilean-anti-sunset-1182012.html) for another, much clearer anti-sunset). This image also fails to capture the eerie glow all over the place.  

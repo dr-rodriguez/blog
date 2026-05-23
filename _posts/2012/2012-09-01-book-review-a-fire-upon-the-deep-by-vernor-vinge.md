@@ -45,7 +45,7 @@ We also see a few Skroderiders, of which Blueshell and Greenstalk are the main o
 **Setting / World Building**  
 
 
-[![](assets/img/posts/2012/20120901/zones_1.tiff)](assets/img/posts/2012/20120901/zones.tiff)
+![](/assets/img/posts/2012/20120901/zones.tiff)
 
 This is probably where the book really shines. The Galaxy is divided into Zones, as you can see in the figure at right. Different technologies and levels of consciousness can exist in particular zones, the most prominent example being faster-than-light travel and communications (ultralight and ultrawaves). Ultralight works in the Beyond, where most of the advanced species dwell. In principle, it should also work beyond the Beyond, in the Transcend, though species who go there become... something else. The Old Earth was located in the Slow Zone, so named because it is deep enough that ultralight cannot work. More conventional engines, such as ramscoops (which gather hydrogen atoms from interstellar space and fuse them to power the ship), have to be used to travel the astronomically large distances of interstellar space. Closer to the core are the Unthinking Depths. What goes on there is a mystery. The Zones follow the mean density of the Galaxy, but the boundaries can change and be turbulent as if storms are passing through them.  
   

@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](assets/img/posts/2013/20130227/fotito_105215.jpg)](assets/img/posts/2013/20130227/fotito_105215_1.jpg)  
+![](/assets/img/posts/2013/20130227/fotito_105215_1.jpg)  
 ---  
 Mayor earthquakes in Chile since February 27th 2010. (Credit: José Infestas & EMOL)  
   
@@ -28,7 +28,7 @@ Earthquakes are frequently accompanied by aftershocks, smaller earthquakes that 
 Over the past 3 years, seismic activity in the area has lessened, but it is still above average levels. Most earthquakes are weak, but a few are significant: 3 magnitude 7th earthquakes and 29 magnitude 6th.  
 Apparently the region is supposed to experience just under 200 earthquakes (of any magnitude) per year. In 2012, the region experienced five times as many earthquakes.  
 This neat infographic (in Spanish) highlights the 3 magnitude 7th earthquakes and summarizes the number in the region over the past 4 years:  
-[![](assets/img/posts/2013/20130227/mayores-replicas-27f_1.jpg)](assets/img/posts/2013/20130227/mayores-replicas-27f.jpg)  
+![](/assets/img/posts/2013/20130227/mayores-replicas-27f.jpg)  
 ---  
 Earthquake statistics in Chile's central region. The top panel lists the three magnitude 7th earthquakes since 27F. The borrom left shows the number of earthquakes of any magnitude in the region since 2009. The bottom right panel shows the earthquakes per month since the 27F event. (Credit: José Infestas & EMOL)  
   

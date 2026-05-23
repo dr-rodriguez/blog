@@ -22,13 +22,13 @@ Blog-wise, I've slowed down considerably in terms of major posts. With the incre
 According to the the Blogger stats, I see 42,800 pageviews since the blog started. Last year, this was 19,284 so that amounts to a 2013 pageview count of 23,516.  
 
 
-[![](assets/img/posts/2014/20140101/Screen+Shot+2014-01-01+at+9.42.53+AM.png)](assets/img/posts/2014/20140101/Screen+Shot+2014-01-01+at+9.42.53+AM_1.png)
+![](/assets/img/posts/2014/20140101/Screen+Shot+2014-01-01+at+9.42.53+AM_1.png)
 
   
 One should bear in mind that these are pageviews and not visits or unique visitors. Google Analytics has somewhat more accurate statistics and they differ substantially from the Blogger stats. According to Analytics (see figure below), I've had 9,019 pageviews in 2013 and 6,824 visits with most of them being unique.  
 
 
-[![](assets/img/posts/2014/20140101/Screen+Shot+2014-01-01+at+10.19.19+AM.png)](assets/img/posts/2014/20140101/Screen+Shot+2014-01-01+at+10.19.19+AM_1.png)
+![](/assets/img/posts/2014/20140101/Screen+Shot+2014-01-01+at+10.19.19+AM_1.png)
 
   
 The Blogger figure shows the most popular posts of all time and you can see that they are from 2012. Those still receive quite a bit of visitors. Three of them are book reviews (two for the Malazan series) and the other two are Astronomy-related. The most popular astronomy post is still the overview on how to [measure the distance to the Sun](http://strakul.blogspot.com/2012/05/measuring-distance-to-sun-with-transit.html) with the [transit of Venus](http://strakul.blogspot.com/search/label/Transit%20of%20Venus).  

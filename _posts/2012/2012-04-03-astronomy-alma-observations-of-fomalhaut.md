@@ -15,7 +15,7 @@ img_show: false
 Over the last few decades, astronomy has leapt forward in leaps and bounds as new world-class facilities have been built. Large, new telescopes on the ground, such as Keck, Gemini, and VLT, or on space, like HST, Spitzer, Herschel, Chandra, and WISE, have revolutionized the way we see the universe. In the extremely arid desert of northern Chile, we are building the greatest astronomical facility on the planet to date: ALMA.  
   
 [ALMA](https://science.nrao.edu/facilities/alma) stands for the "Atacama Large Millimeter Array" and currently consists of an array of about twenty 12-meter antennas that observe the sky at submillimeter and millimeter wavelengths. When completed, it will have fifty 12-meter antennas and a more compact array of twelve 7-m and four 12-m antennas. These can be moved around to provide different baselines that result in greater resolution or greater sensitivity. ALMA observes at wavelengths of 3mm down to 400 microns, hence the 'millimeter' part of its name.  
-[![](http://images.nrao.edu/images/antennas_8_lo.jpg)](http://images.nrao.edu/images/antennas_8_lo.jpg)  
+![](http://images.nrao.edu/images/antennas_8_lo.jpg)  
 ---  
 Some of the ALMA antennas already on site. Credit: NRAO/AUI and NRAO/AUI/ESO  
   
@@ -27,24 +27,24 @@ Check out [this astrobite post](http://astrobites.com/2012/03/04/alma-an-antenna
 Last year, ALMA asked for proposals in order to test its capabilities. This 'Early Science' proposal was extremely competitive, with about a thousand separate proposals submitted for just a few hundred hours of observing time. Chile receives 10% of the time since the facility is located here and I was one of the fortunate few that got ALMA time. My observations haven't yet been carried out, but are scheduled for later this year.  
   
 Already a few papers have announced ALMA results, but I want to point out one regarding [Fomalhaut](http://en.wikipedia.org/wiki/Fomalhaut), the brightest star in the constellation Piscis Australis/Austrinus (the Southern Fish). You may actually know it best from this figure:  
-[![](assets/img/posts/2012/20120403/800px-Fomalhaut_with_Disk_Ring_and_extrasolar_planet_b.jpg)](assets/img/posts/2012/20120403/800px-Fomalhaut_with_Disk_Ring_and_extrasolar_planet_b_1.jpg)  
+![](/assets/img/posts/2012/20120403/800px-Fomalhaut_with_Disk_Ring_and_extrasolar_planet_b_1.jpg)  
 ---  
 Fomalhaut, its disk, and candidate planet. Credit: NASA, ESA and P. Kalas (University of California, Berkeley, USA)  
   
 Fomalhaut is a star about 25-light years away surrounded by a [debris disk](http://strakul.blogspot.com/2012/01/astronomy-debris-disks.html) that has been observed at multiple wavelengths. The image above is from scattered light emission, that is, the dust particles reflect light from the star and we see this light. An alternative way to look at dust particles in disks is through thermal emission. This is the result of dust grains emitting light due to their temperature. The hotter they are, the brighter, and the peak emission will depend on the temperature. Dust grains in circumstellar disks tend to be quite cold, so the peak emission is at hundreds of microns (note that 1000 microns=1 millimeter). Hence, submillimeter observations of disks, like those ALMA can provide, are sampling the thermal (or heat) emission the dust particles give off.  
   
 Prior work has already imaged the Fomalhaut disk at these long wavelengths. For example, here is the image from Holland et al. ([2003](http://adsabs.harvard.edu/abs/2003ApJ...582.1141H)) which used the James Clerk Maxwell Telescope (JCMT) to observe the system at 450 and 850 microns:  
-[![](assets/img/posts/2012/20120403/fomal_scuba_holland03_1.tiff)](assets/img/posts/2012/20120403/fomal_scuba_holland03.tiff)  
+![](/assets/img/posts/2012/20120403/fomal_scuba_holland03.tiff)  
 ---  
 Fomalhaut disk seen at 850 microns with SCUBA on JCMT. Credit: Holland et al. (2003)  
   
 The star symbol marks the location of the star, which is undetected in the data (stars are really faint at those wavelengths). You can, however, see the thermal emission from the dust very clearly as two lobes at either side of the star. Not bad, but _this_ is what ALMA saw when looking at part of Fomalhaut's disk:  
-[![](assets/img/posts/2012/20120403/fomalma_nice.tiff)](assets/img/posts/2012/20120403/fomalma_nice_1.tiff)  
+![](/assets/img/posts/2012/20120403/fomalma_nice_1.tiff)  
 ---  
 Preliminary data for the Fomalhaut disk presented at [AAS 219](http://strakul.blogspot.com/2012/01/astronomy-219th-american-astronomical.html) by A.M. Hughes.  
   
 I, and others in the audience, were amazed at such beautiful data during the presentation at AAS this past January. The paper describing the results is now released. Here are the final images resulting from this work:  
-[![](assets/img/posts/2012/20120403/fomalhautalma.tiff)](assets/img/posts/2012/20120403/fomalhautalma_1.tiff)  
+![](/assets/img/posts/2012/20120403/fomalhautalma_1.tiff)  
 ---  
 ALMA data for Fomalhaut. Credit: Boley et al. ([2012](http://arxiv.org/abs/1204.0007))  
   

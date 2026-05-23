@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-![](assets/img/posts/2013/20130406/IMG_0730.JPG)  
+![](/assets/img/posts/2013/20130406/IMG_0730.JPG)  
 ---  
 Las Campanas Observatory  
   
@@ -21,7 +21,7 @@ A few weeks ago, I went up to Las Campanas Observatory to observe with the du Po
 From the get-go, you can tell that Las Campanas is run differently from [La Silla](http://strakul.blogspot.com/2013/02/astronomy-observing-at-la-silla.html). At La Silla, they book your flight and you arrive at the time they designate to take one of the limited vans/buses up to the mountain. Here, you tell them when you'll arrive and they'll have someone waiting to take you up, even if you are the only person for the trip.  
 The observatory is also far nicer looking. The buildings are more rustic and blend into the surrounding mountainside.  
   
-![](assets/img/posts/2013/20130406/IMG_0725.JPG)  
+![](/assets/img/posts/2013/20130406/IMG_0725.JPG)  
 ---  
 View of the 6.5-meter Magellan telescopes from the dormitory and dining hall complex.  
   
@@ -29,20 +29,20 @@ There is a more casual atmosphere at Las Campanas, which unfortunately means new
   
 Las Campanas was very crowded when I was there. First, there was a large engineering group working on the new Adaptive Optics systems at Magellan: [MagAO](https://visao.as.arizona.edu/). Second, there was actually a special event going on. Lots of Very Important People had arrived and were being shown around. We had a fancy dinner and a BBQ the following day so we ate well. During dinner, I actually sat next to the ex-CEO and chairman of Intel, which is pretty cool.  
   
-![](assets/img/posts/2013/20130406/IMG_0770.JPG)  
+![](/assets/img/posts/2013/20130406/IMG_0770.JPG)  
 ---  
 The du Pont 2.5-meter telescope  
   
 I was observing at the du Pont 2.5-meter telescope, which is one of the older telescopes on the mountain (in operation since 1977). It's also the farthest from the dorms so it takes about a 30 minute walk to go from one to the other. You can also borrow a car, but these are manual transmission which I've yet to learn how to operate. Unlike at La Silla, you actually go up to the telescope to observe.  
   
-![](assets/img/posts/2013/20130406/IMG_0743.jpg)  
+![](/assets/img/posts/2013/20130406/IMG_0743.jpg)  
 ---  
 Inside the dome of the 2.5-meter du Pont telescope  
   
 I was set to use the B&C; spectrograph, which is an instrument that splits the light from the star by its wavelength into what we call a spectrum (see below).  
 The instrument was far simpler to use than I had feared. The manual provided very little information and I was worried how well I could use it. I did contact some of the staff and that was the greatest source of help. The resident astronomer was there for a few hours in the afternoon and evening and helped me set up. Once I got a chance to use it, everything worked great.  
   
-![](assets/img/posts/2013/20130406/spectrum.png)  
+![](/assets/img/posts/2013/20130406/spectrum.png)  
 ---  
 Spectrum of a [young, low-mass star](http://strakul.blogspot.com/2012/11/astronomy-young-stellar-moving-groups.html).   
 The spike at 6563 angstroms is emission from Hydrogen in the atmosphere of the star.  

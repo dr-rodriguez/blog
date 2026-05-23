@@ -26,7 +26,7 @@ Sykes is an absolute character on twitter and it motivated me to try out his boo
   
 
 
-[![](assets/img/posts/2018/20181226/34453011.jpg)](assets/img/posts/2018/20181226/34453011.jpg)
+![](/assets/img/posts/2018/20181226/34453011.jpg)
 
 **[Binti](https://strakul.blogspot.com/2018/02/book-review-binti-by-nnedi-okorafor.html)** by Nnedi Okorafor  
   
@@ -34,7 +34,7 @@ Sykes is an absolute character on twitter and it motivated me to try out his boo
   
 
 
-[![](assets/img/posts/2018/20181214/39353738.jpg)](assets/img/posts/2018/20181214/39353738.jpg)
+![](/assets/img/posts/2018/20181214/39353738.jpg)
 
 **[Skyward](https://strakul.blogspot.com/2018/12/book-review-skyward-by-brandon-sanderson.html)** by Brandon Sanderson  
   

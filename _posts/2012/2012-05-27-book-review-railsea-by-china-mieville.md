@@ -34,7 +34,7 @@ The story revolves & centers around a young boy growing up in the world of the r
   
 The list of characters isn't particularly long, but among them stand out Captain Naphi & Mocker-Jack with their parallels to Captain Ahab & Moby Dick. Naphi leads her crew on the moletrain Medes which hunts, as you can imagine, moles (also known as moldywarpe, underminer, talpa, & muldvarp). Her 'philosophy' is the hunt for the legendary white moldywarpe, Mocker-Jack, which took her arm on a prior encounter. She is driven to finish her task & drags the crew along; tensions mount as the story progresses.  
   
-[![](http://www.tor.com/images/stories/blogs/12_04/railsea1.jpg)](http://www.tor.com/images/stories/blogs/12_04/railsea1.jpg)  
+![](http://www.tor.com/images/stories/blogs/12_04/railsea1.jpg)  
 ---  
 A great southern moldywarpe (_Talpa ferox rex_).   
 One of the several illustrations (by China Mieville himself) within the book.   

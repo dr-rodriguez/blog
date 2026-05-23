@@ -29,7 +29,7 @@ In the end, academia is a personal choice. Some people enjoy it and its quirks; 
   
 
 
-[![](assets/img/posts/2015/20150430/phd051208s.gif)](assets/img/posts/2015/20150430/phd051208s.gif)
+![](/assets/img/posts/2015/20150430/phd051208s.gif)
 
   
 **The Job Search: Where I Am**  
@@ -49,7 +49,7 @@ Exactly why is hard for me to say. I like astronomy and certain aspects of my re
   
 
 
-[![](assets/img/posts/2015/20150430/phd050611s.gif)](assets/img/posts/2015/20150430/phd050611s.gif)
+![](/assets/img/posts/2015/20150430/phd050611s.gif)
 
   
 **The Future: Where I Am Going**  
@@ -68,6 +68,6 @@ What does this mean for this blog? Nothing for right now. The title "Strakul's T
 Thanks for reading thus far. Wish me luck and success!  
 If you have advice or comments, feel free to leave them down below. I'm sure they'll benefit not only me, but any other readers who may be going through similar decisions.  
   
-[![](assets/img/posts/2015/20150430/phd022309s.gif)](assets/img/posts/2015/20150430/phd022309s.gif)  
+![](/assets/img/posts/2015/20150430/phd022309s.gif)  
 ---  
 Image source: www.phdcomics.com 

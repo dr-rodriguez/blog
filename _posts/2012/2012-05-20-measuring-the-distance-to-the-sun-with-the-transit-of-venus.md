@@ -19,7 +19,7 @@ With the upcoming [transit of Venus](http://strakul.blogspot.com/2012/04/transit
 This is best explained with a diagram:  
 
 
-[![](assets/img/posts/2012/20120520/tov2012-diagram_1.png)](assets/img/posts/2012/20120520/tov2012-diagram.png)
+![](/assets/img/posts/2012/20120520/tov2012-diagram.png)
 
   
 
@@ -40,7 +40,7 @@ In order to understand how we go about measuring the distance to the Sun, we nee
 Imagine a giant circle of radius D and a small arc of it (s) along its edge. As can be seen below, this arc subtends an angle θ:  
 
 
-[![](assets/img/posts/2012/20120520/angle_1.png)](assets/img/posts/2012/20120520/angle.png)
+![](/assets/img/posts/2012/20120520/angle.png)
 
   
 Mathematically, this can be expressed as s = θD. In other words, if you know the length s and the angle θ you can calculate what the distance D is. This works for velocities as well: v = ωD, where ω is an angular speed.  
@@ -67,7 +67,7 @@ Note that in practice the orbits aren't perfect circles, but this is good enough
   
 **A correction factor**  
 The relationship above would be perfect if the Earth enters the shadow of Venus through the center. Alas, it does not and we need to account for this difference. This is done by measuring the 'impact parameter' (p) of the path of the Earth through Venus's shadow:  
-[![](assets/img/posts/2012/20120520/geometryk.jpg)](assets/img/posts/2012/20120520/geometryk.jpg)  
+![](/assets/img/posts/2012/20120520/geometryk.jpg)  
 ---  
 Note that in this figure, the small circle is the Earth at the first and second contact times and the large circle is the shadow of Venus at Earth's distance.  
 The figure above has labels for all the quantities of interest. The variable r corresponds to the true separation between the center of the shadow and the center of the Earth while d corresponds to the horizontal projection of this distance. The variable p is the vertical separation between the path of the Earth and the center of Venus's shadow. Since these are right triangles, the following holds:  
@@ -85,13 +85,13 @@ where v is the velocity (v = ωD) and Δt' is the time between event 1 and 2.
 We can combine the relationships as follows:  
 
 
-[![](assets/img/posts/2012/20120520/math1.png)](assets/img/posts/2012/20120520/math1.png)
+![](/assets/img/posts/2012/20120520/math1.png)
 
   
 Now we can make use of all of these and place them together:  
 
 
-[![](assets/img/posts/2012/20120520/math2.png)](assets/img/posts/2012/20120520/math2.png)
+![](/assets/img/posts/2012/20120520/math2.png)
 
   
 That last line should look very familiar as it's the same relationship we had before but with an extra factor thrown in. The value of p depends on the parameters of the event. As mentioned [here](http://www.venus2012.de/venusprojects/contacttimes/details/detailstimes.php), the value for the June 5, 2012 transit of Venus is 0.5904 R_S and thus **the correction factor is 1.23899**.  
@@ -102,20 +102,20 @@ We're now ready for the last part. The gist of it is again very simple: the velo
 Hence, we can rewrite our full expression as:  
 
 
-[![](assets/img/posts/2012/20120520/math3.png)](assets/img/posts/2012/20120520/math3.png)
+![](/assets/img/posts/2012/20120520/math3.png)
 
   
 In this context, x is the horizontal distance separating two points as the shadow moves across them. Unfortunately, this is not just a straightforward comparison of the latitude and longitude. Here's what we're dealing with:  
 
 
-[![](assets/img/posts/2012/20120520/Venuseintritt2012gedrk.gif)](assets/img/posts/2012/20120520/Venuseintritt2012gedrk.gif)
+![](/assets/img/posts/2012/20120520/Venuseintritt2012gedrk.gif)
 
   
 The shadow of Venus is moving from right to left in this diagram and the vertical grey lines correspond to constant x.  
 Calculating x given latitude and longitude is straightforward, but the derivation behind it is not so I skip that (but you can see a discussion [here](http://www.venus2012.de/venusprojects/contacttimes/details/detailstimes.php)). Here's what you need to use given latitude (ϕ) and longitude (λ):  
 
 
-[![](assets/img/posts/2012/20120520/math4.png)](assets/img/posts/2012/20120520/math4.png)
+![](/assets/img/posts/2012/20120520/math4.png)
 
   
 We now have every relationship we need to get the distance, so let's wrap it all up and work out an example.  
@@ -125,18 +125,18 @@ We now have every relationship we need to get the distance, so let's wrap it all
 To calculate the distance to the Sun we use the following relationship:  
 
 
-[![](assets/img/posts/2012/20120520/math3.png)](assets/img/posts/2012/20120520/math3.png)
+![](/assets/img/posts/2012/20120520/math3.png)
 
 We know most of the numbers for this, so I'll just put them in:  
 
 
-[![](assets/img/posts/2012/20120520/math5.png)](assets/img/posts/2012/20120520/math5.png)
+![](/assets/img/posts/2012/20120520/math5.png)
 
   
 The separation Δx can be calculated with this relationship using the latitude (ϕ) and longitude (λ) at two sites:  
 
 
-[![](assets/img/posts/2012/20120520/math4.png)](assets/img/posts/2012/20120520/math4.png)
+![](/assets/img/posts/2012/20120520/math4.png)
 
   
 The time Δt is just the time difference, in seconds, between ingress interior or egress interior measured at two locations.  
@@ -168,7 +168,7 @@ A final note: you can use more than two locations for this. In that instance, yo
 **How YOU can get involved**  
 This procedure is relatively straightforward and we intend to apply it to the contact times that school groups in Easter Island measure. We already have several teams across the globe that will provide additional contact times at separate locations. If your school or a group you know want to get involved, let us know through [this page](http://www.das.uchile.cl/~drodrigu/easter/contact.html). The more measurements of the contact time we get, the better we can do this!  
   
-[![](assets/img/posts/2012/20120520/venustransitlogo_v3.png)](assets/img/posts/2012/20120428/venustransitlogo_v3_1.png)  
+![](/assets/img/posts/2012/20120428/venustransitlogo_v3_1.png)  
 ---  
 More information on the Easter Island Venus Transit event can be found [here](http://www.das.uchile.cl/~drodrigu/easter/index_en.html).  
   
@@ -185,7 +185,7 @@ I wanted to mention 3 things:
 
 **2-** Through complete oversight, I didn't realize or note that 'x' varies as a function of time since the Earth rotates and the position of Venus and the Sun changes. Hence, the 'x' formula I provide above is valid **only for 1st and 2nd contact**. For 3rd or 4th contact, you need to use:
 
-[![](assets/img/posts/2012/20120520/xversion2_1.tiff)](assets/img/posts/2012/20120520/xversion2.tiff)
+![](/assets/img/posts/2012/20120520/xversion2.tiff)
 
 **  
 ** **3-** And finally, we have successfully applied this for the 2012 transit of Venus. School and outreach teams from across the world joined us in measuring the contact times and we calculated a value of 151+/-20 million kilometers for the distance to the Sun. The details on what we did are described [here](http://strakul.blogspot.com/2012/06/easter-island-transit-of-venus-23.html). 

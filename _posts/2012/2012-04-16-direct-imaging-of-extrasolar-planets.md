@@ -17,7 +17,7 @@ Right now there are hundreds of planets known in the Galaxy and thousands of can
 What is Direct Imaging?  
 This is exactly what it sounds like. It involves obtaining a deep image around a nearby star and actually spotting planets in orbit around that star. Having an actual image is (especially to the public) one of the more convincing lines of evidence for the existence of these extrasolar planets. Naturally, there are complications.  
   
-[![](http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Beta_Pictoris_system_annotated.jpg/603px-Beta_Pictoris_system_annotated.jpg)](http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Beta_Pictoris_system_annotated.jpg/603px-Beta_Pictoris_system_annotated.jpg)  
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Beta_Pictoris_system_annotated.jpg/603px-Beta_Pictoris_system_annotated.jpg)  
 ---  
 _A composite image of beta Pictoris. The outer parts reveal the dust disk in scattered light, the inner part reveals a planet in infrared light. The star has been removed to reveal these faint features. Credit: ESO/A.-M. Lagrange et al. ([link](http://www.eso.org/public/news/eso0842/))_  
 Consider two objects separated by the same distance, say two friends standing a few feet apart. If instead of measuring the physical distance you measure the angle between these two people, you will notice something interesting. The angle between these two gets smaller as you move farther away, but larger as you move towards them. If you know how far you are from your friends and have measured the angle between them, you can work out what the physical separation is between your two friends.  
@@ -28,13 +28,13 @@ This poses another problem: stars are brighter than planets. Planets will only s
 Adaptive Optics  
 Adaptive optics, or AO, is a technique used to measure and correct distortion in astronomical images as a result of the turbulence in Earth's atmosphere. The basic idea is that we measure the distortion caused by the atmosphere and use a deformable mirror to correct for it. In order to measure the distortion we use a bright star and observe how the atmosphere affects it. For planet searches this is usually the target star, as it is generally bright. However, for more distant stars, or lower-mass objects, or even distant galaxies, you can't rely on the object itself. You then pick a nearby bright source, but then you run into some problems. First is that you may not have a bright source nearby. Second is that even if you do, you are in principle correcting a slightly different patch of the atmosphere. Hence, the image for the object of interest may still not be great. A workaround this is to use a laser guide star. This involves shinning a very powerful laser up to the Earth's upper atmosphere. This excites sodium particles which causes a bright, artificial star to show up in the field of view. With this artificial star you can measure most of the distortion from the atmosphere and thus perform your corrections.  
   
-[![](http://www.astro.caltech.edu/palomar/images/aooffon.jpg)](http://www.astro.caltech.edu/palomar/images/aooffon.jpg)  
+![](http://www.astro.caltech.edu/palomar/images/aooffon.jpg)  
 ---  
 _Binary star IW Tau without and with adaptive optic corrections.  
 Credit: Chas Beichman and Angelle Tanner of JPL_  
 The end result for AO imaging is a much sharper image as the atmosphere would naturally tend to blur things out. This is important as it allows us to probe very close to the stars. As previously mentioned, any planets would appear to be very close to their stars so you need something like adaptive optics to spot them. AO is already widely used in many large telescopes, such as the Keck, Gemini, and VLT telescopes. Even 'smaller', 3-m class telescopes sometimes have them, like at Lick Observatory.  
   
-[![](assets/img/posts/2012/20120416/laservlt_eso.jpg)](assets/img/posts/2012/20120416/laservlt_eso.jpg)  
+![](/assets/img/posts/2012/20120416/laservlt_eso.jpg)  
 ---  
 _Using the laser guide star at the Very Large Telescope (VLT) in Chile. Credit: Yuri Beletsky (ESO)_  
   
@@ -43,7 +43,7 @@ There are two main ways to remove the light from the star. The first is to imple
   
 Another method is to remove the light digitally after taking the images. This can be very tricky as even AO corrected images can vary from one exposure to the next. One can take an image of a comparison star and subtract this, but even that is somewhat limited. One clever technique, known as angular differential imaging, is to take many images while allowing the field of view to rotate. If one then takes the average of all these images, or frames, you would get a nice reference star image you can use to subtract. Because the field has rotated the planet wouldn't be part of the reference image. You can subtract the reference star image from each frame and then rotate the subtracted images. Doing the rotation will cause the planet to be lined up in all frames and you can combine them all to produce a deep image of the field, without most of the light of the star, that will reveal any planets in the system.  
   
-[![](http://upload.wikimedia.org/wikipedia/commons/c/c2/Benjamin_Zuckerman_HR_8799_planets_image_Dec._2010.jpg)](http://upload.wikimedia.org/wikipedia/commons/c/c2/Benjamin_Zuckerman_HR_8799_planets_image_Dec._2010.jpg)  
+![](http://upload.wikimedia.org/wikipedia/commons/c/c2/Benjamin_Zuckerman_HR_8799_planets_image_Dec._2010.jpg)  
 ---  
 _The HR8799 planetary system. The star has been digitally subtracted to reveal the four planets.  
 Credit: Marois et al. (2010 Nature)_  

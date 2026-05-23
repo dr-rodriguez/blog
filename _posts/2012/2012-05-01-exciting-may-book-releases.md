@@ -17,7 +17,7 @@ This month sees the release of several books I'm very excited for. So much so th
 May 1  
 
 
-[![](http://photo.goodreads.com/books/1333712780l/12814594.jpg)](http://photo.goodreads.com/books/1333712780l/12814594.jpg)
+![](http://photo.goodreads.com/books/1333712780l/12814594.jpg)
 
 **The Drowned Cities** by Paolo Bacigalupi  
   
@@ -33,7 +33,7 @@ This young adult novel is set in the same post-apocalyptic universe of [Ship Bre
 May 1  
 
 
-[![](http://photo.goodreads.com/books/1335835254l/11774272.jpg)](http://photo.goodreads.com/books/1335835254l/11774272.jpg)
+![](http://photo.goodreads.com/books/1335835254l/11774272.jpg)
 
 **The Killing Moon** by N.K. Jemisin  
   
@@ -49,7 +49,7 @@ This is the first book in the Dreamblood duology (so, two books). The next book 
 May 15  
 
 
-[![](http://photo.goodreads.com/books/1321409808l/12392681.jpg)](http://photo.goodreads.com/books/1321409808l/12392681.jpg)
+![](http://photo.goodreads.com/books/1321409808l/12392681.jpg)
 
 **Railsea** by China Mieville  
   
@@ -72,7 +72,7 @@ It looks like I did forget one exciting release!
 
 May 4
 
-[![](http://photo.goodreads.com/books/1317396442l/12759057.jpg)](http://photo.goodreads.com/books/1317396442l/12759057.jpg)
+![](http://photo.goodreads.com/books/1317396442l/12759057.jpg)
 
 **The King's Blood** by Daniel Abraham
 

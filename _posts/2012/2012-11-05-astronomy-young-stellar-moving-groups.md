@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](assets/img/posts/2012/20121105/m25_cfht.jpg)](assets/img/posts/2012/20121105/m25_cfht.jpg)  
+![](/assets/img/posts/2012/20121105/m25_cfht.jpg)  
 ---  
 Open cluster M25. Credit: J.-C. Cuillandre (CFHT), G. Anselmi (Coelum Astronomia), Hawaiian Starlight  
   
@@ -22,19 +22,19 @@ Stars are born in groups, as clusters of stars. Some groups stay well-knit and t
   
 Moving groups provide an interesting way to approach the problem of determining ages. Since all the stars have approximately the same age, you can apply the different methods throughout the stars and get a better idea for what's going on. If you have a star that is just too tricky to determine, you have the advantage that by being part of the group it has the same age as other stars that may be much easier to study. In addition, you can trace back the motions of these stars through the Galaxy to find out when they all were together. This gives you a trace-back age for the whole group and you can add it to your list of age determinations. For example, the beta Pictoris moving group has a trace-back age of about 12 million years: quite young!  
   
-[![](assets/img/posts/2012/20121105/betaPic.tiff)](assets/img/posts/2012/20121105/betaPic_1.tiff)  
+![](/assets/img/posts/2012/20121105/betaPic_1.tiff)  
 ---  
 Tracing back the locations of beta Pictoris moving group members. Credit: I. Song et al. (2003)  
   
 **Young stars tend to be far away.** The closest star forming regions are hundreds of light-years away. That makes studying young stars a challenge. However, for the past few decades astronomers have identified a number of moving groups near the Earth that contain young stars. These groups have ages of roughly 10 to 100 million years and are much closer than distant star forming regions. The age may seem like a lot, but it's actually quite young for stars. Most nearby stars tend to be many hundreds of millions of years old or more. In fact, our own Sun is 4.5 billion (4,500 million) years old. The young age of these nearby moving groups presents a very interesting opportunity to study the late stages of planet and disk evolution.  
   
-[![](http://upload.wikimedia.org/wikipedia/commons/c/c2/Benjamin_Zuckerman_HR_8799_planets_image_Dec._2010.jpg)](http://upload.wikimedia.org/wikipedia/commons/c/c2/Benjamin_Zuckerman_HR_8799_planets_image_Dec._2010.jpg)  
+![](http://upload.wikimedia.org/wikipedia/commons/c/c2/Benjamin_Zuckerman_HR_8799_planets_image_Dec._2010.jpg)  
 ---  
 Four planets orbiting HR8799 star system, a proposed member of the 30 million year old Columba Association.   
   
 **Planets and disks are easier to search for and study for nearby stars.** It should not be too surprising that the closer something is, the easier it is to study. A planet that is half an AU away, like Mars can be readily observed and we can even travel to it. The farther something is, the fainter and smaller it appears and so a tiny object like a planet will be very difficult, but not impossible, to observe.  
   
-[![](http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Beta_Pictoris_system_annotated.jpg/603px-Beta_Pictoris_system_annotated.jpg)](http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Beta_Pictoris_system_annotated.jpg/603px-Beta_Pictoris_system_annotated.jpg)  
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Beta_Pictoris_system_annotated.jpg/603px-Beta_Pictoris_system_annotated.jpg)  
 ---  
 The beta Pictoris star system with disk and planet. Credit: ESO/A.-M. Lagrange et al.  
   
@@ -51,7 +51,7 @@ The colors represent velocities of the gas moving towards (blue) or away (red) f
   
 Disks like those around V4046 Sgr are actually rare for such old stars. You expect gas-rich disks to disperse in just a few million years, not last for so long. In fact, this is why gas giant planets are expected to form within 10 million years: because most disks are gone by then. And yet this is one of 4 or 5 such disks known around the nearby stars. Studies of these disks can help us understand how they tie together to the late stages of planet formation. Furthermore, the proximity of such systems means we can study them in great detail.  
   
-[![](assets/img/posts/2012/20121105/movingroup_1.png)](assets/img/posts/2012/20121105/movingroup.png)  
+![](/assets/img/posts/2012/20121105/movingroup.png)  
 ---  
 Members of 4 nearby moving groups (ages ~10-100 Myr) in Galactic coordinates. Members of these moving groups are spread over large areas of the sky.  
   

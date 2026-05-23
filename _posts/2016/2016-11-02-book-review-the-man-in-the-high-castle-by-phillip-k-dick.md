@@ -30,7 +30,7 @@ There is a diverse set of characters in the book, though their exact characteris
 **Setting / World Building**  
 The book is actually superior to the TV show when it comes to the setting. Naturally, you learn about the division of the United States between Germany and Japan. You get to hear a lot of about other parts of the world and realize just how messed up things are in this alternate history. One aspect that stood out for me was the unabashed racism. While you see glimpses of this in the TV show, especially against the Jews, you really see much more of it in the book. There's brief descriptions of the genocides of Africa, with the suggestion being that the "inferior" people there (to German-Nazi eyes) needed to be purged. Comments from some pro-Nazi characters suggest that they would like to see that elsewhere as well. It's also quite surprising how quickly and viciously the conquered Americans have turned on one another, with the notable example being Robert Childan and his disregard for "negro music" and his pandering towards the Japanese. The Japanese, on the other hand, are portrayed much more docile than the Germans in the book.  
   
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Man_High_Castle_\(TV_Series\)_map.svg/555px-Man_High_Castle_\(TV_Series\)_map.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Man_High_Castle_\(TV_Series\)_map.svg/555px-Man_High_Castle_\(TV_Series\)_map.svg.png)  
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Man_High_Castle_\(TV_Series\)_map.svg/555px-Man_High_Castle_\(TV_Series\)_map.svg.png)  
 ---  
 Political map of the USA in The Man in the High Castle. Wikimedia Commons  
   

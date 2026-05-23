@@ -34,7 +34,7 @@ Let's consider you have one camera only, like I do. You take image 1, then you s
 
 Here are two such frames I've taken. I've placed them side by side for two reasons. One is so you can compare them. The other is that by displaying these images side by side and crossing your eyes you can see a 3D image and can check that everything is fine. It takes a bit of practice to learn how much to cross your eyes. You basically want to see 3 images, the one at the center will be the combination of both of them and will have the added depth perspective. Remember that you can click these images to see them larger.
 
-[![](assets/img/posts/2012/20120303/jt07_3d_1.png)](assets/img/posts/2012/20120303/jt07_3d.png)
+![](/assets/img/posts/2012/20120303/jt07_3d.png)
 
   
 
@@ -72,7 +72,7 @@ Set a new foreground color to FF0000; this is red. Make a new layer and select t
 
 Move the layers so that you have them in this order: Cyan, Image 2, Red, Image 1. Image 1 is the left-hand image I have above and Image 2 is the right-hand image. It is very important to get this right otherwise you will need to flip your red/blue glasses backwards (your left eye should see the red image). Activate only the Cyan and Image 2 layers (ie, hide the other two). I do this by clicking the eye symbols on the Layers Dialog window. Merge those two layers (Image -> Merge Visible Layers) and set the mode to Multiply. Now activate all layers and look at the result:
 
-[![](assets/img/posts/2012/20120303/raw1.png)](assets/img/posts/2012/20120303/raw1_1.png)
+![](/assets/img/posts/2012/20120303/raw1_1.png)
 
   
 
@@ -86,7 +86,7 @@ That works, but I personally don't like it. The shift is a little bit too large,
 
 With the cyan-merged frame selected, use the Move tool to tweak the image until getting a desirable result. You may also find that you need to apply a small rotation. I personally like distant objects to be neutral (ie, no red/cyan on their edges). However, that may cause some of the foreground material to be too far shifted. You want to hit a balance such that things don't appear too close or your eyes will have trouble seeing details. Here I aim for such a balance and crop out some of the edges:
 
-[![](assets/img/posts/2012/20120303/jt07_1.png)](assets/img/posts/2012/20120303/jt07.png)
+![](/assets/img/posts/2012/20120303/jt07.png)
 
   
 This is the version I'm happy with and so I save it as a PNG or any other format I prefer.
@@ -113,18 +113,18 @@ Common pitfalls to avoid:
 
   
 A few anaglyphs I've made are displayed below for your viewing pleasure, more can be found [here](https://picasaweb.google.com/107352926946754821853):  
-[![](assets/img/posts/2012/20120303/kpno01_1.png)](assets/img/posts/2012/20120303/kpno01.png)  
+![](/assets/img/posts/2012/20120303/kpno01.png)  
 ---  
 The Kitt Peak National Observatory (KPNO)  
-[![](assets/img/posts/2012/20120303/3meter_an_1.jpg)](assets/img/posts/2012/20120303/3meter_an.jpg)  
+![](/assets/img/posts/2012/20120303/3meter_an.jpg)  
 ---  
 The Shane 3-m telescope at Lick Observatory  
-[![](assets/img/posts/2012/20120303/mnh01.png)](assets/img/posts/2012/20120303/mnh01_1.png)  
+![](/assets/img/posts/2012/20120303/mnh01_1.png)  
 ---  
 Camptosaurus at the Museum of Natural History in Los Angeles  
-[![](assets/img/posts/2012/20120303/ctio14.png)](assets/img/posts/2012/20120303/ctio14_1.png)  
+![](/assets/img/posts/2012/20120303/ctio14_1.png)  
 ---  
 The Cerro Tololo International Observatory (CTIO) in Chile  
-[![](assets/img/posts/2012/20120303/pandaSD_1.png)](assets/img/posts/2012/20120303/pandaSD.png)  
+![](/assets/img/posts/2012/20120303/pandaSD.png)  
 ---  
 A panda at the San Diego Zoo 

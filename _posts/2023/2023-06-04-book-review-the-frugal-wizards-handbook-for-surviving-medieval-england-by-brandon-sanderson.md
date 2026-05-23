@@ -22,7 +22,7 @@ As a novella, I'll forgo my usual format and just write out some impressions. Mo
 
 This was quite an unusual novella by Brandon Sanderson. It is told in the first person, which is unusual from most of Sanderson's books, and by a character who can't fully remember where he is. Part of discovering who he is and what he is meant to be doing is a huge part of the book. More interestingly is the setting. Without spoiling much, the main character finds himself in a pseudo medieval England trying to recover his memories and survive. I say pseudo because it isn't actually medieval England, though there are similarities. There's quite a bit of altered Norse mythology as the equivalent of Vikings are raiding the shores. In addition, here is talk of wights and the gods (like Woden and Logna), and other manner of things that you can't tell if they're real or superstition. But, like in any Sanderson book, weird things start happening. How much of it is imagined vs real is something you'll slowly discover.
 
-[![](assets/img/posts/2023/20230604/FAQ1_web_1.jpg)](assets/img/posts/2023/20230604/FAQ1_web.jpg)
+![](/assets/img/posts/2023/20230604/FAQ1_web.jpg)
 
 Overall, the book was a very fast read and very fun. Once all the pieces click together it's more waiting to see how much the main character will take it and how his unique personality will play into the narrative. At the end, I was left wondering about some details. There are some subtle hints that make me wonder if Sanderson will revisit this universe. 
 

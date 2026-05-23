@@ -34,7 +34,7 @@ It takes a long time for us to like the main character, Richard. He is such an o
 The other characters are more mysterious and interesting. You can't tell who is good and bad most of the time, and there are some interesting reveals through the story. Like most of the setting, you can't quite tell how magical the characters are. Some can clearly do things (like Door) that others can't, but some of the rest seem pretty ordinary except that they live in London Below.  
   
 I found this neat depiction of one of the main characters, the Marquis de Carabas, online:  
-[![](http://fc01.deviantart.net/fs49/f/2009/182/b/a/Neverwhere_fanart___Carabas_by_Jo_yumegari.jpg)](http://fc01.deviantart.net/fs49/f/2009/182/b/a/Neverwhere_fanart___Carabas_by_Jo_yumegari.jpg)  
+![](http://fc01.deviantart.net/fs49/f/2009/182/b/a/Neverwhere_fanart___Carabas_by_Jo_yumegari.jpg)  
 ---  
 The Marquis de Carabas as drawn by [Jo-yumegari](http://jo-yumegari.deviantart.com/art/Neverwhere-fanart-Carabas-127880660)  
 I have to say that drawing perfectly captures the feel of the character and, more importantly, the book itself: dark, ragged, threatening, on the edge of madness, his outstretched hand offering a world you're not quite sure you want.  

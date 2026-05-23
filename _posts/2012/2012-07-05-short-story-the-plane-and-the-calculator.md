@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Calculator_casio.jpg/413px-Calculator_casio.jpg)](http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Calculator_casio.jpg/413px-Calculator_casio.jpg)
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Calculator_casio.jpg/413px-Calculator_casio.jpg)
 
 This is a scheduled post. I've been traveling a bit these past few weeks and one of the things I know to do is to power down all electronic devices for takeoff and landing. Regardless, a Kindle, which barely uses any power at all, shouldn't interfere in any way or form with aircraft operations. The worry perhaps is about radio or wifi devices, but those settings can be disabled so why the constant fear? I've heard some people saying it's necessary and others saying the opposite. Still, it's annoying to be reading a book on your e-reader and have to [turn it off](https://plus.google.com/108176814619778619437/posts/67GbHxjDTsn). Score another one for "dead-tree" books.  
 

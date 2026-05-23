@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](http://www.nasa.gov/images/content/511895main_Kepler-11_IntroShot_full.jpg)](http://www.nasa.gov/images/content/511895main_Kepler-11_IntroShot_full.jpg)
+![](http://www.nasa.gov/images/content/511895main_Kepler-11_IntroShot_full.jpg)
 
   
 If you're interested in astronomy, you're probably aware that we know of hundreds of extrasolar planets -- planets outside our solar system -- and that we have thousands of candidate planets. Many of these new candidates come from NASA's Kepler mission, which looked at the dimming of light when a planet passes in front of another star. By the current count, there are over 2000 such objects identified.  
@@ -22,7 +22,7 @@ Many people have come up with clever ways to display these planets in a way that
 First up, from [xkcd](http://xkcd.com/1071/):  
 
 
-[![](assets/img/posts/2012/20121010/exoplanets.png)](assets/img/posts/2012/20121010/exoplanets.png)
+![](/assets/img/posts/2012/20121010/exoplanets.png)
 
   
 This neat and simple illustration shows the planets known up to June 2012 (we keep finding more), but does not include the unconfirmed Kepler candidates. As you can read in the text, if you click on the image to see it larger, the sizes are to scale and you can see our solar system for comparison near the center. It's easy to see that most of the planets found thus far are quite large (like Jupiter or even larger). This is an observational bias since these are the easiest to detect.  

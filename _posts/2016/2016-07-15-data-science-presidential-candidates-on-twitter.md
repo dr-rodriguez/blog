@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](assets/img/posts/2016/20160715/wordclouds.png)](assets/img/posts/2016/20160715/wordclouds_1.png)
+![](/assets/img/posts/2016/20160715/wordclouds_1.png)
 
   
 Over the past few months, I've been working on a little hobby data science project to explore twitter data with regards to the upcoming presidential election in the United States. The project has evolved quite a bit and detailing it in full is beyond the scope of a single blog post. As such, I've decided to split it into (at least) 3 posts. This post is the first of the series and will go over the basics of gathering data from Twitter and doing some simple text mining. The second and third posts will discuss more details of the project and show some neat visualizations I've created. I'll release all my code after the third post for any curious coders. For now, let's get started seeing what Hillary Clinton and Donald Trump's Twitter accounts are talking about.  
@@ -36,7 +36,7 @@ An alternative way to examine text data is to pass it through a Sentiment Analys
   
 
 
-[![](assets/img/posts/2016/20160715/sentiment_normalized.png)](assets/img/posts/2016/20160715/sentiment_normalized_1.png)
+![](/assets/img/posts/2016/20160715/sentiment_normalized_1.png)
 
   
 **  

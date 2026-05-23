@@ -38,7 +38,7 @@ The story picks up shortly after the events of the prior novel, [Cytonic](https:
 
 Characters
 
-## [![](https://www.brandonsanderson.com/wp-content/uploads/2023/12/2-starfighters-webres.jpg)](https://www.brandonsanderson.com/wp-content/uploads/2023/12/2-starfighters-webres.jpg)  
+## ![](https://www.brandonsanderson.com/wp-content/uploads/2023/12/2-starfighters-webres.jpg)  
 ---  
 Sample art from the book,   
 more available [here ](https://www.brandonsanderson.com/skyward-series/#DEFIANT)  

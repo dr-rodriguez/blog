@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](assets/img/posts/2013/20130218/IMG_9793_1.JPG)](assets/img/posts/2013/20130218/IMG_9793.JPG)  
+![](/assets/img/posts/2013/20130218/IMG_9793.JPG)  
 ---  
 La Silla Observatory  
   
@@ -25,7 +25,7 @@ Astronomers, particularly those that deal with observations (like me), tend to g
 La Silla is located 160 km North of La Serena in Chile. I've been to La Serena on several occasions; it's the place to stop at if you go to Cerro Tololo, Cerro Pachon, Las Campanas, or La Silla. Thus far, I've only been to Cerro Tololo and (now) to La Silla, but next month I'll be heading to Las Campanas.
 
   
-[![](assets/img/posts/2013/20130218/IMG_9739.JPG)](assets/img/posts/2013/20130218/IMG_9739_1.JPG)  
+![](/assets/img/posts/2013/20130218/IMG_9739_1.JPG)  
 ---  
 The main telescopes at La Silla. At the top is the 3.6-m, home of the HARPS spectrograph of planet-hunting fame. The more rectangular one is the NTT. The silver dome in the foreground is the MPG 2.2-m, the one I was using.  
   
@@ -34,7 +34,7 @@ The main telescopes at La Silla. At the top is the 3.6-m, home of the HARPS spec
 La Silla and Las Campanas are close to each other. Tololo and Pachon (where Gemini South is) are also fairly close to each other. However, the La Silla/Las Campanas combo is farther from La Serena and it took us about 2 hours for our van to reach the observatory from the La Serena airport.
 
   
-[![](assets/img/posts/2013/20130218/IMG_9755_1.JPG)](assets/img/posts/2013/20130218/IMG_9755.JPG)  
+![](/assets/img/posts/2013/20130218/IMG_9755.JPG)  
 ---  
 Las Campanas Observatory, as seen from La Silla  
   
@@ -52,7 +52,7 @@ OBs are Observing Blocks and ESO telescopes require them to schedule your run. I
 
 I walked around a bit the observatory in my spare time. There's not much to do in places like these (you're here to work, after all), but the vistas can be quite impressive. Despite looking like a barren desert (in contrast to places like Lick or Palomar), there's actually quite a bit of wildlife. I saw quite a few foxes, birds, and donkeys.  
   
-[![](assets/img/posts/2013/20130218/IMG_9718_1.JPG)](assets/img/posts/2013/20130218/IMG_9718.JPG)  
+![](/assets/img/posts/2013/20130218/IMG_9718.JPG)  
 ---  
 Some of the wildlife at La Silla  
   
@@ -65,7 +65,7 @@ The main problems I had, though, were with my setup. I was using the FEROS spect
 
 One interesting curiosity at La Silla is that all telescopes are run from the same control room. The room is very large, though, and perhaps things were being run in service mode for the NTT and 3.6-m since I rarely heard conversation at that end of the room. It was all so very quiet, well, except for the radio. That was good, but they did have it on all night (maybe even all day?), which can get tiring after 8 hours.  
   
-[![](assets/img/posts/2013/20130218/last_1.gif)](assets/img/posts/2013/20130218/last.gif)  
+![](/assets/img/posts/2013/20130218/last.gif)  
 ---  
 An all-sky image of the night sky at La Silla. The band across the image is the Milky Way, our Galaxy. The letters indicate where the various telescopes were pointing.  
   

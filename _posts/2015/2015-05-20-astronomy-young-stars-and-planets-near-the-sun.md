@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](assets/img/posts/2015/20150520/IAU-Header.jpg)](assets/img/posts/2015/20150520/IAU-Header_1.jpg)
+![](/assets/img/posts/2015/20150520/IAU-Header_1.jpg)
 
   
 This past week, I attended the 314th International Astronomical Union (IAU) Symposium titled [Young Stars and Planets Near the Sun](http://youngstars.gsu.edu/). This symposium was held in Atlanta, Georgia and covered everything related to the subject including, of course, young stars, but also brown dwarfs, circumstellar disks, and discussions of upcoming observatories and surveys. In this brief blog, I talk about my experience there as well as my work as part of the Science Organizing Committee (SOC).  
@@ -26,7 +26,7 @@ Logistically, the conference was well organized, especially thanks to the effort
   
 
 
-[![](assets/img/posts/2015/20150520/IMG_5475_1.jpg)](assets/img/posts/2015/20150520/IMG_5475.jpg)
+![](/assets/img/posts/2015/20150520/IMG_5475.jpg)
 
   
 Lunch was provided at the conference which was quite nice. It allowed us to keep a tighter schedule as we didn't have to go off exploring town to find something to eat (though to be fair, there were plenty of options in downtown Atlanta). Wednesday and Friday didn't have lunch, though, as these were half days. Coffee, water, and tea was also provided during coffee breaks, though I would have liked if some cookies or snacks had been available too, particularly in the morning break. Still, it was quite fine given budgetary constraints.  
@@ -39,7 +39,7 @@ There were also plenty of posters presented at the meeting, including my own. Se
 **Social Media**  
 Throughout the conference, several participants were very active in Facebook and Twitter providing summaries or commentary on the various talks and activities going on. Matt Kenworthy and Rahul Patel were very active on [Facebook](https://www.facebook.com/groups/125685394194845/) providing short summaries of every talk. On Twitter, nearly 1000 tweets over the week were sent, many of them by Adric Reidel. I collected all these tweets in a Storify you can [read here](https://storify.com/Strakul/iau-314-symposium-young-stars-and-planets-near-the) (it loads up the newer tweets as you scroll down). I learned that Storify has a 1000 element limit, so bear that in mind if anyone is thinking of doing the same at other conferences. I also created a word cloud of the 150 most common words (removing the #IAUS314 tag) used in these 951 tweets. I would say the conference was moderately active online as while there were plenty of tweets and posts, most attendees were either unaware or posted infrequently (myself included).  
   
-[![](assets/img/posts/2015/20150520/wordle1_1.png)](assets/img/posts/2015/20150520/wordle1.png)  
+![](/assets/img/posts/2015/20150520/wordle1.png)  
 ---  
 The 150 most common terms used in the #IAUS314 tweets.  
   
@@ -54,7 +54,7 @@ In terms of gender balance, the SOC had 4/16 female, or 25%. In terms of both th
   
 
 
-[![](assets/img/posts/2015/20150520/IMG_5454.jpg)](assets/img/posts/2015/20150520/IMG_5454_1.jpg)
+![](/assets/img/posts/2015/20150520/IMG_5454_1.jpg)
 
   
   
@@ -65,7 +65,7 @@ We had two half-days for the meeting, Wednesday and Friday. For the later half o
   
 
 
-[![](assets/img/posts/2015/20150520/IMG_5363_1.jpg)](assets/img/posts/2015/20150520/IMG_5363.jpg)
+![](/assets/img/posts/2015/20150520/IMG_5363.jpg)
 
   
   

@@ -31,7 +31,7 @@ The one issue that stands out is that the pacing is very slow. The reader gets a
 **Characters**  
 The story revolves, and is narrated by, the 'boy', the bastard, the one called Fitz. Fitz, however, is not his real name; it actually means something like 'son of.' The boy is the illegitimate son of Prince Chivalry, hence, he is literally FitzChivalry. Like many fantasy books, I felt he at times leaned too far into the character-is-awesome-at-everything end of the spectrum. He does have his flaws (loneliness, absent parents, feeling out of place), but with the Skill, Wit, fighting skills, herb (and poison) knowledge, and his pragmatism amidst court life, he just feels too good to be true (reminded me a bit of Kvothe from **The Name of the Wind**). However, as he matures through the novel we realize he doesn't actually excel at everything, so it's more a consequence of the first-person narration and the inexperience of youth. The neat drawing I've placed below was made by deviantArtist [Crooty](http://crooty.deviantart.com/art/Fitz-s-Room-54562601) and depicts Fitz in his room. He looks so small and alone in it.  
   
-[![](assets/img/posts/2012/20120817/Fitz__s_Room_by_Crooty.jpg)](assets/img/posts/2012/20120817/Fitz__s_Room_by_Crooty.jpg)  
+![](/assets/img/posts/2012/20120817/Fitz__s_Room_by_Crooty.jpg)  
 ---  
 Fitz arrives in his room and examines the painting of King Wisdom and an Elderling. Credit: [Crooty](http://crooty.deviantart.com/art/Fitz-s-Room-54562601)  
   

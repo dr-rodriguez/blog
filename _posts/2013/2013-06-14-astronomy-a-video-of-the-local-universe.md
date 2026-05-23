@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](assets/img/posts/2013/20130614/1.jpg)](assets/img/posts/2013/20130614/1.jpg)  
+![](/assets/img/posts/2013/20130614/1.jpg)  
 ---  
 Cosmic flow near the Local Group of galaxies. Credit: [Courtois et al 2013](http://arxiv.org/abs/1306.0091); [Cosmic Flows conference](http://www.cpt.univ-mrs.fr/~cosmo/CosFlo13/CosFlo13.html).  
   

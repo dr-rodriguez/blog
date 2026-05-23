@@ -15,21 +15,21 @@ img_show: false
 By now, you've probably heard about the transit of Venus on June 5-6, 2012. I wrote a short post ([here](http://strakul.blogspot.com/2012/04/transit-of-venus-june-2012.html)) describing it and a second one ([here](http://strakul.blogspot.com/2012/05/measuring-distance-to-sun-with-transit.html)) describing one method to estimate the distance to the Sun using the transit. Although Chile won't see the transit, [a group of us](http://www.das.uchile.cl/~drodrigu/easter/index_en.html) will be traveling to Easter Island to watch it from there (technically *have* travelled since this post was scheduled in advance).  
 
 
-[![](assets/img/posts/2012/20120602/venustransitlogo_v3.png)](assets/img/posts/2012/20120428/venustransitlogo_v3_1.png)
+![](/assets/img/posts/2012/20120428/venustransitlogo_v3_1.png)
 
   
 We've created a whole outreach plan for our time at Easter Island, which includes a two-day workshop at the local museum (with talks by the astronomers), school visits the following day, observing the partial lunar eclipse, and the transit of Venus itself on June 5.  
 One of the things I prepared was an activity on the scale of the solar system specifically for the residents of Easter Island.  
   
 First off, here's a map of Easter Island:  
-[![](assets/img/posts/2012/20120602/Pascua_inset_v1.png)](assets/img/posts/2012/20120602/Pascua_inset_v1_1.png)  
+![](/assets/img/posts/2012/20120602/Pascua_inset_v1_1.png)  
 ---  
 Edited from the topographic map of Easter Island created by Eric Gaba available on [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Easter_Island_map-en.svg).  
   
 Note that I've placed a partially transparent band through the island and also on the zoomed inset. This was printed on a large poster-type paper and brought to the island. What we do here is place the Sun at the single town on the island, Hanga Roa, and place Pluto at the farthest end-- Cape Cumming. That sets our end points and now the fun can begin.  
   
 I printed out a set of planet images, which you can see below. The activity is fairly straightforward: we talk about the planets to the group of students/kids/adults and ask them to place them where they think they lie on Easter Island given the two end points we've defined. It's like a game of 'pin the tail on the donkey', but with some science involved. How close to the actual locations can they get? Will they sort by planet size, coloration, or surface features? How does this compare to extrasolar planetary systems we've discovered? I'll have more to say on how this goes on a future post...  
-[![](assets/img/posts/2012/20120602/planets_1.png)](assets/img/posts/2012/20120602/planets.png)  
+![](/assets/img/posts/2012/20120602/planets.png)  
 ---  
 Planet images from a variety of NASA facilities including HST, Pioneer, Voyager, Terra, and Messenger. From top to bottom and then left to right: the Sun, Jupiter, Saturn, Earth, Neptune, Uranus, Venus, Mercury, Mars, and Pluto.  
   
@@ -50,7 +50,7 @@ So, what's the answer? It helps if you know the distances to the planets, of cou
 So, how should our answer look like? Here it is (remember that you can click to see figures larger):  
 
 
-[![](assets/img/posts/2012/20120602/Pascua_label_v4.png)](assets/img/posts/2012/20120602/Pascua_label_v4_1.png)
+![](/assets/img/posts/2012/20120602/Pascua_label_v4_1.png)
 
   
 In this scale, the terrestrial planets are all within a kilometer of the museum (where we placed the Sun) and the giant planets are spread throughout the island. Interestingly, there are two small peaks in the island that correspond roughly to the location of Jupiter and Saturn (Tuutapu and Maunga O Tu'u).  
@@ -63,4 +63,4 @@ A last curious object is the nearest star to the Sun: Proxima Centauri. This sta
   
 Space is truly big. I hope that with this activity we can impress that upon the children living in Easter Island. Other science goals of this particular activity include learning the relative positions of planets in our solar system and comparing ours to extrasolar planet systems.  
   
-[![](assets/img/posts/2012/20120610/Hetuu.png)](assets/img/posts/2012/20121206/Hetuu.png)Our team --- Team Hetu'u (for the rapanui word for 'star') --- consists of members from Universidad de Chile, Universidad Andres Bello, Universidad Catolica, and Cerro Tololo. This is one of several activities our team has prepared. I'll have more to say about how everything went in a week or so. For now, here's [a post](http://www.amnh.org/news/2012/05/countdown-to-transit-of-venus/) on the American Museum of Natural History webpage about our work. 
+![](/assets/img/posts/2012/20121206/Hetuu.png)Our team --- Team Hetu'u (for the rapanui word for 'star') --- consists of members from Universidad de Chile, Universidad Andres Bello, Universidad Catolica, and Cerro Tololo. This is one of several activities our team has prepared. I'll have more to say about how everything went in a week or so. For now, here's [a post](http://www.amnh.org/news/2012/05/countdown-to-transit-of-venus/) on the American Museum of Natural History webpage about our work. 

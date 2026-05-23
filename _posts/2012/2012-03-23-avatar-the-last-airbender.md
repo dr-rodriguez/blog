@@ -31,21 +31,21 @@ There are three main points that make this series shine: the characters, the set
   
 The Last Airbender takes place in a fictional universe where certain people, benders, can control one of the four elements- fire, earth, water, wind. The bending is done through physical gestures and is a form of martial arts. Even a casual observer of the series can tell that there are differences in how the various elements are controlled. There is, however, one person alive at any given time that has the ability to learn and control all four elements: the avatar. The avatar is the only person that can master all elements and is born at the instant (or close enough, I suppose) when the last avatar dies. The avatar is born in the different kindoms in a rigid order: fire, air, water, earth, and then repeat; so he/she gets trained initially in the nation he/she started. The cycle has been unbroken for countless years and, at times of great need, the avatar can draw upon the wisdom and experience of all his/her past lives. The avatar is basically a force of nature, whose goal is (supposed to be) to balance the world and bring harmony. During times of peace, this can be easy, but when war breaks out, the avatar is expected to help solve the crisis.  
   
-[![](assets/img/posts/2012/20120323/Avatar_line-up.png)](assets/img/posts/2012/20120323/Avatar_line-up.png)  
+![](/assets/img/posts/2012/20120323/Avatar_line-up.png)  
 ---  
 Current and past avatars  
 The story itself starts with a brief prologue describing the events 100 years ago: the fire nation, about 12 years after the death of the last avatar (of the nation of fire), launches a strike against the other nations and in particular devastates the air nomads as the next avatar will arise from them. Their plan doesn't work completely as the young avatar, not fully realized, manages to encase himself in ice and is thus protected for the next 100 years. When the avatar emerges, he is the last of the airbenders and has a lot to learn to catch up and master all four elements before the next big fire nation attack.  
   
 The characters are absolutely amazing. They grow and change throughout the series. The most obvious example being Zuko. His personal story is one of the most compelling aspects of the show. None of the characters are perfect, and we watch them suffer through their flaws, but grow stronger for it. These are the sorts of characters you can identify with and will remember for years and years to come.  
   
-[![](assets/img/posts/2012/20120323/Sokka's_sword.png)](assets/img/posts/2012/20120323/Sokka's_sword.png)  
+![](/assets/img/posts/2012/20120323/Sokka's_sword.png)  
 ---  
 Sokka of the water tribe. While he is always somewhat of a comic relief character, he turns out to be a great tactician and swordsman.  
 Finally, the plot is, though a bit generic, very interesting and moves at a good pace. The avatar has to settle the conflict between the fire nation and the rest of the world, but he has to travel all over to master the elements while at the same time avoiding the bad guys who want to capture him (but not kill, since he would then be reborn among the water tribe). I have my doubts that such a war can really last 100 years, but I try to think of it as more of a Cold War-type scenario. Lots of tension and a few skirmishes every few years. The action increases throughout the series thanks to the upcoming arrival of Sozin's comet, that will greatly strengthen the fire nation's power.  
   
 WARNING: As a astronomer, I can tell you that this is completely backwards! Comets are big chunks of ice and rock that orbit the Sun. When they get close to the Sun, the ice sublimates and releases gases and dust out to form tail(s). Because comets are made of ice, they should power _water_ benders, not _fire_ benders. Still, I'm willing to forgive them this as the series itself is quite good and there is no such thing as bending. To be fair: the 'comet' itself appears to gain the tail when it brushes past the atmosphere. That means it is technically a meteor and not a comet...  
   
-[![](assets/img/posts/2012/20120323/Sozin's_Comet.png)](assets/img/posts/2012/20120323/Sozin's_Comet.png)  
+![](/assets/img/posts/2012/20120323/Sozin's_Comet.png)  
 ---  
 Comet? I think not.  
 Another minor gripe I have is that this is intrinsically a kids show and as such is often lighthearted. However, despite this it does deal with some heavier topics like revenge and killing. One potential improvement would have been a darker or more realist setting, which is one reason I got interested in the real life adaptation by M. Night Shyamalan. That, however, was horribly done and not at all what we the fans expected. Still, the lighthearted and humorous nature gives the show a unique flavor when compared to similar series and the important thing is that overall it works. The few scenes where it grows dark or sad are all the more powerful for their scarceness.  
@@ -57,7 +57,7 @@ A lot of people have been excited given the previews, but some of the recent one
 
 
   
-[![](http://images2.wikia.nocookie.net/__cb20120314023929/avatar/images/8/80/The_Legend_of_Korra.jpg)](http://images2.wikia.nocookie.net/__cb20120314023929/avatar/images/8/80/The_Legend_of_Korra.jpg)  
+![](http://images2.wikia.nocookie.net/__cb20120314023929/avatar/images/8/80/The_Legend_of_Korra.jpg)  
 ---  
 Premiering April 14!  
 One other cool thing: xkcd has a [neat comic](http://www.xkcd.com/965/) based on Avatar.  

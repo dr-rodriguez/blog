@@ -17,7 +17,7 @@ Santiago a Mil is an international theater festival that's been going on in Sant
 Sunday evening I set out to the Parque Araucano, which is not too far from where I live. This is the first time I went there, but it was not difficult to find and the stage was under a big Santiago a Mil balloon. I'll have to check out the park more carefully in the future. What I saw looked nice, but I hear there's also an aviary and rose garden. Also, I saw a family of bears with Coca-Cola:  
 
 
-[![](assets/img/posts/2012/20120123/IMG_4114.JPG)](assets/img/posts/2012/20120123/IMG_4114_1.JPG)
+![](/assets/img/posts/2012/20120123/IMG_4114_1.JPG)
 
   
 But enough about the park. What I went to see was a performance by the Shanxi Song and Dance Troupe. This was a set of 12 dances and songs typical of the Shanxi province in northern China. It's sort of fitting considering the Chinese New Year started on Monday January 23, hence this was like a New Year's Eve.  
@@ -28,7 +28,7 @@ We were given a program with the twelve parts, so I'll just go over each part wi
 First up: Tambor y Danza Oriental (Oriental Drum and Dance).  
 
 
-[![](assets/img/posts/2012/20120123/IMG_4121.JPG)](assets/img/posts/2012/20120123/IMG_4121_1.JPG)
+![](/assets/img/posts/2012/20120123/IMG_4121_1.JPG)
 
 Nothing really stands out about this one in particular. Many of the dances and music performances were either about the harvest (or farming), about weddings, or just about being happy.  
   
@@ -87,7 +87,7 @@ This was not a dance, just the 5 musicians performing. It was actually quite nic
 
 La Camara Nupcial (The Bridal Chambor) was the next piece. No good video, but I have a picture.:
 
-[![](assets/img/posts/2012/20120123/IMG_4158_1.JPG)](assets/img/posts/2012/20120123/IMG_4158.JPG)
+![](/assets/img/posts/2012/20120123/IMG_4158.JPG)
 
 This is what goes on when the bride and groom meet to consumate their (pre-arranged) marriage. The guy was all excited and quickly got into the proper attire. The girl was a bit shyer and it didn't help that she was wearing 3 or 4 shirts. Here she is trying to hold on to the first shirt. It was actually a pretty funny piece.
 
@@ -106,7 +106,7 @@ This depicts the women bringing food to the men working out in the fields. Howev
 
 Next up is (yet another) wedding piece: Cancion de Boda (Wedding Song). No video, just a picture:
 
-[![](assets/img/posts/2012/20120123/IMG_4173_1.JPG)](assets/img/posts/2012/20120123/IMG_4173.JPG)
+![](/assets/img/posts/2012/20120123/IMG_4173.JPG)
 
 What's that in the table? Why yes, it happens to be some Chilean wine. It is declared good and the music continues. It's a bit ridiculous in that the two main musicians use funny sounding instruments and then their own voices to make very high-pitched, cartoonish noises as they argue.
 
@@ -121,7 +121,7 @@ One of the best parts, which I alas did not capture, was when they lined up and 
 And it's over and the musicians and dancers bow before the audience.  
 
 
-[![](assets/img/posts/2012/20120123/IMG_4185.JPG)](assets/img/posts/2012/20120123/IMG_4185_1.JPG)
+![](/assets/img/posts/2012/20120123/IMG_4185_1.JPG)
 
   
 **Overall Impression**  

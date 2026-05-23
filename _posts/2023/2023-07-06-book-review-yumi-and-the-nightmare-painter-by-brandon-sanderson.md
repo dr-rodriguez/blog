@@ -31,7 +31,7 @@ The plot is a mix of things, it's a bit of a slice of life of how the two charac
 
 ## Characters
 
-[![](assets/img/posts/2023/20230706/meditation_1.jpg)](assets/img/posts/2023/20230706/meditation.jpg)
+![](/assets/img/posts/2023/20230706/meditation.jpg)
 
 There are two main characters that we alternate with, starting with Yumi, the yoki-hijo of a hot world under a blazing sun. She stacks stones to call the spirits which aid the families there. In contrast is Nikaro aka Painter, the nightmare painter, who lives in a cold world of endless dark under neon lights. He works a lonely shift catching manifestations of nightmares, and paints them in ink to drive them away. Their approach to life, the world, and their art is wholly different, but these differences bring them together in a powerful way as their force to live in each other's world. It's great to see them warm up to each other throughout the story.
 

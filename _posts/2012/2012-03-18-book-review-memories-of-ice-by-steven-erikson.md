@@ -42,7 +42,7 @@ As a fan of magic, I enjoy the Malazan series. However, the rules behind magic a
   
 One of the bigger additions that **Memories of Ice** provides is the introduction of the K'Chain Che'Malle. These, along with the Jaghut, Imass, and Forkrul Assail, are one of the four founding races. At the start of the series we believe that only the T'lan Imass, in undead form, are the sole remnants of those races. Since then we have seen the brief release of a Jaghut Tyrant, suspect Jaghut activity elsewhere, and now see the velociraptor-like K'Chain Che'Malle in undead form. This is all very satisfying and I would not be surprised to see the Forkrul Assail emerge at some point in the future.  
   
-[![](assets/img/posts/2012/20120318/K__ell_hunter_by_dassemultor.jpg)](assets/img/posts/2012/20120318/K__ell_hunter_by_dassemultor.jpg)  
+![](/assets/img/posts/2012/20120318/K__ell_hunter_by_dassemultor.jpg)  
 ---  
 An impressive depiction of a K'Chain Che'Malle K'ell hunter by [dassemultor](http://dassemultor.deviantart.com/art/K-ell-hunter-162957866?q=gallery%3Amalazan-art-guild%2F24467605&qo=0).  
 If you ever find yourself facing an undead dinosaur with full armor and swords for hands: run, run fast.  
@@ -54,7 +54,7 @@ As one of the characters says: "_The tale's far from done, after all._ "
 The next book in the Malazan series (**House of Chains**) is among those few fantasy novels that I have seen here in Chile:  
 
 
-[![](assets/img/posts/2012/20120318/IMG_4353_1.jpg)](assets/img/posts/2012/20120318/IMG_4353.jpg)
+![](/assets/img/posts/2012/20120318/IMG_4353.jpg)
 
 However, I'm going to stick to reading it in English. The $21.700 price is a bit high (~43USD) for a trade paperback, in my opinion.  
   

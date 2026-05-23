@@ -47,7 +47,7 @@ We mainly follow Thibaut, a young _Main à plume_ , in his resistance of the Naz
 
 **Setting / World Building**
 
-[![](assets/img/posts/2020/20200804/47ae7359019ade05787ddbca8bb5b062.jpg)](assets/img/posts/2020/20200804/47ae7359019ade05787ddbca8bb5b062_1.jpg)  
+![](/assets/img/posts/2020/20200804/47ae7359019ade05787ddbca8bb5b062_1.jpg)  
 ---  
   
 ## Exquisite Corpse by André Breton, 
