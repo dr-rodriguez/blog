@@ -6,7 +6,7 @@ title: "Book Review: The Night Circus by Erin Morgenstern"
 date: 2023-02-04
 img: posts/2023/20230204/9361589.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

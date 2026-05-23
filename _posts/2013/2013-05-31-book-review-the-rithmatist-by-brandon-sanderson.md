@@ -6,7 +6,7 @@ title: "Book Review: The Rithmatist by Brandon Sanderson"
 date: 2013-05-31
 img: posts/2013/20130531/10137823.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

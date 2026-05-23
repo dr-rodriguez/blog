@@ -6,7 +6,7 @@ title: "Book Review: Assassin's Apprentice by Robin Hobb"
 date: 2012-08-17
 img: http://photo.goodreads.com/books/1328314937l/12479382.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

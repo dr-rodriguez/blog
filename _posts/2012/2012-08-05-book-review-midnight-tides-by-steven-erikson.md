@@ -6,7 +6,7 @@ title: "Book Review: Midnight Tides by Steven Erikson"
 date: 2012-08-05
 img: http://photo.goodreads.com/books/1328300817l/8119976.jpg
 tags: [Fantasy, Malazan, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

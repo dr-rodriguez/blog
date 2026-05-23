@@ -6,7 +6,7 @@ title: "Book Review: The Frugal Wizard's Handbook for Surviving Medieval England
 date: 2023-06-04
 img: posts/2023/20230604/The-Frugal-Wizards-Handook-For-S_1.webp
 tags: [Fantasy, Books, Novella, Science Fiction]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

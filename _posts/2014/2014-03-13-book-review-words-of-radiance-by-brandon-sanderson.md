@@ -6,7 +6,7 @@ title: "Book Review: Words of Radiance by Brandon Sanderson"
 date: 2014-03-13
 img: posts/2014/20140313/20150777.jpg
 tags: [Cosmere, Fantasy, Books]
-category: Cosmere
+category: Books
 author: Strakul
 description: ""
 ---

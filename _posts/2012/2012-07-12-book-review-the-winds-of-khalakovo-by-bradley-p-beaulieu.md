@@ -6,7 +6,7 @@ title: "Book Review: The Winds of Khalakovo by Bradley P. Beaulieu"
 date: 2012-07-12
 img: http://photo.goodreads.com/books/1335136656l/13613093.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

@@ -6,7 +6,7 @@ title: "Book Review: Witch King by Martha Wells"
 date: 2023-06-25
 img: posts/2023/20230625/57861689.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

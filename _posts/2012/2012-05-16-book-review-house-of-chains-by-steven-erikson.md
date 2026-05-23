@@ -6,7 +6,7 @@ title: "Book Review: House of Chains by Steven Erikson"
 date: 2012-05-16
 img: http://photo.goodreads.com/books/1328313081l/8177008.jpg
 tags: [Fantasy, Malazan, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

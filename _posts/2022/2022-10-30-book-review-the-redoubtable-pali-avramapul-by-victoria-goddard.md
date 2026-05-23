@@ -6,7 +6,7 @@ title: "Book Review: The Redoubtable Pali Avramapul by Victoria Goddard"
 date: 2022-10-30
 img: posts/2022/20221030/61127243.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

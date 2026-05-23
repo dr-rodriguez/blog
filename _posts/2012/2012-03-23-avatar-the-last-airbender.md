@@ -6,7 +6,7 @@ title: "Avatar: The Last Airbender"
 date: 2012-03-23
 img: http://images3.wikia.nocookie.net/__cb20090302125203/avatar/images/5/53/Opening_Avatar_Logo.png
 tags: [Fantasy, Anime, TV series]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

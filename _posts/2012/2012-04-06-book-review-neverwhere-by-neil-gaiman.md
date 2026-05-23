@@ -6,7 +6,7 @@ title: "Book Review: Neverwhere by Neil Gaiman"
 date: 2012-04-06
 img: posts/2012/20120406/Neverwhere(1).jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

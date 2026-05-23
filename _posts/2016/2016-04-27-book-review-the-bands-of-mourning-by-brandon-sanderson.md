@@ -6,7 +6,7 @@ title: "Book Review: The Bands of Mourning by Brandon Sanderson"
 date: 2016-04-27
 img: posts/2016/20160427/18739426.jpg
 tags: [Cosmere, Fantasy, Books]
-category: Cosmere
+category: Books
 author: Strakul
 description: ""
 ---

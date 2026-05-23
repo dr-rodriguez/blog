@@ -6,7 +6,7 @@ title: "Book Review: The Kingdom of Gods by N.K. Jemisin"
 date: 2012-02-07
 img: posts/2012/20120207/KINGDOM-OF-GODS-final.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

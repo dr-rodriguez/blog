@@ -6,7 +6,7 @@ title: "Book Review: The Wee Free Men by Terry Pratchett"
 date: 2015-05-02
 img: posts/2015/20150502/6318144.jpg
 tags: [Fantasy, Book Club, Discworld, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

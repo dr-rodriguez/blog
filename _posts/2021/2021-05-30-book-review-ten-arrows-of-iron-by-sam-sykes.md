@@ -6,7 +6,7 @@ title: "Book Review: Ten Arrows of Iron by Sam Sykes"
 date: 2021-05-30
 img: posts/2021/20210530/49808669._SY475_.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

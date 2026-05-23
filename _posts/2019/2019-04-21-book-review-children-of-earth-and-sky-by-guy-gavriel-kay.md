@@ -6,7 +6,7 @@ title: "Book Review: Children of Earth and Sky by Guy Gavriel Kay"
 date: 2019-04-21
 img: posts/2019/20190421/26505409.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

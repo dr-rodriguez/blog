@@ -6,7 +6,7 @@ title: "Book Review: Tigana by Guy Gavriel Kay"
 date: 2013-04-13
 img: posts/2013/20130413/104089.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

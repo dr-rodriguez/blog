@@ -6,7 +6,7 @@ title: "Book Review: Spellbreaker by Blake Charlton"
 date: 2024-09-24
 img: posts/2024/20240924/7954785.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

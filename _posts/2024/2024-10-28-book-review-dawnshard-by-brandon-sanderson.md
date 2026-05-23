@@ -6,7 +6,7 @@ title: "Book Review: Dawnshard by Brandon Sanderson"
 date: 2024-10-28
 img: posts/2024/20241028/54511226.jpg
 tags: [Cosmere, Fantasy, Books, Novella]
-category: Cosmere
+category: Books
 author: Strakul
 description: ""
 ---

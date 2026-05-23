@@ -6,7 +6,7 @@ title: "Book Review: Wind and Truth by Brandon Sanderson"
 date: 2024-12-30
 img: posts/2024/20241230/203608754.jpg
 tags: [Cosmere, Fantasy, Books]
-category: Cosmere
+category: Books
 author: Strakul
 description: ""
 ---

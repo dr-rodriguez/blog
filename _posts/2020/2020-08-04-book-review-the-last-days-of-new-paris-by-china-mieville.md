@@ -6,7 +6,7 @@ title: "Book Review: The Last Days of New Paris by China Mieville"
 date: 2020-08-04
 img: posts/2020/20200804/27833610.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

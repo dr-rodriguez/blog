@@ -6,7 +6,7 @@ title: "Book Review: The Blinding Knife by Brent Weeks"
 date: 2016-12-02
 img: posts/2016/20161202/12499290.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

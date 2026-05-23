@@ -6,7 +6,7 @@ title: "Book Review: The Crippled God by Steven Erikson"
 date: 2016-03-16
 img: posts/2016/20160316/10697676.jpg
 tags: [Fantasy, Malazan, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

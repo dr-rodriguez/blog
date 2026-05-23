@@ -6,7 +6,7 @@ title: "Book Review: The Return of Fitzroy Angursell by Victoria Goddard"
 date: 2022-05-01
 img: posts/2022/20220501/56392665._SY475_.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

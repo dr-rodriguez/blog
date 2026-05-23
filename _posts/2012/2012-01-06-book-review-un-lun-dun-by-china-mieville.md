@@ -6,7 +6,7 @@ title: "Book Review: Un Lun Dun by China Mieville"
 date: 2012-01-06
 img: posts/2012/20120106/unlundun.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

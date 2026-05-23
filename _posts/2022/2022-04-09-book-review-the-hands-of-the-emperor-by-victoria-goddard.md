@@ -6,7 +6,7 @@ title: "Book Review: The Hands of the Emperor by Victoria Goddard"
 date: 2022-04-09
 img: posts/2022/20220409/43525897._SY475_.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

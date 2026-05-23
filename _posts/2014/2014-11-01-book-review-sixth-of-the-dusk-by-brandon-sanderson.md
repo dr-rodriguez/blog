@@ -6,7 +6,7 @@ title: "Book Review: Sixth of the Dusk by Brandon Sanderson"
 date: 2014-11-01
 img: posts/2014/20141101/22739503.jpg
 tags: [Cosmere, Fantasy, Books]
-category: Cosmere
+category: Books
 author: Strakul
 description: ""
 ---

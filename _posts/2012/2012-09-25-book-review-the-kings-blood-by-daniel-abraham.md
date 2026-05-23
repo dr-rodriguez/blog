@@ -6,7 +6,7 @@ title: "Book Review: The King's Blood by Daniel Abraham"
 date: 2012-09-25
 img: http://photo.goodreads.com/books/1326556831l/13075018.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

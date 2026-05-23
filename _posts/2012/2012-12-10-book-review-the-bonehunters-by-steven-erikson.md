@@ -6,7 +6,7 @@ title: "Book Review: The Bonehunters by Steven Erikson"
 date: 2012-12-10
 img: posts/2012/20121210/8260815.jpg
 tags: [Fantasy, Malazan, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

@@ -6,7 +6,7 @@ title: "Book Review: Yumi and the Nightmare Painter by Brandon Sanderson"
 date: 2023-07-06
 img: posts/2023/20230706/Yumi_wallpaper_vertical_v2.jpg
 tags: [Cosmere, Fantasy, Books]
-category: Cosmere
+category: Books
 author: Strakul
 description: ""
 ---

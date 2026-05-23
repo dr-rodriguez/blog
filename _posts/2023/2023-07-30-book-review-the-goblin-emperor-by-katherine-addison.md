@@ -6,7 +6,7 @@ title: "Book Review: The Goblin Emperor by Katherine Addison"
 date: 2023-07-30
 img: posts/2023/20230730/17404280.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

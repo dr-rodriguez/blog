@@ -6,7 +6,7 @@ title: "Astronomy and Middle Earth"
 date: 2013-10-12
 img: http://img.gawkerassets.com/img/192qvabo32xqzjpg/original.jpg
 tags: [Fantasy, Books, Astronomy]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

@@ -6,7 +6,7 @@ title: "Book Review: The Raven Tower by Ann Leckie"
 date: 2023-11-21
 img: posts/2023/20231121/55578956.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

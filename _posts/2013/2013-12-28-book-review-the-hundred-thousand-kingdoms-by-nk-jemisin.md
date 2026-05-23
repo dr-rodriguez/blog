@@ -6,7 +6,7 @@ title: "Book Review: The Hundred Thousand Kingdoms by N.K. Jemisin"
 date: 2013-12-28
 img: posts/2013/20131228/6437061.jpg
 tags: [Fantasy, Book Club, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

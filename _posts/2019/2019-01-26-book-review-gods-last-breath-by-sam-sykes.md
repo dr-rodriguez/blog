@@ -6,7 +6,7 @@ title: "Book Review: God's Last Breath by Sam Sykes"
 date: 2019-01-26
 img: posts/2019/20190126/31576966.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

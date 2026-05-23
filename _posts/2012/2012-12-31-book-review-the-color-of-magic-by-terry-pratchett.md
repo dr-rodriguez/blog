@@ -6,7 +6,7 @@ title: "Book Review: The Color of Magic by Terry Pratchett"
 date: 2012-12-31
 img: posts/2012/20121231/12903571.jpg
 tags: [Fantasy, Discworld, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

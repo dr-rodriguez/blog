@@ -6,7 +6,7 @@ title: "Book Review: Seven Blades in Black by Sam Sykes"
 date: 2019-10-20
 img: posts/2019/20191020/40489155._SY475_.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

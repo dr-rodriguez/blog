@@ -6,7 +6,7 @@ title: "Book Review: Rhythm of War by Brandon Sanderson"
 date: 2020-12-23
 img: posts/2020/20201223/49021976.jpg
 tags: [Cosmere, Fantasy, Books]
-category: Cosmere
+category: Books
 author: Strakul
 description: ""
 ---

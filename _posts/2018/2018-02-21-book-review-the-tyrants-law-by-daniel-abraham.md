@@ -6,7 +6,7 @@ title: "Book Review: The Tyrant's Law by Daniel Abraham"
 date: 2018-02-21
 img: posts/2018/20180221/17928525.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

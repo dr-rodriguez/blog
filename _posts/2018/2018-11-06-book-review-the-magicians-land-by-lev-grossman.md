@@ -6,7 +6,7 @@ title: "Book Review: The Magician's Land by Lev Grossman"
 date: 2018-11-06
 img: posts/2018/20181106/19103097.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

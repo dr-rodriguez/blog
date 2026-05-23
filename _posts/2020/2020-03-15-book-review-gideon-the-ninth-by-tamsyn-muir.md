@@ -6,7 +6,7 @@ title: "Book Review: Gideon The Ninth by Tamsyn Muir"
 date: 2020-03-15
 img: posts/2020/20200315/42288661._SY475_.jpg
 tags: [Fantasy, Books, Science Fiction]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

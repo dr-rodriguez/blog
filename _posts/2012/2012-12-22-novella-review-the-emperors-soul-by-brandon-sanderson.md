@@ -6,7 +6,7 @@ title: "Novella Review: The Emperor's Soul by Brandon Sanderson"
 date: 2012-12-22
 img: posts/2012/20121222/16131932.jpg
 tags: [Cosmere, Fantasy, Books]
-category: Cosmere
+category: Books
 author: Strakul
 description: ""
 ---

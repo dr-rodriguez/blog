@@ -6,7 +6,7 @@ title: "Book Review: Toll the Hounds by Steven Erikson"
 date: 2013-08-17
 img: posts/2013/20130817/8177049.jpg
 tags: [Fantasy, Malazan, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

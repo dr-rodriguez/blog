@@ -6,7 +6,7 @@ title: "Novella Review: Legion by Brandon Sanderson"
 date: 2012-12-24
 img: posts/2012/20121224/16004601.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

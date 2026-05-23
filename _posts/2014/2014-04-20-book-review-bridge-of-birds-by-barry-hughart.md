@@ -6,7 +6,7 @@ title: "Book Review: Bridge of Birds by Barry Hughart"
 date: 2014-04-20
 img: posts/2014/20140420/15177.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

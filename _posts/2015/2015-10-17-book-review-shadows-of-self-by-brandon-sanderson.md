@@ -6,7 +6,7 @@ title: "Book Review: Shadows of Self by Brandon Sanderson"
 date: 2015-10-17
 img: posts/2015/20151017/24357485.jpg
 tags: [Cosmere, Fantasy, Books]
-category: Cosmere
+category: Books
 author: Strakul
 description: ""
 ---

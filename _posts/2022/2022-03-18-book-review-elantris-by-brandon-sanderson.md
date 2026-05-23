@@ -6,7 +6,7 @@ title: "Book Review: Elantris by Brandon Sanderson"
 date: 2022-03-18
 img: posts/2022/20220318/68427._SY475_.jpg
 tags: [Cosmere, Fantasy, Books]
-category: Cosmere
+category: Books
 author: Strakul
 description: ""
 ---

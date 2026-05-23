@@ -6,7 +6,7 @@ title: "Book Review: The Sunlit Man by Brandon Sanderson"
 date: 2023-10-22
 img: posts/2023/20231022/SP4_wallpaper_vertical_recolored_1.jpg
 tags: [Cosmere, Fantasy, Books]
-category: Cosmere
+category: Books
 author: Strakul
 description: ""
 ---

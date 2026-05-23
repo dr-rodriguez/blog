@@ -6,7 +6,7 @@ title: "Book Review: His Majesty's Dragon by Naomi Novik"
 date: 2016-08-24
 img: posts/2016/20160824/18626894.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

@@ -6,7 +6,7 @@ title: "Book Review: Nona the Ninth by Tamsyn Muir"
 date: 2022-09-18
 img: posts/2022/20220918/59830943.jpg
 tags: [Fantasy, Books, Science Fiction]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

@@ -6,7 +6,7 @@ title: "Book Review: The Lies of Locke Lamora by Scott Lynch"
 date: 2013-11-03
 img: posts/2013/20131103/6219133.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

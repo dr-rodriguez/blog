@@ -6,7 +6,7 @@ title: "Book Review: Harrow the Ninth by Tamsyn Muir"
 date: 2020-08-23
 img: posts/2020/20200823/harrow_1.jpg
 tags: [Fantasy, Books, Science Fiction]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

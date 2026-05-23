@@ -6,7 +6,7 @@ title: "Book Review: Tress of the Emerald Sea by Brandon Sanderson"
 date: 2023-01-14
 img: posts/2023/20230114/cover.jpg
 tags: [Cosmere, Fantasy, Books]
-category: Cosmere
+category: Books
 author: Strakul
 description: ""
 ---

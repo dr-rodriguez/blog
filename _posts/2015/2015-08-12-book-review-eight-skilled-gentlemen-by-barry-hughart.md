@@ -6,7 +6,7 @@ title: "Book Review: Eight Skilled Gentlemen by Barry Hughart"
 date: 2015-08-12
 img: posts/2015/20150812/77206.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

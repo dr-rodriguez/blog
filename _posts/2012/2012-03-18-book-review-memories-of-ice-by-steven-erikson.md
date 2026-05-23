@@ -6,7 +6,7 @@ title: "Book Review: Memories of Ice by Steven Erikson"
 date: 2012-03-18
 img: posts/2012/20120318/memoriesice_1.jpg
 tags: [Fantasy, Malazan, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

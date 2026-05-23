@@ -6,7 +6,7 @@ title: "Book Review: Dust of Dreams by Steven Erikson"
 date: 2014-03-02
 img: posts/2014/20140302/9414479.jpg
 tags: [Fantasy, Malazan, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

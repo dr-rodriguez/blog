@@ -6,7 +6,7 @@ title: "Book Review: A Master of Djinn by P. Djeli Clark"
 date: 2022-06-19
 img: posts/2022/20220619/52504334._SY475_.jpg
 tags: [Fantasy, Books, Science Fiction]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

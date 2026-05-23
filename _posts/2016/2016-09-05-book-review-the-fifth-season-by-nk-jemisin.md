@@ -6,7 +6,7 @@ title: "Book Review: The Fifth Season by N.K. Jemisin"
 date: 2016-09-05
 img: posts/2016/20160905/19887474.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

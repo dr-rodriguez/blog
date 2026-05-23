@@ -6,7 +6,7 @@ title: "Novella Review: Perfect State by Brandon Sanderson"
 date: 2015-11-25
 img: posts/2015/20151125/25188109.jpg
 tags: [Fantasy, Books, Science Fiction]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

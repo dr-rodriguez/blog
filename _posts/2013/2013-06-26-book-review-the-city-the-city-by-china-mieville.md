@@ -6,7 +6,7 @@ title: "Book Review: The City & The City by China Mieville"
 date: 2013-06-26
 img: posts/2013/20130626/8121642.jpg
 tags: [Fantasy, Book Club, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

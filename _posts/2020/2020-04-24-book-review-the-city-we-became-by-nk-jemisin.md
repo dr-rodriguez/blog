@@ -6,7 +6,7 @@ title: "Book Review: The City We Became by N.K. Jemisin"
 date: 2020-04-24
 img: posts/2020/20200424/43558961._SY475_.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

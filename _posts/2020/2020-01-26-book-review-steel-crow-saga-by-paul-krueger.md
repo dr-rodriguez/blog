@@ -6,7 +6,7 @@ title: "Book Review: Steel Crow Saga by Paul Krueger"
 date: 2020-01-26
 img: posts/2020/20200126/43610634._SY475_.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

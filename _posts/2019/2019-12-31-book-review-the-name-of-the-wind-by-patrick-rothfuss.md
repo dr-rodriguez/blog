@@ -6,7 +6,7 @@ title: "Book Review: The Name of the Wind by Patrick Rothfuss"
 date: 2019-12-31
 img: posts/2019/20191231/2495567.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

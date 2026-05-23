@@ -6,7 +6,7 @@ title: "Book Review: The Starless Sea by Erin Morgenstern"
 date: 2020-11-14
 img: posts/2020/20201114/53481719.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

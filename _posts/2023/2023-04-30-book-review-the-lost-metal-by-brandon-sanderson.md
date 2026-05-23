@@ -6,7 +6,7 @@ title: "Book Review: The Lost Metal by Brandon Sanderson"
 date: 2023-04-30
 img: posts/2023/20230430/59768312.jpg
 tags: [Cosmere, Fantasy, Books]
-category: Cosmere
+category: Books
 author: Strakul
 description: ""
 ---

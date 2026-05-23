@@ -6,7 +6,7 @@ title: "Book Review: The Mortal Tally by Sam Sykes"
 date: 2018-09-08
 img: posts/2018/20180908/25297770.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

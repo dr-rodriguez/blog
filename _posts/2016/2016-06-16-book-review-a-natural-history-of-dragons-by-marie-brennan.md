@@ -6,7 +6,7 @@ title: "Book Review: A Natural History of Dragons by Marie Brennan"
 date: 2016-06-16
 img: posts/2016/20160616/12974372.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

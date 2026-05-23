@@ -6,7 +6,7 @@ title: "Book Review: At the Feet of the Sun by Victoria Goddard"
 date: 2022-12-15
 img: posts/2022/20221215/61918023.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

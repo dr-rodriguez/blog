@@ -6,7 +6,7 @@ title: "Favorite Books of 2011"
 date: 2012-01-03
 img: posts/2012/20120103/embassytown-china-mieville.jpg
 tags: [Fantasy, Malazan, Books, Favorite Books, Science Fiction]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

@@ -6,7 +6,7 @@ title: "Book Review: The Killing Moon by N.K. Jemisin"
 date: 2012-06-15
 img: http://photo.goodreads.com/books/1331144072l/12969550.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

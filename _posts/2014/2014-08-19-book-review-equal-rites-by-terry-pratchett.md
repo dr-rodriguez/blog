@@ -6,7 +6,7 @@ title: "Book Review: Equal Rites by Terry Pratchett"
 date: 2014-08-19
 img: posts/2014/20140819/6567830.jpg
 tags: [Fantasy, Discworld, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

@@ -6,7 +6,7 @@ title: "Book Review: Deadhouse Gates by Steven Erikson"
 date: 2012-01-02
 img: posts/2012/20120102/afe4228348a07f5563bce010.L._AA300_.jpg
 tags: [Fantasy, Malazan, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

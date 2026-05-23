@@ -6,7 +6,7 @@ title: "Book Review: Guards! Guards! by Terry Pratchett"
 date: 2020-04-04
 img: posts/2020/20200404/5280986.jpg
 tags: [Fantasy, Discworld, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

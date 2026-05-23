@@ -6,7 +6,7 @@ title: "Book Review: Warbreaker by Brandon Sanderson"
 date: 2014-04-06
 img: posts/2014/20140406/1268479.jpg
 tags: [Cosmere, Fantasy, Books]
-category: Cosmere
+category: Books
 author: Strakul
 description: ""
 ---

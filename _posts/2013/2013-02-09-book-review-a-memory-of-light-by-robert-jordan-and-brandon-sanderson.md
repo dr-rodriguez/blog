@@ -6,7 +6,7 @@ title: "Book Review: A Memory of Light by Robert Jordan and Brandon Sanderson"
 date: 2013-02-09
 img: posts/2013/20130209/7743175.jpg
 tags: [Fantasy, Books, Wheel of Time]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

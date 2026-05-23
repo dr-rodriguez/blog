@@ -6,7 +6,7 @@ title: "Book Review: The Long Price Quartet series by Daniel Abraham"
 date: 2024-04-28
 img: posts/2024/20240428/37534895.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

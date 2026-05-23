@@ -6,7 +6,7 @@ title: "Book Review: Anansi Boys by Neil Gaiman"
 date: 2012-08-13
 img: posts/2012/20120813/51HRAVbE2lL._SS500_.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

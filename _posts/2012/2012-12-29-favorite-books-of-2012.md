@@ -6,7 +6,7 @@ title: "Favorite Books of 2012"
 date: 2012-12-29
 img: http://upload.wikimedia.org/wikipedia/en/c/ca/Anathem.png
 tags: [Fantasy, Malazan, Books, Favorite Books, Science Fiction]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

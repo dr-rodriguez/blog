@@ -6,7 +6,7 @@ title: "Book Review: The Light Fantastic by Terry Pratchett"
 date: 2013-01-17
 img: http://d.gr-assets.com/books/1347395202l/34506.jpg
 tags: [Fantasy, Discworld, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

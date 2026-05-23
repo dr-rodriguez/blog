@@ -6,7 +6,7 @@ title: "Book Review: Spellbound by Blake Charlton"
 date: 2024-08-25
 img: posts/2024/20240825/8512555.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

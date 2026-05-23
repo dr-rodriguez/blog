@@ -6,7 +6,7 @@ title: "Book Review: Mort by Terry Pratchett"
 date: 2015-05-23
 img: posts/2015/20150523/8862633.jpg
 tags: [Fantasy, Discworld, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

@@ -6,7 +6,7 @@ title: "Book Review: Reaper's Gale by Steven Erikson"
 date: 2013-05-18
 img: posts/2013/20130518/8623112.jpg
 tags: [Fantasy, Malazan, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---
