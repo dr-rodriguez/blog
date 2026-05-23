@@ -1,68 +1,137 @@
-{% include calculate_relative_base.html %}
-{% include escape-404.html %}
-
 <head>
-	<meta charset="utf-8">
-	<title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
-	<link rel="canonical" href="{{ site.url }}{{ page.url }}">
-	<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	{% include SEO.html %}
-	<!-- Windows Phone -->
-	<meta name="msapplication-navbutton-color" content="#311e3e">
-	<!-- iOS Safari -->
-	<meta name="apple-mobile-web-app-status-bar-style" content="#311e3e">
-	<!-- Google Fonts -->
-	<link rel="preconnect" href="https://fonts.gstatic.com" />
-	<style>
-/* latin */
-@font-face {
-  font-family: 'Lora';
-  font-style: normal;
-  font-weight: 400;
-  src: url(https://fonts.gstatic.com/s/lora/v17/0QIvMX1D_JOuMwr7I_FMl_E.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-/* latin */
-@font-face {
-  font-family: 'Lora';
-  font-style: normal;
-  font-weight: 600;
-  src: url(https://fonts.gstatic.com/s/lora/v17/0QIvMX1D_JOuMwr7I_FMl_E.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-/* latin */
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 200;
-  src: url(https://fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlxdu3cOWxw.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-/* latin */
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 400;
-  src: url(https://fonts.gstatic.com/s/sourcesanspro/v14/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-/* latin */
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 700;
-  src: url(https://fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu3cOWxw.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-	</style>
-	<!-- <link href="https://fonts.googleapis.com/css?family=Lora:400,600|Source+Sans+Pro:200,400,700" rel="stylesheet"> -->
-	<!-- Font Awesome -->
-	<link rel="stylesheet" href="{{ relativebase }}assets/fonts/font-awesome/css/font-awesome.min.css">
-	<!-- Styles -->
-	<link rel="stylesheet" href="{{ relativebase }}assets/css/main.css">
-	{% include favicon.html %}
-	{% if page.layout == 'post' %}
-	<link rel="stylesheet" href="{{ relativebase }}assets/css/highlighter/{{ site.highlight_theme }}.css">
-	{% endif %}
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f7f7f7">
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1b1b1e">
+  <meta
+    name="viewport"
+    content="width=device-width, user-scalable=no initial-scale=1, shrink-to-fit=no, viewport-fit=cover"
+  >
+
+  {%- capture seo_tags -%}
+    {% seo title=false %}
+  {%- endcapture -%}
+
+  <!-- Setup Open Graph image -->
+
+  {% if page.image %}
+    {% assign src = page.image.path | default: page.image %}
+
+    {% unless src contains '://' %}
+      {%- capture img_url -%}
+        {% include media-url.html src=src subpath=page.media_subpath absolute=true %}
+      {%- endcapture -%}
+
+      {%- capture old_url -%}{{ src | absolute_url }}{%- endcapture -%}
+      {%- capture new_url -%}{{ img_url }}{%- endcapture -%}
+
+      {% assign seo_tags = seo_tags | replace: old_url, new_url %}
+    {% endunless %}
+
+  {% elsif site.social_preview_image %}
+    {%- capture img_url -%}
+      {% include media-url.html src=site.social_preview_image absolute=true %}
+    {%- endcapture -%}
+
+    {%- capture og_image -%}
+      <meta property="og:image" content="{{ img_url }}" />
+    {%- endcapture -%}
+
+    {%- capture twitter_image -%}
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta property="twitter:image" content="{{ img_url }}" />
+    {%- endcapture -%}
+
+    {% assign old_meta_clip = '<meta name="twitter:card" content="summary" />' %}
+    {% assign new_meta_clip = og_image | append: twitter_image %}
+    {% assign seo_tags = seo_tags | replace: old_meta_clip, new_meta_clip %}
+  {% endif %}
+
+  {{ seo_tags }}
+
+  {%- if site.social.fediverse_handle %}
+    <!-- Fediverse handle/creator -->
+    <meta name="fediverse:creator" content="{{ site.social.fediverse_handle }}">
+  {% endif %}
+
+  <title>
+    {%- unless page.layout == 'home' -%}
+      {%- capture title -%}
+        {%- if page.collection == 'tabs' -%}
+          {%- assign tab_key = page.title | downcase -%}
+          {{- site.data.locales[include.lang].tabs[tab_key] -}}
+        {%- else -%}
+          {{- page.title -}}
+        {%- endif -%}
+      {%- endcapture -%}
+      {{- title | append: ' | ' -}}
+    {%- endunless -%}
+    {{- site.title -}}
+  </title>
+
+  {% include_cached favicons.html %}
+
+  <!-- Resource Hints -->
+  {% unless site.assets.self_host.enabled %}
+    {% for hint in site.data.origin.cors.resource_hints %}
+      {% for link in hint.links %}
+        <link rel="{{ link.rel }}" href="{{ hint.url }}" {{ link.opts | join: ' ' }}>
+      {% endfor %}
+    {% endfor %}
+  {% endunless %}
+
+  <!-- Bootstrap -->
+  {% unless jekyll.environment == 'production' %}
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5/dist/css/bootstrap.min.css">
+  {% endunless %}
+
+  <!-- Theme style -->
+  <link rel="stylesheet" href="{{ '/assets/css/:THEME.css' | replace: ':THEME', site.theme | relative_url }}">
+
+  <!-- Web Font -->
+  <link rel="stylesheet" href="{{ site.data.origin[type].webfonts | relative_url }}">
+
+  <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="{{ site.data.origin[type].fontawesome.css | relative_url }}">
+
+  <!-- 3rd-party Dependencies -->
+
+  {% if site.toc and page.toc %}
+    <link rel="stylesheet" href="{{ site.data.origin[type].toc.css | relative_url }}">
+  {% endif %}
+
+  {% if page.layout == 'post' or page.layout == 'page' or page.layout == 'home' %}
+    <link rel="stylesheet" href="{{ site.data.origin[type]['lazy-polyfill'].css | relative_url }}">
+  {% endif %}
+
+  {% if page.layout == 'page' or page.layout == 'post' %}
+    <!-- Image Popup -->
+    <link rel="stylesheet" href="{{ site.data.origin[type].glightbox.css | relative_url }}">
+  {% endif %}
+
+  <!-- Scripts -->
+
+  <script src="{{ '/assets/js/dist/theme.min.js' | relative_url }}"></script>
+
+  {% include js-selector.html lang=lang %}
+
+  {% if jekyll.environment == 'production' %}
+    <!-- PWA -->
+    {% if site.pwa.enabled %}
+      <script
+        defer
+        src="{{ '/app.min.js' | relative_url }}?baseurl={{ site.baseurl | default: '' }}&register={{ site.pwa.cache.enabled }}"
+      ></script>
+    {% endif %}
+
+    <!-- Web Analytics -->
+    {% for analytics in site.analytics %}
+      {% capture str %}{{ analytics }}{% endcapture %}
+      {% assign platform = str | split: '{' | first %}
+      {% if site.analytics[platform].id and site.analytics[platform].id != empty %}
+        {% include analytics/{{ platform }}.html %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+  {% include metadata-hook.html %}
 </head>
