@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: Young Stars and Planets Near the Sun"
 date: 2015-05-20
-img: posts/2015/20150520/IAU-Header.jpg
+image: /assets/img/posts/2015/20150520/IAU-Header.jpg
 tags: [Travel, Astronomy]
 category: Travel
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2015/20150520/IAU-Header.jpg)](assets/img/posts/2015/20150520/IAU-Header_1.jpg)

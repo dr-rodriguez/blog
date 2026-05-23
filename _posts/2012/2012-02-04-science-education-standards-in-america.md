@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Science Education Standards in America"
 date: 2012-02-04
-img: http://blogs.scientificamerican.com/budding-scientist/files/2012/02/Science-Standards-Map-02.01.12.jpg
+image: http://blogs.scientificamerican.com/budding-scientist/files/2012/02/Science-Standards-Map-02.01.12.jpg
 tags: [Politics, Education, Astronomy]
 category: Politics
 author: Strakul
 description: ""
+img_show: false
 ---
 
 I recently read a very interesting, and alarming, [Scientific American article](http://blogs.scientificamerican.com/budding-scientist/2012/02/01/u-s-state-science-standards-are-mediocre-to-awful/) on statewide science standards in the US. This picture says it all:  

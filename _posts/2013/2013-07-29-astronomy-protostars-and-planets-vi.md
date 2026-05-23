@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: Protostars and Planets VI"
 date: 2013-07-29
-img: posts/2013/20130729/IMG_1251.JPG
+image: /assets/img/posts/2013/20130729/IMG_1251.JPG
 tags: [Pictures, Travel, Astronomy]
 category: Pictures
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Two weeks ago, I attended [Protostars and Planets VI](http://www.mpia-hd.mpg.de/homes/ppvi/), an astronomy conference held in Heidelberg, Germany. It was a large meeting and also my first time in Germany. Hence, I decided to stay a few extra days and thus this post is somewhat delayed.  

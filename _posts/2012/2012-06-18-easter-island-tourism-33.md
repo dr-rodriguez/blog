@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Easter Island: Tourism! (3/3)"
 date: 2012-06-18
-img: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Easter_Island_map-en.svg/2000px-Easter_Island_map-en.svg.png
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Easter_Island_map-en.svg/2000px-Easter_Island_map-en.svg.png
 tags: [Pictures, Life in Chile, Travel]
 category: Pictures
 author: Strakul
 description: ""
+img_show: false
 ---
 
 This is the last of my three posts on Easter Island. [Part 1](http://strakul.blogspot.com/2012/06/easter-island-outreach-activities-13.html) described the astronomy outreach we did there, [part 2](http://strakul.blogspot.com/2012/06/easter-island-transit-of-venus-23.html) was about the transit of Venus, our main event. This part now describes all the touristy things we squeezed in when we weren't working.  

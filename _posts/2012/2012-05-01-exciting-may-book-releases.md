@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Exciting May Book Releases"
 date: 2012-05-01
-img: http://photo.goodreads.com/books/1333712780l/12814594.jpg
+image: http://photo.goodreads.com/books/1333712780l/12814594.jpg
 tags: [Misc, Books]
 category: Misc
 author: Strakul
 description: ""
+img_show: false
 ---
 
 This month sees the release of several books I'm very excited for. So much so that I almost (but not quite) regret starting **House of Chains** , fourth book of the Malazan Book of the Fallen rather than waiting to read these titles.  

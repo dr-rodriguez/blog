@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: Spitzer Sees Light from Super Earth"
 date: 2012-05-08
-img: http://www.nasa.gov/images/content/646956main_pia15621-43_946-710.jpg
+image: http://www.nasa.gov/images/content/646956main_pia15621-43_946-710.jpg
 tags: [Astronomy, Planets]
 category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 The Spitzer Space Telescope is an orbiting satellite that takes data at near and mid infrared wavelengths. It had to be cryogenically cooled, otherwise it would detect its own heat in its instruments! Right now, the cryogen has run out so it only operates at the shortest wavelengths (3.5 and 4.6 microns), but is still useful for a lot of science ranging from brown dwarfs to exoplanets to dusty galaxies.  

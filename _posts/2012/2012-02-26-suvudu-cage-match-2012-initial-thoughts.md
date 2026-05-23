@@ -6,7 +6,7 @@ title: "Suvudu Cage Match 2012: Initial Thoughts"
 date: 2012-02-26
 img: 
 tags: [Wheel of Time, Fantasy, Misc, Malazan, Books, Science Fiction]
-category: Wheel of Time
+category: Books
 author: Strakul
 description: ""
 ---

@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: Observing at CTIO"
 date: 2014-03-28
-img: posts/2014/20140328/IMG_3488.jpg
+image: /assets/img/posts/2014/20140328/IMG_3488.jpg
 tags: [Pictures, Travel, Astronomy]
 category: Pictures
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2014/20140328/IMG_3488.jpg)](assets/img/posts/2014/20140328/IMG_3488.jpg)

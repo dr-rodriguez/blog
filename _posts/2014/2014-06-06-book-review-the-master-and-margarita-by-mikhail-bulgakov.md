@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Master and Margarita by Mikhail Bulgakov"
 date: 2014-06-06
-img: posts/2014/20140606/117833.jpg
+image: /assets/img/posts/2014/20140606/117833.jpg
 tags: [Books, Book Club]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2014/20140606/117833.jpg)](assets/img/posts/2014/20140606/117833.jpg)
+![](/assets/img/posts/2014/20140606/117833.jpg){: width="500" .w-50 .left}
 
 The Master and Margarita by Mikhail Bulgakov is the latest book selected for our Santiago Book Club. The Amazon blurb is quite brief: Set in Moscow of the 1920's, this satirical novel recounts the dealings a writer and his mistress have with Satan.  
   

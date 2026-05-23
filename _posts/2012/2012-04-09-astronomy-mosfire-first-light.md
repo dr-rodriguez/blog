@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: MOSFIRE First Light"
 date: 2012-04-09
-img: http://keckobservatory.org/images/press_images/MOSFIRE-1st-Lite.jpg
+image: http://keckobservatory.org/images/press_images/MOSFIRE-1st-Lite.jpg
 tags: [Pictures, Brown Dwarfs, Galaxies, Astronomy]
 category: Pictures
 author: Strakul
 description: ""
+img_show: false
 ---
 
 MOSFIRE, or the _Multi-Object Spectrometer For Infra-Red Exploration_ , has seen [first light at W.M. Keck Observatory](http://keckobservatory.org/news/first_light_mosfire). This is means the instrument was mounted on the 10-meter diameter Keck I telescope and took its first images of the night sky. It's a big step as it shows that things are moving along.  

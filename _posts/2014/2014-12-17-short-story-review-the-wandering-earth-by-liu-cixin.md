@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Short Story Review: The Wandering Earth by Liu Cixin"
 date: 2014-12-17
-img: posts/2014/20141217/13554058.jpg
+image: /assets/img/posts/2014/20141217/13554058.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2014/20141217/13554058.jpg)](assets/img/posts/2014/20141217/13554058.jpg)
+![](/assets/img/posts/2014/20141217/13554058.jpg){: width="500" .w-50 .left}
 
 Science fiction is at its best with short stories. This medium is just long enough to present the basic outlines of the setting, but short enough to pack an emotional punch. **The Wandering Earth** by Liu Cixin was an amazing sci-fi the likes of which I haven't read in a long long time.While I usually review novels or novellas only, this deserves a mention on this blog.  
   

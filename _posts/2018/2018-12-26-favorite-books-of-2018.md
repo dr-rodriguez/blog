@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Favorite Books of 2018"
 date: 2018-12-26
-img: posts/2018/20181226/25297770.jpg
+image: /assets/img/posts/2018/20181226/25297770.jpg
 tags: [Books, Favorite Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
 It's that time of year again when I look back at what I read in the past year and decide what was memorable or not. This year, I've only managed 11 books missing my goal of 12. I am 50% through my 12th one, though, so I might be able to finish it before the end of the year. According to Goodreads, these 11 books amounted to only 3735 pages making it one of the years I read the least. Mainly this was due to other things occupying my time. I also didn't write a review for everything I read. While I generally enjoy doing that, sometimes I find the process draining and can lead me to artificially slowing down the book while I come up with what to write.  
@@ -17,7 +18,7 @@ Nevertheless, here are some of my favorite books this year. As always, remember 
   
 
 
-[![](assets/img/posts/2018/20181226/25297770.jpg)](assets/img/posts/2018/20181226/25297770.jpg)
+![](/assets/img/posts/2018/20181226/25297770.jpg){: width="500" .w-50 .left}
 
 **[The Mortal Tally](https://strakul.blogspot.com/2018/09/book-review-mortal-tally-by-sam-sykes.html)** by Sam Sykes  
   

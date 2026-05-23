@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Gone Girl by Gillian Flynn"
 date: 2013-05-26
-img: posts/2013/20130526/13261812.jpg
+image: /assets/img/posts/2013/20130526/13261812.jpg
 tags: [Books, Book Club]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2013/20130526/13261812.jpg)](assets/img/posts/2013/20130526/13261812.jpg)
+![](/assets/img/posts/2013/20130526/13261812.jpg){: width="500" .w-50 .left}
 
 This is quite different from the sorts of books I read. It's not even remotely science fiction or fantasy. I've read it as part of a book club I'm joining here in Chile. It's a suspense novel about a marriage of a sociopath and a narcissist and it has gone horribly wrong. It may not be what I'm used to, but I actually enjoyed it!  
   

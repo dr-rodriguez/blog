@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: Observing at La Silla"
 date: 2013-02-18
-img: posts/2013/20130218/IMG_9793_1.JPG
+image: /assets/img/posts/2013/20130218/IMG_9793_1.JPG
 tags: [Pictures, Travel, Astronomy]
 category: Pictures
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2013/20130218/IMG_9793_1.JPG)](assets/img/posts/2013/20130218/IMG_9793.JPG)  

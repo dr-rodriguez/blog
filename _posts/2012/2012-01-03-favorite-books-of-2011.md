@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Favorite Books of 2011"
 date: 2012-01-03
-img: posts/2012/20120103/embassytown-china-mieville.jpg
+image: /assets/img/posts/2012/20120103/embassytown-china-mieville.jpg
 tags: [Fantasy, Malazan, Books, Favorite Books, Science Fiction]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
 While I don't feel I read a whole lot of books in 2011, according to my Goodreads log I finished 32, including a few graphic novels. In the spirit of summarizing 2011, I present here my favorite five among those**** books I read. I should note that these are books I read for the first time in 2011 regardless of whether or not they were published that year. I've tried to sort them in order of increasing awesomeness, but I must say I rank all of these quite highly.  
@@ -28,6 +29,6 @@ This is the first book in the **Malazan Book of the Fallen** and my only regret 
 1\. Embassytown by China Mieville  
 
 
-[![](assets/img/posts/2012/20120419/embassytown-china-mieville.jpg)](assets/img/posts/2012/20120103/embassytown-china-mieville.jpg)
+![](/assets/img/posts/2012/20120419/embassytown-china-mieville.jpg){: width="500" .w-50 .left}
 
 When I first heard about this book, I knew it would be good. This is Mieville's first foray into pure science fiction, and he makes it work. Mieville is a master of language and he really shines in this book. It's arguably my favorite Mieville book thus far. The story has 3 arcs: first is the distant past, when the character is young and you learn about the immer, Language, and a bit about the Hosts; following that is an entertaining part where you flip back and forth between the present and the near past; after that is the fast paced section where everything ties together and you get to see the consequences of all actions past. I will be very surprised if I don't see **Embassytown** getting a Hugo nomination this year. 

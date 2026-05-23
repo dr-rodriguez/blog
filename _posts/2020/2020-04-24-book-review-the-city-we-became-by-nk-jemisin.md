@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The City We Became by N.K. Jemisin"
 date: 2020-04-24
-img: posts/2020/20200424/43558961._SY475_.jpg
+image: /assets/img/posts/2020/20200424/43558961._SY475_.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2020/20200424/43558961._SY475_.jpg)](assets/img/posts/2020/20200424/43558961._SY475_.jpg)
+![](/assets/img/posts/2020/20200424/43558961._SY475_.jpg){: width="500" .w-50 .left}
 
 I'm a fan of many of N.K. Jemisin's books so when I heard she was working on a fantasy novel about New York I was intrigued. When I read the [preview chapter over at Orbit Books](http://www.orbitbooks.net/the-city-we-became/read-excerpt.php), I knew I had to get it. Having lived in New York myself, I was hopping I would get a better appreciation for it and I think I certainly did. Without further ado, here is the Goodreads blurb:  
   

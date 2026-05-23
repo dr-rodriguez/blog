@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: Cool Stars 17 Meeting"
 date: 2012-07-15
-img: posts/2012/20120715/IMG_4684_1.JPG
+image: /assets/img/posts/2012/20120715/IMG_4684_1.JPG
 tags: [Travel, Brown Dwarfs, Planets, Astronomy, Stars]
 category: Travel
 author: Strakul
 description: ""
+img_show: false
 ---
 
 I wanted to write up a brief summary of my thoughts on the Cool Stars meeting, but was busy traveling and then had the ALMA proposal deadline. That's all past now, so here are some quick thoughts.  

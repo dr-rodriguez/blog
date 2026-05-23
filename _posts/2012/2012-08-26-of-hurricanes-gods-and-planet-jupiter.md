@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Of Hurricanes, gods, and planet Jupiter"
 date: 2012-08-26
-img: posts/2012/20120826/HurricanesSince1851_1.jpg
+image: /assets/img/posts/2012/20120826/HurricanesSince1851_1.jpg
 tags: [Weather, Pictures, Misc, Astronomy]
-category: Weather
+category: Misc
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2012/20120826/HurricanesSince1851_1.jpg)](assets/img/posts/2012/20120826/HurricanesSince1851.jpg)

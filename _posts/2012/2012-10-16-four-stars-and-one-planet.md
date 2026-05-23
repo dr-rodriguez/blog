@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Four Stars and One Planet"
 date: 2012-10-16
-img: http://img.gawkerassets.com/img/1829oy8x7vulmjpg/original.jpg
+image: http://img.gawkerassets.com/img/1829oy8x7vulmjpg/original.jpg
 tags: [Astronomy, Planets]
 category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](http://img.gawkerassets.com/img/1829oy8x7vulmjpg/original.jpg)](http://img.gawkerassets.com/img/1829oy8x7vulmjpg/original.jpg)  

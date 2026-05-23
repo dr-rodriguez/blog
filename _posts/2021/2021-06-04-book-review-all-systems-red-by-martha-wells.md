@@ -4,16 +4,17 @@ read_time: true
 show_date: true
 title: "Book Review: All Systems Red by Martha Wells"
 date: 2021-06-04
-img: posts/2021/20210604/32758901._SY475_.jpg
+image: /assets/img/posts/2021/20210604/32758901._SY475_.jpg
 tags: [Books, Novella, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
 ****
 
-**[![](assets/img/posts/2021/20210604/32758901._SY475_.jpg)](assets/img/posts/2021/20210604/32758901._SY475_.jpg)**
+**![](/assets/img/posts/2021/20210604/32758901._SY475_.jpg){: width="500" .w-50 .left}**
 
 **All Systems Red** is the first of **The Murderbot Diaries** , a series long recommended by a good friend of mine. I finally got the chance to check it out and after the last book it was a palette cleanser in terms of being a very short, self-contained story. 
 

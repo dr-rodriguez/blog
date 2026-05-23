@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Killing Moon by N.K. Jemisin"
 date: 2012-06-15
-img: http://photo.goodreads.com/books/1331144072l/12969550.jpg
+image: http://photo.goodreads.com/books/1331144072l/12969550.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](http://photo.goodreads.com/books/1331144072l/12969550.jpg)](http://photo.goodreads.com/books/1331144072l/12969550.jpg)
+![](http://photo.goodreads.com/books/1331144072l/12969550.jpg){: width="500" .w-50 .left}
 
 I interrupt my Easter Island series (the final part will be up this weekend) to post this review for **The Killing Moon** , which I finished about a week ago. This book is part 1 of N. K. Jemisin's **Dreamblood** duology (that means 2 books). As Jemisin says on her [website](http://nkjemisin.com/2010/12/now-it-can-be-told-dreamblood/), it's an epic fantasy tale with influences from ancient Egypt, Freudian dream theory, and Jung's ideas on collective consciousness.  
   

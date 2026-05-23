@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Blogging for A Year"
 date: 2013-01-03
-img: posts/2013/20130103/Screen+shot+2013-01-01+at+5.39.06+PM_1.png
+image: /assets/img/posts/2013/20130103/Screen+shot+2013-01-01+at+5.39.06+PM_1.png
 tags: [Misc, Writting]
 category: Misc
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Last year, on January 2nd, I started this blog, something I've been meaning to do for quite a while.  

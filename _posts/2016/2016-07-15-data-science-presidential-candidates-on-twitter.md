@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Data Science: Presidential Candidates on Twitter"
 date: 2016-07-15
-img: posts/2016/20160715/wordclouds.png
+image: /assets/img/posts/2016/20160715/wordclouds.png
 tags: [Data Science, Politics, Text Mining, Python]
 category: Data Science
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2016/20160715/wordclouds.png)](assets/img/posts/2016/20160715/wordclouds_1.png)

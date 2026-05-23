@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Neverwhere by Neil Gaiman"
 date: 2012-04-06
-img: posts/2012/20120406/Neverwhere(1).jpg
+image: /assets/img/posts/2012/20120406/Neverwhere(1).jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2012/20120406/image.jpg).jpg)](http://www.examiner.com/images/blog/EXID25910/images/Neverwhere\(1\).jpg)
+![](/assets/img/posts/2012/20120406/image.jpg).jpg){: width="500" .w-50 .left}.jpg)
 
 I had purchased **Neverwhere** since it was on discount and because I keep hearing good things about Neil Gaiman. I have read, and enjoyed, **American Gods** , so I figured it worth trying another of his books. It didn't hurt that it was on sale for just $2.99. I always keep an eye for these sort of specials.  
   

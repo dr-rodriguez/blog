@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "GJ 667Cc: A Potential Life-Supporting Planet"
 date: 2012-02-04
-img: http://upload.wikimedia.org/wikipedia/commons/6/61/Habitable_zone_-_HZ.png
+image: http://upload.wikimedia.org/wikipedia/commons/6/61/Habitable_zone_-_HZ.png
 tags: [Astronomy, Planets]
 category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Exoplanet surveys have been discovering planet after planet. With over 700 confirmed planets and thousands of candidates, it's sometimes difficult to get excited over another one. But then, when you least expect it, some team announces a brand new planet that either challenges the norm or is just outright cool.  

@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Moving to New York City"
 date: 2015-11-22
-img: posts/2015/20151122/IMG_5828_1.jpg
+image: /assets/img/posts/2015/20151122/IMG_5828_1.jpg
 tags: [Life in NYC, Pictures, Travel, Astronomy]
 category: Life in NYC
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2015/20151122/IMG_5828_1.jpg)](assets/img/posts/2015/20151122/IMG_5828.jpg)

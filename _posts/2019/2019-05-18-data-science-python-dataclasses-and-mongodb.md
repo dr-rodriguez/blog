@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Data Science: Python Dataclasses and MongoDB"
 date: 2019-05-18
-img: posts/2019/20190518/mongodb_compass_1.png
+image: /assets/img/posts/2019/20190518/mongodb_compass_1.png
 tags: [Data Science, Brown Dwarfs, Databases, NoSQL, Astronomy, Python]
 category: Data Science
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Over the past few weeks, I've been playing a bit with some NoSQL databases, in particular, with MongoDB. This is one particular type of database known as a document-store database and it works primarily by saving JSON formatted 'documents'. While exploring this technology and working on some Python code, I realized how easy it is to convert a standard Python class into a dictionary and how dictionaries readily translate into JSON. With this knowledge in hand, a light-bulb went off in my head as I realized I could make use of the new dataclasses implemented as part of Python 3.7 and quickly create a working database with minimal code.  

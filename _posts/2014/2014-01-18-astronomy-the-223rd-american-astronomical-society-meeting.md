@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: The 223rd American Astronomical Society Meeting"
 date: 2014-01-18
-img: posts/2014/20140118/aas223logo_0.png
+image: /assets/img/posts/2014/20140118/aas223logo_0.png
 tags: [Travel, Astronomy]
 category: Travel
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2014/20140118/aas223logo_0.png)](assets/img/posts/2014/20140118/aas223logo_0.png)

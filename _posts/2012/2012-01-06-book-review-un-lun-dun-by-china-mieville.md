@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Un Lun Dun by China Mieville"
 date: 2012-01-06
-img: posts/2012/20120106/unlundun.jpg
+image: /assets/img/posts/2012/20120106/unlundun.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2012/20120106/unlundun.jpg)](assets/img/posts/2012/20120106/unlundun_1.jpg)
+![](/assets/img/posts/2012/20120106/unlundun.jpg){: width="500" .w-50 .left}
 
   
 This is China Mieville's first young adult (YA) book. I dislike the classification of books as 'YA' as it seems to me that the only reason is due to the age of the primary character. Regardless, the reason I read this is in preparation for Mieville's new book **Railsea** , which everyone claims will be YA as well despite the scarcity of information. **Railsea** and **Un Lun Dun** have nothing to do with each other, but I wanted to see how Mieville manages YA.  

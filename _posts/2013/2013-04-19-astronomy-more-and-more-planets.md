@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: More and More Planets"
 date: 2013-04-19
-img: posts/2013/20130419/19planets-span-articleLarge.jpg
+image: /assets/img/posts/2013/20130419/19planets-span-articleLarge.jpg
 tags: [Astronomy, Planets]
 category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2013/20130419/19planets-span-articleLarge.jpg)](assets/img/posts/2013/20130419/19planets-span-articleLarge.jpg)  

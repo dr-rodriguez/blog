@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Wandering Earth by Liu Cixin"
 date: 2018-06-30
-img: posts/2018/20180630/35491680.jpg
+image: /assets/img/posts/2018/20180630/35491680.jpg
 tags: [Short Stories, Books, Science Fiction]
-category: Short Stories
+category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2018/20180630/35491680.jpg)](assets/img/posts/2018/20180630/35491680.jpg)
+![](/assets/img/posts/2018/20180630/35491680.jpg){: width="500" .w-50 .left}
 
 **The Wandering Earth** is a collection of short stories by Liu Cixin and translated by Ken Liu, Elizabeth Hanlon, Zac Haluza, Adam Lanphier, and Holger Nahm. I picked this up at Balticon, a local science fiction and fantasy convention. I had already read the titular short story (you can find [my review here](https://strakul.blogspot.com/2014/12/short-story-review-wandering-earth-by.html)), but had not yet read any of the other ones. Because this is not a novel, I won't review it in the same fashion but rather give you my impressions as a whole.  
   

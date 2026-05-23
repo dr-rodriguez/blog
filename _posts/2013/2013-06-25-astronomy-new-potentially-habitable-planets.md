@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: New Potentially Habitable Planets"
 date: 2013-06-25
-img: posts/2013/20130625/eso1328a_1.jpg
+image: /assets/img/posts/2013/20130625/eso1328a_1.jpg
 tags: [Astronomy, Planets]
 category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2013/20130625/eso1328a_1.jpg)](assets/img/posts/2013/20130625/eso1328a.jpg)  

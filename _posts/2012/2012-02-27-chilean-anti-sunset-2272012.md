@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Chilean Anti-Sunset: 2/27/2012"
 date: 2012-02-27
-img: posts/2012/20120227/IMG_4337.JPG
+image: /assets/img/posts/2012/20120227/IMG_4337.JPG
 tags: [Life in Chile, Pictures]
 category: Life in Chile
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Here is today's anti-sunset picture:  

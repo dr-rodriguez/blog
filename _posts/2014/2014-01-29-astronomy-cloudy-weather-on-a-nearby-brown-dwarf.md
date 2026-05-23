@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: Cloudy Weather on a Nearby Brown Dwarf"
 date: 2014-01-29
-img: posts/2014/20140129/eso1404c.jpg
+image: /assets/img/posts/2014/20140129/eso1404c.jpg
 tags: [Planets, Brown Dwarfs, Astronomy]
-category: Planets
+category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2014/20140129/eso1404c.jpg)](assets/img/posts/2014/20140129/eso1404c.jpg)  

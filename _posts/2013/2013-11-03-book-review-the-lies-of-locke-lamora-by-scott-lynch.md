@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Lies of Locke Lamora by Scott Lynch"
 date: 2013-11-03
-img: posts/2013/20131103/6219133.jpg
+image: /assets/img/posts/2013/20131103/6219133.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2013/20131103/6219133.jpg)](assets/img/posts/2013/20131103/6219133.jpg)
+![](/assets/img/posts/2013/20131103/6219133.jpg){: width="500" .w-50 .left}
 
 The Lies of Locke Lamora is a fantasy crime novel by Scott Lynch. You follow the story of Locke Lamora, a master con artist leading his band of thieves. It's recently been promoted quite a bit thanks to the author's third release. Here's the blurb:  
   

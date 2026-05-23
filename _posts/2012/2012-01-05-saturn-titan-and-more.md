@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Saturn, Titan, and more!"
 date: 2012-01-05
-img: posts/2012/20120105/PIA14910_900c.jpg
+image: /assets/img/posts/2012/20120105/PIA14910_900c.jpg
 tags: [Pictures, Planets, Astronomy]
 category: Pictures
 author: Strakul
 description: ""
+img_show: false
 ---
 
 A short post on today's [Astronomy Picture of the Day](http://apod.nasa.gov/apod/astropix.html).  

@@ -4,7 +4,6 @@ read_time: true
 show_date: true
 title: "Fund Me Maybe"
 date: 2013-02-02
-img: 
 tags: [Misc, Astronomy]
 category: Misc
 author: Strakul

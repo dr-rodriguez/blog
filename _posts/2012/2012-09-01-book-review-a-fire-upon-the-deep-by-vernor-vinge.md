@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: A Fire Upon the Deep by Vernor Vinge"
 date: 2012-09-01
-img: http://photo.goodreads.com/books/1328110731l/8291178.jpg
+image: http://photo.goodreads.com/books/1328110731l/8291178.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](http://photo.goodreads.com/books/1328110731l/8291178.jpg)](http://photo.goodreads.com/books/1328110731l/8291178.jpg)
+![](http://photo.goodreads.com/books/1328110731l/8291178.jpg){: width="500" .w-50 .left}
 
 There are some books people frequently recommend. I've heard a lot of people praising Vernor Vinge for **A Fire Upon the Deep** , but never once do they tell what it's about. Then I read the basic blurb, which talks about Zones in the Galaxy that control where advanced technologies (like faster-than-light travel) can work. That sounded original so I finally got it. And was blown away. This was one of the best pieces of fiction I have read in a long time. It is certainly among my Top 5 this year. It's not just because of the Zones, though. There is a lot to enjoy in this book: a medieval society experiencing first contact, "world"-building on a galactic and extra-galactic scale, a Blight that threatens to destroy the civilizations in the Galaxy, and some very odd alien races. Read on to see my full review.  
   

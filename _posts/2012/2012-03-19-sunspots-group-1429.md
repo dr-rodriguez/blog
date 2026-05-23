@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Sunspots Group 1429"
 date: 2012-03-19
-img: posts/2012/20120319/bigspots_rayego_5184.jpg
+image: /assets/img/posts/2012/20120319/bigspots_rayego_5184.jpg
 tags: [Pictures, Astronomy, Stars]
 category: Pictures
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Just a quick blog post to point you to today's amazing [Astronomy Picture of the Day](http://apod.nasa.gov/apod/ap120319.html) (APOD):  

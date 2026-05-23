@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Shadows of Self by Brandon Sanderson"
 date: 2015-10-17
-img: posts/2015/20151017/24357485.jpg
+image: /assets/img/posts/2015/20151017/24357485.jpg
 tags: [Cosmere, Fantasy, Books]
-category: Cosmere
+category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2015/20151017/24357485.jpg)](assets/img/posts/2015/20151017/24357485.jpg)
+![](/assets/img/posts/2015/20151017/24357485.jpg){: width="500" .w-50 .left}
 
 Around the time when Brandon Sanderson finished publishing his Mistborn trilogy, he revealed that his goal was to make a set of trilogies set in the same world and spanning a long period of time. In the meantime (and among many other projects), he decided to fill in the gaps between the first and second trilogies with stories of a band of characters in a sort of Old-West Mistborn time period. The first of these was **The Alloy of Law** , published in 2011. Now we get to see the next of these: **Shadows of Self** , which is actually the start of a [brand new trilogy](http://brandonsanderson.com/shadows-of-self-and-the-mistborn-mega-series/) beyond the original plan with the second book coming out in January (so **The Allow of Law** is a bit of an interlude between the trilogies).  
   

@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: Nine Years On Mars"
 date: 2013-01-24
-img: http://i.space.com/images/i/000/011/342/i02/distances-driven-moon-mars-130123a-02.jpg?1358981847
+image: http://i.space.com/images/i/000/011/342/i02/distances-driven-moon-mars-130123a-02.jpg?1358981847
 tags: [Astronomy, Planets]
 category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Nine years ago, on January 25, 2004 Universal Time (the 24th on Pacific Standard Time), the Opportunity rover landed on Mars.  

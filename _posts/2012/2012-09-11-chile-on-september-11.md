@@ -4,7 +4,6 @@ read_time: true
 show_date: true
 title: "Chile on September 11"
 date: 2012-09-11
-img: 
 tags: [Life in Chile, Politics]
 category: Life in Chile
 author: Strakul

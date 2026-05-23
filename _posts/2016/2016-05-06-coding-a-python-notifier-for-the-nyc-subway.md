@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Coding: A Python Notifier for the NYC Subway"
 date: 2016-05-06
-img: https://upload.wikimedia.org/wikipedia/commons/6/65/NYCT_R142A.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/6/65/NYCT_R142A.jpg
 tags: [Life in NYC, Python]
 category: Life in NYC
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](https://upload.wikimedia.org/wikipedia/commons/6/65/NYCT_R142A.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/65/NYCT_R142A.jpg)  

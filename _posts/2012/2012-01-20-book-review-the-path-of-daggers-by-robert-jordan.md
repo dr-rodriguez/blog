@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Path of Daggers by Robert Jordan"
 date: 2012-01-20
-img: http://www.dragonmount.com/forums/uploads/1282861877/med_gallery_2_2_389374.jpg
+image: http://www.dragonmount.com/forums/uploads/1282861877/med_gallery_2_2_389374.jpg
 tags: [Fantasy, Books, Wheel of Time]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](http://www.dragonmount.com/forums/uploads/1282861877/med_gallery_2_2_389374.jpg)](http://www.dragonmount.com/forums/uploads/1282861877/med_gallery_2_2_389374.jpg)
+![](http://www.dragonmount.com/forums/uploads/1282861877/med_gallery_2_2_389374.jpg){: width="500" .w-50 .left}
 
 **The Path of Daggers** is the 8th book in the **Wheel of Time** series and as such is very difficult to review for it's own merit. I have been re-reading this series, but had stopped for some time.  
   

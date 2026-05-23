@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Iguazu Falls Trip: Paraguay (2/3)"
 date: 2012-03-29
-img: posts/2012/20120329/Paraguay1.jpg
+image: /assets/img/posts/2012/20120329/Paraguay1.jpg
 tags: [Pictures, Life in Chile, Travel]
 category: Pictures
 author: Strakul
 description: ""
+img_show: false
 ---
 
 This is the second post of three regarding our trip to Iguazu Falls.  

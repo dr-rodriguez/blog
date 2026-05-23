@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Ancillary Justice by Ann Leckie"
 date: 2014-05-10
-img: http://www.annleckie.com/wp/wp-content/uploads/2013/07/Leckie_AncillaryJustice_TP-692x1024.jpg
+image: http://www.annleckie.com/wp/wp-content/uploads/2013/07/Leckie_AncillaryJustice_TP-692x1024.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](http://www.annleckie.com/wp/wp-content/uploads/2013/07/Leckie_AncillaryJustice_TP-692x1024.jpg)](http://www.annleckie.com/wp/wp-content/uploads/2013/07/Leckie_AncillaryJustice_TP-692x1024.jpg)
+![](http://www.annleckie.com/wp/wp-content/uploads/2013/07/Leckie_AncillaryJustice_TP-692x1024.jpg){: width="500" .w-50 .left}
 
 **Ancillary Justice** is a space opera novel that has been getting a lot of press lately as it wins award after award. It is the 2013 debut novel by Ann Leckie, though she has already written many short stories. I've had this book on my list for some time and finally got some time to read it. Be forewarned that it's part of an unfinished trilogy, but I have no problem starting series and I think this is one I will certainly continue.  
   

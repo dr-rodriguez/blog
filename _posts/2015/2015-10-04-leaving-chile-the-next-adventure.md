@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Leaving Chile: The Next Adventure"
 date: 2015-10-04
-img: posts/2015/20151004/nyc-skyline.jpg
+image: /assets/img/posts/2015/20151004/nyc-skyline.jpg
 tags: [Life in Chile, Travel, Astronomy]
 category: Life in Chile
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2015/20151004/nyc-skyline.jpg)](assets/img/posts/2015/20151004/nyc-skyline_1.jpg)

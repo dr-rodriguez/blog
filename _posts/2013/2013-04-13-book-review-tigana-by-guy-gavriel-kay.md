@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Tigana by Guy Gavriel Kay"
 date: 2013-04-13
-img: posts/2013/20130413/104089.jpg
+image: /assets/img/posts/2013/20130413/104089.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2013/20130413/104089.jpg)](assets/img/posts/2013/20130413/104089.jpg)
+![](/assets/img/posts/2013/20130413/104089.jpg){: width="500" .w-50 .left}
 
 On my trip to the US several months ago, I picked up two books that were unavailable in ebook format at the time. The first was [A Memory of Light](http://strakul.blogspot.com/2013/02/book-review-memory-of-light-by-robert.html), the final installment of **The Wheel of Time**. The second was **Tigana** by Guy Gavriel Kay.  
   

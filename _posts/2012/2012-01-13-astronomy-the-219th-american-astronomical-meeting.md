@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: The 219th American Astronomical Meeting"
 date: 2012-01-13
-img: posts/2012/20120113/IMG_3944_1.JPG
+image: /assets/img/posts/2012/20120113/IMG_3944_1.JPG
 tags: [Astronomy, Planets]
 category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 I've now returned to Chile after spending a few days at the largest, bi-yearly, astronomical meeting in the US. This was the 219th meeting of the American Astronomical Society, which was held January 8-12, 2012 in Austin, TX.  

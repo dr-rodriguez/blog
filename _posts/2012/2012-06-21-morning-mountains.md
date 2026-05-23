@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Morning Mountains"
 date: 2012-06-21
-img: posts/2012/20120621/IMG_4176_1.JPG
+image: /assets/img/posts/2012/20120621/IMG_4176_1.JPG
 tags: [Life in Chile, Pictures]
 category: Life in Chile
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Getting ready to head out for the Cool Stars 17 conference.  

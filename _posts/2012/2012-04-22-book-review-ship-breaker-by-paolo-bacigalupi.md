@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Ship Breaker by Paolo Bacigalupi"
 date: 2012-04-22
-img: http://photo.goodreads.com/books/1327974652l/10798814.jpg
+image: http://photo.goodreads.com/books/1327974652l/10798814.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](http://photo.goodreads.com/books/1327974652l/10798814.jpg)](http://photo.goodreads.com/books/1327974652l/10798814.jpg)
+![](http://photo.goodreads.com/books/1327974652l/10798814.jpg){: width="500" .w-50 .left}
 
 **Ship Breaker** is Paolo Bacigalupi's second novel and his first in young adult fiction. It was recently on sale to promote his next novel, **The Drowned Cities**.  
 I had previously read his 2010 Hugo-award winning novel, **The Windup Girl** , and enjoyed it very much (though I'll admit that I preferred the award-tied **The City & The City** by China Mieville). Hence, I decided to check this novel out and see if he still has the skills.  

@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: Observing at Las Campanas"
 date: 2013-04-06
-img: posts/2013/20130406/IMG_0730.JPG
+image: /assets/img/posts/2013/20130406/IMG_0730.JPG
 tags: [Pictures, Travel, Astronomy]
 category: Pictures
 author: Strakul
 description: ""
+img_show: false
 ---
 
 ![](assets/img/posts/2013/20130406/IMG_0730.JPG)  

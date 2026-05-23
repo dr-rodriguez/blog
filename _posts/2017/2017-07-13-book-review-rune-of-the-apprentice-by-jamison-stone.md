@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Rune of the Apprentice by Jamison Stone"
 date: 2017-07-13
-img: posts/2017/20170713/28650517.jpg
+image: /assets/img/posts/2017/20170713/28650517.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2017/20170713/28650517.jpg)](assets/img/posts/2017/20170713/28650517.jpg)
+![](/assets/img/posts/2017/20170713/28650517.jpg){: width="500" .w-50 .left}
 
 I met Jamison Stone at Balticon a few months ago. He was selling his book, **Rune of the Apprentice** , and describing the world and behind it. He also gave me an early version of one of the maps in exchange for a book review. Now, I always review books I read (see: the rest of this blog), so I pretty much got the map for free and that's nice. Stone did warn me this was his first book, so I kept that in mind. While it's clearly not a Sanderson or Rothfuss bestseller and it has some flaws, the book is nevertheless surprisingly good for a first-time author.  
   

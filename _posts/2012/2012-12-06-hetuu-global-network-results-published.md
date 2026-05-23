@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Hetu'u Global Network Results Published"
 date: 2012-12-06
-img: posts/2012/20121206/Hetuu_1.png
+image: /assets/img/posts/2012/20121206/Hetuu_1.png
 tags: [Travel, Planets, Transit of Venus, Education, Astronomy]
 category: Travel
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2012/20121206/Hetuu_1.png)](assets/img/posts/2012/20121206/Hetuu.png)

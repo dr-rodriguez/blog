@@ -4,14 +4,16 @@ read_time: true
 show_date: true
 title: "Book Review: Railsea by China Mieville"
 date: 2012-05-27
-img: posts/2012/20120527/12392681.jpg
+image: /assets/img/posts/2012/20120527/12392681.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2012/20120527/12392681.jpg)](assets/img/posts/2012/20120527/12392681.jpg)I've been a fan of China Mieville's work ever since I read **The City & The City** so I was eager to read his latest work: **Railsea** , a young adult novel inspired by Herman Melville's **Moby Dick**.  
+![](/assets/img/posts/2012/20120527/12392681.jpg){: width="500" .w-50 .left}
+I've been a fan of China Mieville's work ever since I read **The City & The City** so I was eager to read his latest work: **Railsea** , a young adult novel inspired by Herman Melville's **Moby Dick**.  
   
 **Overall Impression**  
 The first thing that comes to mind is the fact that this is claimed to be a young adult (YA) novel. There are several reasons for this claim: the character is young, some of the chapters are short, & most importantly, the publisher said so. However, while reading it, I wasn't too sure of this classification. Yes, it has some elements of YA novels, such as [Ship Breaker](http://strakul.blogspot.com/2012/04/book-review-ship-breaker-by-paolo.html) or **The Hunger Games** , but it's language is a bit too intricate & the pacing too erratic. It's still not as complex as his other novels, like [Embassytown](http://strakul.blogspot.com/2012/04/book-review-embassytown-by-china.html) & **Perdido Street Station** , but it isn't as straightforward as his prior YA book, [Un Lun Dun](http://strakul.blogspot.com/2012/01/book-review-un-lun-dun-by-china.html).  

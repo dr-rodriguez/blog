@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Story of the Stone by Barry Hughart"
 date: 2014-07-27
-img: posts/2014/20140727/Story_of_the_Stone.jpg
+image: /assets/img/posts/2014/20140727/Story_of_the_Stone.jpg
 tags: [Books, Fantasy]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2014/20140727/Story_of_the_Stone.jpg)](assets/img/posts/2014/20140727/Story_of_the_Stone.jpg)
+![](/assets/img/posts/2014/20140727/Story_of_the_Stone.jpg){: width="500" .w-50 .left}
 
 **The Story of the Stone** is the second installment of Barry Hughart's **Chronicles of Master Li and Number Ten Ox**. It continues shortly after [Bridge of Birds](http://strakul.blogspot.com/2014/04/book-review-bridge-of-birds-by-barry.html), though I don't believe you need to read them in order as the events of each are completely independent of one another. As before, the novel takes elements of Chinese history and myth and blends them together with a lot of fantasy. In this book, we get to see references to Prince [Liu Sheng](http://en.wikipedia.org/wiki/Liu_Sheng), [Ssu-ma Ch'ien](http://en.wikipedia.org/wiki/Sima_Qian), and the novel [Dream of the Red Chamber](http://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber), among many others.  
   

@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Last Days of New Paris by China Mieville"
 date: 2020-08-04
-img: posts/2020/20200804/27833610.jpg
+image: /assets/img/posts/2020/20200804/27833610.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2020/20200804/27833610.jpg)](assets/img/posts/2020/20200804/27833610_1.jpg)
+![](/assets/img/posts/2020/20200804/27833610.jpg){: width="500" .w-50 .left}
 
 I've had **The Last Days of New Paris** on my to-read list for a while. I'm a fan of China Mieville and enjoyed many of his books, particularly [The City and The City](https://strakul.blogspot.com/2013/06/book-review-city-city-by-china-mieville.html) and [The Scar](https://strakul.blogspot.com/2015/04/book-review-scar-by-china-mieville.html). This is a novella, so it's much shorter than before and I decided to go ahead and just dive right into it.
 

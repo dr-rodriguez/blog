@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Bonehunters by Steven Erikson"
 date: 2012-12-10
-img: posts/2012/20121210/8260815.jpg
+image: /assets/img/posts/2012/20121210/8260815.jpg
 tags: [Fantasy, Malazan, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2012/20121210/8260815.jpg)](assets/img/posts/2012/20121210/8260815.jpg)
+![](/assets/img/posts/2012/20121210/8260815.jpg){: width="500" .w-50 .left}
 
 In this post I review **The Bonehunters** by Steven Erikson, the 6th book of the **Malazan Book of the Fallen**. It has taken me far longer than I expected to read this book. Normally a book of this length (~800 pages) would take me 2-4 weeks to finish, not over 2 months. This is in part due to the 'heavy' nature of the book (see below) and to a bunch of travel, work, and other things I was up to these past few months.  
   

@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Solar Activity"
 date: 2012-01-28
-img: http://blogs.discovermagazine.com/badastronomy/files/2012/01/sdo_x2flare_jan272012_610.jpg
+image: http://blogs.discovermagazine.com/badastronomy/files/2012/01/sdo_x2flare_jan272012_610.jpg
 tags: [Astronomy, Stars]
 category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Over the past few weeks I've heard a bit of talk on the Sun and its recent activity. So I figure I'd give a short description of what's going on.  

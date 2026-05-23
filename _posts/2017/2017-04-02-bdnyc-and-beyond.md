@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "BDNYC and Beyond"
 date: 2017-04-02
-img: posts/2017/20170402/BDNYC-logo_1.png
+image: /assets/img/posts/2017/20170402/BDNYC-logo_1.png
 tags: [Life in NYC, Travel, Astronomy]
 category: Life in NYC
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2017/20170402/BDNYC-logo_1.png)](assets/img/posts/2017/20170402/BDNYC-logo.png)

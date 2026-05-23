@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Mort by Terry Pratchett"
 date: 2015-05-23
-img: posts/2015/20150523/8862633.jpg
+image: /assets/img/posts/2015/20150523/8862633.jpg
 tags: [Fantasy, Discworld, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2015/20150523/8862633.jpg)](assets/img/posts/2015/20150523/8862633.jpg)
+![](/assets/img/posts/2015/20150523/8862633.jpg){: width="500" .w-50 .left}
 
 **Mort** , by Terry Pratchett, is the fourth book in the Discworld universe and the first of the "Death" novels, so called since they focus on the character of Death. It is an excellent starting point to the Discworld novels. Here's the Goodreads blurb:  
   

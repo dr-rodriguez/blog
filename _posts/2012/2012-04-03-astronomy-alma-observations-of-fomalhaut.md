@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: ALMA Observations of Fomalhaut"
 date: 2012-04-03
-img: http://images.nrao.edu/images/antennas_8_lo.jpg
+image: http://images.nrao.edu/images/antennas_8_lo.jpg
 tags: [Disks, Planets, Astronomy, Stars]
-category: Disks
+category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Over the last few decades, astronomy has leapt forward in leaps and bounds as new world-class facilities have been built. Large, new telescopes on the ground, such as Keck, Gemini, and VLT, or on space, like HST, Spitzer, Herschel, Chandra, and WISE, have revolutionized the way we see the universe. In the extremely arid desert of northern Chile, we are building the greatest astronomical facility on the planet to date: ALMA.  

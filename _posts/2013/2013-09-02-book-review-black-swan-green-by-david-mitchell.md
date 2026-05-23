@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Black Swan Green by David Mitchell"
 date: 2013-09-02
-img: posts/2013/20130902/14316.jpg
+image: /assets/img/posts/2013/20130902/14316.jpg
 tags: [Books, Book Club]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2013/20130902/14316.jpg)](assets/img/posts/2013/20130902/14316.jpg)
+![](/assets/img/posts/2013/20130902/14316.jpg){: width="500" .w-50 .left}
 
 **Black Swan Green** by David Mitchell is a story about a young, stammer teenager in a sleepy village in England. The story recounts a year in his life (1982-1983). While bigger things are happening in the outside world (such as the Falkland War), the story is told from the point of view of the teenager and you can imagine how this colors it. He's more preoccupied with his friends, his school, and his cliques than with the bigger picture. That makes for an interesting read, as I describe below.  
   

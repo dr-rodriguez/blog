@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Data Science: MongoDB Sky Searches with HEALPix"
 date: 2019-06-16
-img: posts/2019/20190616/healpixGridRefinement.jpg
+image: /assets/img/posts/2019/20190616/healpixGridRefinement.jpg
 tags: [Data Science, NoSQL, Databases, Astronomy, Python]
 category: Data Science
 author: Strakul
 description: ""
+img_show: false
 ---
 
 This is the third blog post in a series about utilizing MongoDB NoSQL databases with astronomical data. Prior posts introduced how to store [astronomical objects](https://strakul.blogspot.com/2019/05/data-science-python-dataclasses-and.html) and how to store [FITS header metadata](https://strakul.blogspot.com/2019/06/data-science-astronomy-fits-headers-in.html). On today's post, we'll visit one of the most common things we do in astronomy- the cone search. In other words, how to do you search your database for objects in the sky that are located close to your input coordinates. Today we'll be tackling that problem "from scratch" utilizing HEALPix rather than any built-in functionality. As before, I provide a [Jupyter notebook](https://github.com/dr-rodriguez/BlogTutorials/blob/master/notebooks/HEALPix_MongoDB.ipynb) in my GitHub repo for those who may want more details and to run it on their own.  

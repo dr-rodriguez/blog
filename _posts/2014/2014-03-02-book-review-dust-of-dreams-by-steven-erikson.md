@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Dust of Dreams by Steven Erikson"
 date: 2014-03-02
-img: posts/2014/20140302/9414479.jpg
+image: /assets/img/posts/2014/20140302/9414479.jpg
 tags: [Fantasy, Malazan, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2014/20140302/9414479.jpg)](assets/img/posts/2014/20140302/9414479.jpg)
+![](/assets/img/posts/2014/20140302/9414479.jpg){: width="500" .w-50 .left}
 
 **Dust of Dreams** is the ninth book of the ten-book series **Malazan Book of the Fallen** by Steven Erikson. This has been a good series overall and the end is just in sight. It's taken a long time to go through these books for various reasons, though, which is a drawback when trying to remember the many names or plot lines. As always, I try to avoid direct spoilers, though some knowledge of the prior books will help.  
   

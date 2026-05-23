@@ -4,7 +4,6 @@ read_time: true
 show_date: true
 title: "Data Science: Astronomy FITS Headers in MongoDB"
 date: 2019-06-01
-img: 
 tags: [Data Science, NoSQL, Databases, Astronomy, Python]
 category: Data Science
 author: Strakul

@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Chile After the Rain"
 date: 2012-04-28
-img: posts/2012/20120428/IMG_2487.JPG
+image: /assets/img/posts/2012/20120428/IMG_2487.JPG
 tags: [Life in Chile, Pictures]
 category: Life in Chile
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Yesterday we had a lot of rain in Santiago. The day started foggy and cold:  

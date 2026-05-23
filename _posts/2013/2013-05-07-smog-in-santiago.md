@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Smog in Santiago"
 date: 2013-05-07
-img: posts/2013/20130507/IMG_0876.JPG
+image: /assets/img/posts/2013/20130507/IMG_0876.JPG
 tags: [Pictures, Misc, Life in Chile]
 category: Pictures
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2013/20130507/IMG_0876.JPG)](assets/img/posts/2013/20130507/IMG_0876_1.JPG)  

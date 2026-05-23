@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Guards! Guards! by Terry Pratchett"
 date: 2020-04-04
-img: posts/2020/20200404/5280986.jpg
+image: /assets/img/posts/2020/20200404/5280986.jpg
 tags: [Fantasy, Discworld, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2020/20200404/5280986.jpg)](assets/img/posts/2020/20200404/5280986.jpg)
+![](/assets/img/posts/2020/20200404/5280986.jpg){: width="500" .w-50 .left}
 
 In light of the current COVID-19 crisis, I thought to entertain myself with some lighthearted, fun books. For fantasy, one of the best examples of this is the Discworld series of novels by Terry Pratchett. I still haven't read most of these, even though I own ebook versions of several. I decided to try out the first in the 'City Watch' sub-series to see what it's all about and it all kicks of with **Guards! Guards!**  
   

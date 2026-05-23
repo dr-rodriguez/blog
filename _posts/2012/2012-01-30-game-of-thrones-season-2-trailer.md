@@ -6,7 +6,7 @@ title: "Game of Thrones Season 2 Trailer"
 date: 2012-01-30
 img: 
 tags: [Fantasy, Books, TV series]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

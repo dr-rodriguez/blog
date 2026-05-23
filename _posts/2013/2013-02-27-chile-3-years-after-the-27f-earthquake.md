@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Chile: 3 Years after the 27F Earthquake"
 date: 2013-02-27
-img: posts/2013/20130227/fotito_105215.jpg
+image: /assets/img/posts/2013/20130227/fotito_105215.jpg
 tags: [Misc, Life in Chile]
 category: Misc
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2013/20130227/fotito_105215.jpg)](assets/img/posts/2013/20130227/fotito_105215_1.jpg)  

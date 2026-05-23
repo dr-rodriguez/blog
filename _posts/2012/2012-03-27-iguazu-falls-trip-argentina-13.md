@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Iguazu Falls Trip: Argentina (1/3)"
 date: 2012-03-27
-img: posts/2012/20120327/IMG_0132.JPG
+image: /assets/img/posts/2012/20120327/IMG_0132.JPG
 tags: [Pictures, Life in Chile, Travel]
 category: Pictures
 author: Strakul
 description: ""
+img_show: false
 ---
 
 This is the first of three posts on our recent trip to [Iguazu Falls](http://en.wikipedia.org/wiki/Iguazu_Falls). This trip came about thanks to a Groupon deal several of us purchased. Although park entries weren't included, we knew we would be visiting both sides of the falls and the Parque Das Aves ([Day 3](http://strakul.blogspot.com/2012/04/iguazu-falls-trip-brazil-33.html)). We also took an improvised trip to Paraguay to visit the Itaipu dam ([Day 2](http://strakul.blogspot.com/2012/03/iguazu-falls-trip-paraguay-23.html)). Today, I will talk about our arrival and the first day of adventure in which we visit the Argentinian side of the falls.  

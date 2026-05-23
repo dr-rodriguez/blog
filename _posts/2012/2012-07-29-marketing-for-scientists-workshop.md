@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Marketing for Scientists Workshop"
 date: 2012-07-29
-img: posts/2012/20120729/KuchnerPBcover-r05_01FullCvr-200x300.jpg
+image: /assets/img/posts/2012/20120729/KuchnerPBcover-r05_01FullCvr-200x300.jpg
 tags: [Misc, Astronomy]
 category: Misc
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2012/20120729/KuchnerPBcover-r05_01FullCvr-200x300.jpg)](assets/img/posts/2012/20120729/KuchnerPBcover-r05_01FullCvr-200x300.jpg)

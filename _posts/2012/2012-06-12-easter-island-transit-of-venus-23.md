@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Easter Island: Transit of Venus (2/3)"
 date: 2012-06-12
-img: posts/2012/20120612/556155_10151002052955935_291937634_n_1.jpeg
+image: /assets/img/posts/2012/20120612/556155_10151002052955935_291937634_n_1.jpeg
 tags: [Pictures, Travel, Planets, Education, Life in Chile, Transit of Venus, Astronomy]
 category: Pictures
 author: Strakul
 description: ""
+img_show: false
 ---
 
 This is the second of a three part post series on our recent trip to Easter Island. Previously I [wrote](http://strakul.blogspot.com/2012/06/easter-island-outreach-activities-13.html) about the outreach activities we did on the days leading up to the transit. In this post I describe the main event itself: the transit of Venus.  

@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Storm Front by Jim Butcher"
 date: 2014-06-09
-img: posts/2014/20140609/6219313.jpg
+image: /assets/img/posts/2014/20140609/6219313.jpg
 tags: [Books, Fantasy]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2014/20140609/6219313.jpg)](assets/img/posts/2014/20140609/6219313.jpg)
+![](/assets/img/posts/2014/20140609/6219313.jpg){: width="500" .w-50 .left}
 
 I had to take some long flights and spend a week at a conference. I figured **Storm Front** by Jim Butcher was a light book I could read throughout the week. I did not expect I would finish it practically in one flight. Guess that means I can get the next one in the series for the return trip?  
   

@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Planets in Binary Star Systems"
 date: 2012-01-15
-img: http://www.nasa.gov/images/content/615283main_Kep35_Cook_4x3_946-710.jpg
+image: http://www.nasa.gov/images/content/615283main_Kep35_Cook_4x3_946-710.jpg
 tags: [Disks, Planets, Astronomy]
-category: Disks
+category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 The Kepler space telescope has been staring at a patch of sky to look for the dimming of light when a planet passes in front of a star. One of the interesting results coming from Kepler is the discovery of planets orbiting _pairs_ of stars, more commonly known as binaries. These circumbinary planets are exciting because star formation tends to produce stars in pairs or groups. These binary stars are common, so finding planets among them is encouraging as it suggests planetary systems are also quite common. In this blog post I'll talk about some of the recent Kepler results and prior research on planet formation in binary star systems.  

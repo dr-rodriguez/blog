@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Iguazu Falls Trip: Brazil (3/3)"
 date: 2012-04-02
-img: posts/2012/20120402/IMG_1032_1.JPG
+image: /assets/img/posts/2012/20120402/IMG_1032_1.JPG
 tags: [Pictures, Life in Chile, Travel, Astronomy]
 category: Pictures
 author: Strakul
 description: ""
+img_show: false
 ---
 
 This is the third and last post on our trip to Iguazu Falls. After brief visits to [Argentina](http://strakul.blogspot.com/2012/03/iguazu-falls-trip-argentina-13.html) and [Paraguay](http://strakul.blogspot.com/2012/03/iguazu-falls-trip-paraguay-23.html), we now turned to Brazil. We were actually staying in Foz do Iguaçu, but had yet to visit the parks on the Brazilian side.  

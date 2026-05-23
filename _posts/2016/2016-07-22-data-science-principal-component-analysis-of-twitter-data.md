@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Data Science: Principal Component Analysis of Twitter Data"
 date: 2016-07-22
-img: posts/2016/20160722/biplot_0_3_1.png
+image: /assets/img/posts/2016/20160722/biplot_0_3_1.png
 tags: [Data Science, Politics, Text Mining, Python]
 category: Data Science
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2016/20160722/biplot_0_3_1.png)](assets/img/posts/2016/20160722/biplot_0_3.png)

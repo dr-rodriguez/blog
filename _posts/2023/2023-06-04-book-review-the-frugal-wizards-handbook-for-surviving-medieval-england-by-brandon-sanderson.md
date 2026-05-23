@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Frugal Wizard's Handbook for Surviving Medieval England by Brandon Sanderson"
 date: 2023-06-04
-img: posts/2023/20230604/The-Frugal-Wizards-Handook-For-S_1.webp
+image: /assets/img/posts/2023/20230604/The-Frugal-Wizards-Handook-For-S_1.webp
 tags: [Fantasy, Books, Novella, Science Fiction]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2023/20230604/The-Frugal-Wizards-Handook-For-S_1.webp)](assets/img/posts/2023/20230604/The-Frugal-Wizards-Handook-For-S.webp)
+![](/assets/img/posts/2023/20230604/The-Frugal-Wizards-Handook-For-S_1.webp){: width="500" .w-50 .left}
 
 Book 2 of Sanderson's Kickstarter is here and it's an interesting deviation from this usual style. Here's the blurb:
 

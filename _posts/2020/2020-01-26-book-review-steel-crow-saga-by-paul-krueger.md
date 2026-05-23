@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Steel Crow Saga by Paul Krueger"
 date: 2020-01-26
-img: posts/2020/20200126/43610634._SY475_.jpg
+image: /assets/img/posts/2020/20200126/43610634._SY475_.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2020/20200126/43610634._SY475_.jpg)](assets/img/posts/2020/20200126/43610634._SY475_.jpg)
+![](/assets/img/posts/2020/20200126/43610634._SY475_.jpg){: width="500" .w-50 .left}
 
 **Steel Crow Saga** , by Paul Krueger, is a book I had added to my reading list as it was making the rounds as one of the best books of the past year. While I hadn't heard about the author previously, the idea that this blended influences from Pokemon and Avatar: The Last Airbender greatly intrigued me. It was also clear from the start that this was a very character-centric novel, as you can see from the blurb below.  
 

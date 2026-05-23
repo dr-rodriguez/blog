@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Winds of Khalakovo by Bradley P. Beaulieu"
 date: 2012-07-12
-img: http://photo.goodreads.com/books/1335136656l/13613093.jpg
+image: http://photo.goodreads.com/books/1335136656l/13613093.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](http://photo.goodreads.com/books/1335136656l/13613093.jpg)](http://photo.goodreads.com/books/1335136656l/13613093.jpg)
+![](http://photo.goodreads.com/books/1335136656l/13613093.jpg){: width="500" .w-50 .left}
 
 I can't remember where I first heard about this book, but it quickly got my attention. However, I didn't purchase it at the time and forgot about it. Then, it was on special on Amazon (free!) so I got it and read it over a period of a few weeks, with, alas, some frequent interruptions due to travel.  
   

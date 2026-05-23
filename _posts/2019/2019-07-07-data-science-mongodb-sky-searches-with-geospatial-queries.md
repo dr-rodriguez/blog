@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Data Science: MongoDB Sky Searches with Geospatial Queries"
 date: 2019-07-07
-img: posts/2019/20190707/768px-WGS84_mean_Earth_radius_1.png
+image: /assets/img/posts/2019/20190707/768px-WGS84_mean_Earth_radius_1.png
 tags: [Data Science, Databases, NoSQL, Astronomy, Python]
 category: Data Science
 author: Strakul
 description: ""
+img_show: false
 ---
 
 This is the fourth and, for now, final set of posts in my tutorial on using MongoDB No-SQL databases for astronomical work. We've created a [database of Brown Dwarf objects](http://strakul.blogspot.com/2019/05/data-science-python-dataclasses-and.html) making use of Python 3.7's Dataclasses, we've also [stored header metadata](http://strakul.blogspot.com/2019/06/data-science-astronomy-fits-headers-in.html) for a variety of FITS files, and we've written functions to perform [cone searches using HEALPix](http://strakul.blogspot.com/2019/06/data-science-mongodb-sky-searches-with.html). Today, we're looking again at how to query the sky, but this time using MongoDB's built-in geospatial's functionality. As before, I provide a [Jupyter notebook](https://github.com/dr-rodriguez/BlogTutorials/blob/master/notebooks/Spatial_MongoDB.ipynb) where those interested can follow along.  

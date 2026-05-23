@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Short Story: The Plane and the Calculator"
 date: 2012-07-05
-img: http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Calculator_casio.jpg/413px-Calculator_casio.jpg
+image: http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Calculator_casio.jpg/413px-Calculator_casio.jpg
 tags: [Travel, Writting]
 category: Travel
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Calculator_casio.jpg/413px-Calculator_casio.jpg)](http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Calculator_casio.jpg/413px-Calculator_casio.jpg)

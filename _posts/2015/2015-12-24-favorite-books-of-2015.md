@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Favorite Books of 2015"
 date: 2015-12-24
-img: posts/2015/20151224/18245960.jpg
+image: /assets/img/posts/2015/20151224/18245960.jpg
 tags: [Books, Favorite Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
 As I like to do every year, I'd like to briefly point out the best books I've read this year. This is not necessarily books that have been published this year, but rather books that I had the opportunity to read this year.  
@@ -28,6 +29,6 @@ You can rarely go wrong with a Brandon Sanderson book. [Firefight](http://straku
   
 
 
-[![](assets/img/posts/2015/20151224/18245960.jpg)](assets/img/posts/2015/20151224/18245960.jpg)
+![](/assets/img/posts/2015/20151224/18245960.jpg){: width="500" .w-50 .left}
 
 There are many good books out there, but some are elevated to classic status and considered must-reads by fans of the genre. In science fiction, this includes things like **Dune** , [A Fire Upon the Deep](http://strakul.blogspot.com/2012/09/book-review-fire-upon-deep-by-vernor.html), or the many short stories and novels by the likes of Arthur C. Clarke and Isaac Asimov. [The Three Body Problem](http://strakul.blogspot.com/2015/07/book-review-three-body-problem-by-liu.html) series by Cixin Liu is a contender for becoming a classic of science fiction. It reads like a Clarke novel, introducing amazing hard-scifi concepts of astrophysics and particle physics all wrapped up in a story about first contact with an alien race. The implications of such contact are profound; I eagerly await the translation of the third and final novel in this trilogy (due early 2016). I will admit that other first contact stories now seem pale in comparison to the events that unfold in this series. 

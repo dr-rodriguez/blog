@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "A Memory of Light Cover for Kindle"
 date: 2012-05-10
-img: http://2.bp.blogspot.com/-8bUVdvfi1JY/T6sF9agIr-I/AAAAAAAAA7M/93_yPYje3Po/s320/AMOL_cover_kindle_color.jpg
+image: http://2.bp.blogspot.com/-8bUVdvfi1JY/T6sF9agIr-I/AAAAAAAAA7M/93_yPYje3Po/s320/AMOL_cover_kindle_color.jpg
 tags: [Misc, Books, Wheel of Time]
 category: Misc
 author: Strakul
 description: ""
+img_show: false
 ---
 
 This may be old news for some, but Tor has [revealed the cover](http://www.tor.com/blogs/2012/05/michael-whelans-cover-for-a-memory-of-light-revealed) for the final book of the Wheel of Time, **A Memory of Light** by Robert Jordan and Brandon Sanderson:  

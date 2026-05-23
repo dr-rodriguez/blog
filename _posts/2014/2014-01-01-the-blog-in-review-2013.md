@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "The Blog in Review: 2013"
 date: 2014-01-01
-img: posts/2014/20140101/Screen+Shot+2014-01-01+at+9.42.53+AM.png
+image: /assets/img/posts/2014/20140101/Screen+Shot+2014-01-01+at+9.42.53+AM.png
 tags: [Misc, Writting]
 category: Misc
 author: Strakul
 description: ""
+img_show: false
 ---
 
 This completes the second year I have been running my blog. As before, I provide some overall statistics for how the blog ran last year and since it's start. The nature of the blog has changed throughout the year, though it still retains some of its original spirit.  

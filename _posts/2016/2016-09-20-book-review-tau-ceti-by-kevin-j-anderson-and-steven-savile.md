@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Tau Ceti by Kevin J. Anderson and Steven Savile"
 date: 2016-09-20
-img: posts/2016/20160920/13119164.jpg
+image: /assets/img/posts/2016/20160920/13119164.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2016/20160920/13119164.jpg)](assets/img/posts/2016/20160920/13119164.jpg)
+![](/assets/img/posts/2016/20160920/13119164.jpg){: width="500" .w-50 .left}
 
 **Tau Ceti** is part of a series of books where a senior author and a junior one are paired together to write a story. In **Tau Ceti** , we have Kevin J. Anderson and Steven Savile teaming up to tell a "hard" sci-fi story of a generation ship and its journey to the planet around the star Tau Ceti. I don't remember why I bought this, it may even have been free or bundled with something else. It was pretty low on my to-read list since I wasn't particularly interested in it, but my recent [analysis of Goodreads reviews](http://strakul.blogspot.com/2016/09/data-science-what-should-i-read-next.html) indicated I might enjoy it so I decided to give it a try.  
   

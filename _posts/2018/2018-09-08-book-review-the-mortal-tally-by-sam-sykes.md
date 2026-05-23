@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Mortal Tally by Sam Sykes"
 date: 2018-09-08
-img: posts/2018/20180908/25297770.jpg
+image: /assets/img/posts/2018/20180908/25297770.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2018/20181226/25297770.jpg)](assets/img/posts/2018/20181226/25297770.jpg)
+![](/assets/img/posts/2018/20181226/25297770.jpg){: width="500" .w-50 .left}
 
 **The Mortal Tally** is the second book in the **Bring Down Heaven** series by Sam Sykes. Sykes is an outright personality on Twitter with hilarious anecdotes and interactions with his fellow authors. Here is [Goodread's ](https://www.goodreads.com/book/show/25297770-the-mortal-tally)blurb for **The Mortal Tally** :  
 

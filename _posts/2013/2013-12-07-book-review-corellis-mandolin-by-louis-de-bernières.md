@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Corelli's Mandolin by Louis de Bernières"
 date: 2013-12-07
-img: posts/2013/20131207/3388.jpg
+image: /assets/img/posts/2013/20131207/3388.jpg
 tags: [Books, Book Club]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2013/20131207/3388.jpg)](assets/img/posts/2013/20131207/3388.jpg)
+![](/assets/img/posts/2013/20131207/3388.jpg){: width="500" .w-50 .left}
 
 For our latest book club meeting, we read Corelli's Mandolin by Louis de Bernières. Here is the Goodreads blurb:  
 

@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Favorite Books of 2017"
 date: 2017-12-31
-img: posts/2017/20171231/34017126.jpg
+image: /assets/img/posts/2017/20171231/34017126.jpg
 tags: [Books, Favorite Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
 A new year, a new set of books to read. This past year, I read 12 books, consistent with [the prior year](https://strakul.blogspot.com/2016/12/favorite-books-of-2016.html), though I managed longer books. In total, [Goodreads](https://www.goodreads.com/user/year_in_books/2017/4610553) claims I read 7400 pages. As usual, I like to point out what the best books I read in 2017 are. Note however, that these are books I *read* in 2017, not necessarily that were *published* in 2017. So, without further ado, here are my top 3 books this year.  
@@ -25,6 +26,6 @@ Readers of my blog will be familiar with my love for Sanderson's books. This yea
   
 
 
-[![](assets/img/posts/2017/20170916/34017126.jpg)](assets/img/posts/2017/20170916/34017126.jpg)
+![](/assets/img/posts/2017/20170916/34017126.jpg){: width="500" .w-50 .left}
 
 N.K. Jemisin is a talented author that writes exciting, genre-defying stories that at the same time are blended with contemporary social issues. I got into **The Broken Earth** trilogy around the time the second book was released, and this book marks the end of the trilogy. It's a fascinating series with geological-based magic I haven't seen before as well as characters that are as real as they are broken. You cheer them for their successes and weep at their failures, all as the skies grow darker and world dies around them. It is a dark novel for dark times that keeps you thinking and wondering long after you've finished it. 

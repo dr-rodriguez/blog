@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Wee Free Men by Terry Pratchett"
 date: 2015-05-02
-img: posts/2015/20150502/6318144.jpg
+image: /assets/img/posts/2015/20150502/6318144.jpg
 tags: [Fantasy, Book Club, Discworld, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2015/20150502/6318144.jpg)](assets/img/posts/2015/20150502/6318144.jpg)
+![](/assets/img/posts/2015/20150502/6318144.jpg){: width="500" .w-50 .left}
 
 For the latest book club pick, and as a tribute to the late Terry Pratchett, we decided to read on the Discworld novels. We looked online and found a listing of the best ones, which included [The Color of Magic](http://strakul.blogspot.com/2012/12/book-review-color-of-magic-by-terry.html), **Mort** , **Going Postal** , and, the one we selected, **The Wee Free Men**. It's a fairly short book.  
   
