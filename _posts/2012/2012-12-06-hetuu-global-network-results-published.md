@@ -18,7 +18,7 @@ img_show: false
 This is a short post to let you know that the results of the Hetu'u Global Network have been officially published in Astronomy Education Review (AER)! You can see the article [here](http://aer.aas.org/resource/1/aerscz/v11/i1/p010203_s1).  
 More details after the jump.  
   
-Hetu'u is the rapanui word for "star" and forms part of our official team name for the transit of Venus activities. As some of you may know, we traveled to Easter Island (Rapa Nui) to observe the transit and coordinate with other school groups around the world. You can see my blog posts on these activities by [clicking here](http://strakul.blogspot.com/search/label/Transit%20of%20Venus). One of the things we aimed to do was to measure the distance between the Earth and the Sun. This has been done before, of course, but it was an exercise to bring together people from across the world in a global scientific effort. Here is our team coverage:  
+Hetu'u is the rapanui word for "star" and forms part of our official team name for the transit of Venus activities. As some of you may know, we traveled to Easter Island (Rapa Nui) to observe the transit and coordinate with other school groups around the world. You can see my blog posts on these activities by [clicking here](/strakul-blog/tags/transit-of-venus/). One of the things we aimed to do was to measure the distance between the Earth and the Sun. This has been done before, of course, but it was an exercise to bring together people from across the world in a global scientific effort. Here is our team coverage:  
   
 
 
