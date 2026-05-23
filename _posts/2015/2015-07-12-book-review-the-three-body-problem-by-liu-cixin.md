@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Book Review: The Three-Body Problem by Liu Cixin"
 date: 2015-07-12
-image: /assets/img/posts/2015/20150712/18245960.jpg
+image: /assets/img/posts/2015/20151224/18245960.jpg
 tags: [Books, Astronomy, Science Fiction]
 category: Books
 author: Strakul

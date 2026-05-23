@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Favorite Books of 2016"
 date: 2016-12-28
-image: /assets/img/posts/2016/20161228/19887474.jpg
+image: /assets/img/posts/2016/20160905/19887474.jpg
 tags: [Books, Favorite Books]
 category: Books
 author: Strakul
