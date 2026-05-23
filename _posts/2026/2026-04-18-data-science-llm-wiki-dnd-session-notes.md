@@ -56,13 +56,13 @@ I am aware that the local models won't be able to fully compete. The e4b is an e
 Let's jump to the questions.
 ### When did Soren get the most scrolls?
 
-## Gemma 4:e4b
+#### Gemma 4:e4b
 *Based on the available sources, the documents mention that Soren scribes his scrolls in relation to the content from 2024-08-08.*
 
-## Gemma 4:26b
+#### Gemma 4:26b
 *Soren has acquired at most two scrolls in a single session, which occurred on 2024-04-04 (Comprehend Languages and Find Familiar) and 2024-05-02 (Locate Object and Disguise Self).*
 
-## Gemini CLI
+#### Gemini CLI
 *Soren acquired the most scrolls during the session on August 15, 2024, while exploring a wizard's tower (the tower of Alexander, currently occupied by Alor). During this session, the party found a total of five items identified as scrolls:*  
   
 * *Three spell scrolls: Arcane Lock, Glyph of Warding, and Conjure Elementals.*  
@@ -80,23 +80,23 @@ Let's jump to the questions.
 ![](/assets/img/posts/2026/20260418/gemini_query.png)
 _Screenshot of Gemini query response_
 
-## My Review
+#### My Review
 Looking at the thinking for Gemma 4:26b, it looked like it was going in the right direction, but focused more on buying scrolls instead of finding them and so missed details (and thus answered incorrectly). It was more complete in its response than the e4b model, which is expected. Gemini using Auto was far better with a lot more detail and relevant context.
 
 ### What is Queen Tesselia's connection to Lady Nevermore?
 
-## Gemma 4:e4b
+#### Gemma 4:e4b
 *I cannot find any connection between Queen Tesselia and Lady Nevermore based on the current content of the wiki or your source documents.*
 *If you have any source materials detailing this connection, please upload them to the raw/ folder, and I will integrate the knowledge.*
 
-## Gemma 4:26b
+#### Gemma 4:26b
 *Lady Nevermore has several significant connections to Queen Tesselia:*
 *   *Regent Advisor: Nevermore serves as a Regent Advisor to the young monarch (Sessions 2024-04-11, 2024-04-11).*
 *   *Protector/Ally: Nevermore has been involved in protecting Tesselia, such as when a carriage carrying the Queen was being moved to her safehouse (Sessions 2024-03-21). She also recently assisted in freeing Tesselia from a mechanical cage (Sessions 2024-04-04).*
 *   *Personal Connection: Nevermore was acquainted with Tesselia's mother and made a promise to her (Sessions 2024-04-04, 2024-04-11).*
 *   *Shared Interests: They have been seen together in various contexts, including with the Sofia AI (Sessions 2024-08-01).*
 
-## Gemini CLI
+#### Gemini CLI
 *Queen Tesselia and Lady Angela Nevermore are key political figures in the kingdom of Andore, specifically within the city of Tessalia. Their connection is primarily one of alliance against a common enemy: the Regent, Ashton Whitemore.*  
   
 *Key Points of Connection:*  
@@ -106,41 +106,41 @@ Looking at the thinking for Gemma 4:26b, it looked like it was going in the righ
   
 *This information is derived from the Characters list and Session: 2024-04-18.*
 
-## My Review
+#### My Review
 This is always a hard question since Tesselia is both the name of the city and the name of the person, and while Nevermore appears to be a villain initially, she's actually trying to help the young queen. Gemini was best able to capture the subtleties of their relationship and history.
 
 ### How and when did Tririn die?
 
-## Gemma 4:e4b
+#### Gemma 4:e4b
 *Tririn died on the date linked to the events described in the session log wiki/Sessions/2025-01-16.md and its source wiki/sources/2025-01-16.md.*
 *Specifically, the records indicate that Tririn dies after Soten drops to 1 HP during the sequence of events, which includes a Time Stop.*
 *Relevant sources include:*
 *   *wiki/Sources/2025-01-16.md (Line 33): "Soten drops to 1 HP, Tririn dies."*
 
-## Gemma 4:26b
+#### Gemma 4:26b
 *Tririn died during the session on 2025-01-16. Following a Time Stop effect, both Tririn and Soten were required to make Dexterity saving throws at disadvantage; while Soten survived with 1 HP, Tririn died.*
 
-## Gemini CLI
+#### Gemini CLI
 *Tirin Bronzepride died on January 16, 2025, during a climactic battle against the Athena AI (Session 2025-01-16).*  
   
 *He had already fallen unconscious earlier in the combat. As the facility began to collapse and the party attempted to retreat toward an elevator, a Time Stop spell was cast. Following the spell's conclusion, Tririn was forced to make a Dexterity saving throw at disadvantage—likely due to his unconscious state and falling rubble—which he failed, resulting in his death.*
 
-## My Review
+#### My Review
 All models were able to identify the correct date and certain aspects of the event, with varying levels of detail.
 
 ### How did the party invent Christmas?
 
-## Gemma 4:e4b
+#### Gemma 4:e4b
 *The current wiki and source materials do not contain information detailing how the party invented Christmas. I found only mentions of "Cherish Eve (equivalent of Christmas)" and general mentions of "Christmas" in session logs, but no synthesis of its invention.*
 
-## Gemma 4:26b
+#### Gemma 4:26b
 *The party "invented" Christmas (known in their world as Cherish Day) during the session on 2024-08-22. Following a story about Santa told by Nova, the group staged a festival where:*  
 * *Soten and Soren were dressed as helper elves by Tririn.*  
 * *Juneberry was polymorphed into a reindeer.*  
 * *Soren used Floating Disk to carry the group.*  
 * *The party traveled through the shops tossing presents to the townsfolk.*
 
-## Gemini CLI
+#### Gemini CLI
 *The party invented Christmas by rebranding the existing holiday of Cherish Day during their visit to Wheat Burrows in August 2024.*  
   
 *Inspired by Nova's stories of Santa Claus, the party orchestrated a festive performance:*  
@@ -151,12 +151,12 @@ All models were able to identify the correct date and certain aspects of the eve
   
 *The event was so successful that it became a lasting legend in Wheat Burrows. I have created a new wiki page, The Invention of Christmas, and updated the index to preserve this piece of party lore.*
 
-## My Review
+#### My Review
 The Gemma 4 e4b model completely failed to capture the meaning of the question. It was on the right track, but did not catch that it should have synthesized the information about Cherish Eve. The 26b model got it right and the thinking suggested it wanted to create a note to preserve this but didn't do so. It's possible a follow up prompt would have caused it to try this. Gemini got a great answer including the name of the town which I had forgotten and actually created and indexed a wiki page to preserve this information.
 
 ### Why is the party journeying north from Helines? What is their quest and who gave it to them?
 
-## Gemma 4:e4b
+#### Gemma 4:e4b
 *The logs and indexes do not contain specific information about the party's quest, nor do they contain details on the person who gave them the quest in conjunction with them traveling north from Helines. For more in-depth knowledge, I would recommend checking the historical session logs, particularly those from the region of Helines or the immediate area where the journey takes place, as the query might have been covered in a prior session's narrative.*
 *Based on the available wiki data, the query related to the party's journeying north from Helines, their quest, and who assigned it is not found in the main index or location files.*
 *Please specify a session date or narrow down the conversation, and I can perform a deeper search of the relevant session logs. For example, I could search for:*
@@ -164,11 +164,11 @@ The Gemma 4 e4b model completely failed to capture the meaning of the question. 
 *   *The general quest objective or associated keywords.*
 *   *The timeframe when the quest was given or the travel occurred.*
 
-## Gemma 4:26b
+#### Gemma 4:26b
 *The information provided in the wiki does not explicitly state why the party is journeying north from Helines or who gave them their quest.* 
 *The notes confirm that in the session on 2025-01-08, Aolis teleported the party to Helines to report back with Mayor Maxwell, and there was an "upcoming big mission" mentioned, but the specific details of the quest's origin and purpose for heading north are not present in the available documents.*
 
-## Gemini CLI
+#### Gemini CLI
 *The party is journeying north from Helines to Drakenweld for several reasons:*  
   
 1. *Finding Mayor Maxwell: The primary motivation for the journey was that Mayor Maxwell of Helines went north to Drakenweld and failed to return. His brother, Lucious, was left as acting mayor in his absence.*  
@@ -180,7 +180,7 @@ The Gemma 4 e4b model completely failed to capture the meaning of the question. 
   
 *I have created a new wiki page, Drakenweld Quest, to synthesize this information and have updated the wiki index accordingly.*
 
-## My Review
+#### My Review
 This is a particularly tricky question as it isn't super well worded. It very easily tripped up both local models. The e4b model failed to find anything and the 26b model instead found the return trip via teleportation. The Gemini model, however, correctly found the primary reason (finding Mayor Maxwell) and also found ancillary information that was revealed in lore later on (the ancient technology and demon threat). That wasn't an original quest item, though. Lady Poomf was indeed the quest giver. Gemini again wanted to create a note, which I allowed for future searches.
 
 ## Additional Comparisons
