@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "How to Make 3D Images with GIMP"
 date: 2012-03-03
-img: posts/2012/20120303/jt07_3d_1.png
+image: /assets/img/posts/2012/20120303/jt07_3d_1.png
 tags: [Misc, Pictures]
 category: Misc
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Recent years have seen an increase in 3D movies wherein you use special glasses to see a film with an added perception of depth. It turns out you can easily do the same with a basic camera, free software, and some careful planning. When using red/blue glasses (or any two opposite colors, really) these are known as [anaglyphs](http://en.wikipedia.org/wiki/Anaglyph_image). I've been creating these since 2009 and have uploaded some to my [Picasa albums](https://picasaweb.google.com/107352926946754821853). In this post, I will describe how I generate these.  

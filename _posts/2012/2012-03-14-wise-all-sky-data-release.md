@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "WISE All-Sky Data Release"
 date: 2012-03-14
-img: posts/2012/20120314/wiseall.jpg
+image: /assets/img/posts/2012/20120314/wiseall.jpg
 tags: [Disks, Brown Dwarfs, Planets, Astronomy, Stars]
 category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Today marks the full data release from the Wide-field Infrared Survey Explorer ([WISE](http://wise.ssl.berkeley.edu/))! From their [website](http://wise2.ipac.caltech.edu/docs/release/allsky/):  

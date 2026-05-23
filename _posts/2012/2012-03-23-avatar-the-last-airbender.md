@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Avatar: The Last Airbender"
 date: 2012-03-23
-img: http://images3.wikia.nocookie.net/__cb20090302125203/avatar/images/5/53/Opening_Avatar_Logo.png
+image: http://images3.wikia.nocookie.net/__cb20090302125203/avatar/images/5/53/Opening_Avatar_Logo.png
 tags: [Fantasy, Anime, TV series]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
 I am currently undergoing an _adventure_ and will report on that later so I'm making use of Blogger's scheduled posts for this. Here's a review I wrote some time ago and updated with new information.  
@@ -21,7 +22,7 @@ With all the recent hype on Avatar: The Legend of Korra (premiering April 14), I
   
 
 
-[![](http://images3.wikia.nocookie.net/__cb20090302125203/avatar/images/5/53/Opening_Avatar_Logo.png)](http://images3.wikia.nocookie.net/__cb20090302125203/avatar/images/5/53/Opening_Avatar_Logo.png)
+![](http://images3.wikia.nocookie.net/__cb20090302125203/avatar/images/5/53/Opening_Avatar_Logo.png){: width="500" .w-50 .left}
 
   
 This is an american anime that aired many years ago. I refer to it that way since it is very much the same style as other anime you may be familiar with, but was drawn and voiced in the US. I'm a fan of anime, but it took me several years to finally watch the series. I do remember hearing about it when it came out, but it was only with Netflix that I finally got to see it.  

@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Crystal Rain by Tobias S. Buckell"
 date: 2012-03-31
-img: http://photo.goodreads.com/books/1312050327l/185117.jpg
+image: http://photo.goodreads.com/books/1312050327l/185117.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](http://photo.goodreads.com/books/1312050327l/185117.jpg)](http://photo.goodreads.com/books/1312050327l/185117.jpg)
+![](http://photo.goodreads.com/books/1312050327l/185117.jpg){: width="500" .w-50 .left}
 
 Crystal Rain by Tobias S. Buckell is his 2006 debut novel. I had heard good things about his work, but hadn't yet read him. I finally bought this since it was $2.99 on the Amazon Kindle store, and I love getting bargains like these.  
   

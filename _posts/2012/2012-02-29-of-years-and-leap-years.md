@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Of Years and Leap Years"
 date: 2012-02-29
-img: http://upload.wikimedia.org/wikipedia/commons/6/61/AxialTiltObliquity.png
+image: http://upload.wikimedia.org/wikipedia/commons/6/61/AxialTiltObliquity.png
 tags: [Astronomy]
 category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 So today is February 29th, the leap day. A day that only comes once every 4 years, with a few exceptions. In this post, I'll describe why we do this and why it's necessary.  

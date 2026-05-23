@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "ESO Conference: Observing Planetary Systems II"
 date: 2012-03-10
-img: posts/2012/20120310/eso_poster_1.jpg
+image: /assets/img/posts/2012/20120310/eso_poster_1.jpg
 tags: [Disks, Planets, Astronomy]
 category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 I spent 4 days this past week attending the European Southern Observatory (ESO) conference "[Observing Planetary Systems II](http://www.eso.org/sci/meetings/2012/OPSII.html)". This post is a brief summary of what went on and my thoughts during the conference.  
