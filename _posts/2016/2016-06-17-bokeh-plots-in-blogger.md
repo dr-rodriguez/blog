@@ -6,7 +6,7 @@ title: "Bokeh Plots in Blogger"
 date: 2016-06-17
 img: http://bokeh.pydata.org/en/latest/_static/images/logo.png
 tags: [Python]
-category: Python
+category: Data Science
 author: Strakul
 description: ""
 ---

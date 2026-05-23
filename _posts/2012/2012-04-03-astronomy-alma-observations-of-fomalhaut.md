@@ -6,7 +6,7 @@ title: "Astronomy: ALMA Observations of Fomalhaut"
 date: 2012-04-03
 img: http://images.nrao.edu/images/antennas_8_lo.jpg
 tags: [Disks, Planets, Astronomy, Stars]
-category: Disks
+category: Astronomy
 author: Strakul
 description: ""
 ---

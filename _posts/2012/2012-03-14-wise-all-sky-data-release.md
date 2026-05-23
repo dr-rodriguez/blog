@@ -6,7 +6,7 @@ title: "WISE All-Sky Data Release"
 date: 2012-03-14
 img: posts/2012/20120314/wiseall.jpg
 tags: [Disks, Brown Dwarfs, Planets, Astronomy, Stars]
-category: Disks
+category: Astronomy
 author: Strakul
 description: ""
 ---

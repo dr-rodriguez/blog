@@ -6,7 +6,7 @@ title: "Book Review: Afterparty by Daryl Gregory"
 date: 2015-01-02
 img: posts/2015/20150102/20566495.jpg
 tags: [Book Club, Books, Science Fiction]
-category: Book Club
+category: Books
 author: Strakul
 description: ""
 ---

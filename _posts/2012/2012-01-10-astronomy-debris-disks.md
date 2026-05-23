@@ -6,7 +6,7 @@ title: "Astronomy: Debris Disks"
 date: 2012-01-10
 img: http://www.das.uchile.cl/~drodrigu/images/hd98800.jpg
 tags: [Disks, Astronomy]
-category: Disks
+category: Astronomy
 author: Strakul
 description: ""
 ---

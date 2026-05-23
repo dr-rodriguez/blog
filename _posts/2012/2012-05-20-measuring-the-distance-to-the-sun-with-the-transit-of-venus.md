@@ -6,7 +6,7 @@ title: "Measuring the Distance to the Sun with the Transit of Venus"
 date: 2012-05-20
 img: posts/2012/20120520/tov2012-diagram_1.png
 tags: [Planets, Transit of Venus, Education, Astronomy]
-category: Planets
+category: Astronomy
 author: Strakul
 description: ""
 ---

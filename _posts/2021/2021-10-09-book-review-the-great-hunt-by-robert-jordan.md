@@ -6,7 +6,7 @@ title: "Book Review: The Great Hunt by Robert Jordan"
 date: 2021-10-09
 img: posts/2021/20211009/233649._SY475_.jpg
 tags: [Wheel of Time, Fantasy, Books]
-category: Wheel of Time
+category: Books
 author: Strakul
 description: ""
 ---

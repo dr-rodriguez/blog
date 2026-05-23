@@ -6,7 +6,7 @@ title: "Book Review: The Fires of Heaven by Robert Jordan"
 date: 2022-07-21
 img: posts/2022/20220721/140975._SY475_.jpg
 tags: [Wheel of Time, Fantasy, Books]
-category: Wheel of Time
+category: Books
 author: Strakul
 description: ""
 ---

@@ -6,7 +6,7 @@ title: "Astronomy: Young Stellar Moving Groups"
 date: 2012-11-05
 img: posts/2012/20121105/m25_cfht.jpg
 tags: [Disks, Planets, Astronomy, Stars]
-category: Disks
+category: Astronomy
 author: Strakul
 description: ""
 ---

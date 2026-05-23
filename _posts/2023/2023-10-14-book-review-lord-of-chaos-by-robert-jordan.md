@@ -6,7 +6,7 @@ title: "Book Review: Lord of Chaos by Robert Jordan"
 date: 2023-10-14
 img: posts/2023/20231014/35231.jpg
 tags: [Wheel of Time, Fantasy, Books]
-category: Wheel of Time
+category: Books
 author: Strakul
 description: ""
 ---

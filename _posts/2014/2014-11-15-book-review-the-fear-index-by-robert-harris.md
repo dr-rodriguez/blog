@@ -6,7 +6,7 @@ title: "Book Review: The Fear Index by Robert Harris"
 date: 2014-11-15
 img: posts/2014/20141115/12594719.jpg
 tags: [Book Club, Books, Science Fiction]
-category: Book Club
+category: Books
 author: Strakul
 description: ""
 ---

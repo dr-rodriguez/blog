@@ -6,7 +6,7 @@ title: "Astronomy: A Video of the Local Universe"
 date: 2013-06-14
 img: posts/2013/20130614/1.jpg
 tags: [Galaxies, Astronomy]
-category: Galaxies
+category: Astronomy
 author: Strakul
 description: ""
 ---

@@ -6,7 +6,7 @@ title: "Book Review: The Shadow Rising by Robert Jordan"
 date: 2022-01-16
 img: posts/2022/20220116/54754452._SY475_.jpg
 tags: [Wheel of Time, Fantasy, Books]
-category: Wheel of Time
+category: Books
 author: Strakul
 description: ""
 ---

@@ -6,7 +6,7 @@ title: "The Transit of the Earth... from Mars!"
 date: 2012-06-20
 img: http://upload.wikimedia.org/wikipedia/commons/d/dd/13-ml-04-deimos-A067R1.jpg
 tags: [Planets, Transit of Venus, Astronomy]
-category: Planets
+category: Astronomy
 author: Strakul
 description: ""
 ---

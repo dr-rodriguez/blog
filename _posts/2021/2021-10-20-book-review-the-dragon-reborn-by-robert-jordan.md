@@ -6,7 +6,7 @@ title: "Book Review: The Dragon Reborn by Robert Jordan"
 date: 2021-10-20
 img: posts/2021/20211020/359820.jpg
 tags: [Wheel of Time, Fantasy, Books]
-category: Wheel of Time
+category: Books
 author: Strakul
 description: ""
 ---

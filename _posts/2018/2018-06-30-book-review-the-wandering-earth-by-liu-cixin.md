@@ -6,7 +6,7 @@ title: "Book Review: The Wandering Earth by Liu Cixin"
 date: 2018-06-30
 img: posts/2018/20180630/35491680.jpg
 tags: [Short Stories, Books, Science Fiction]
-category: Short Stories
+category: Books
 author: Strakul
 description: ""
 ---

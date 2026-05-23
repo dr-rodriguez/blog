@@ -6,7 +6,7 @@ title: "The Day of the Transit of Venus"
 date: 2012-06-05
 img: 
 tags: [Planets, Transit of Venus, Education, Astronomy]
-category: Planets
+category: Astronomy
 author: Strakul
 description: ""
 ---

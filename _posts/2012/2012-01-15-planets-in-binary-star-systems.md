@@ -6,7 +6,7 @@ title: "Planets in Binary Star Systems"
 date: 2012-01-15
 img: http://www.nasa.gov/images/content/615283main_Kep35_Cook_4x3_946-710.jpg
 tags: [Disks, Planets, Astronomy]
-category: Disks
+category: Astronomy
 author: Strakul
 description: ""
 ---

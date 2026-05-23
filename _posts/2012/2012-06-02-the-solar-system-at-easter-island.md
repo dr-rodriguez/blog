@@ -6,7 +6,7 @@ title: "The Solar System at Easter Island"
 date: 2012-06-02
 img: posts/2012/20120602/venustransitlogo_v3.png
 tags: [Planets, Transit of Venus, Education, Astronomy]
-category: Planets
+category: Astronomy
 author: Strakul
 description: ""
 ---

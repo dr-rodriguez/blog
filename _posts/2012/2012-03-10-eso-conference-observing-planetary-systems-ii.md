@@ -6,7 +6,7 @@ title: "ESO Conference: Observing Planetary Systems II"
 date: 2012-03-10
 img: posts/2012/20120310/eso_poster_1.jpg
 tags: [Disks, Planets, Astronomy]
-category: Disks
+category: Astronomy
 author: Strakul
 description: ""
 ---

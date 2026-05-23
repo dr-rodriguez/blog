@@ -6,7 +6,7 @@ title: "Book Review: The Eye of the World by Robert Jordan"
 date: 2021-09-28
 img: posts/2021/20210928/228665.jpg
 tags: [Wheel of Time, Fantasy, Books]
-category: Wheel of Time
+category: Books
 author: Strakul
 description: ""
 ---
