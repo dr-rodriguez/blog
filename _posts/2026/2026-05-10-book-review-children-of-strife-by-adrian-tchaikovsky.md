@@ -5,6 +5,7 @@ show_date: true
 title: "Book Review: Children of Strife by Adrian Tchaikovsky"
 date: 2026-05-10
 image: /assets/img/posts/2026/20260510/231953328.jpg
+img_show: false
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul

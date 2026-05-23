@@ -4,7 +4,8 @@ read_time: true
 show_date: true
 title: "Data Science: An AI LLM Wiki for DnD Session Notes"
 date: 2026-04-18
-img: posts/2026/20260418/graph.png
+image: /assets/img/posts/2026/20260418/graph.png
+img_show: false
 tags: [Data Science, AI]
 category: Data Science
 author: Strakul
@@ -12,7 +13,8 @@ description: "Comparing LLM wikis, traditional RAG, and frontier models for mana
 toc: yes
 ---
 
-[![Graph representation of notes in the LLM Wiki. Green are labels, red correspond to the character Zinjaro, and blue correspond to the character Soren](assets/img/posts/2026/20260418/graph.png)](assets/img/posts/2026/20260418/graph.png)
+![](/assets/img/posts/2026/20260418/graph.png)
+_Graph representation of notes in the LLM Wiki. Green are labels, red correspond to the character Zinjaro, and blue correspond to the character Soren._
 
 Over the past few weeks, the AI community has been all abuzz about a post from [Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy) about LLM wikis. I've seen a handful of videos about it and decided to give it a try with my DnD session notes. This is an alternative to a traditional RAG (Retrieval Augmented Generation), such as the one I did in one of my prior blog posts—[Data Science: Querying DnD Session Notes with Vector Databases and AI]({% post_url 2025/2025-06-01-data-science-querying-dnd-session-notes-with-vector-databases-and-ai %}). 
 While a RAG uses a search engine (a vector database) to retrieve information, the LLM wiki approach uses an AI agent to browse through files like a human would.
@@ -37,7 +39,8 @@ My first data load was a bit much. I had downloaded my session notes as a single
 For example, I used the following to create character-specific notes:
 *Create character wiki notes, similar to that created for @"wiki/Characters/Villhelm Emberstoke.md", for all player characters in Zinjaro's current party: Aolis, Maxim, Brambleberry, Ogra, and also include Thadius and Wobbles. Then populate these wiki pages with information gleaned from the session notes. This is a context-heavy operation, so spin up multiple sub-agents for this, maybe one per character, and provide each with detailed instructions of what it should do.*
 
-[![Screenshot of mult-agent workflow creating character notes](assets/img/posts/2026/20260418/subagents.png)](assets/img/posts/2026/20260418/subagents.png)
+![](/assets/img/posts/2026/20260418/subagents.png)
+_Screenshot of mult-agent workflow creating character notes._
 
 After some iteration, I got all my notes in place and the wiki prepared with three agent skills: **ingest**, **query**, and **lint**. I haven't used **lint** much yet, but **ingest** and **query** appear to be working well. I did some iteration on the **ingest** since I wanted to add labels and address frequent issues with Unicode characters.
 
@@ -74,7 +77,8 @@ Let's jump to the questions.
 * *August 1, 2024: Purchased Detect Thoughts.*  
 * *September 5, 2024: Purchased Leomund's Tiny Hut.*
 
-[![Screenshot of Gemini query response](assets/img/posts/2026/20260418/gemini_query.png)](assets/img/posts/2026/20260418/gemini_query.png)
+![](/assets/img/posts/2026/20260418/gemini_query.png)
+_Screenshot of Gemini query response_
 
 #### My Review
 Looking at the thinking for Gemma 4:26b, it looked like it was going in the right direction, but focused more on buying scrolls instead of finding them and so missed details (and thus answered incorrectly). It was more complete in its response than the e4b model, which is expected. Gemini using Auto was far better with a lot more detail and relevant context.

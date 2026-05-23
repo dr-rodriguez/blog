@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Queen Demon by Martha Wells"
 date: 2026-04-08
-img: posts/2026/20260408/217388171.jpg
+image: /assets/img/posts/2026/20260408/217388171.jpg
+img_show: false
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: "Book review for Queen Demon by Martha Wells"
 ---
 
-[![](assets/img/posts/2026/20260408/217388171.jpg)](assets/img/posts/2026/20260408/217388171.jpg)
+![](/assets/img/posts/2026/20260408/217388171.jpg){: width="500" .w-50 .left}
 
 Queen Demon is the sequel to Witch Demon by Martha Wells, part of the The Rising World series. I picked it up on discount to check it out, even though it wasn't my favorite series. Here is the blurb from Goodreads:
 
