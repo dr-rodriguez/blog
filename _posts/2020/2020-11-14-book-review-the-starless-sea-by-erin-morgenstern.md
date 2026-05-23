@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Starless Sea by Erin Morgenstern"
 date: 2020-11-14
-img: posts/2020/20201114/53481719.jpg
+image: /assets/img/posts/2020/20201114/53481719.jpg
 tags: [Fantasy, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2020/20201114/53481719.jpg)](assets/img/posts/2020/20201114/53481719.jpg)
+![](/assets/img/posts/2020/20201114/53481719.jpg){: width="500" .w-50 .left}
 
 **The Starless Sea** by Erin Morgenstern came highly recommended from a good friend of mine who lent me her copy. She was not wrong, this book is so interesting in so many unexpected ways. I haven't read **The Night Circus** either, but that was also highly recommended. 
 

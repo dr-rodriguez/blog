@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Chile: Summer and Winter"
 date: 2012-11-26
-img: posts/2012/20121126/winter1_1.jpg
+image: /assets/img/posts/2012/20121126/winter1_1.jpg
 tags: [Pictures, Life in Chile, Astronomy]
 category: Pictures
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2012/20121126/winter1_1.jpg)](assets/img/posts/2012/20121126/winter1.jpg)

@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Data Science: What Should I Read Next?"
 date: 2016-09-20
-img: posts/2016/20160920/DT_zoom_border_1.png
+image: /assets/img/posts/2016/20160920/DT_zoom_border_1.png
 tags: [Data Science, Books, Python]
 category: Data Science
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2016/20160920/DT_zoom_border_1.png)](assets/img/posts/2016/20160920/DT_zoom_border.png)

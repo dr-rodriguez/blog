@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Tress of the Emerald Sea by Brandon Sanderson"
 date: 2023-01-14
-img: posts/2023/20230114/cover.jpg
+image: /assets/img/posts/2023/20230114/cover.jpg
 tags: [Cosmere, Fantasy, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2023/20230114/cover.jpg)](assets/img/posts/2023/20230114/cover_1.jpg)
+![](/assets/img/posts/2023/20230114/cover.jpg){: width="500" .w-50 .left}
 
 Tress of the Emerald Sea is the first of Sanderson's "Secret Project"- a set of four novels written during the height of the covid pandemic and being independently published. As a Sanderson fan I had to sign up for them since I knew they would be fun reads and indeed the first hasn't disappointed. Plus as a Cosmere novel it connects to his grander universe. I look forward to seeing what the other 3 will be.
 
@@ -23,21 +24,21 @@ Read on for my spoiler-free review.
   
 
 
-#### Overall Impression
+## Overall Impression
 
 This was a fun Sanderson novel. It has a fairly simple premise, but in typical Sanderson fashion it quickly spirals into some very cool moments and, as a Cosmere novel, offers some tantalizing information for those curious about the great web connecting many of his novels. Character-wise I liked Tress, but felt that she became a tad generic in spite of her strong introduction. I liked the illustrations, though my kindle showed them only in greyscale.
 
   
 
 
-#### Plot
+## Plot
 
 The plot of this book is fairly straightforward, though it takes some interesting turns. The chief premise is a bit of a damsel-in-distress rescue mission. I don't want to spoil any of the major events, so I'll just say that it moves quite fast throwing ever greater challenges to Tress and her friends.
 
   
 
 
-#### Characters
+## Characters
 
 [![](assets/img/posts/2023/20230114/SippingSaltyTea_1.jpg)](assets/img/posts/2023/20230114/SippingSaltyTea.jpg)
 
@@ -51,7 +52,7 @@ In addition to Tress we also have Huck, a talking rat; a bunch of pirates includ
   
 
 
-#### Setting / World Building
+## Setting / World Building
 
 Like a lot of Sanderson's novels, exploring the setting is an integral part of the experience. Tress lives in a weird world with several moons hovering in the sky and raining down spores. These spores form the seas in which boats navigate but are dangerous in their own right. The spores activate in the presence of actual water and can have devastating effects. This however, makes things very interesting as you can start piecing together how to solve problems by using the right combinations of spores. We don't get to see all of the world, but enough to give us a taste for what is possible there.
 
@@ -63,6 +64,6 @@ This is a Cosmere novel, which means it is in the same grand universe as other n
   
 
 
-#### Final Thoughts
+## Final Thoughts
 
 This was a really fun, short novel. A bit of a romantic adventure, but with classic Sanderson world-building and quirky characters. You can certainly see some of the covid influences, from the fear of airborne spores to tablet communication devices. The plot is straightforward and told in an interesting style with a whimsical narrator that talks to the reader and frequently drops fascinating Cosmere links or foreshadows story events. Overall this was a good book and a great start to the year of Sanderson. 

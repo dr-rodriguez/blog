@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Favorite Books of 2012"
 date: 2012-12-29
-img: http://upload.wikimedia.org/wikipedia/en/c/ca/Anathem.png
+image: http://upload.wikimedia.org/wikipedia/en/c/ca/Anathem.png
 tags: [Fantasy, Malazan, Books, Favorite Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
 As I did [last year](http://strakul.blogspot.com/2012/01/favorite-books-of-2011.html), here are my Top 5 books for this year. I should re-emphasize that these are books I read *not* books that necessarily came out this year. If you've been following along in my blog, you know what sort of taste in books I have, but if this is your first visit here (welcome!) then this summarizes what I found cool. It's interesting to note that despite my preference for fantasy, 4/5 books here fall in the science fiction category (though in my opinion the line dividing sci-fi and fantasy is blurry).  
@@ -36,7 +37,7 @@ I eagerly read anything new by Mieville and **Railsea** is no exception. Though 
 This is Book 4 of the **Malazan Book of the Fallen** series and is one of the best thus far (I'm up to Book 6). Contrary to the other books, this one focuses on a single character for about half its length. The character, Karsa Orlong of the Toblakai, is really cool and makes subsequent appearances in other books. The change in pace, combined with a unique character, is refreshing in the series. The other half of the book continues several of the arcs in the greater story, which is typical of the other books and is why none of the others ended up in this year's Top 5. Setting-wise we also see more of the world including Hounds of Darkness, Tiste Liosan, and the Forkrul Assail. The Malazan series is, in my opinion, one of the best contemporary epic fantasies of our time.  
   
   
-[![](http://upload.wikimedia.org/wikipedia/en/c/ca/Anathem.png)](http://upload.wikimedia.org/wikipedia/en/c/ca/Anathem.png)2\. [Anathem](http://strakul.blogspot.com/2012/02/book-review-anathem-by-neal-stephenson.html) by Neal Stephenson   
+![](http://upload.wikimedia.org/wikipedia/en/c/ca/Anathem.png){: width="500" .w-50 .left}2\. [Anathem](http://strakul.blogspot.com/2012/02/book-review-anathem-by-neal-stephenson.html) by Neal Stephenson   
 This was an excellent book I read thanks to a recommendation. It's a bit heavy and takes a while to develop, but from what I hear that is typical of Stephenson. There is a lot of scientific discussion, including topics from quantum mechanics, consciousness, chemistry, and philosophy. They are part of the story and can slow down the uninitiated reader, though in principle you can skip some of it. To me, however, that made the book a great read. The plot and characters aren't too outstanding, but the setting for the story is fascinating. Stephenson creates a world that seems similar to ours, but also very much different. The extensive terminology and history drive that point home. That alone makes it one of my favorite books this year. A recent [Locus Online poll](http://www.locusmag.com/2012/AllCenturyPollsResults.html) placed it 2nd among 21st Century Sci-Fi novels, so it seems many agree with me.  
   
   

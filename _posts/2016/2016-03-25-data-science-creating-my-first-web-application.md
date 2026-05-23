@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Data Science: Creating my First Web Application"
 date: 2016-03-25
-img: posts/2016/20160325/DataTable_1.png
+image: /assets/img/posts/2016/20160325/DataTable_1.png
 tags: [Data Science, Astronomy, Python]
 category: Data Science
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Over the past month or so, I've dedicated a bit of time each week to work on developing an web application for the Brown Dwarfs in New York City research team ([BDNYC](http://www.bdnyc.org/)). This week, I was able to finally release it to the public as [AstrodbWeb](http://database.bdnyc.org/). I'm very proud of what I've made, simple though it is. It's inspired me to continue developing applications and exploring this route a bit more. For this blog post, I want to detail some of what I went through for others that may be thinking of similar projects. I'll provide links to resources that I found useful when developing this.  

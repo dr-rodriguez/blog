@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: A Video of the Local Universe"
 date: 2013-06-14
-img: posts/2013/20130614/1.jpg
+image: /assets/img/posts/2013/20130614/1.jpg
 tags: [Galaxies, Astronomy]
 category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2013/20130614/1.jpg)](assets/img/posts/2013/20130614/1.jpg)  

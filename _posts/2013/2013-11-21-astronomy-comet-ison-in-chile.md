@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: Comet ISON in Chile"
 date: 2013-11-21
-img: posts/2013/20131121/c2012_s1_2013_11_15dp.jpg
+image: /assets/img/posts/2013/20131121/c2012_s1_2013_11_15dp.jpg
 tags: [Life in Chile, Astronomy]
 category: Life in Chile
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2013/20131121/c2012_s1_2013_11_15dp.jpg)](assets/img/posts/2013/20131121/c2012_s1_2013_11_15dp.jpg)  

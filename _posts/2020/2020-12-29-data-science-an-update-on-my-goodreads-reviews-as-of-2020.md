@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Data Science: An Update on my Goodreads Reviews as of 2020"
 date: 2020-12-29
-img: posts/2020/20201229/wordcloud.png
+image: /assets/img/posts/2020/20201229/wordcloud.png
 tags: [Data Science, Programming, Text Mining, Books]
 category: Data Science
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2020/20201229/wordcloud.png)](assets/img/posts/2020/20201229/wordcloud_1.png)

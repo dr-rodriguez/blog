@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Spellbound by Blake Charlton"
 date: 2024-08-25
-img: posts/2024/20240825/8512555.jpg
+image: /assets/img/posts/2024/20240825/8512555.jpg
 tags: [Fantasy, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2024/20240825/8512555.jpg)](assets/img/posts/2024/20240825/8512555.jpg)
+![](/assets/img/posts/2024/20240825/8512555.jpg){: width="500" .w-50 .left}
 
 This is the second book in the **Spellwright** trilogy by Blake Charlton. This continues the story 10 years after the prior book with some new characters. Here's the Goodreads blurb:
 

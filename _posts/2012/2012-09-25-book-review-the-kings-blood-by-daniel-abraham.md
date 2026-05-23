@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The King's Blood by Daniel Abraham"
 date: 2012-09-25
-img: http://photo.goodreads.com/books/1326556831l/13075018.jpg
+image: http://photo.goodreads.com/books/1326556831l/13075018.jpg
 tags: [Fantasy, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](http://photo.goodreads.com/books/1326556831l/13075018.jpg)](http://photo.goodreads.com/books/1326556831l/13075018.jpg)
+![](http://photo.goodreads.com/books/1326556831l/13075018.jpg){: width="500" .w-50 .left}
 
 **The King's Blood** , by Daniel Abraham, is the sequel to **The Dragon's Path** , one of [my top 5 books of 2011](http://strakul.blogspot.com/2012/01/favorite-books-of-2011.html). The story continues where we left off with mostly the same characters. Not sure if I'll have the sequel among my top 5 this year, since I've read so many other good books in 2012.  
   

@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: Las Campanas, Round Two"
 date: 2013-07-03
-img: posts/2013/20130703/lco_3_hdr.png
+image: /assets/img/posts/2013/20130703/lco_3_hdr.png
 tags: [Pictures, Travel, Astronomy]
 category: Pictures
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2013/20130703/lco_3_hdr.png)](assets/img/posts/2013/20130703/lco_3_hdr_1.png)  

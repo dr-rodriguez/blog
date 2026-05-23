@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Words of Radiance by Brandon Sanderson"
 date: 2014-03-13
-img: posts/2014/20140313/20150777.jpg
+image: /assets/img/posts/2014/20140313/20150777.jpg
 tags: [Cosmere, Fantasy, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2014/20140313/20150777.jpg)](assets/img/posts/2014/20140313/20150777.jpg)
+![](/assets/img/posts/2014/20140313/20150777.jpg){: width="500" .w-50 .left}
 
 This is the second book in Brandon's Sanderson's **Stormlight Archive** series. While projected as a ten-book series, it is already very strong and has a healthy community of speculation as readers try to decipher secrets and hints as to what may come next. Fortunately, Sanderson has shown his skill at writing quickly and efficiently so we have not had to wait too long between installments of his series. Hence, I highly recommend people give this series a try.  
   

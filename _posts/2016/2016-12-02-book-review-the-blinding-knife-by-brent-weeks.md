@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Blinding Knife by Brent Weeks"
 date: 2016-12-02
-img: posts/2016/20161202/12499290.jpg
+image: /assets/img/posts/2016/20161202/12499290.jpg
 tags: [Fantasy, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2016/20161202/12499290.jpg)](assets/img/posts/2016/20161202/12499290.jpg)
+![](/assets/img/posts/2016/20161202/12499290.jpg){: width="500" .w-50 .left}
 
 This is the second book in the **Lightbringer** series by Brent Weeks. I read the first book, **The Black Prism** , a long time ago at the recommendation of a friend. It was very good and I made a mental note to keep track of the series. I then lost that note. The fourth (of five) book in the series was just published about a month ago and I realized I had fallen well behind. So, without further ado here is me continuing to read the **Lightbringer** series.  
   

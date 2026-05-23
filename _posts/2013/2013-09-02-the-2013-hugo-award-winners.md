@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "The 2013 Hugo Award Winners"
 date: 2013-09-02
-img: http://www.tor.com/images/stories/blogs/11_04/hugo-award-logo.jpg
+image: http://www.tor.com/images/stories/blogs/11_04/hugo-award-logo.jpg
 tags: [Misc, Books]
 category: Misc
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](http://www.tor.com/images/stories/blogs/11_04/hugo-award-logo.jpg)](http://www.tor.com/images/stories/blogs/11_04/hugo-award-logo.jpg)

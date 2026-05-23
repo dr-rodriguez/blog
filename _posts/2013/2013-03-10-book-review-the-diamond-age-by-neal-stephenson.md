@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Diamond Age by Neal Stephenson"
 date: 2013-03-10
-img: http://d.gr-assets.com/books/1320415915l/827.jpg
+image: http://d.gr-assets.com/books/1320415915l/827.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](http://d.gr-assets.com/books/1320415915l/827.jpg)](http://d.gr-assets.com/books/1320415915l/827.jpg)
+![](http://d.gr-assets.com/books/1320415915l/827.jpg){: width="500" .w-50 .left}
 
 A good friend of mine visited me a few months ago and she brought along a book as a gift. **The Diamond Age, Or, A Young Lady's Illustrated Primer** was that book. I have read some of Neal Stephenson's other works; in particular, **Snow Crash** and [Anathem](http://strakul.blogspot.com/2012/02/book-review-anathem-by-neal-stephenson.html). I enjoyed those two books and have been meaning to read more from him. This was an excellent opportunity to read the book some consider a stepping stone into the steampunk genre, despite the fact that at a glance it doesn't look like a steampunk novel at all.  
   

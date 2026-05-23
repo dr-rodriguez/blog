@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Color of Magic by Terry Pratchett"
 date: 2012-12-31
-img: posts/2012/20121231/12903571.jpg
+image: /assets/img/posts/2012/20121231/12903571.jpg
 tags: [Fantasy, Discworld, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2012/20121231/12903571.jpg)](assets/img/posts/2012/20121231/12903571.jpg)
+![](/assets/img/posts/2012/20121231/12903571.jpg){: width="500" .w-50 .left}
 
 Everyone in fantasy knows Terry Pratchett. He's one of the big guys in the genre. And yet I am almost, but not quite, ashamed to admit to not having read any of his works until now. When I was young and living in Puerto Rico, I never saw any of this books in the science fiction and fantasy sections of bookstores I frequented. Once I got older and explored more of speculative fiction I heard about the Discworld novels, but again never spotted any of this books in the wild. It was only in an independent bookstore in Seattle a few years back that I first saw his books in the shelves. Since then I've also spotted them here in Chile, coincidentally as one of the few English-language books they sell here.  
   

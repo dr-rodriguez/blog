@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Reaper's Gale by Steven Erikson"
 date: 2013-05-18
-img: posts/2013/20130518/8623112.jpg
+image: /assets/img/posts/2013/20130518/8623112.jpg
 tags: [Fantasy, Malazan, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2013/20130518/8623112.jpg)](assets/img/posts/2013/20130518/8623112.jpg)
+![](/assets/img/posts/2013/20130518/8623112.jpg){: width="500" .w-50 .left}
 
 **Reaper's Gale** is the 7th in Steven Erikson's **Malazan Book of the Fallen** series.  
   

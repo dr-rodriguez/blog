@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Gideon The Ninth by Tamsyn Muir"
 date: 2020-03-15
-img: posts/2020/20200315/42288661._SY475_.jpg
+image: /assets/img/posts/2020/20200315/42288661._SY475_.jpg
 tags: [Fantasy, Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2020/20200315/42288661._SY475_.jpg)](assets/img/posts/2020/20200315/42288661._SY475_.jpg)
+![](/assets/img/posts/2020/20200315/42288661._SY475_.jpg){: width="500" .w-50 .left}
 
 I picked up this book after constantly hearing about it on various social media channels and websites. It's considered one of the best books from 2019 and is a finalist for the Nebula awards. Combining fantasy, science fiction, mystery, and horror with a personal tale of fraught relationships I can see why this book is so well regarded.  
   

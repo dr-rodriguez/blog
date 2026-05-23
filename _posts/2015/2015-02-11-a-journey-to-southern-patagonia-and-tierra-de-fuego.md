@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "A Journey to Southern Patagonia and Tierra de Fuego"
 date: 2015-02-11
-img: posts/2015/20150211/IMG_5060.JPG
+image: /assets/img/posts/2015/20150211/IMG_5060.JPG
 tags: [Pictures, Life in Chile, Travel]
 category: Pictures
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2015/20150211/IMG_5060.JPG)](assets/img/posts/2015/20150211/IMG_5060.JPG)

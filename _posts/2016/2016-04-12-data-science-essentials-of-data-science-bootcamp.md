@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Data Science: Essentials of Data Science Bootcamp"
 date: 2016-04-12
-img: posts/2016/20160412/wordcloud_R_1.png
+image: /assets/img/posts/2016/20160412/wordcloud_R_1.png
 tags: [Data Science, Life in NYC, Text Mining]
 category: Data Science
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2016/20160412/wordcloud_R_1.png)](assets/img/posts/2016/20160412/wordcloud_R.png)

@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Equal Rites by Terry Pratchett"
 date: 2014-08-19
-img: posts/2014/20140819/6567830.jpg
+image: /assets/img/posts/2014/20140819/6567830.jpg
 tags: [Fantasy, Discworld, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2014/20140819/6567830.jpg)](assets/img/posts/2014/20140819/6567830.jpg)
+![](/assets/img/posts/2014/20140819/6567830.jpg){: width="500" .w-50 .left}
 
 Equal Rites is the third book in the Discworld universe. That being said, it little to do with the prior two books ([The Color of Magic](http://strakul.blogspot.com/2012/12/book-review-color-of-magic-by-terry.html), [The Light Fantastic](http://strakul.blogspot.com/2013/01/book-review-light-fantastic-by-terry.html)) and can be read on its own. I've read very little into the Discworld, yet I'm thoroughly enjoying it. Some people claim that Terry Pratchett's early work isn't that good, which is incredible since the ones I've read (the first 3) are excellent! I can't wait to get on to his later stuff.  
   

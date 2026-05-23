@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: Observing at VLT"
 date: 2013-09-21
-img: posts/2013/20130921/IMG_2586.JPG
+image: /assets/img/posts/2013/20130921/IMG_2586.JPG
 tags: [Pictures, Travel, Astronomy]
 category: Pictures
 author: Strakul
 description: ""
+img_show: false
 ---
 
 ![](assets/img/posts/2013/20130921/IMG_2586.JPG)

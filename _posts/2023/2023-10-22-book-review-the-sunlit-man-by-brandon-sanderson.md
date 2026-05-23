@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Sunlit Man by Brandon Sanderson"
 date: 2023-10-22
-img: posts/2023/20231022/SP4_wallpaper_vertical_recolored_1.jpg
+image: /assets/img/posts/2023/20231022/SP4_wallpaper_vertical_recolored_1.jpg
 tags: [Cosmere, Fantasy, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2023/20231022/SP4_wallpaper_vertical_recolored_1.jpg)](assets/img/posts/2023/20231022/SP4_wallpaper_vertical_recolored.jpg)
+![](/assets/img/posts/2023/20231022/SP4_wallpaper_vertical_recolored_1.jpg){: width="500" .w-50 .left}
 
 **The Sunlit Man** by Brandon Sanderson is the 4th and final novel of the "Year of Sanderson", the crowd-funded project started towards the end of the COVID pandemic. This one in particular is a very interesting book dedicated to the fans of the Cosmere.
 
@@ -19,21 +20,21 @@ _Years ago he had comrades in arms and a cause to believe in, but now the man wh
 
 Read on for my spoiler-free review.
 
-#### Overall Impression
+## Overall Impression
 
 This was quite a ride, another Cosmere novel which felt like it had a breakneck pace as characters kept running to safety. There's plenty of action and development, though the fast pace limits how much characters could explore of their world. It's probably the most Cosmere-heavy of the Year of Sanderson (though 3 of the novels are set in the Cosmere) so the hints at the greater struggles and connections to other worlds were appreciated.
 
-#### Plot
+## Plot
 
 This book feels fast. Nomad, the main character, lands right in the middle of the action as the main villain, the Cinder King, is setting up his sacrifices to a rising sun that will incinerate them. Between running from the sunlight, the Cinder King's forces, and the various other troubles that crop up, the book always feels like it's rushing from one precipice to the next. It does unfortunately give very little time for introspection and developments, though there is some in the downtime or the prep time that the various characters need to take. It was very hard to pace myself and not finish this all in a single sitting.
 
-#### Characters
+## Characters
 
 [![](assets/img/posts/2023/20231022/elegy.jpg)](assets/img/posts/2023/20231022/elegy_1.jpg)
 
 Nomad is the main character and nearly all of the story is set through his eyes. He is on the run, but drained of a lot of his abilities. He hails from Roshar and slowly through the book you realize who he is as he drops more and more hints of his past. It was very cool to see that connection and realize that like Hoid he is also travelling the worlds, though perhaps somewhat less willingly. He is characterized by always running, but through his interactions with a group of people, including some of the secondary ones like Rebeke and Elegy, he grows to care for the people of the crazy planet he finds himself in.
 
-#### Setting / World Building
+## Setting / World Building
 
 Canticle is a very unique world with a crazy set up that requires its people to be constantly on the run. For mysterious reasons the sun burns and melts the surface in the day time. Fortunately, the planet rotates slowly enough that people in that world can ride in their floating cities and ships ahead of the encroaching sunlight. It gives a natural tension tied to a very intriguing mystery as this sort of thing doesn't happen anywhere else.
 
@@ -41,7 +42,7 @@ In addition to the unique setting, there is a sub-plot going on with Nomad's run
 
 As for some of the other Year of Sanderson books, this one also features a lot of art from a variety of artists.
 
-#### Final Thoughts
+## Final Thoughts
 
 This was a great novel and surprising in how engaging it was and how much lore got squeezed in. It almost feels like it will be required reading for fans of **The Stormlight Archive** or the Cosmere in general. The characters and plot are good, but the unique setting is really what sells it.
 

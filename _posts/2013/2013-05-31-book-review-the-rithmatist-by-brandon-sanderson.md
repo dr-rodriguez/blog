@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Rithmatist by Brandon Sanderson"
 date: 2013-05-31
-img: posts/2013/20130531/10137823.jpg
+image: /assets/img/posts/2013/20130531/10137823.jpg
 tags: [Fantasy, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2013/20130531/10137823.jpg)](assets/img/posts/2013/20130531/10137823.jpg)
+![](/assets/img/posts/2013/20130531/10137823.jpg){: width="500" .w-50 .left}
 
 **The Rithmatist** is a young adult novel written by Brandon Sanderson. I feel it hasn't been advertised as much as some of his other books and novellas. Even now you hear more about **Steelheart** , his next novel, than about **The Rithmatist**. And that's a shame, given how fun **The Rithmatist** is.  
   

@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "A Journey to Northern Patagonia"
 date: 2014-09-23
-img: posts/2014/20140923/IMG_4187.JPG
+image: /assets/img/posts/2014/20140923/IMG_4187.JPG
 tags: [Pictures, Life in Chile, Travel]
 category: Pictures
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2014/20140923/IMG_4187.JPG)](assets/img/posts/2014/20140923/IMG_4187.JPG)  

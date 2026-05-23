@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Blackout / All Clear by Connie Willis"
 date: 2020-10-10
-img: posts/2020/20201010/7576286.jpg
+image: /assets/img/posts/2020/20201010/7576286.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2020/20201010/7576286.jpg)](assets/img/posts/2020/20201010/7576286.jpg)
+![](/assets/img/posts/2020/20201010/7576286.jpg){: width="500" .w-50 .left}
 
 This is a review of two books in one. **Blackout** and **All Clear** are a two part series by Connie Willis of time travelers back to London at the time of the Blitz, around 1940. I decided to review them together since each is incomplete without the other. I'm not sure of the reasoning behind splitting them (I'm fine reading really long novels), but that's all right. 
 

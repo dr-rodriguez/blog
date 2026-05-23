@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Translation State by Ann Leckie"
 date: 2025-09-13
-img: posts/2025/20250913/62979034.jpg
+image: /assets/img/posts/2025/20250913/62979034.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2025/20250913/62979034.jpg)](assets/img/posts/2025/20250913/62979034.jpg)It's been a while since I read a book by Ann Leckie and I remember enjoying [Ancillary Justice](https://strakul.blogspot.com/2014/05/book-review-ancillary-justice-by-ann.html) very much. I probably should reread it since it's been a decade since I first read it. This book isn't a sequel, but it is set in the universe and we get to see some of the ramifications of the original trilogy at least indirectly. Here's the Goodreads blurb:
+![](/assets/img/posts/2025/20250913/62979034.jpg){: width="500" .w-50 .left}It's been a while since I read a book by Ann Leckie and I remember enjoying [Ancillary Justice](https://strakul.blogspot.com/2014/05/book-review-ancillary-justice-by-ann.html) very much. I probably should reread it since it's been a decade since I first read it. This book isn't a sequel, but it is set in the universe and we get to see some of the ramifications of the original trilogy at least indirectly. Here's the Goodreads blurb:
 
 _The mystery of a missing translator sets three lives on a collision course that will have a ripple effect across the stars in this powerful new novel by award-winning author Ann Leckie._
 
@@ -28,21 +29,21 @@ Read on for my spoiler-free review.
   
 
 
-#### Overall Impression
+## Overall Impression
 
 This is a cool book in the universe first introduced by Ancillary Justice. It's been a long time since I read that one, so I was a bit vague on some of the details, but they weren't strictly speaking necessary. There are 3 main characters, all with different perspectives. Their individual stories tie them together and while ultimately it's a story about those 3, there are broader implications about the Radch society and the treaty that preserves the peace between several alien species.
 
-#### Plot
+## Plot
 
 The plot jumps between the three main characters, Enea, Reet, and Qven. At first, they seem very disconnected, but as the story progresses they all converge and at that point the plot speeds up and the breaks in the chapters become smoother. I've read many books that use this approach, so it's not unexpected. It does sometimes feel like some aspects (like the budding relationship between two of them) gets dragged a bit as we have to wait a whole chapter, but it's not too bad.
 
-#### Characters
+## Characters
 
 We follow three characters throughout the story: Enea, Reet, and Qven, all starting in very different circumstances. I found Enea's personal story to be one of the weaker ones, though it is the glue for the whole book. Qven's is probably the most interesting as e is preparing to become a Presger Translater and that alien species has been a big bogey man in the prior novels. Reet's story is also quite interesting and you can guess at some of his story arc pretty early in the novel.
 
 As in all the Imperial Radch books, there is a strong emphasis on gender and its representations. We have some he/him and she/her characters, but Enae is a sie/hir and Qven leans towards an e/eir. It feels a bit more gender neutral, but being two variants it's unclear if it's a male-neutral/female-neutral or just something else. Regardless, it's an interesting take.
 
-#### Setting / World Building
+## Setting / World Building
 
 This is another novel set in the universe of the Imperial Radch and takes place sometime after the ancillary trilogy. The situation there is still unresolved, but a Conclave between various species is being held that may help address that. This story is more personal, but some of the details have implications in the broader story so a lot of extra characters are drawn into the fray.
 
@@ -50,6 +51,6 @@ We get to see and learn a lot more about the Presger aliens, though mainly throu
 
 We also see a few representatives from other species, like the Geck and the Rrrrrr. But in the end, it's interesting how different some of the aliens are, yet also at the same time how relatable. The question of what exactly does it mean to be human is a very strong theme in this book.
 
-#### Final Thoughts
+## Final Thoughts
 
 Overall, this was a fun book. I enjoyed diving back into this universe and seeing another story take place in it. I would like to see the ultimate conclusion of the events in the original trilogy, though, as we get hints of some things that could shake things up there. It was cool to see more details about the Presger aliens, even if only obliquely and the characters and plot are pretty decent as well. 

@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: Cool Stars 18 Meeting"
 date: 2014-06-19
-img: posts/2014/20140619/logo.png
+image: /assets/img/posts/2014/20140619/logo.png
 tags: [Travel, Brown Dwarfs, Planets, Astronomy, Stars]
 category: Travel
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2014/20140619/logo.png)](assets/img/posts/2014/20140619/logo.png)

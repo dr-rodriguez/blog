@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Wild by Cheryl Strayed"
 date: 2014-02-24
-img: posts/2014/20140224/12262741.jpg
+image: /assets/img/posts/2014/20140224/12262741.jpg
 tags: [Books, Book Club]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2014/20140224/12262741.jpg)](assets/img/posts/2014/20140224/12262741.jpg)
+![](/assets/img/posts/2014/20140224/12262741.jpg){: width="500" .w-50 .left}
 
 This upcoming month's book club pick was **Wild** by Cheryl Strayed. I hesitated to start it as it did not sound appealing at all. However, once I did I was quickly sucked in by the story. Despite being nonfiction and a memoir of her travels along the Pacific Crest Trail, it reflects elements of Joseph Campbell's [monomyth](http://en.wikipedia.org/wiki/Monomyth), perhaps most commonly known as "the hero's journey." This lends the story a broader appeal and was one of the main reasons why I quickly dug right in despite the initial hesitation.  
   

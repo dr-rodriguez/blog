@@ -4,16 +4,17 @@ read_time: true
 show_date: true
 title: "Book Review: To Say Nothing of the Dog by Connie Willis"
 date: 2020-07-28
-img: posts/2020/20200728/824657.jpg
+image: /assets/img/posts/2020/20200728/824657.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
 **
 
-[![](assets/img/posts/2020/20200728/824657.jpg)](assets/img/posts/2020/20200728/824657_1.jpg)
+![](/assets/img/posts/2020/20200728/824657.jpg){: width="500" .w-50 .left}
 
 To Say Nothing of the Dog, or, How We Found the Bishop's Bird Stump at Last** by Connie Willis is the second of her Oxford Time Travel series and came recommended to me from a friend. I was originally going to skip over it, since I had heard such good things about **Blackout/All Clear** and had enjoyed [Doomsday Book](https://strakul.blogspot.com/2020/02/book-review-doomsday-book-by-connie.html), but was encouraged to give this one a try first. And I'm glad I did. It was surprisingly fun and enjoyable up to the last page! This was also my first time getting a book from the library here, which was also a good experience.
 

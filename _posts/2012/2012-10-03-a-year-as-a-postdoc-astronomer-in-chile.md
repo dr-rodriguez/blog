@@ -4,7 +4,6 @@ read_time: true
 show_date: true
 title: "A Year as a Postdoc Astronomer in Chile"
 date: 2012-10-03
-img: 
 tags: [Life in Chile, Astronomy]
 category: Life in Chile
 author: Strakul

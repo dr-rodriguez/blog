@@ -4,7 +4,6 @@ read_time: true
 show_date: true
 title: "Video Book Reviews"
 date: 2012-09-07
-img: 
 tags: [Misc, Books]
 category: Misc
 author: Strakul

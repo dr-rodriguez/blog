@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Drowned Cities by Paolo Bacigalupi"
 date: 2013-01-29
-img: posts/2013/20130129/12814594.jpg
+image: /assets/img/posts/2013/20130129/12814594.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2013/20130129/12814594.jpg)](assets/img/posts/2013/20130129/12814594.jpg)
+![](/assets/img/posts/2013/20130129/12814594.jpg){: width="500" .w-50 .left}
 
 Back in the 1500s, Thomas More helped popularize the idea of utopia. This was the concept of a perfect society with no scarcity and ultimate peace. And it was frightening when we saw how much the utopians had to sacrifice in terms of personal liberties and choices. Paolo Bacigalupi in his works, **The Windup Girl** , [Ship Breaker](http://strakul.blogspot.com/2012/04/book-review-ship-breaker-by-paolo.html), and now, **The Drowned Cities** , shows us the opposite: a dystopia. He takes the present-day Earth and extrapolates what things might become: a bleak world of war, struggle, and scarcity.  
   

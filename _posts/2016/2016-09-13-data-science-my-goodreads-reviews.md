@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Data Science: My Goodreads Reviews"
 date: 2016-09-13
-img: posts/2016/20160913/wordcloud.png
+image: /assets/img/posts/2016/20160913/wordcloud.png
 tags: [Data Science, Books, Python]
 category: Data Science
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2016/20160913/wordcloud.png)](assets/img/posts/2016/20160913/wordcloud_1.png)

@@ -31,19 +31,19 @@ Read on for my spoiler-free review.
 
 ---
 
-#### Overall Impression
+## Overall Impression
 This was a pretty good book. It feels like a call back to some of the old hard, sci-fi stories that focuses heavily on a concept. There are some characters and plot points to the story, but all serve to advance the concept here- an alien lifeform causing damage to the Solar System and the efforts to find a solution among the stars.
 
-#### Plot
+## Plot
 The plot advances in an interesting way over the course of the book. We start off waking up in a spaceship with little idea of who the main character is or what's going on. As we progress through the story, we get memory flashbacks that fill out the details. Slowly the setup for the start of the book is revealed and then we can focus on the efforts to solve the crisis, all while continuing flashbacks reveal more and more.
 
-#### Characters
+## Characters
 The main character is Ryland Grace, the astronaut on an impossible journey to the nearby star system Tau Ceti. His backstory is slowly revealed through the first few chapters, though exactly how he ends up in this trip takes a bit longer to be revealed. There are a few other characters, but predominantly in the flashback chapters. And as the blurb hints at, he might not be entirely alone in Tau Ceti...
 
-#### Setting / World Building
+## Setting / World Building
 This is probably the strongest suit of the book. It's set in roughly present day Earth, though with the added threat of an alien presence affecting the Solar System. We get to see scientists, mainly Grace, trying experiments to sort out the nature of these lifeforms, how they work, and what can be done about them. It's grounded in real physics, though does take liberties especially as we consider aspects of extraterrestrial species. It confronts a lot of speculation of alien life, particularly that popularized by media, and presents a more stark reminder that if we ever do find life beyond Earth it may be almost entirely unrecognizable to us.
 
-#### Final Thoughts
+## Final Thoughts
 Overall this was a pretty good book. I liked the focus on scientific solutions to problems and how they were achieved. A lot does depend on luck, which while true does cheapen the experience somewhat. The plot is pretty good, though sometimes tense as it always seems to be on the verge of disaster. It gave me a lot to think about and I look forward to seeing how the movie will adapt it.
 
  

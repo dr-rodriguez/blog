@@ -4,7 +4,6 @@ read_time: true
 show_date: true
 title: "Poetry: Isildur's Bane"
 date: 2012-10-25
-img: 
 tags: [Writting, Poetry]
 category: Writting
 author: Strakul

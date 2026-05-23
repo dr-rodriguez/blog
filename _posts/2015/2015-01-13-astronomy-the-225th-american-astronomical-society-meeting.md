@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: The 225th American Astronomical Society Meeting"
 date: 2015-01-13
-img: posts/2015/20150113/Screen+Shot+2015-01-13+at+4.48.55+PM.png
+image: /assets/img/posts/2015/20150113/Screen+Shot+2015-01-13+at+4.48.55+PM.png
 tags: [Travel, Astronomy]
 category: Travel
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2015/20150113/Screen+Shot+2015-01-13+at+4.48.55+PM.png)](assets/img/posts/2015/20150113/Screen+Shot+2015-01-13+at+4.48.55+PM.png)

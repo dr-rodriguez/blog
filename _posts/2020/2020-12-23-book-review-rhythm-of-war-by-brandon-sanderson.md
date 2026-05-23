@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Rhythm of War by Brandon Sanderson"
 date: 2020-12-23
-img: posts/2020/20201223/49021976.jpg
+image: /assets/img/posts/2020/20201223/49021976.jpg
 tags: [Cosmere, Fantasy, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2020/20201223/49021976.jpg)](assets/img/posts/2020/20201223/49021976.jpg)
+![](/assets/img/posts/2020/20201223/49021976.jpg){: width="500" .w-50 .left}
 
   
 Brandon Sanderson's **Rhythm of War** is the 4th book of **The Stormlight Archive** series. I've been a huge fan of this series since it started and eagerly await each book. The books, however, are quite massive and intricate and benefit from multiple readings. I wish I had re-read the prior book, [Oathbringer](https://strakul.blogspot.com/2017/12/book-review-oathbringer-by-brandon.html), before starting this one as there were many details I had forgotten! Still, it was good to revisit this world and see how the story is building up.

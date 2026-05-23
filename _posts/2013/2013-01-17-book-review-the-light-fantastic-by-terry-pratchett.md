@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Light Fantastic by Terry Pratchett"
 date: 2013-01-17
-img: http://d.gr-assets.com/books/1347395202l/34506.jpg
+image: http://d.gr-assets.com/books/1347395202l/34506.jpg
 tags: [Fantasy, Discworld, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](http://d.gr-assets.com/books/1347395202l/34506.jpg)](http://d.gr-assets.com/books/1347395202l/34506.jpg)
+![](http://d.gr-assets.com/books/1347395202l/34506.jpg){: width="500" .w-50 .left}
 
 Written while waiting for my flight and gathering my thoughts for the upcoming AAS-related post. Here are my thoughts on a book I finished several weeks ago: **The Light Fantastic** by Terry Pratchett.  
 

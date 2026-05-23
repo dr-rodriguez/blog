@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Favorite Books of 2013"
 date: 2013-12-28
-img: posts/2013/20131228/7743175.jpg
+image: /assets/img/posts/2013/20131228/7743175.jpg
 tags: [Books, Favorite Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
 As I've been doing for the past two years, here is my list of the top 5 books I read this year. This are books I *read* this year, not ones that were published this year.  
@@ -38,6 +39,6 @@ This is the 7th book in the **Malazan Book of the Fallen** series. I am thorough
   
 
 
-[![](assets/img/posts/2013/20131228/7743175.jpg)](assets/img/posts/2013/20131228/7743175.jpg)
+![](/assets/img/posts/2013/20131228/7743175.jpg){: width="500" .w-50 .left}
 
 This is the 14th and final book in **The** **Wheel of Time** series and Brandon Sanderson has finally managed to complete Robert Jordan's legacy. Whether you love it or hate it, the **Wheel of Time** has become one of the largest and most influential epic fantasies of recent times. This book feels huge and rightfully so as we see everything converging towards Tarmon Gai'don, the Last Battle. It is a fitting end to a great series. While the series had it's ups and downs in terms of which books were enjoyable, we'll nonetheless miss the excellent cast of characters and the intricate world and cultures of **The** **Wheel of Time**. 

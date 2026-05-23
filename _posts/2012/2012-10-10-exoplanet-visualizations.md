@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Exoplanet Visualizations"
 date: 2012-10-10
-img: http://www.nasa.gov/images/content/511895main_Kepler-11_IntroShot_full.jpg
+image: http://www.nasa.gov/images/content/511895main_Kepler-11_IntroShot_full.jpg
 tags: [Astronomy, Planets]
 category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](http://www.nasa.gov/images/content/511895main_Kepler-11_IntroShot_full.jpg)](http://www.nasa.gov/images/content/511895main_Kepler-11_IntroShot_full.jpg)

@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Data Science: Republican & Democratic Conventions"
 date: 2016-08-01
-img: posts/2016/20160801/convention_clouds.png
+image: /assets/img/posts/2016/20160801/convention_clouds.png
 tags: [Data Science, Politics, Text Mining, Python]
 category: Data Science
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2016/20160801/convention_clouds.png)](assets/img/posts/2016/20160801/convention_clouds_1.png)

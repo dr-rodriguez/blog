@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Warbreaker by Brandon Sanderson"
 date: 2014-04-06
-img: posts/2014/20140406/1268479.jpg
+image: /assets/img/posts/2014/20140406/1268479.jpg
 tags: [Cosmere, Fantasy, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2014/20140406/1268479.jpg)](assets/img/posts/2014/20140406/1268479.jpg)
+![](/assets/img/posts/2014/20140406/1268479.jpg){: width="500" .w-50 .left}
 
 **Warbreaker** is an interesting experiment that Brandon Sanderson decided to do. He released it online for free through his website, though you can buy it in hardcover (as I did) or through the kindle store (as I also did). If you don't want to pay for a Sanderson book, you can just grab the [free version](http://brandonsanderson.com/books/warbreaker/warbreaker/), though if you wanted to give him a try I would start with **Mistborn**.  
   

@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Blog Update: February 2016"
 date: 2016-02-15
-img: posts/2016/20160215/IMG_5925.jpg
+image: /assets/img/posts/2016/20160215/IMG_5925.jpg
 tags: [Life in NYC, Data Science, Books, Astronomy]
 category: Life in NYC
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2016/20160215/IMG_5925.jpg)](assets/img/posts/2016/20160215/IMG_5925_1.jpg)

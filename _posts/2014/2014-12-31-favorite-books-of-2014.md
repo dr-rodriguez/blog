@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Favorite Books of 2014"
 date: 2014-12-31
-img: posts/2014/20141231/20150777.jpg
+image: /assets/img/posts/2014/20141231/20150777.jpg
 tags: [Books, Favorite Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
 As I do every year, I'd like to summarize my top books I read this year. These are books I read this year and not necessarily ones that were published this year. Despite the fact I read a lot, I'm actually finding that I average only about 20 books or so in a year. This is due to a variety of reasons, including being busy with other things and the length of some of those books. As such, it becomes difficult to pick the best few among a short list. Nevertheless, here we go.  
@@ -37,6 +38,6 @@ Despite not being a novel, this short story was such an amazing read I felt it d
   
 
 
-[![](assets/img/posts/2014/20140313/20150777.jpg)](assets/img/posts/2014/20140313/20150777.jpg)
+![](/assets/img/posts/2014/20140313/20150777.jpg){: width="500" .w-50 .left}
 
 Sanderson is one of my favorite authors so it's no surprise to see him again at the top of the list this year. **Words of Radiance** is the sequel to **The Way of Kings** and an excellent addition to **The Stormlight Archive** series. The scope, the characters, the magic, the illustrations, practically everything about this book is of exquisite quality. At over a thousand pages, it is also deliciously long, providing hours and hours of enjoyment. **The Stormlight Archive** books are some of the few I've read that upon finishing I immediately wanted to re-read. Even re-reading my blog review made me want to re-read the book itself! 

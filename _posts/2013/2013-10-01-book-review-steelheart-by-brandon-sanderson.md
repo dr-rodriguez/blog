@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Steelheart by Brandon Sanderson"
 date: 2013-10-01
-img: posts/2013/20131001/17698536.jpg
+image: /assets/img/posts/2013/20131001/17698536.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2013/20131001/17698536.jpg)](assets/img/posts/2013/20131001/17698536.jpg)
+![](/assets/img/posts/2013/20131001/17698536.jpg){: width="500" .w-50 .left}
 
 **Steelheart** is Brandon Sanderson's latest novel. It is a young adult novel set in a world where ordinary people have received great powers and been corrupted by them. A group of ordinary humans, however, has banded together to assassinate these near-invincible people. Sanderson takes us on a whirlwind ride in the former city of Chicago as this group faces off against one of the most powerful Epics known- Steelheart.  
   

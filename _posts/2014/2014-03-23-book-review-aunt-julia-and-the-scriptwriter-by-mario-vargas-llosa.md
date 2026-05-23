@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Aunt Julia and the Scriptwriter by Mario Vargas Llosa"
 date: 2014-03-23
-img: posts/2014/20140323/11785454.jpg
+image: /assets/img/posts/2014/20140323/11785454.jpg
 tags: [Books, Book Club]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2014/20140323/11785454.jpg)](assets/img/posts/2014/20140323/11785454.jpg)
+![](/assets/img/posts/2014/20140323/11785454.jpg){: width="500" .w-50 .left}
 
 The latest selection our book club is **Aunt Julia and the Scriptwriter (La tia Julia y el escribidor)** by Mario Vargas Llosa. There's been a desire to read (English-translated) Latin American authors and this is one of the more popular ones. It reminded me of my days in high school where I had to read all manner of books for my Spanish class including works by Enrique Laguerre, Gabriel Garcia Marques, and many others. I know read mainly for entertainment and choose to do so in the genre of speculative fiction. I will endeavor to provide more fine science fiction and fantasy selections for our book club!  
   

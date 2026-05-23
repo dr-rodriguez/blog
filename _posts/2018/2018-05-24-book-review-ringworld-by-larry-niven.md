@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Ringworld by Larry Niven"
 date: 2018-05-24
-img: posts/2018/20180524/398274.jpg
+image: /assets/img/posts/2018/20180524/398274.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2018/20180524/398274.jpg)](assets/img/posts/2018/20180524/398274.jpg)
+![](/assets/img/posts/2018/20180524/398274.jpg){: width="500" .w-50 .left}
 
 I recently picked up **Ringworld** by Larry Niven on a whim and since I saw his name mentioned on the [Balticon 52](https://balticon.org/wp52/) guest list. I've heard of his work before and seeing it on a bookstore decided to give it a go. It stands on it's own, but I've seen that it's also part of a series as well, so I may consider looking at some of the others.  
 

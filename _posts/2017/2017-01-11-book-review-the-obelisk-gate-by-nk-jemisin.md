@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Obelisk Gate by N.K. Jemisin"
 date: 2017-01-11
-img: posts/2017/20170111/28147302.jpg
+image: /assets/img/posts/2017/20170111/28147302.jpg
 tags: [Fantasy, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2017/20170111/28147302.jpg)](assets/img/posts/2017/20170111/28147302.jpg)
+![](/assets/img/posts/2017/20170111/28147302.jpg){: width="500" .w-50 .left}
 
 **The Obelisk Gate** by N.K. Jemisin is the second book in **The Broken Earth** series. It follows directly after [The Fifth Season](http://strakul.blogspot.com/2016/09/book-review-fifth-season-by-nk-jemisin.html), which was an incredible book on its own. N.K. Jemisin continues the tradition of excellence with **The Obelisk Gate** , an exciting story that sheds light on a lot of the mysteries of the various characters and the world itself.  
   

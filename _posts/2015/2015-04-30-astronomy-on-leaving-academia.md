@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: On Leaving Academia"
 date: 2015-04-30
-img: posts/2015/20150430/phd051208s.gif
+image: /assets/img/posts/2015/20150430/phd051208s.gif
 tags: [Life in Chile, Misc, Education, Astronomy]
 category: Life in Chile
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Earlier this month, I got a request for a telephone interview for one of the many academic positions I applied for. While it was good news, I immediately knew that this was not something I wanted. This was not because of the particular offer, but because of the greater aspect of being a professor. It was the moment I realized what had been nagging me for the past few years: It was time to leave the academic path.  

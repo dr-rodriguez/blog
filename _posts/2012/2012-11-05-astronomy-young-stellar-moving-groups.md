@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: Young Stellar Moving Groups"
 date: 2012-11-05
-img: posts/2012/20121105/m25_cfht.jpg
+image: /assets/img/posts/2012/20121105/m25_cfht.jpg
 tags: [Disks, Planets, Astronomy, Stars]
 category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2012/20121105/m25_cfht.jpg)](assets/img/posts/2012/20121105/m25_cfht.jpg)  

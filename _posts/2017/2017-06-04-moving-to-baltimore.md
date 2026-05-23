@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Moving to Baltimore"
 date: 2017-06-04
-img: posts/2017/20170604/20170416_125714.jpg
+image: /assets/img/posts/2017/20170604/20170416_125714.jpg
 tags: [Life in Baltimore, Travel]
 category: Life in Baltimore
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2017/20170604/20170416_125714.jpg)](assets/img/posts/2017/20170604/20170416_125714_1.jpg)

@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Data Science: The Divided States of America"
 date: 2016-07-29
-img: posts/2016/20160729/map_twitter.png
+image: /assets/img/posts/2016/20160729/map_twitter.png
 tags: [Data Science, Politics, Text Mining, Python]
 category: Data Science
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2016/20160729/map_twitter.png)](assets/img/posts/2016/20160729/map_twitter_1.png)

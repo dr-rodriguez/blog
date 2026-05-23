@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: A Desolation Called Peace by Arkady Martine"
 date: 2022-02-24
-img: posts/2022/20220224/45154547._SY475_.jpg
+image: /assets/img/posts/2022/20220224/45154547._SY475_.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2022/20220224/45154547._SY475_.jpg)](assets/img/posts/2022/20220224/45154547._SY475_.jpg)This is the second book in the **Teixcalaan** series by Arkady Martine and follows a few months after the prior, [A Memory of Empire](https://strakul.blogspot.com/2020/06/book-review-memory-called-empire-by.html). Here is the Goodreads blurb:
+![](/assets/img/posts/2022/20220224/45154547._SY475_.jpg){: width="500" .w-50 .left}This is the second book in the **Teixcalaan** series by Arkady Martine and follows a few months after the prior, [A Memory of Empire](https://strakul.blogspot.com/2020/06/book-review-memory-called-empire-by.html). Here is the Goodreads blurb:
 
 > __
 >
@@ -25,25 +26,25 @@ description: ""
 
 Read on for my spoiler-free review.
 
-#### Overall Impression
+## Overall Impression
 
 This continues a few months after [A Memory of Empire](https://strakul.blogspot.com/2020/06/book-review-memory-called-empire-by.html) and has many of the same similar notes, but with a wider scope of the Teixcalaanli Empire. Some of the same characters join in and we get new ones as well. Overall, it sets the stage for a wider conflict while still keeping the interpersonal drama that was prominent in the first book.
 
-#### Plot
+## Plot
 
-#### 
+## 
 
 There is a new emperor to Teixcalaan, following the turmoil in the prior novel, and many administrative positions have been shuffled about. Mahit Dzmare is still the Ambasador from Lsel Station, though she finds herself back home while she decides what to do about her parts in the upheaval as well as what to do with her broken imago. Meanwhile, the Empire is officially at war with the unknown aliens that were hinted at in the prior book and little headway has been made. That sets the stage for the novel, with several layers of external and internal conflicts, ranging from the alien invasion, to politics in both Lsel and Teixcalaan.
 
 Characters
 
-#### 
+## 
 
 Many of the same characters make a reappearance here, including Mahit Dzmare, Three Seagrass, Nineteen Adze, Eight Antidote, but we also get some new ones from the military side of things, like the Fleet Captain (_yaotlek_) Nine Hibiscus and her adjutant Twenty Cicada. Their relationship, and what happens on their ship, is somewhat of a microcosmos of the larger tensions of Teixcalaan, its ministries, and foreign relationships. I thought it was interesting how Eight Antidote, the 11-year-oldImperial heir is portrayed. While he is privileged and educated enough to be sophisticated and dangerous, he is still a little kid and struggles with his emotions and a touch of naivete. It's an interesting blend of a capable character that is flawed due to his youth.
 
 Setting / World Building
 
-#### 
+## 
 
 The setting is mainly the same as the prior novel, though we get some more tidbits of how the Empire is structured, particularly with regards to communications with distant sectors. While faster-than-light travel is possible through the jump gates, it doesn't appear that arbitrary ships possess this ability which leads to these gates as key points of expansion and control.
 

@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The City & The City by China Mieville"
 date: 2013-06-26
-img: posts/2013/20130626/8121642.jpg
+image: /assets/img/posts/2013/20130626/8121642.jpg
 tags: [Fantasy, Book Club, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2013/20130626/8121642.jpg)](assets/img/posts/2013/20130626/8121642.jpg)
+![](/assets/img/posts/2013/20130626/8121642.jpg){: width="500" .w-50 .left}
 
 **The City & The City** is a detective novel by China Mieville. I'm a fan of Mieville for his intricate language, the worlds he creates, and the unique place that Setting has in his stories. I had already read this book several years ago when it won the 2012 Hugo award for best novel (tied to Paolo Bacigalupi's **The Windup Girl**). However, I recently recommended it to the book club I'm in and was happy to see it accepted as this month's pick. Interestingly enough, there is a set of discussion questions at the end of the book for any reading groups. I've only seen that in a few books, but it's a great way to encourage deeper discussions.  
   

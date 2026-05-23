@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Three-Body Problem by Liu Cixin"
 date: 2015-07-12
-img: posts/2015/20150712/18245960.jpg
+image: /assets/img/posts/2015/20150712/18245960.jpg
 tags: [Books, Astronomy, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2015/20151224/18245960.jpg)](assets/img/posts/2015/20151224/18245960.jpg)
+![](/assets/img/posts/2015/20151224/18245960.jpg){: width="500" .w-50 .left}
 
 Over the past year, since the English translation was released in November 2014, **The Three-Body Problem** (三体) has received a huge amount of praise. It's considered one of the most popular science fiction novels in China and with its English translation, it's easy for me to see why. Liu Cixin blends together a lot of fascinating concepts in a hard science fiction story reminiscent of the type Arthur C. Clarke or Isaac Asimov would write. If you are a fan of classic science fiction, you owe it to yourself to try out this author. I guarantee you will enjoy it.  
   

@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: The 221th American Astronomical Meeting"
 date: 2013-01-21
-img: posts/2013/20130121/photo_1.JPG
+image: /assets/img/posts/2013/20130121/photo_1.JPG
 tags: [Travel, Astronomy]
 category: Travel
 author: Strakul
 description: ""
+img_show: false
 ---
 
 My trip to the 221th American Astronomical (AAS) Meeting was long, but quite productive. Now that I've returned to Chile I'm ready to talk about what went on there. There is always far too much going on at AAS for me to keep track off, though, so this is more of a snapshot of my experiences at the AAS conference.  

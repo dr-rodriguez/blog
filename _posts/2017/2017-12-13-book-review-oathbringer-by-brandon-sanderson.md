@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Oathbringer by Brandon Sanderson"
 date: 2017-12-13
-img: posts/2017/20171213/34039808.jpg
+image: /assets/img/posts/2017/20171213/34039808.jpg
 tags: [Cosmere, Fantasy, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2017/20171213/34039808.jpg)](assets/img/posts/2017/20171213/34039808.jpg)
+![](/assets/img/posts/2017/20171213/34039808.jpg){: width="500" .w-50 .left}
 
 The highly anticipated continuation of **The Stormlight Archive** is here with **Oathbringer**. As a fan of Sanderson and his Stormlight series, I've been re-reading the prior books and came to this one with anticipation and high hopes.  
   

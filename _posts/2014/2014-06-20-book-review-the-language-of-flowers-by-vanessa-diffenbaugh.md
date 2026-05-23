@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Language of Flowers by Vanessa Diffenbaugh"
 date: 2014-06-20
-img: posts/2014/20140620/10032672.jpg
+image: /assets/img/posts/2014/20140620/10032672.jpg
 tags: [Books, Book Club]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2014/20140620/10032672.jpg)](assets/img/posts/2014/20140620/10032672.jpg)
+![](/assets/img/posts/2014/20140620/10032672.jpg){: width="500" .w-50 .left}
 
 This was the latest book selected as part of the book club. It is the type of book that I never would have picked up in a thousand years. I was hesitant to start the book as pretty much when we picked it, it was described as a "candy" and "girl" book. This is what I get by being in a book club dominated by women! Still, I promised I would give it a shot and ended up finding things I liked in it. So while it wasn't the best for me, at least I don't feel like I wasted my time.  
   

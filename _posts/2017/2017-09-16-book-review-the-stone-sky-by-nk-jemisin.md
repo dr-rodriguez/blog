@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Stone Sky by N.K. Jemisin"
 date: 2017-09-16
-img: posts/2017/20170916/34017126.jpg
+image: /assets/img/posts/2017/20170916/34017126.jpg
 tags: [Fantasy, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2017/20170916/34017126.jpg)](assets/img/posts/2017/20170916/34017126.jpg)
+![](/assets/img/posts/2017/20170916/34017126.jpg){: width="500" .w-50 .left}
 
 **The Stone Sky** is the third and final book of **The Broken Earth** trilogy by N.K. Jemisin. It follows after Hugo award-winning [The Obelisk Gate](https://strakul.blogspot.com/2017/01/book-review-obelisk-gate-by-nk-jemisin.html), which itself follows Hugo award-winning [The Fifth Season](https://strakul.blogspot.com/2016/09/book-review-fifth-season-by-nk-jemisin.html). Could **The Stone Sky** be three times in a row for Jemisin? Very much so as this book surpasses the prior two books in practically every way possible.  
   

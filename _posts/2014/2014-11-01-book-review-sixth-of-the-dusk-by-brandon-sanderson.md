@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Sixth of the Dusk by Brandon Sanderson"
 date: 2014-11-01
-img: posts/2014/20141101/22739503.jpg
+image: /assets/img/posts/2014/20141101/22739503.jpg
 tags: [Cosmere, Fantasy, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2014/20141101/22739503.jpg)](assets/img/posts/2014/20141101/22739503.jpg)
+![](/assets/img/posts/2014/20141101/22739503.jpg){: width="500" .w-50 .left}
 
 **Sixth of the Dusk** is Brandon Sanderson's latest novella. As a huge fan of Sanderson's work, I bought this without even reading up on what it's about. If it's Sanderson, it has to be good. And indeed, I was not disappointed. It is short, as it's a novella, so my review will just present a basic overview of what it's about. One of the great aspects of reading a Sanderson novel is discovering the world. I mildly spoil that, but not too much and certainly avoid direct spoilers concerning the story and the mysteries of the world.  
   

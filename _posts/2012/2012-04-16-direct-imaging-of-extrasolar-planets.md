@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Direct Imaging of Extrasolar Planets"
 date: 2012-04-16
-img: http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Beta_Pictoris_system_annotated.jpg/603px-Beta_Pictoris_system_annotated.jpg
+image: http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Beta_Pictoris_system_annotated.jpg/603px-Beta_Pictoris_system_annotated.jpg
 tags: [Astronomy, Planets]
 category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Right now there are hundreds of planets known in the Galaxy and thousands of candidates identified with the Kepler space telescope. Most of these planets are inferred through indirect means, the most popular ones being the radial velocity method, where the planet's gravity pulls on the star and we see this signature, or the transit method, where the planet passes between us and the star causing a tiny decrease in the star's brightness. Perhaps at some point I'll talk about these methods, but today I wanted to briefly mention one of the more exciting methods to search for planets: direct imaging.  

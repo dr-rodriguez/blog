@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Chile on September 18"
 date: 2012-09-18
-img: http://upload.wikimedia.org/wikipedia/commons/3/31/Hisparevol.gif
+image: http://upload.wikimedia.org/wikipedia/commons/3/31/Hisparevol.gif
 tags: [Life in Chile, Politics]
 category: Life in Chile
 author: Strakul
 description: ""
+img_show: false
 ---
 
 September is a month of history in Chile. Back on [September 11](http://strakul.blogspot.com/2012/09/chile-on-september-11.html), we saw the remembrance of the military coup that overthrew Allende and established the Pinochet dictatorship. Today, however, we go further back in history: to September 18, 1810 and the first steps in Chile's independence. From my readings, it looks like there were many notable dates throughout the process for independence, but September 18 is celebrated as the Day.  

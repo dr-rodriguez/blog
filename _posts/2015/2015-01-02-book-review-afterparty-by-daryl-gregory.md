@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Afterparty by Daryl Gregory"
 date: 2015-01-02
-img: posts/2015/20150102/20566495.jpg
+image: /assets/img/posts/2015/20150102/20566495.jpg
 tags: [Book Club, Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2015/20150102/20566495.jpg)](assets/img/posts/2015/20150102/20566495.jpg)
+![](/assets/img/posts/2015/20150102/20566495.jpg){: width="500" .w-50 .left}
 
 This was the latest book pick in our Santiago book club. It was quite an interesting one coming right after I finished **Legion: Skin Deep** , for reasons I'll explain below. It is a near-future story where pharmaceutical companies, religious groups, pretty much anyone really, can print out the drugs they want to use, or invent new ones to get the effects they want. The problem starts when a company invents a drug that makes you see God and despite stopping work on it, the drug somehow ends up in the streets.  
   

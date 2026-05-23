@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "RIP Kindle"
 date: 2013-10-25
-img: posts/2013/20131025/IMG_2787_1.JPG
+image: /assets/img/posts/2013/20131025/IMG_2787_1.JPG
 tags: [Life in Chile, Misc, Books]
 category: Life in Chile
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2013/20131025/IMG_2787_1.JPG)](assets/img/posts/2013/20131025/IMG_2787.JPG)

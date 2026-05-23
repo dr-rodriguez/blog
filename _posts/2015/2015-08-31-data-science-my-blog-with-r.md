@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Data Science: My Blog with R"
 date: 2015-08-31
-img: posts/2015/20150831/wordcloud_1.png
+image: /assets/img/posts/2015/20150831/wordcloud_1.png
 tags: [Misc, Data Science, Writting]
 category: Misc
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](assets/img/posts/2015/20150831/wordcloud_1.png)](assets/img/posts/2015/20150831/wordcloud_1.png)

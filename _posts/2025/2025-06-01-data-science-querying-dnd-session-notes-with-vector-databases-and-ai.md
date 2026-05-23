@@ -4,7 +4,6 @@ read_time: true
 show_date: true
 title: "Data Science: Querying DnD Session Notes with Vector Databases and AI"
 date: 2025-06-01
-img: 
 tags: [Data Science, Databases, Python, Programming, AI]
 category: Data Science
 author: Strakul
@@ -90,7 +89,7 @@ The AI does sometimes hallucinate or garble up the session notes. For instance, 
 
 Let's go over some of the questions I asked:
 
-#### When did Soren get the most scrolls?
+## When did Soren get the most scrolls?
 
 Soren is my character, an aarakocra (bird-folk) wizard. Here's what the AI had to say about this prompt:
 
@@ -113,7 +112,7 @@ Soren is my character, an aarakocra (bird-folk) wizard. Here's what the AI had t
 
 This is actually not bad. I do think the exploration of the wizard tower was time Soren got the most scrolls. The session before I think he scribed a few extra as well, though that's not in the bullet points.
 
-#### What is Queen Tesselia's connection to Lady Nevermore?
+## What is Queen Tesselia's connection to Lady Nevermore?
 
 Tesselia and Nevermore are prominent NPCs in our campaign and their relationship is revealed over multiple sessions. Here's the AI response:
 
@@ -130,7 +129,7 @@ Tesselia and Nevermore are prominent NPCs in our campaign and their relationship
 
 This is also pretty good. I think a few other notes may have been needed, or my notes be clearer, for it to do better.
 
-#### How and when did Tririn die?
+## How and when did Tririn die?
 
 Tririn was one of our player characters, a barbarian lion-folk. Here's what the AI had to say for this question:
 
@@ -140,7 +139,7 @@ Tririn was one of our player characters, a barbarian lion-folk. Here's what the 
 
 This is accurate. We had some tough fight with Polythemis and then moved to the big boss fight against Athena. It was at the end of the fight that he died though I just wrote down "Tririn dies" in my notes so that's why the AI can't provide anything beyond this.
 
-#### How did the party invent Christmas?
+## How did the party invent Christmas?
 
 This was a fun little side quest where we ended up in a small town celebrating the local "Cherish Eve" and decided we would make it like an actual Chrismas celebration. Here's what the AI said:
 
@@ -159,7 +158,7 @@ This was a fun little side quest where we ended up in a small town celebrating t
 
 This took a few iterations to get something decent. For example, it sometimes said that the town was Helines which was a city from Chapter 3 whereas this took place in Chapter 2. To address that I asked it to do only a single session match (and use the prior/next for context) and that worked better. Overall, this was pretty accurate.
 
-#### Why is the party journeying north from Helines? What is their quest and who gave it to them?
+## Why is the party journeying north from Helines? What is their quest and who gave it to them?
 
 This is the start of the major plotline in Chapter 3. The new group has set north from Helines. Here's the AI response:
 

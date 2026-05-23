@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Tyrant's Law by Daniel Abraham"
 date: 2018-02-21
-img: posts/2018/20180221/17928525.jpg
+image: /assets/img/posts/2018/20180221/17928525.jpg
 tags: [Fantasy, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2018/20180221/17928525.jpg)](assets/img/posts/2018/20180221/17928525.jpg)
+![](/assets/img/posts/2018/20180221/17928525.jpg){: width="500" .w-50 .left}
 
 **The Tyrant's Law** is the third book in the **The Dagger and the Coin** series by Daniel Abraham. It follows directly after [The King's Blood](https://strakul.blogspot.com/2012/09/book-review-kings-blood-by-daniel.html). It's been a really long time since I read the prior books- nearly 6 years! Despite this, I still remembered several of the main characters- a testament of Abraham's work. I was eager to continue the series, in spite of not remembering all the details.  
   
