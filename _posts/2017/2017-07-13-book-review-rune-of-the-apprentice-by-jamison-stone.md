@@ -6,7 +6,7 @@ title: "Book Review: Rune of the Apprentice by Jamison Stone"
 date: 2017-07-13
 img: posts/2017/20170713/28650517.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

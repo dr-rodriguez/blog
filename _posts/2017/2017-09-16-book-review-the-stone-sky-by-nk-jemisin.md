@@ -6,7 +6,7 @@ title: "Book Review: The Stone Sky by N.K. Jemisin"
 date: 2017-09-16
 img: posts/2017/20170916/34017126.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

@@ -4,9 +4,8 @@ read_time: true
 show_date: true
 title: "Book Review: Edgedancer by Brandon Sanderson"
 date: 2017-11-10
-img: 
 tags: [Cosmere, Fantasy, Books, Novella]
-category: Cosmere
+category: Books
 author: Strakul
 description: ""
 ---

@@ -6,7 +6,7 @@ title: "Book Review: The Obelisk Gate by N.K. Jemisin"
 date: 2017-01-11
 img: posts/2017/20170111/28147302.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

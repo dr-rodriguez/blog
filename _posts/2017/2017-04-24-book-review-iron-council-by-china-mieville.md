@@ -6,7 +6,7 @@ title: "Book Review: Iron Council by China Mieville"
 date: 2017-04-24
 img: posts/2017/20170424/19910690.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

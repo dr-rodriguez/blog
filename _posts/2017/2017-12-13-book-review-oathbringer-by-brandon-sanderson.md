@@ -6,7 +6,7 @@ title: "Book Review: Oathbringer by Brandon Sanderson"
 date: 2017-12-13
 img: posts/2017/20171213/34039808.jpg
 tags: [Cosmere, Fantasy, Books]
-category: Cosmere
+category: Books
 author: Strakul
 description: ""
 ---

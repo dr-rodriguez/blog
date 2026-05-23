@@ -6,7 +6,7 @@ title: "Book Review: River of Stars by Guy Gavriel Kay"
 date: 2017-08-27
 img: posts/2017/20170827/17728793.jpg
 tags: [Fantasy, Books]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---

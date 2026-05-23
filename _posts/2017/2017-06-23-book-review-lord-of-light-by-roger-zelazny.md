@@ -6,7 +6,7 @@ title: "Book Review: Lord of Light by Roger Zelazny"
 date: 2017-06-23
 img: posts/2017/20170623/13821.jpg
 tags: [Fantasy, Books, Science Fiction]
-category: Fantasy
+category: Books
 author: Strakul
 description: ""
 ---
