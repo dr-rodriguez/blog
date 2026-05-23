@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Distance Units in Astronomy"
 date: 2012-02-16
-img: http://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Stellarparallax_parsec1.svg/500px-Stellarparallax_parsec1.svg.png
+image: http://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Stellarparallax_parsec1.svg/500px-Stellarparallax_parsec1.svg.png
 tags: [Astronomy]
 category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 > _Space is big. You just won't believe how vastly, hugely, mind- bogglingly big it is. I mean, you may think it's a long way down the road to the chemist's, but that's just peanuts to space._

@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Dreaming Void by Peter F. Hamilton"
 date: 2012-02-20
-img: http://nozama.typepad.com/photos/uncategorized/2008/03/05/dreaming_void_2_2.jpg
+image: http://nozama.typepad.com/photos/uncategorized/2008/03/05/dreaming_void_2_2.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](http://nozama.typepad.com/photos/uncategorized/2008/03/05/dreaming_void_2_2.jpg)](http://nozama.typepad.com/photos/uncategorized/2008/03/05/dreaming_void_2_2.jpg)
+![](http://nozama.typepad.com/photos/uncategorized/2008/03/05/dreaming_void_2_2.jpg){: width="500" .w-50 .left}
 
 A friend of mine had recommended books by Peter F. Hamilton and encouraged me to read the Void trilogy claiming it was the more 'fantastical' of the lot. As I do prefer fantasy in general, I gave it a shot. My initial impression was very negative, but by the end I was enthralled by the story. Apparently, the book is part of a much arger universe, but I had no problem staring with it.  
   

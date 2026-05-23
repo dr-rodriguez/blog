@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Santiago a Mil: El Encanto del Rio Amarillo"
 date: 2012-01-23
-img: posts/2012/20120123/IMG_4114.JPG
+image: /assets/img/posts/2012/20120123/IMG_4114.JPG
 tags: [Life in Chile, Culture]
 category: Life in Chile
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Santiago a Mil is an international theater festival that's been going on in Santiago (and a few other cities in Chile) for the month of January. This past weekend was the end of the festival and I had the chance to go see Titanic (see my thoughts [here](http://strakul.blogspot.com/2012/01/santiago-mil-titanic.html)) and El Encanto del Rio Amarillo (The Charm of the Yellow River).  

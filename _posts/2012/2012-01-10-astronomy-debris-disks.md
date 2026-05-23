@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: Debris Disks"
 date: 2012-01-10
-img: http://www.das.uchile.cl/~drodrigu/images/hd98800.jpg
+image: /assets/img/http:/www.das.uchile.cl/~drodrigu/images/hd98800.jpg
 tags: [Disks, Astronomy]
 category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 I figured I'd make a post about some cool things in astronomy, particularly those relevant to my own research. Today's topic: debris disks.  

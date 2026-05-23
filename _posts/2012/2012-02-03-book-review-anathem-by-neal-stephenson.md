@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Anathem by Neal Stephenson"
 date: 2012-02-03
-img: http://upload.wikimedia.org/wikipedia/en/c/ca/Anathem.png
+image: /assets/img/http:/upload.wikimedia.org/wikipedia/en/c/ca/Anathem.png
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](http://upload.wikimedia.org/wikipedia/en/c/ca/Anathem.png)](http://upload.wikimedia.org/wikipedia/en/c/ca/Anathem.png)
+![](http://upload.wikimedia.org/wikipedia/en/c/ca/Anathem.png){: width="500" .w-50 .left}
 
 I read this book after a recommendation from an astronomer colleague of mine. However, I already had it in my list of books to check out. I am glad I did, my only regret is not reading this sooner.  
   

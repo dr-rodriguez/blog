@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Chilean 'Sunset'"
 date: 2012-01-06
-img: posts/2012/20120106/IMG_3932.JPG
+image: /assets/img/posts/2012/20120106/IMG_3932.JPG
 tags: [Life in Chile, Pictures]
 category: Life in Chile
 author: Strakul
 description: ""
+img_show: false
 ---
 
 This evening, I noticed my apartment was bathed in an eerie orange light. I figured, "that's just the sunset", but there's a problem: my apartment faces East, not West. I see sunrises, not sunsets.  

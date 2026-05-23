@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "FloridaTech... 6 years later"
 date: 2012-02-11
-img: posts/2012/20120211/IMG_4206_1.JPG
+image: /assets/img/posts/2012/20120211/IMG_4206_1.JPG
 tags: [Misc, Education, Astronomy]
 category: Misc
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Nearly 6 years ago, I received my Bachelor of Science degree in Astronomy (technically, it was Space Sciences, option in Astronomy & Astrophysics) from [Florida Institute of Technology](http://cos.fit.edu/pss/). I bumped into one of my old professors, Dr. Terry Oswalt, the head of the department, at AAS this January and he encouraged me to stop by and give a talk. I agreed, after all, right now in February we are in summer recess at the Universidad de Chile and I intended to travel a bit.  

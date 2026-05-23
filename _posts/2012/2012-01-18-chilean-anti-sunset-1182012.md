@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Chilean Anti-Sunset: 1/18/2012"
 date: 2012-01-18
-img: posts/2012/20120118/IMG_3932.JPG
+image: /assets/img/posts/2012/20120118/IMG_3932.JPG
 tags: [Life in Chile, Pictures]
 category: Life in Chile
 author: Strakul
 description: ""
+img_show: false
 ---
 
 A few weeks ago I posted this horrible picture of the Eastern view from my apartment:  

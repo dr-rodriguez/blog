@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Santiago a Mil: Titanic"
 date: 2012-01-22
-img: posts/2012/20120122/IMG_4042_1.JPG
+image: /assets/img/posts/2012/20120122/IMG_4042_1.JPG
 tags: [Life in Chile, Culture]
 category: Life in Chile
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Last night (Saturday, Jan 21 2012), I attended a showing of Titanic, as part of Santiago a Mil. Santiago a Mil is an international theater festival that takes place in January and primarily in the city of Santiago. Plenty of performances are given, some free some not, but I was busy and didn't get to it until the last weekend. Still, the show I saw was fantastic.  
