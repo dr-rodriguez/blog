@@ -21,7 +21,7 @@ So I made my way to campus and got there an hour before my talk. It was raining 
 Upon entering the department, I was pleasantly surprised:  
 
 
-[![](assets/img/posts/2012/20120211/IMG_4206_1.JPG)](assets/img/posts/2012/20120211/IMG_4206.JPG)
+![](/assets/img/posts/2012/20120211/IMG_4206.JPG)
 
 My talk was being advertised on TV monitors! I think this is a first for me. They also had the more traditional paper advertisements, but this was so cool.  
   
@@ -33,6 +33,6 @@ The talk, _Identifying & Studying Nearby, Young, Low-Mass Stars_, went very well
   
 It felt nice to revisit my old campus. While heading out I bumped into Hamid Rassoul, the Dean of the College of Science. He was always a cool and enthusiastic professor. He couldn't make it to my talk, but we chatted for a bit. He said it would be nice if I came back to work here as faculty- they would like to have new professors and researchers that were educated at FIT. I think I've made a good impression on my old teachers. I felt like an equal among them. Before, when I was an undergrad, I was a bit intimidated by how smart these people were. Now I realize that I am one of them and can join them in discussing science and the future.  
   
-[![](assets/img/posts/2012/20120211/IMG_4232_1.JPG)](assets/img/posts/2012/20120211/IMG_4232.JPG)  
+![](/assets/img/posts/2012/20120211/IMG_4232.JPG)  
 ---  
 _A last look at the Olin Physical Sciences Building (the one with the dome)_ 

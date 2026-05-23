@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](assets/img/posts/2012/20120826/HurricanesSince1851_1.jpg)](assets/img/posts/2012/20120826/HurricanesSince1851.jpg)
+![](/assets/img/posts/2012/20120826/HurricanesSince1851.jpg)
 
   
 It's hurricane season in the Atlantic right now, so that means lots of news channels will be reporting on the latest storms to develop. Given that I grew up in Puerto Rico and lived a few years in Florida, I have had my share of storms and can attest to their intensity.  
@@ -21,7 +21,7 @@ Above is an awesome graph created by [John Nelson](http://uxblog.idvsolutions.co
   
 This post, as you may be able to tell from the title, ties together hurricanes, storm gods, and the planet Jupiter. More information after the jump.  
   
-[![](http://upload.wikimedia.org/wikipedia/commons/0/04/Hurricane_Isabel_from_ISS.jpg)](http://upload.wikimedia.org/wikipedia/commons/0/04/Hurricane_Isabel_from_ISS.jpg)  
+![](http://upload.wikimedia.org/wikipedia/commons/0/04/Hurricane_Isabel_from_ISS.jpg)  
 ---  
 Hurricane Isabel in 2003. Credit: Mike Trenchard, Johnson Space Center.  
   
@@ -29,7 +29,7 @@ Hurricanes form when warm water evaporates and forms a low-pressure storm. The s
   
 Given the requirement of warm water, hurricanes from in the late summer months, though the precise dates vary by location. A curious aspect is that they don't form exactly at the equator nor do they every cross it (a consequence of the Coriolis effect being weakest there). The plot below shows this very clearly and is similar to the first image in this post (except in a different projection and covering a shorter span of time).  
   
-[![](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tropical_cyclones_1945_2006_wikicolor.png/800px-Tropical_cyclones_1945_2006_wikicolor.png)](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tropical_cyclones_1945_2006_wikicolor.png/800px-Tropical_cyclones_1945_2006_wikicolor.png)  
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tropical_cyclones_1945_2006_wikicolor.png/800px-Tropical_cyclones_1945_2006_wikicolor.png)  
 ---  
 Hurricane tracks. Credit: Citynoise at Wikipedia  
   
@@ -37,12 +37,12 @@ The word hurricane is believed to come from the Taino word j _uracán_. Juracán
 The Taino were the indigenous people of the Caribbean (along with the Caribs) when the Spanish first arrived. Many words were adopted into the Spanish (and later English) language, such as the aforementioned hurricane. Barbacoa (barbecue) is another such word adopted from the Taino. Given that some Tainos lived in Puerto Rico (they called it Borinken), I am quite happy that their language has survived in some aspect.  
   
 There is another famous deity that is sometimes associated with storms: Zeus. This Greek god is typically depicted with a thunderbolt in his hand and stands as the king of the gods. The equivalent in Roman mythology is Jupiter, from which we get the name of the largest planet in our solar system:  
-[![](http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Jupiter_by_Cassini-Huygens.jpg/622px-Jupiter_by_Cassini-Huygens.jpg)](http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Jupiter_by_Cassini-Huygens.jpg/622px-Jupiter_by_Cassini-Huygens.jpg)  
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Jupiter_by_Cassini-Huygens.jpg/622px-Jupiter_by_Cassini-Huygens.jpg)  
 ---  
 The planet Jupiter (the moon Europa is casting the shadow). Credit: NASA  
   
 As you can see above, Jupiter has a complex atmosphere filled with clouds. Unlike Earth, however, these clouds are made of ammonia crystals (and other related compounds, varying by depth) with substances like phosphorus, sulfur, or hydrocarbons to provide coloration. One of the most striking features of Jupiter's atmosphere, though, is the Great Red Spot:  
-[![](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jupiter-Earth-Spot_comparison.jpg/699px-Jupiter-Earth-Spot_comparison.jpg)](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jupiter-Earth-Spot_comparison.jpg/699px-Jupiter-Earth-Spot_comparison.jpg)  
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jupiter-Earth-Spot_comparison.jpg/699px-Jupiter-Earth-Spot_comparison.jpg)  
 ---  
 The Great Red Spot of Jupiter, with the Earth approximately to scale. Credit: NASA  
   
@@ -51,7 +51,7 @@ The Great Red Spot is a storm system that superficially looks like a hurricane d
 In the details, the Great Red Spot is almost completely opposite to a hurricane. For one, it's made up of colder gas than it's surroundings, whereas hurricanes are warmer. You remember that hurricanes are low-pressure systems, right? Well, the Great Red Spot is a high-pressure system. It turns out that high-pressure systems form anticyclonic storms (hurricanes are cyclones). What this means is that they rotate opposite to what you would expect. A hurricane in the Southern Hemisphere (of Earth or Jupiter) would rotate clockwise. The Great Red Spot rotates _counter_ clockwise.  
   
 Below is an animated gif created from data the Cassini spacecraft took as it flew by Jupiter in November of 2010. Notice the way the Great Red Spot rotates.  
-[![](http://www.nasa.gov/centers/goddard/images/content/388626main_jupiter_redspot-bw.gif)](http://www.nasa.gov/centers/goddard/images/content/388626main_jupiter_redspot-bw.gif)  
+![](http://www.nasa.gov/centers/goddard/images/content/388626main_jupiter_redspot-bw.gif)  
 ---  
 Jupiter's atmosphere. Credit: NASA/JPL/University of Arizona  
   

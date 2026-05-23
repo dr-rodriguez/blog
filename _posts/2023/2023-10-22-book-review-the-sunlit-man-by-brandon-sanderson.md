@@ -30,7 +30,7 @@ This book feels fast. Nomad, the main character, lands right in the middle of th
 
 ## Characters
 
-[![](assets/img/posts/2023/20231022/elegy.jpg)](assets/img/posts/2023/20231022/elegy_1.jpg)
+![](/assets/img/posts/2023/20231022/elegy_1.jpg)
 
 Nomad is the main character and nearly all of the story is set through his eyes. He is on the run, but drained of a lot of his abilities. He hails from Roshar and slowly through the book you realize who he is as he drops more and more hints of his past. It was very cool to see that connection and realize that like Hoid he is also travelling the worlds, though perhaps somewhat less willingly. He is characterized by always running, but through his interactions with a group of people, including some of the secondary ones like Rebeke and Elegy, he grows to care for the people of the crazy planet he finds himself in.
 

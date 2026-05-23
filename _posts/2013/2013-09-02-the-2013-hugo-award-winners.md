@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](http://www.tor.com/images/stories/blogs/11_04/hugo-award-logo.jpg)](http://www.tor.com/images/stories/blogs/11_04/hugo-award-logo.jpg)
+![](http://www.tor.com/images/stories/blogs/11_04/hugo-award-logo.jpg)
 
 I woke up this morning to the news of the Hugo Awards. These are arguably some of the most prestigious awards a science fiction or fantasy book (or related work) can get. I had not paid close attention this year, but I'm pleasantly surprised to see several books/novellas I've read have won.  
   

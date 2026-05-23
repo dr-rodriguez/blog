@@ -13,7 +13,7 @@ img_show: false
 ---
 
 I recently read a very interesting, and alarming, [Scientific American article](http://blogs.scientificamerican.com/budding-scientist/2012/02/01/u-s-state-science-standards-are-mediocre-to-awful/) on statewide science standards in the US. This picture says it all:  
-[![](http://blogs.scientificamerican.com/budding-scientist/files/2012/02/Science-Standards-Map-02.01.12.jpg)](http://blogs.scientificamerican.com/budding-scientist/files/2012/02/Science-Standards-Map-02.01.12.jpg)  
+![](http://blogs.scientificamerican.com/budding-scientist/files/2012/02/Science-Standards-Map-02.01.12.jpg)  
 ---  
 _Credit:[The State of State Science Standards 2012](http://www.edexcellence.net/publications/the-state-of-state-science-standards-2012.html)_  
 The figure comes from a [report](http://www.edexcellence.net/publications/the-state-of-state-science-standards-2012.html) from the Thomas B. Fordham Institute on the standards for K-12 education used in the various states. The overall conclusion is that the science standards for the majority of the States are mediocre to awful.  

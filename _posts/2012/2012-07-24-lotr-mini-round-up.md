@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](http://cdn3.blogs.babble.com/strollerderby/files/covers/20.jpg)](http://cdn3.blogs.babble.com/strollerderby/files/covers/20.jpg)It's been a while since I posted anything, so here's a short post gathering a few interesting things related to **The Lord of the Rings** and **The Hobbit** by J.R.R. Tolkien.  
+![](http://cdn3.blogs.babble.com/strollerderby/files/covers/20.jpg)It's been a while since I posted anything, so here's a short post gathering a few interesting things related to **The Lord of the Rings** and **The Hobbit** by J.R.R. Tolkien.  
   
 On July 24 1954, 58 years ago today, **The Fellowship of the Ring** was first published. As many of you know, this is the first part of The Lord of the Rings and I would consider it a classic of modern literature.  
   

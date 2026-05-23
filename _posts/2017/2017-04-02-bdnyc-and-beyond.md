@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](assets/img/posts/2017/20170402/BDNYC-logo_1.png)](assets/img/posts/2017/20170402/BDNYC-logo.png)
+![](/assets/img/posts/2017/20170402/BDNYC-logo.png)
 
   
 For the past year and a half I’ve been working in New York City as part of the Brown Dwarfs in New York City ([BDNYC](http://www.bdnyc.org/)) research group at the American Museum of Natural History (AMNH). In this blog post I’ll describe my experiences in that time and how I went about getting my new job at Space Telescope.  
@@ -27,7 +27,7 @@ After a few months, I was quickly becoming an expert at the database and coding 
   
 By the summer of 2016, I was pretty much established as the BDNYC database expert and had worked hard to improve it and the various programs that interfaced with it, including creating a [web app](http://database.bdnyc.org/query) to access the public subset of the database. I started getting involved with the Astrocom students with set me up as a bit of a technical/coding expert for a new batch of undergrad students. My own student gave an excellent presentation on a Principle Component Analysis and I had become well-versed in adding new data to the Digital Universe, which came in very handy when the first-year GAIA data was released. By this time I was proud of my work and was calling myself the database manager and software developer of the team.  
   
-[![](assets/img/posts/2017/20170402/full_database.png)](assets/img/posts/2017/20170402/full_database_1.png)  
+![](/assets/img/posts/2017/20170402/full_database_1.png)  
 ---  
 Schema for the BDNYC database  
   
@@ -37,6 +37,6 @@ The rest, as you may guess by now, is history. I got a phone interview and then 
   
 In the end, it was sad to leave such a great group behind, but I know that I will have a great experience working at STScI. My last day at the museum, March 24, 2017, was filled with happiness and joy at my new job and appreciation for all the work done and all the things learned while at AMNH. I know I’ll continue to collaborate with BDNYC remotely, so maybe from time to time I’ll get to visit NYC and hang out with the old team.  
   
-[![](assets/img/posts/2017/20170402/bdnyc_fun.jpg)](assets/img/posts/2017/20170402/bdnyc_fun_1.jpg)  
+![](/assets/img/posts/2017/20170402/bdnyc_fun_1.jpg)  
 ---  
 BDNYC, having a fun photo at my farewell party 

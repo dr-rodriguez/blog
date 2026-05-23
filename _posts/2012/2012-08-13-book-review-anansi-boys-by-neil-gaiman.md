@@ -40,7 +40,7 @@ In addition to Fat Charlie, we also see his brother Spider and father Anansi. Th
   
 Other than the gods hanging around, there is nothing else of note in the world building. It's set in the real Earth, but with some liberties. Florida and England are real, but the Caribbean island of St. Andrews is fictional. At first, I didn't catch this and thought it was real. There are plenty of islands in the Caribbean, after all, and I don't know them all. I figured the only "made up" thing was the gods, but no: there is no such island. The closest name I could find on the map (of course I looked it up) was the island of San Andrés, which is part of Colombia. However, it's clear that this is not Gaiman's St. Andrews. Of course, you shouldn't expect stories to be 100% true (or 100% false). It's the clever interplay between the real and the fantastical that makes stories like these so fun.  
   
-[![](http://www.caribseek.com/Caribbean_Maps/images/Caribbean1024.gif)](http://www.caribseek.com/Caribbean_Maps/images/Caribbean1024.gif)  
+![](http://www.caribseek.com/Caribbean_Maps/images/Caribbean1024.gif)  
 ---  
 Can you find St. Andrews island? Hint: no.  
   

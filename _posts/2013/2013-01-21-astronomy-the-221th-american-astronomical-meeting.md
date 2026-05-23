@@ -16,7 +16,7 @@ My trip to the 221th American Astronomical (AAS) Meeting was long, but quite pro
   
 This Winter meeting was held at Long Beach, California, which was cool for several reasons. I've been to Long Beach before, in fact, the first AAS I attended was held there. Given that I did my graduate work at the University of California, Los Angeles (UCLA), I've also gone to Long Beach for quick trips, such as checking out their Aquarium of the Pacific.  
   
-[![](assets/img/posts/2013/20130121/photo_1.JPG)](assets/img/posts/2013/20130121/photo.JPG)  
+![](/assets/img/posts/2013/20130121/photo.JPG)  
 ---  
 Aerial view of Long Beach  
   
@@ -25,14 +25,14 @@ It was an excellent workshop and I feel I learned a lot of useful things to keep
   
 After that was the opening reception at the Aquarium of the Pacific. A few people complained about there being poor light and too crowded, but in my opinion, this is one of the best receptions I've been to. The whole of the aquarium was open to us so we could go and pet the sharks, see the otters and penguins, and walk around the exhibits with our food. As many pointed out, there was no seafood options. The drinks were a bit expensive, but that's to be expected. I pulled out my I'm-from-Chile-and-know-my-wines card and was offered the finer (yet even more expensive) wine, but in the end settled for the cheaper variety.  
   
-[![](assets/img/posts/2013/20130121/IMG_9526_1.JPG)](assets/img/posts/2013/20130121/IMG_9526.JPG)  
+![](/assets/img/posts/2013/20130121/IMG_9526.JPG)  
 ---  
 Thousands of astronomers at the Aquarium of the Pacific  
   
 The following days marked the official conference. I had two posters, the first on Monday detailing my science of [young stars](http://strakul.blogspot.com/2012/11/astronomy-young-stellar-moving-groups.html). This was very well received. I had plenty of "customers" and even dragged a few people over to see it. Despite this, I met people other days who say they dropped by and didn't see me there. I was worried that I was near the end of the hall, yet clearly people were interested on what I and others around me had to present.  
 The second poster was an education poster (this allows you to present 2 posters at the meeting) on Tuesday about the results of our transit of Venus distance measurements. This was a paired poster with my officemate Jackie Faherty who presented on the same day about the outreach efforts on Easter Island. I've talked about our [transit of Venus work on this blog](http://strakul.blogspot.com/search/label/Transit%20of%20Venus) before and was very proud of our work. However, we didn't get that much traffic, which I attribute to the lesser interest of the astronomical community in education or outreach-related work.  
   
-[![](assets/img/posts/2013/20130121/IMG_9536.jpg)](assets/img/posts/2013/20130121/IMG_9536_1.jpg)  
+![](/assets/img/posts/2013/20130121/IMG_9536_1.jpg)  
 ---  
 Proud of our Easter Island outreach work! The electronic gadget I had said "HETU'U 246.08,09"; basically it advertised our posters.  
   
@@ -40,7 +40,7 @@ Wednesday and Thursday I had nothing to present, but still wandered around seein
   
 Wednesday I had a research "family" dinner with my former thesis advisor Ben Zuckerman and several of his current/former students/postdocs/etc. It was very nice and cool to see all "generations" together. I think I drank a little too much sangria, but not so much that I was drunk or impaired: it was just the right amount to enjoy the "secret" AAS after-party. I liked the place at first with the salsa music, but then it became too crowded. We could barely move, let alone dance. I'm a bit disappointed I didn't get to dance with my salsa teacher, but did I mention it was crowded? Still, overall it was fun. There exists video and photographic evidence of hundreds of astronomers doing Gangnam Style if you care to search for it.  
   
-[![](assets/img/posts/2013/20130121/IMG_9567.JPG)](assets/img/posts/2013/20130121/IMG_9567_1.JPG)  
+![](/assets/img/posts/2013/20130121/IMG_9567_1.JPG)  
 ---  
 The Grand Hall of the conference center. In this picture, Julia Fang is giving her 15-minute dissertation talk Thursday morning. You can tell my camera isn't great and I was sitting far away...  
   
@@ -52,7 +52,7 @@ Regardless, from what I hear, it was a big hit and I hope they do it for next Wi
 On the online realm, I and many others were tracking the #AAS221 Twitter feed. I'm glad to say that according to Douglas Burke's [statistics](http://hea-www.harvard.edu/~dburke/aas221/user-count.html), I ended up as the 32nd most frequent tweet-er. Here's a word cloud of the 100 most commonly used words used, according to a log I created using Google Reader:  
 
 
-[![](assets/img/posts/2013/20130121/Screen+shot+2013-01-17+at+11.54.52+PM_1.png)](assets/img/posts/2013/20130121/Screen+shot+2013-01-17+at+11.54.52+PM.png)
+![](/assets/img/posts/2013/20130121/Screen+shot+2013-01-17+at+11.54.52+PM.png)
 
 I've eliminated things like the #AAS221 hashtag and "RT" which are far too common. Overall, you don't see very many mentions of particular science topics. Even though "JWST", "Kepler", and "planets" are there, the focus is more on the people. Interestingly, this differs from Burke's word-count [statistics](http://hea-www.harvard.edu/~dburke/aas221/word-count.html). It appears that my Google Reader log did not record every possible entry. The word is that there were ~7000 tweets during the meeting, but Reader only recorded ~700. Clearly I have to either check Reader continuously through out the meeting, or better: find some other way to archive all (or at least most) of the tweets.  
   
@@ -60,7 +60,7 @@ After Thursday, most people started heading out to their respective homes and in
   
 The only days I really had to rest were Saturday and Sunday, and so, of course, I did no such thing. I went to go buy things that are hard to get, or expensive, in Chile, including two books: **A Memory of Light** by Robert Jordan and Brandon Sanderson and **Tigana** by Guy Gavriel Kay. **A Memory of Light** had just been released January 8th while I was at the conference so it was extremely well-timed. I also went to see the Space Shuttle Endeavour at its new home in the California Science Center. Yeah, I really packed my trip with things to do.  
   
-[![](assets/img/posts/2013/20130121/IMG_9657.JPG)](assets/img/posts/2013/20130121/IMG_9657_1.JPG)  
+![](/assets/img/posts/2013/20130121/IMG_9657_1.JPG)  
 ---  
 The Space Shuttle Endeavour!  
   

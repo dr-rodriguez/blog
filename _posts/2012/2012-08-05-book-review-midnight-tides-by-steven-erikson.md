@@ -35,7 +35,7 @@ Aspects of Lether sound somewhat like modern-day America and we immediately know
 **Characters**  
 At the prologue of Book 4, we saw Trull Sengar, a Tiste Edur banished from his society. Book 5 tells part of the tale of his life and the events that shape his character. His brothers, Fear, Binadas, and Rhulad, also play a key role in developing the story. Of them, only Trull and Rhulad are frequent viewpoint characters and so we sympathise with them, especially with Trull who appears to be the most level-headed of them all. Trull's weapon of choice is the spear and he is one excellent fighter. Here is some really cool artwork by [slaine69](http://slaine69.deviantart.com/art/Trull-110424324) on deviant art of Trull Sengar. I personally didn't imagine him so muscular, but it makes some sense given he is an expert with the spear. Rhulad's tale is very interesting as well, but I'll let you find out why when you read the book.  
   
-[![](assets/img/posts/2012/20120805/Trull_by_slaine69.jpg)](assets/img/posts/2012/20120805/Trull_by_slaine69.jpg)  
+![](/assets/img/posts/2012/20120805/Trull_by_slaine69.jpg)  
 ---  
 A depiction of Trull Sengar of the Hiroth tribe of the Tiste Edur.  
 See also [this one](http://slaine69.deviantart.com/art/Trull-and-Onrack-148690529), which also includes a character from Book 4. Credit: [slaine69](http://slaine69.deviantart.com/art/Trull-110424324)  

@@ -23,7 +23,7 @@ Very simply, it is a term used to refer to planets that aren't massive or large 
 Spitzer, or more accurately the scientists involved in the paper: Michaël Gillon (of Université de Liège in Belgium), Brice-Olivier Demory (of the Massachusetts Institute of Technology in Cambridge), and others in the team, targeted 55 Cancri, a nearby star 41 light-years away known to host several planets. They timed their measurements so they would observe the system when the planet passed **behind** the star rather than in front. When a planet passes in front of the star we have a transit (like the [Venus transit](http://strakul.blogspot.com/2012/04/transit-of-venus-june-2012.html) this June) and the star grows dimmer. When a planet passes behind the star we have an occultation. In general, the system appears the same brightness; however, if the planet was warm enough, it would contribute to the total light and thus the system's brightness would again decrease (by a small amount) in an occultation. The advantage to using Spitzer is that it measures infrared light and planets can contribute more at infrared wavelengths than at optical ones (visible light) to the total system.  
   
 This is what was observed for the occultation of 55 Cancri e:  
-[![](http://www.nasa.gov/images/content/646956main_pia15621-43_946-710.jpg)](http://www.nasa.gov/images/content/646956main_pia15621-43_946-710.jpg)  
+![](http://www.nasa.gov/images/content/646956main_pia15621-43_946-710.jpg)  
 ---  
 The light of the star+planet system decreased when the planet passed behind the star. The transit of the planet, which is far deeper, is not shown as it happens near orbital phase 0. Credit: NASA/JPL-Caltech/MIT  
   
@@ -33,7 +33,7 @@ What the figure above is showing is the 4.5 micron infrared emission of the tota
 The planet in question is the 4th planet (of 5 known) discovered around 55 Cancri and the closest in the system. It lies far closer than Mercury does to the Sun in fact. It's orbit is only about 18 _hours_ (Mercury's is 88 _days_). As such, 55 Cancri e is scorched by the light of its sun-like star and glows in infrared light. The dayside temperatures can reach 2000 Kelvins (3140 degrees Fahrenheit): hot!  
 The models, surprisingly, show it may be a water world in that it consists of "a rocky core surrounded by a layer of water in a supercritical state where it is both liquid and gas, and topped by a blanket of steam." Not what I usually think of as a "water world."  
   
-[![](http://www.nasa.gov/images/content/646920main_pia15622-43_946-710.jpg)](http://www.nasa.gov/images/content/646920main_pia15622-43_946-710.jpg)  
+![](http://www.nasa.gov/images/content/646920main_pia15622-43_946-710.jpg)  
 ---  
 55 Cancri e, orbiting its star. Credit: NASA/JPL-Caltech  
   

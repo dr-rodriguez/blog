@@ -26,7 +26,7 @@ This is an international conference held every 2 years since 1980. The full titl
 **Barcelona, Spain**  
 I had been to Spain before, but never Barcelona and I must say it is a very nice city. It blends together old, gothic architecture with sleek, modern buildings and infrastructure all tied up with a splendid Mediterranean charm. Apparently there was a heat wave during our stay so it was a bit hot, but I felt the weather was perfect, especially when compared to the winter weather here in Santiago.  
   
-[![](assets/img/posts/2012/20120715/IMG_4684_1.JPG)](assets/img/posts/2012/20120715/IMG_4684.JPG)  
+![](/assets/img/posts/2012/20120715/IMG_4684.JPG)  
 ---  
 La Sagrada Familia, one of the main sights of Barcelona  
   
@@ -44,7 +44,7 @@ I heard about some upcoming results I'll be excited to read about when they get 
   
 Most of my notes are rather cryptic so, for astronomers, it's best if you just read the papers and get the details. For non-astronomers, here's some interesting facts if you're thinking about science fiction universes with planets around low-mass M-stars. Victoria Meadows was presenting on her work regarding habitability of planets around such stars. There was some discussion about the strong flares that can occur on these stars. Protons from these can wipe out the ozone layer, though the ozone can recover in about 2 years and thus not be totally detrimental to life. Another cool fact was that a close-in planet may experience tidal heating, such as what the moons of Jupiter have. That could be strong enough to boil off any oceans on the planet so it's something important to consider!  
   
-[![](assets/img/posts/2012/20120715/cs17group.jpeg)](assets/img/posts/2012/20120715/cs17group_1.jpeg)  
+![](/assets/img/posts/2012/20120715/cs17group_1.jpeg)  
 ---  
 The Cool Stars 17 attendees.  
   
@@ -53,13 +53,13 @@ The Cool Stars 17 attendees.
 The other big set of conferences I've been to is AAS, which has a strong online presence with plenty of people tweeting back and forth about results, interesting facts, or general information. Despite the fact that the conference was pretty big (~400 people), that was not the case here. Still, I wanted to track what went on in the twiterverse. I was running [Archivist's statistics tool](http://archivist.visitmix.com/Strakul/2) and here's what it shows after one or two days and then a few days after the conference was over:  
 
 
-[![](assets/img/posts/2012/20120715/tweet20words.png)](assets/img/posts/2012/20120715/tweet20words_1.png)
+![](/assets/img/posts/2012/20120715/tweet20words_1.png)
 
   
 Notice anything odd? Halfway through the conference, a Canadian lacrosse player named Chris Sanderson passed away. By chance, his jersey number was 17 so, there you have it: #CS17, the same twitter hashtag as CoolStars. Slowly but surely, these tweets dominated the stream, though it didn't pick up until the very end of the conference. The tweet cloud at the end of this post has removed these particular tweets in order to highlight the science alone. I also remove the #cs17 hashtag since it dominates over everything (given that it's on every tweet). For a record of most of the tweets, check out this [recap page](http://storify.com/AstroBokonon/cool-stars-17-in-barcelona-spain) from Ryan Hamilton (you can also check out his Cool Stars 17 [blog post](http://blog.astroinclined.com/2012/07/13/cool-stars-17-in-barcelona/)).  
   
 So who were the tweeting champions? See for yourself:  
-[![](assets/img/posts/2012/20120715/Screen+shot+2012-06-29+at+1.49.23+PM.png)](assets/img/posts/2012/20120715/Screen+shot+2012-06-29+at+1.49.23+PM_1.png)  
+![](/assets/img/posts/2012/20120715/Screen+shot+2012-06-29+at+1.49.23+PM_1.png)  
 ---  
 Kudos to Kelle Cruz and John Gizis for tons of informative tweets during the talks.  
   
@@ -76,4 +76,4 @@ Next Cool Stars (#18) will be held in Flagstaff, Arizona. See you there!
   
 
 
-[![](assets/img/posts/2012/20120715/coolstarscloud.png)](assets/img/posts/2012/20120715/coolstarscloud_1.png) 
+![](/assets/img/posts/2012/20120715/coolstarscloud_1.png) 

@@ -16,7 +16,7 @@ Nine years ago, on January 25, 2004 Universal Time (the 24th on Pacific Standard
 To celebrate the occasion, [Space.com](http://www.space.com/79-distances-driven-on-other-worlds.html) has created this very cool infographic:  
 
 
-[![](http://i.space.com/images/i/000/011/342/i02/distances-driven-moon-mars-130123a-02.jpg?1358981847)](http://i.space.com/images/i/000/011/342/i02/distances-driven-moon-mars-130123a-02.jpg?1358981847)
+![](http://i.space.com/images/i/000/011/342/i02/distances-driven-moon-mars-130123a-02.jpg?1358981847)
 
   
 This is showing how much we (including our robots) have travelled on distant worlds, in particular Mars and the Moon. Now, we've sent landers to other worlds, such as [Venus](http://en.wikipedia.org/wiki/Venera_7) and [Titan](http://en.wikipedia.org/wiki/Huygens_\(spacecraft\)) (largest moon of Saturn), but these others couldn't move around.  

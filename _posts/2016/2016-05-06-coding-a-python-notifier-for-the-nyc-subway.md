@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](https://upload.wikimedia.org/wikipedia/commons/6/65/NYCT_R142A.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/65/NYCT_R142A.jpg)  
+![](https://upload.wikimedia.org/wikipedia/commons/6/65/NYCT_R142A.jpg)  
 ---  
 New York City Subway 6 train. Photo by Robert McConnell (Transferred from en.wikipedia to Commons.)  
   

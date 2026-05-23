@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](assets/img/posts/2016/20160215/IMG_5925.jpg)](assets/img/posts/2016/20160215/IMG_5925_1.jpg)
+![](/assets/img/posts/2016/20160215/IMG_5925_1.jpg)
 
   
 I realized the other day I haven't posted anything on my blog since last year! To be fair, that's only a month and a half, but I usually post at least a book post in a months time. So I figure I'd give a little status report on how things are going in New York and why the book I'm reading has taken a long time to finish. If that interests you, read on!  
@@ -27,7 +27,7 @@ During this time was also the new year, both Western and Chinese versions. For t
   
 
 
-[![](assets/img/posts/2016/20160215/IMG_6132.jpg)](assets/img/posts/2016/20160215/IMG_6132_1.jpg)
+![](/assets/img/posts/2016/20160215/IMG_6132_1.jpg)
 
   
 **Work at the Museum**  
@@ -44,7 +44,7 @@ Speaking of Python, I'm also participating in the [astroHackNY](https://twitter.
   
 
 
-[![](assets/img/posts/2016/20160316/10697676.jpg)](assets/img/posts/2016/20160316/10697676.jpg)
+![](/assets/img/posts/2016/20160316/10697676.jpg)
 
 This is the book I've been reading lately. It's the final book in the **Malazan Book of the Fallen Series** by Steven Erikson. Like all the Malazan books I've read, it starts of slow and heavy but picks up the pace as it goes along. I'm about 70% done and cool things are happening. Unfortunately, most days I only spend about half an hour or less reading so it's taken me much longer than usual to read the book. I really want to finish it since I'm interested in two of Brandon Sanderson's recent books (**Bands of Mourning** and **Calamity**). I'm disappointed that the translation of **Death's End** by Cixin Liu got pushed back to August, but at least that doesn't compete for time with everything else I have going on.  
   

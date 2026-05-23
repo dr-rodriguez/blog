@@ -36,7 +36,7 @@ As before, we have many of the same characters including Kaladin, Shallan, Dalin
 **Setting / World Building**  
 
 
-[![](https://www.brandonsanderson.com/wp-content/uploads/2020/11/pg341.jpg)](https://www.brandonsanderson.com/wp-content/uploads/2020/11/pg341.jpg)  
+![](https://www.brandonsanderson.com/wp-content/uploads/2020/11/pg341.jpg)  
 ---  
 Shallan's notes on Cryptic spren  
 This is Roshar, the mysterious world of humans and listeners/singers (formerly known as Parshendi). In this book, we explore a bit more the relationships between the singers and listeners as there are some subtle differences, not to mention the fact that some singers are Fused and have powers comparable to those of Radiants. One of the big focuses, however, is on fabrials, light, and the rhythms. Since this book focuses so much on Navani, and she is a bit of a scholar herself, we see a lot of interesting experimentation as she tries to see the relationships between fabrials and spren and the light from Honor, Odium, and Cultivation. She makes some fascinating conclusions which will likely pave the way for some interesting conflicts in the coming books.

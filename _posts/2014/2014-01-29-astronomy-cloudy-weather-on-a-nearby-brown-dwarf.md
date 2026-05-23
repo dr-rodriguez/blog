@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](assets/img/posts/2014/20140129/eso1404c.jpg)](assets/img/posts/2014/20140129/eso1404c.jpg)  
+![](/assets/img/posts/2014/20140129/eso1404c.jpg)  
 ---  
 Artistic rendering of clouds in the Luhman 16 system. Credit: ESO/I. Crossfield/N. Risinger  
   
@@ -24,14 +24,14 @@ Luhman 16 is the colloquial name given to WISE J104915.57-531906.1. I think we c
   
 One such study was lead by Dr. Crossfield in order to understand the cloud structure of the B component of this binary. His team used the CRIRES instrument on the Very Large Telescope in northern Chile to observe the system. While a direct map of the surface is, at the moment, impossible, the team used the clever technique of Dopper imaging. This involves monitoring the light of the brown dwarf as it rotated and using that information to reconstruct what the cloud surface looks like.  
 The result is breathtaking:  
-[![](assets/img/posts/2014/20140129/eso1404b.jpg)](assets/img/posts/2014/20140129/eso1404b.jpg)  
+![](/assets/img/posts/2014/20140129/eso1404b.jpg)  
 ---  
 Map of Luhman 16B. Credit: ESO/I. Crossfield  
 You are seeing above a map of the clouds of a distant world.  
   
 As if this weren't cool enough, Dr. Crossfield has [created a pair of printouts](http://www.mpia-hd.mpg.de/homes/ianc/luhman16.shtml) that you can cut to create a box or sphere copy of Luhman 16B. You could have your very own brown dwarf in your desk!  
 Check it out:  
-[![](http://www.mpia-hd.mpg.de/homes/ianc/images/cutout_foldup_sm.png)](http://www.mpia-hd.mpg.de/homes/ianc/images/cutout_foldup_sm.png)  
+![](http://www.mpia-hd.mpg.de/homes/ianc/images/cutout_foldup_sm.png)  
 ---  
 Printable map of Luhman 16B. Check out [Dr. Crossfield's website](http://www.mpia-hd.mpg.de/homes/ianc/luhman16.shtml) for instructions and the full-sized version.  
   

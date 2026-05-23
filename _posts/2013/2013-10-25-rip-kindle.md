@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](assets/img/posts/2013/20131025/IMG_2787_1.JPG)](assets/img/posts/2013/20131025/IMG_2787.JPG)
+![](/assets/img/posts/2013/20131025/IMG_2787.JPG)
 
   
 As of Oct 24, I declare my Amazon Kindle 3 to be dead.  
@@ -25,7 +25,7 @@ From top to bottom, these are: John Scalzi, Patrick Rothfuss, Kevin J. Anderson,
   
 
 
-[![](assets/img/posts/2013/20131025/IMG_2789.JPG)](assets/img/posts/2013/20131025/IMG_2789_1.JPG)
+![](/assets/img/posts/2013/20131025/IMG_2789_1.JPG)
 
   
 The Kindle has changed my reading experience. I was certainly a healthy reader before, going through a handful of books per year (more so when I was heavily engaged in a series). However, the Kindle had the advantage of easily acquiring and storing books so I kept buying books, especially when they were on discount. The website [eReaderIQ](http://www.ereaderiq.com/) is great to find Kindle books when they are at their cheapest.  

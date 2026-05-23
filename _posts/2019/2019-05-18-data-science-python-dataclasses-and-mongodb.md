@@ -166,7 +166,7 @@ To install a MongoDB server and start it up, or to connect to an existing server
 **Putting it all Together**  
 Once you load up some more objects (see examples in the [Jupyter notebook](https://github.com/dr-rodriguez/BlogTutorials/blob/master/notebooks/DataClass_MongoDB.ipynb)) you can start playing around with some quick database queries. The syntax is different than SQL, but nevertheless quite powerful. You can also create indices for faster queries and do aggregations, which is a sort of pipeline where you can run a sequence of queries or commands together to get more advanced results. I personally like to use the [Compass ](https://docs.mongodb.com/compass/current/)program to connect to my MongoDB database and explore its contents. I believe some advanced queries aren't supported in it, but it still gives you a good overview to test how things look:  
   
-[![](assets/img/posts/2019/20190518/mongodb_compass_1.png)](assets/img/posts/2019/20190518/mongodb_compass.png)  
+![](/assets/img/posts/2019/20190518/mongodb_compass.png)  
 ---  
 Compass application showing a query on my MongoDB Brown Dwarf test database (click to see larger version).  
   

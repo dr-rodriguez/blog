@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](assets/img/posts/2013/20130507/IMG_0876.JPG)](assets/img/posts/2013/20130507/IMG_0876_1.JPG)  
+![](/assets/img/posts/2013/20130507/IMG_0876_1.JPG)  
 ---  
 Santiago, Chile: April 30, 2013  
   
@@ -21,7 +21,7 @@ Santiago has some of the [worst air pollution](http://www.santiagotimes.cl/chile
 I work at Cerro Calan, in a small hill on the eastern part of town in the Las Condes sector. My office faces West, which allows me to see the greater part of Santiago on a clear day.   
 Some days are particular bad (like the photo above) and we can barely see the city or the distant mountains. When there's strong winds or rain, the weather clears out the smog and we get some beautiful views to the city.  
 A few days after I took the picture above, we got some long anticipated rain:  
-[![](assets/img/posts/2013/20130507/IMG_0878_1.JPG)](assets/img/posts/2013/20130507/IMG_0878.JPG)  
+![](/assets/img/posts/2013/20130507/IMG_0878.JPG)  
 ---  
 Santiago, Chile: May 3, 2013  
   
@@ -31,7 +31,7 @@ The problem with Santiago is that it is in a valley between the Andes and the Ch
 Air pollution can be measured in various ways, such as the amount of ozone or nitrogen oxides in the air. In Santiago, we get warnings based on the amount of breathable particulate matter. This is denoted as PM10 (MP10 in Spanish), where the 10 represents the maximum size of the particle considered (10 micrometers). There's also an PM2.5 index which consideres even smaller particles. These quantities are measured in micrograms per cubic meter.  
 The World Health Organization (WHO) [recommends](http://www.who.int/mediacentre/factsheets/fs313/en/) PM10 not exceed 50 micrograms per cubic meter in a 24-hour average. For a year, the average should be below 20. Unfortunately, Santiago exceeds these limits.  
   
-[![](assets/img/posts/2013/20130507/lascondes_dat.png)](assets/img/posts/2013/20130507/lascondes_dat_1.png)  
+![](/assets/img/posts/2013/20130507/lascondes_dat_1.png)  
 ---  
 PM10 values for Las Condes in Santiago. Credit: [SINCA](http://sinca.mma.gob.cl/index.php/region/index/id/M)  
   
@@ -39,7 +39,7 @@ The plot above shows the daily [PM10 measurements](http://sinca.mma.gob.cl/index
   
 However, my office is in Las Condes. When I look out my window I am facing the rest of Santiago, so how does that fare in comparison?  
 Unfortunately, it's worse:  
-[![](assets/img/posts/2013/20130507/santiago_dat.png)](assets/img/posts/2013/20130507/santiago_dat_1.png)  
+![](/assets/img/posts/2013/20130507/santiago_dat_1.png)  
 ---  
 PM10 values for Santiago Centro. Credit: [SINCA](http://sinca.mma.gob.cl/index.php/region/index/id/M)  
   
@@ -51,6 +51,6 @@ Smog is produced as sunlight drives chemicals reactions between nitrogen oxides 
 Want to know the current air quality in Santiago? [Click here](http://www.mma.gob.cl/1304/w3-propertyvalue-16214.html).  
   
 Finally, I'll leave you with a pair of pictures that show just how drastically the view from my office can change due to smog:  
-[![](assets/img/posts/2013/20130507/santiago_2.png)](assets/img/posts/2013/20130507/santiago_2_1.png)  
+![](/assets/img/posts/2013/20130507/santiago_2_1.png)  
 ---  
 Santiago, Chile. Left: June 11, 2012, Right: May 18, 2012 

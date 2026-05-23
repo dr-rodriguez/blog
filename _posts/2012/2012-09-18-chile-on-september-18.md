@@ -18,14 +18,14 @@ The process of Chilean independence took many years, but began a few years befor
   
 On September 18, 1810, Chile established a junta, a group of citizens that would rule the country. This was intended as an interim government meant to show that Chile could rule itself in the name of Ferdinand VII. Three political movements existed at the time: royalists who wanted to preserve the status quo; moderates who wanted reforms, but slowly enough to avoid problems when Ferdinand would be reinstated; and extremists who wanted faster reforms, but stopped just short of independence. This actually reminds me of Puerto Rico's current three-party system in its relationship with the United States.  
   
-[![](http://upload.wikimedia.org/wikipedia/commons/3/31/Hisparevol.gif)](http://upload.wikimedia.org/wikipedia/commons/3/31/Hisparevol.gif)The figure at left shows the evolution of Spain and its American colonies throughout the time period of the wars of independence. Red: traditional Spanish control, Blue: controlled by France, Orange: control by a Spanish Supreme Junta, which represented all the kingdoms, Yellow: local junta or insurrection, Green: declared or established independence.  
+![](http://upload.wikimedia.org/wikipedia/commons/3/31/Hisparevol.gif)The figure at left shows the evolution of Spain and its American colonies throughout the time period of the wars of independence. Red: traditional Spanish control, Blue: controlled by France, Orange: control by a Spanish Supreme Junta, which represented all the kingdoms, Yellow: local junta or insurrection, Green: declared or established independence.  
   
 Notice that by 1825 all of former Spanish colonies are independent, with the exception of Cuba and Puerto Rico which would wait until the Spanish-American War in 1898.  
   
   
   
   
-[![](http://upload.wikimedia.org/wikipedia/commons/2/24/Ejercito_Libertador_cruce_de_Cordillera_de_los_andes.jpg)](http://upload.wikimedia.org/wikipedia/commons/2/24/Ejercito_Libertador_cruce_de_Cordillera_de_los_andes.jpg)  
+![](http://upload.wikimedia.org/wikipedia/commons/2/24/Ejercito_Libertador_cruce_de_Cordillera_de_los_andes.jpg)  
 ---  
 Jose de San Martin (left) and Bernando   
 O'Higgins (right) as they cross the Andes.  

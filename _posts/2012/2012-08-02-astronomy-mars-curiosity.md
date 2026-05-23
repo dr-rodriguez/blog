@@ -15,21 +15,21 @@ img_show: false
 On August 6th 2012 (1:31 am EDT), the Mars Curiosity Rover, also known as the Mars Science Laboratory, lands on planet Mars. You've probably heard tons about this in the last few days. Everyone's talking about it!  
 I'm gathering here some links and multimedia for those who aren't yet informed of what's going on. There are several places you can see live or semi-live coverage of the landing (see the links below).  
   
-[![](http://www.nasa.gov/images/content/657466main_pia15791-43_946-710.jpg)](http://www.nasa.gov/images/content/657466main_pia15791-43_946-710.jpg)  
+![](http://www.nasa.gov/images/content/657466main_pia15791-43_946-710.jpg)  
 ---  
 Concept art of the Mars Curiosity rover. Credit: NASA/JPL-Caltech  
   
 **Mars Curiosity**  
 This is NASA's latest mission to Mars. It consists of a 1-ton rover that will explore the area around Gale Crater. This is the largest rover sent to another planet to date. Curiosity will study the climate and geology of Mars and help determine if Mars could ever have supported life in its distant past by focusing on searching for the ingredients of life. I'll point you to the links at the end to get more information on the mission itself.  
   
-[![](assets/img/posts/2012/20120802/PIA15279_3rovers-stand_D2011_1215_D521_br.jpg)](assets/img/posts/2012/20120802/PIA15279_3rovers-stand_D2011_1215_D521_br.jpg)  
+![](/assets/img/posts/2012/20120802/PIA15279_3rovers-stand_D2011_1215_D521_br.jpg)  
 ---  
 A comparison of Curiosity (at right) with Spirit/Opportunity (left), Sojourner (bottom), and two engineers (center). These are test or spare rovers which are the same size as those sent to Mars. Credit: NASA/JPL-Caltech  
   
 **The Descent**  
 There are various ways to land something on the planet. You may remember, for example, the inflated airbags used for the Mars Pathfinder and Exploration Rover (Spirit & Opportunity) landings. This rover is far too heavy for that and uses a different system. The diagram below illustrate the steps involved in landing Curiosity. There is also a very nice [NASA video describing all the steps](http://www.nasa.gov/multimedia/videogallery/index.html?media_id=146903741). The landing phase is known as the 7 minutes of terror since it takes that long for it to land. Furthermore, because of the distance between Mars and the Earth, signals from the rover take 14 minutes to reach us. Hence, by the time we find out Curiosity has entered the atmosphere it has already been on the surface for 7 minutes. Given this limitation, Curiosity is capable of landing itself without any human guidance.  
   
-[![](http://www.nasa.gov/images/content/667373main1_MSL%20EDL%20rev-427.jpg)](http://www.nasa.gov/images/content/667373main1_MSL%20EDL%20rev-427.jpg)  
+![](http://www.nasa.gov/images/content/667373main1_MSL%20EDL%20rev-427.jpg)  
 ---  
 Curiosity's descent to Mars. Credit: NASA/JPL-Caltech  
   

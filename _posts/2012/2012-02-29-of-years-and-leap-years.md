@@ -26,7 +26,7 @@ What the solar year along with those leap years accomplishes is that the vernal 
 **What is the vernal equinox?**  
 This actually has two answers, both related. The first definition of the equinox is the location in the sky where the plane of the solar system (the ecliptic), or equivalently the path of the Sun, intersects the equator of the Earth as projected into space. It is currently located in the constellation Pisces. There is, equivalently, another equinox, the autumnal equinox where the same situation occurs. This one is near Virgo. These locations are also known as the first point of Aries / Libra, however, the precession of the Earth's axis has meant that these are no longer located in Aries and Libra.  
   
-[![](http://upload.wikimedia.org/wikipedia/commons/6/61/AxialTiltObliquity.png)](http://upload.wikimedia.org/wikipedia/commons/6/61/AxialTiltObliquity.png)  
+![](http://upload.wikimedia.org/wikipedia/commons/6/61/AxialTiltObliquity.png)  
 ---  
 _The equinox is the point in space where the ecliptic and the celestial equator intersect. Credit: Dennis Nilsson, Creative Commons_  
   
@@ -41,7 +41,7 @@ Another interesting and related consequence is that the location (but not the DA
 **Why don't the sidereal year and solar year match?**  
 If you look at the figure of the Earth above, you'll notice that the line perpendicular to the ecliptic (the plane of the orbit) doesn't match the rotation axis of the Earth. The Earth's axis is tilted by about 23.5 degrees. The gravitational influence of the Sun and the Moon apply a small torque which causes the axis to precess like a spinning top over a period of about 26,000 years. That means the Earth axis won't always be pointed at the same location in space at all times and thus we won't always have a North Star.  
   
-[![](http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Outside_view_of_precession.jpg/600px-Outside_view_of_precession.jpg)](http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Outside_view_of_precession.jpg/600px-Outside_view_of_precession.jpg)  
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Outside_view_of_precession.jpg/600px-Outside_view_of_precession.jpg)  
 ---  
 _The precession of the Earth's axis (yellow) causes the North Celestial Pole to trace out a circle in the sky (blue line). The track the vernal equinox covers is denoted in red._  
   

@@ -31,7 +31,7 @@ Naturally, this particular book has no magical or supernatural forces, but natur
   
 
 
-[![](assets/img/posts/2014/20140224/Screen+Shot+2014-02-24+at+3.21.16+PM.png)](assets/img/posts/2014/20140224/Screen+Shot+2014-02-24+at+3.21.16+PM.png)
+![](/assets/img/posts/2014/20140224/Screen+Shot+2014-02-24+at+3.21.16+PM.png)
 
 **Plot & Character**  
 The story follows Cheryl Strayed herself as she recounts the events leading to, and then her journey on, the PCT. I've grouped both plot and character together as the plot is Strayed's story. She starts her story with her mother's death and events surrounding it. This unhinged her somewhat and she ended up cheating on her husband and doing drugs. She realized that she needed to do something, to find herself again, and so she undertakes an incredible journey: hiking alone the PCT. This is a long trail going from Mexico to Canada along the western mountain range of the United States. You can see a map of it and her journey on the right. Although she has some camping and hiking experience before, nothing really prepared her for the 1,100-mile hike that she undertook.  

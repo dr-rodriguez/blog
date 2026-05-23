@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](assets/img/posts/2012/20121206/Hetuu_1.png)](assets/img/posts/2012/20121206/Hetuu.png)
+![](/assets/img/posts/2012/20121206/Hetuu.png)
 
   
 This is a short post to let you know that the results of the Hetu'u Global Network have been officially published in Astronomy Education Review (AER)! You can see the article [here](http://aer.aas.org/resource/1/aerscz/v11/i1/p010203_s1).  
@@ -22,7 +22,7 @@ Hetu'u is the rapanui word for "star" and forms part of our official team name f
   
 
 
-[![](assets/img/posts/2012/20121206/ToV2012_label.jpg)](assets/img/posts/2012/20121206/ToV2012_label_1.jpg)
+![](/assets/img/posts/2012/20121206/ToV2012_label_1.jpg)
 
   
 In the figure above, red marks indicate places where the second or third contact time was measured. Black symbols were unable to do so given local weather conditions.  

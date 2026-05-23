@@ -18,7 +18,7 @@ Why is the Sun active?
 Most of the time the Sun sits there quietly producing light. However, from time to time, parts on the surface of the Sun will suddenly increase, or flare, in brightness. A lot of light, usually in the form of ultraviolet (UV) and X-ray radiation is produced, but charged particles like electrons, protons, and other ions are also ejected in these events. Flares occur when charged particles are accelerated with the help of magnetic fields in the region. The amount of energy involved is huge, at least thousands of times the entire nuclear arsenal in our planet, and produce the high energy light that we see and accelerate particles that travel 150 million kilometers before reaching the Earth. These flares occur in sunspot groups on the surface of the Sun.  
   
 Sunspots are so called because they appear darker than the rest of the Sun. They are much cooler than the rest of the Sun with temperatures of order 3000 Kelvin (2727 Celsius, 4940 Farenheit). In comparison, the rest of the Sun is about 6000 Kelvin. So to say that they are 'cool' is only relative- the surface, or photosphere, of the Sun is quite hot whether or not you are in a sunspot. These spots are actually quite large, the smallest are about the _size of the Earth_ , with many being many Earth-diameters across. The Sun is absolutely huge when compared to our planet: just over a hundred Earth's would be needed to span the Sun's diameter. These sunspot groups are the sites of strong magnetic activity and can lead to flare events or coronal mass ejections (similar explosions that eject a large amount of material out to space). Here is a satellite ultraviolet image of the solar flare event that took place January 27, 2012:  
-[![](http://blogs.discovermagazine.com/badastronomy/files/2012/01/sdo_x2flare_jan272012_610.jpg)](http://blogs.discovermagazine.com/badastronomy/files/2012/01/sdo_x2flare_jan272012_610.jpg)  
+![](http://blogs.discovermagazine.com/badastronomy/files/2012/01/sdo_x2flare_jan272012_610.jpg)  
 ---  
 _Notice the solar flare on the upper right edge of the Sun. Photo: NASA / SDO / Helioviewer.org.  
 See a video and discussion [here](http://blogs.discovermagazine.com/badastronomy/2012/01/28/the-suns-still-blasting-out-flares-big-ones/)._  
@@ -30,7 +30,7 @@ During a flare event, UV and X-ray emission is produced. However, compared to ot
   
 However, in addition to the light there are also high-energy particles- protons, electrons, and a few small nuclei, that are produced. As these are particles, they cannot travel at the speed of light and take a bit longer, usually a few days, to reach the Earth. When they do, they encounter two things around the Earth- the magnetosphere and the atmosphere.  
   
-[![](http://sec.gsfc.nasa.gov/popscise.jpg)](http://sec.gsfc.nasa.gov/popscise.jpg)  
+![](http://sec.gsfc.nasa.gov/popscise.jpg)  
 ---  
 _The magnetosphere. The blue depicts magnetic field lines surrounding the Earth, in greenish yellow are the charged particles from the Sun. Credit: NASA_  
   

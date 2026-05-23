@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](assets/img/posts/2012/20120729/KuchnerPBcover-r05_01FullCvr-200x300.jpg)](assets/img/posts/2012/20120729/KuchnerPBcover-r05_01FullCvr-200x300.jpg)
+![](/assets/img/posts/2012/20120729/KuchnerPBcover-r05_01FullCvr-200x300.jpg)
 
 This past week, I attended a three-day workshop to learn about marketing skills scientists like me can use. This was led by Marc Kuchner, astronomer, songwriter, and author of **Marketing for Scientists: How to Shine in Tough Times** (check out the website [here](http://marketingforscientists.com/)). The workshop drew heavily on what's in the book and we were encouraged to have a look ait it too, given that it goes more into depth. Naturally, I can only say a few of the highlights here, but I purchased the Kindle version of the book and I am already seeing extra things there that are useful to know.  
   
@@ -33,7 +33,7 @@ As you can see from the above steps, you barely talk about your research at all!
 **Day 2: Presentations and Proposals**  
 After a brilliant first day, I knew I had to come back for the next two days. Day two was about effective presentation techniques and how to write a good proposal. I'll again refer you to the book for the details, but I'll mention here some of the things that grabbed my attention.  
   
-[![](http://www.nasa.gov/images/content/228174main_image_1087_946-710.jpg)](http://www.nasa.gov/images/content/228174main_image_1087_946-710.jpg)  
+![](http://www.nasa.gov/images/content/228174main_image_1087_946-710.jpg)  
 ---  
 Stellar flare around a low-mass star, an example of   
 a "beautiful butterfly" picture. Credit: NASA  

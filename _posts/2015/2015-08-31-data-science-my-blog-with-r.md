@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](assets/img/posts/2015/20150831/wordcloud_1.png)](assets/img/posts/2015/20150831/wordcloud_1.png)
+![](/assets/img/posts/2015/20150831/wordcloud_1.png)
 
   
 Over the past few weeks, I've been taking an [online course](https://www.coursera.org/specialization/jhudatascience/1?utm_medium=courseDescripTop) on Data Science with the R programing language. It's my first time taking an online course and it's been quite fun. I wanted to learn more about data science in general and this course came recommended by a friend. I didn't know anything about R at the start, but I have many years of experience working with Python, IDL, IRAF, etc, so it was easy to pick up. One of the best ways I learn, however, is through practice. So I figured I would create my own personal project: some data analysis on my blog.  
@@ -35,7 +35,7 @@ A friend of mine would frequently complain how long my posts are. But that begs 
   
 
 
-[![](assets/img/posts/2015/20150831/wordvstime1.png)](assets/img/posts/2015/20150831/wordvstime1.png)
+![](/assets/img/posts/2015/20150831/wordvstime1.png)
 
   
 **Frequency of Posts**  
@@ -43,21 +43,21 @@ Probably one of the most obvious aspects of my blog is that the frequency of my 
   
 
 
-[![](assets/img/posts/2015/20150831/postfreq2.png)](assets/img/posts/2015/20150831/postfreq2.png)
+![](/assets/img/posts/2015/20150831/postfreq2.png)
 
   
 In a similar fashion, I can ask at what time of day I do I tend to post. Although the timezones tend to be tricky (Chile recently abolished daylight savings time), I can still get a good estimate as the API does return the exact time the blog posts have gone live. The histogram below shows how this. As you can see, most of my posts tend to be in the evening in Chilean time (CLT), though quite a few are in the early afternoon as well.  
   
 
 
-[![](assets/img/posts/2015/20150831/posttimes1.png)](assets/img/posts/2015/20150831/posttimes1.png)
+![](/assets/img/posts/2015/20150831/posttimes1.png)
 
   
 And finally, I can also examine what day of the week I posted using the weekdays() function in R. I tend to post more on the weekends, but otherwise the trend is fairly steady throughout the week. You can see this in the histogram below.  
   
 
 
-[![](assets/img/posts/2015/20150831/postdays1.png)](assets/img/posts/2015/20150831/postdays1.png)
+![](/assets/img/posts/2015/20150831/postdays1.png)
 
   
 **Type of Posts**  

@@ -54,7 +54,7 @@ We can apply the same criteria to other star systems. In this case, though, we h
   
 
 
-[![](http://upload.wikimedia.org/wikipedia/commons/6/61/Habitable_zone_-_HZ.png)](http://upload.wikimedia.org/wikipedia/commons/6/61/Habitable_zone_-_HZ.png)  
+![](http://upload.wikimedia.org/wikipedia/commons/6/61/Habitable_zone_-_HZ.png)  
 ---  
 _Habitable zone comparison for stars of different luminosities._  
   
@@ -80,7 +80,7 @@ GJ 667Cc is the 28-day planet. For this system, that corresponds to a distance f
   
 
 
-[![](assets/img/posts/2012/20120204/GJ667Cc_1.png)](assets/img/posts/2012/20120204/GJ667Cc.png)  
+![](/assets/img/posts/2012/20120204/GJ667Cc.png)  
 ---  
 _Orbital configuration of the GJ 667C planet system in comparison to our Sun's. The habitable zone, and it's possible extent, is illustrated. Note the different distance scales for both systems. Credit: Guillem Anglada-Escude et al. (2012)_  
   

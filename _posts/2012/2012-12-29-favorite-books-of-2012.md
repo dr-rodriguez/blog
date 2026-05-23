@@ -45,7 +45,7 @@ This was an excellent book I read thanks to a recommendation. It's a bit heavy a
 1\. [A Fire Upon the Deep](http://strakul.blogspot.com/2012/09/book-review-fire-upon-deep-by-vernor.html) by Vernor Vinge   
 
 
-[![](http://photo.goodreads.com/books/1328110731l/8291178.jpg)](http://photo.goodreads.com/books/1328110731l/8291178.jpg)
+![](http://photo.goodreads.com/books/1328110731l/8291178.jpg)
 
 I had heard a lot about this book and finally picked it up this year. It was incredible; I can't believe I had missed reading this before. I can honestly say it feels like one of the foundations of modern science fiction. It incorporates a multitude of ideas, each of which could serve as a full-length novel, and yet all of it flows together perfectly. It won (tied, actually) the 1993 Hugo award, which is arguably the highest award for a sci-fi/fantasy book. A sequel to the story now exists (**The Children of the Sky**) and is on my to-read list.  
   

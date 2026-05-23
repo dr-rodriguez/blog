@@ -13,12 +13,12 @@ img_show: false
 ---
 
 Just a quick blog post to point you to today's amazing [Astronomy Picture of the Day](http://apod.nasa.gov/apod/ap120319.html) (APOD):  
-[![](assets/img/posts/2012/20120319/bigspots_rayego_5184.jpg)](assets/img/posts/2012/20120319/bigspots_rayego_5184_1.jpg)  
+![](/assets/img/posts/2012/20120319/bigspots_rayego_5184_1.jpg)  
 ---  
 Credit: APOD, [Juan Manuel Pérez Rayego](http://perezrayego.artelista.com/)  
   
 Look very carefully at that sunset picture. Ignore the birds, the tree, and the bands due to the thin clouds in our own atmosphere. On the disk of the Sun itself, you can clearly see some spots. That's not a defective camera lens, those spots are actually on the Sun. The big one there is sunspot group 1429, which you can also see in this other [APOD](http://apod.nasa.gov/apod/ap120314.html) picture:  
-[![](assets/img/posts/2012/20120319/angrysun_friedman_960.jpg)](assets/img/posts/2012/20120319/angrysun_friedman_960.jpg)  
+![](/assets/img/posts/2012/20120319/angrysun_friedman_960.jpg)  
 ---  
 Credit: APOD, [Alan Friedman](http://www.avertedimagination.com/)  
   

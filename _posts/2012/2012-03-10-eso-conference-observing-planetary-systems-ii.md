@@ -16,7 +16,7 @@ I spent 4 days this past week attending the European Southern Observatory (ESO) 
   
 
 
-[![](assets/img/posts/2012/20120310/eso_poster_1.jpg)](assets/img/posts/2012/20120310/eso_poster.jpg)
+![](/assets/img/posts/2012/20120310/eso_poster.jpg)
 
   
 The conference was fairly small- about 100 people or so. Compare that to the American Astronomical Society (AAS) meetings where you can have easily more than 1,000 astronomers show up. This makes finding people much easier and you interact with the same folks continuously. An additional difference is that things are much more focused: all the talks and poster were on planet, planet formation, observations (AO, infrared, sub-mm), models, disks, and all topics in between. That's a cool set of topics and everyone seems to be working on the same thing so you get some useful discussions.  
@@ -40,7 +40,7 @@ Met some more cool people and saw some nice talks, especially about efforts in t
 By the end of the day I had information overload. At a larger conference I wouldn't feel too bad about skipping out on a few talks and just resting, but I wanted to hit all the talks. That's the problem with such a focused conference: everything ties together and, if you like seeing the big-picture as I do, then you want to see it all.  
   
   
-[![](assets/img/posts/2012/20120310/IMG_4366_1.jpg)](assets/img/posts/2012/20120310/IMG_4366.jpg)  
+![](/assets/img/posts/2012/20120310/IMG_4366.jpg)  
 ---  
 My poster! Pretty much recycled from AAS. The QR code points to a page on my professional website describing the research in a bit more detail along with providing links to the poster, the paper, and my other research.  
   
@@ -55,7 +55,7 @@ I missed the first half of the day since I was running some errands. This is rel
   
 The afternoon session focused on some of the future instruments and surveys coming online that will help find planets. The talks were a bit diverse and I think this was mostly just the overflow of those talks that didn't quite fit anywhere else. Still, there were some interesting talks.  
   
-[![](assets/img/posts/2012/20120310/IMG_4369.JPG)](assets/img/posts/2012/20120310/IMG_4369_1.JPG)  
+![](/assets/img/posts/2012/20120310/IMG_4369_1.JPG)  
 ---  
 The conference room while at a coffee break.  
 **  

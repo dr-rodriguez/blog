@@ -40,7 +40,7 @@ The plot of this book is fairly straightforward, though it takes some interestin
 
 ## Characters
 
-[![](assets/img/posts/2023/20230114/SippingSaltyTea_1.jpg)](assets/img/posts/2023/20230114/SippingSaltyTea.jpg)
+![](/assets/img/posts/2023/20230114/SippingSaltyTea.jpg)
 
 Central to the story is Tress. She starts off as a small town simple girl and initially gave me some Auri vibes with her unusual fascination on cups (from Rothfuss's Name of the Wind); however, she quickly grows to a more standard Sanderson heroine- an adventuring scholar. While she's great, it does seem Sanderson gravitates to that archetype very often so I felt she lost a bit of personality when leaning heavily into that. 
 

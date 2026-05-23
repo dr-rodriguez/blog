@@ -16,7 +16,7 @@ MOSFIRE, or the _Multi-Object Spectrometer For Infra-Red Exploration_ , has seen
 The MOSFIRE instrument had been under construction at UCLA during my time there and several of my friends worked on it. It is good to see their efforts paid off and the instrument is online and will soon be taking data.  
   
 Here's one of the unprocessed images it took on April 4:  
-[![](http://keckobservatory.org/images/press_images/MOSFIRE-1st-Lite.jpg)](http://keckobservatory.org/images/press_images/MOSFIRE-1st-Lite.jpg)  
+![](http://keckobservatory.org/images/press_images/MOSFIRE-1st-Lite.jpg)  
 ---  
 The Antennae Galaxies. Credit: W. M. Keck Observatory  
 The Antennae are a pair of colliding galaxies and a favorite for first-light images (see, for example, [ALMA's take](http://www.almaobservatory.org/en/alma-early-science/early-science-press-release) on these galaxies).  
@@ -26,7 +26,7 @@ MOSFIRE is pretty neat as it's a combination of a multi-object spectrograph and 
 Since the slits can be opened or closed at will, you can choose to have them all open providing you with a 6.1 arcminute field of view (the full Moon is about 30 arcminutes across). This allows you to image a fairly large part of the sky and then switch over to spectroscopy on any targets you find interesting. The images thus far being shown were taken through the imaging mode.  
 
 
-[![](assets/img/posts/2012/20120409/M82-MOSFIRE.jpg)](assets/img/posts/2012/20120409/M82-MOSFIRE.jpg)  
+![](/assets/img/posts/2012/20120409/M82-MOSFIRE.jpg)  
 ---  
 M82 as seen by MOSFIRE. Credit: W. M. Keck Observatory  
   

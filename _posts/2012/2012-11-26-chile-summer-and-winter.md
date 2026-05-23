@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](assets/img/posts/2012/20121126/winter1_1.jpg)](assets/img/posts/2012/20121126/winter1.jpg)
+![](/assets/img/posts/2012/20121126/winter1.jpg)
 
   
 I've now spent over a year in Chile and have taken pictures from time to time. Here I present two pairs of pictures of approximately the same location, but shifted in time by several months. That is, one picture is taken around Summer, while the other was taken around Winter (or close enough). This showcases how the seasons change here in Santiago and it's a good opportunity to talk about how the seasons work on Earth.  
@@ -30,7 +30,7 @@ If you look carefully at the buildings, you may notice that on the far left ther
   
 
 
-[![](assets/img/posts/2012/20121126/winter2_1.JPG)](assets/img/posts/2012/20121126/winter2.JPG)
+![](/assets/img/posts/2012/20121126/winter2.JPG)
 
   
 If you've read closely thus far, you may realize something odd, particularly if you've grown up in the Northern Hemisphere (statistic-wise, the majority of my readers are in the US). I've been calling dates around June and August "Winter" and those in November "Summer." As most people probably know, the seasons are flipped between Northern and Southern Hemispheres. When it's Winter in the US, it's Summer in Chile. Many times, people refer to the southern versions as "austral," so we are now entering _austral_ Summer. In the US, people are getting ready for _boreal_ Winter.  
@@ -38,7 +38,7 @@ If you've read closely thus far, you may realize something odd, particularly if 
 Why are the seasons flipped?  
 This is easy to understand if you know how the seasons work. A common misconception is that the seasons are caused by the distance between the Earth and the Sun, but this is **incorrect**. If that were the case, then both hemispheres would experience Summer and Winter at the same time.  
 The true cause of the seasons is due to the tilt of Earth's axis. Have a look at this diagram:  
-[![](assets/img/posts/2012/20121126/EarthSeasons.jpg)](assets/img/posts/2012/20121126/EarthSeasons.jpg)  
+![](/assets/img/posts/2012/20121126/EarthSeasons.jpg)  
 ---  
 The Earth at two positions on its orbit around the Sun. Not to scale. [Credit](http://www.skepticalscience.com/Drought_in_the_Amazon_A_death_spiral_part_1_seasons.html).  
   

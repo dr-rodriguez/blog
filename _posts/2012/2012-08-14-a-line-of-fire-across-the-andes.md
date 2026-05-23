@@ -17,7 +17,7 @@ Today was a cold, overcast day with some light rain in Santiago. It wasn't the r
 This is what I saw:  
 
 
-[![](assets/img/posts/2012/20120814/IMG_6465-6466.jpg)](assets/img/posts/2012/20120814/IMG_6465-6466_1.jpg)
+![](/assets/img/posts/2012/20120814/IMG_6465-6466_1.jpg)
 
   
 I think my camera has failed to capture the amazing scene I was seeing, but I tried my best.  

@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](assets/img/posts/2016/20160801/convention_clouds.png)](assets/img/posts/2016/20160801/convention_clouds_1.png)
+![](/assets/img/posts/2016/20160801/convention_clouds_1.png)
 
   
 In the past few weeks, the two major political parties in the United States of America held their national conventions. While I couldn't listen to all the speeches, I followed the news and paid attention to the overall scene. After they were done, I decided to grab the speeches of the major speakers and see if I could find any obvious trends in their word choices, similar to what I did with my Twitter project. In this blog post, I'll discuss what I can see in the data. You can find my data and all my scripts at this [GitHub repo](https://github.com/dr-rodriguez/conventions_2016).  
@@ -25,7 +25,7 @@ By now, you probably know I love word clouds. You can see at the top of this pos
   
 
 
-[![](assets/img/posts/2016/20160801/top_words_1.png)](assets/img/posts/2016/20160801/top_words.png)
+![](/assets/img/posts/2016/20160801/top_words.png)
 
   
 These are the top 10 words used by Clinton and top 10 words used by Trump. Because these are not the same, the graph displays the union of them, 15 in total, with them sorted by Clinton's word count. You can see that Hillary Clinton used work (works, working, etc), people, and us most frequently, whereas Donald Trump used america, american, and country most often. Just by those three word choices you can see there is a different focus in these two speeches.  
@@ -35,7 +35,7 @@ Another thing I did was to pass each speech through my sentiment analysis code, 
   
 
 
-[![](assets/img/posts/2016/20160801/convention_full.png)](assets/img/posts/2016/20160801/convention_full_1.png)
+![](/assets/img/posts/2016/20160801/convention_full_1.png)
 
   
 At a glance, both parties tended to use words associated with very similar emotions. This may be just the nature of political speeches in general. The most interesting contrast in my opinion, is the _trust_ emotion at the far right. It appears that Republicans used trust-associated words about 10% of the time whereas Democrats were closer to 8%. Bear in mind, however, that sentences like "I trust you" vs "Trust me" both have the same _trust_ value in this analysis. Whether or not Republicans are asking Americans to trust them, or expressing trust in Americans requires a more detailed look into the speeches, which is beyond the scope of this post.  
@@ -44,7 +44,7 @@ At a glance, both parties tended to use words associated with very similar emoti
 Let's have a look more closely at the individual speeches, starting with the DNC. The figure below breaks down the sentiment for each of the 10 speeches I analyzed. At a glance, pretty similar, but there are a few differences I want to point out.  
 
 
-[![](assets/img/posts/2016/20160801/dnc_normalized.png)](assets/img/posts/2016/20160801/dnc_normalized_1.png)
+![](/assets/img/posts/2016/20160801/dnc_normalized_1.png)
 
   
 Let's have a look at _trust_ again on the far right. The two speakers who used the least words for _trust_ where Bernie Sanders and Elizabeth Warren. Interestingly enough, these two also expressed the least _joy_ , the least _positive_ words, and the most _disgust_ words. They also had more _negative_ words and more words associated with _sadness_ , though they weren't unique in that respect.  
@@ -55,7 +55,7 @@ Looking at the far left, at _anger_ , we see that most speakers hover at around 
 Let's switch gears and look at the Republicans now. Below you'll find a sentiment figure for the 9 speeches I analyzed in this case. I can see some more marked differences here than for the Democrats.  
 
 
-[![](assets/img/posts/2016/20160801/rnc_normalized.png)](assets/img/posts/2016/20160801/rnc_normalized_1.png)
+![](/assets/img/posts/2016/20160801/rnc_normalized_1.png)
 
   
 If you look at this for a while, you'll see that there are pretty much two separate camps present here. Let's start with _anger_ at the left. Speakers like Chris Chrisie, Donald Trump, Rudy Giuliani, and Ted Cruz all expressed comparable levels of _anger_ , at about 5%. Mike Pence and Ben Carson were a bit lower, but the three lowest are Donald Jr, Ivanka, and Melania Trump. You can see this pattern again in the _disgust,_  _fear_ , and _negative_ emotions. The reverse is the case for _positive_ words: Ben Carson and Ivanka and Melania Trump top the charts with well over 15% of _positive_ words whereas the other, more main-stream speakers use less _positive_ words.  

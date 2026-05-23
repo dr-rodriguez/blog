@@ -17,12 +17,12 @@ On June 5/6, 2012 we will witness one of the rarest, yet predictable, astronomic
 What is a transit?  
 Just like the Moon will sometimes pass between the Earth and the Sun (causing a solar eclipse), so too do the planets on inferior orbits. In other words, Mercury and Venus, which orbit closer than the Earth, will sometimes appear to cross the disk of the Sun. Since the planets are farther away than the Moon and orbits are not perfectly aligned, these events are much rarer than solar eclipses.  
   
-[![](http://upload.wikimedia.org/wikipedia/commons/b/bc/Transit_diagram_angles.png)](http://upload.wikimedia.org/wikipedia/commons/b/bc/Transit_diagram_angles.png)  
+![](http://upload.wikimedia.org/wikipedia/commons/b/bc/Transit_diagram_angles.png)  
 ---  
 Transits are rare since the orbit planes and planet positions do not always line up.  
   
 Venus transited the Sun back in June of 2004, here's what that looked like:  
-[![](assets/img/posts/2012/20120428/transit2004.jpg)](assets/img/posts/2012/20120428/transit2004_1.jpg)  
+![](/assets/img/posts/2012/20120428/transit2004_1.jpg)  
 ---  
 The June 2004 transit of Venus  
   
@@ -30,7 +30,7 @@ The cycle continues 8 years later on June 2012. After that, though, you'd have t
   
 Note that as the planet crosses the Sun it blocks out a tiny portion of the stellar disk. We're close enough to the Sun (93 million miles) that we can see the transit easily. It turns out that we can apply this same technique, though, to far more distant stars. For distant stars we can't see the disk of the star or the planet (it all just looks like a tiny point of light), but we can see how the brightness of the star changes with time. If the planet is big enough, when it crosses the star it will make the star appear just a little bit dimmer. With careful monitoring of a star's light, we can spot this change in brightness and, if periodic, infer that a planet is in the system. This can then be used to determine properties like the orbit of the planet and the planet size. This is called the **transit method** for extrasolar planet searches and is the way in which the [Kepler spacecraft](http://kepler.nasa.gov/) has found over a thousand candidates exoplanets.  
   
-[![](http://www2.ifa.hawaii.edu/newsletters/images/29WASP.jpg)](http://www2.ifa.hawaii.edu/newsletters/images/29WASP.jpg)  
+![](http://www2.ifa.hawaii.edu/newsletters/images/29WASP.jpg)  
 ---  
 A planet transits in front of a distant star.  
   
@@ -38,7 +38,7 @@ Where can I watch the transit of Venus?
 The transit will be visible from the majority of the planet, however the best place to look is in the middle of the Pacific ocean or in East Asia. People in North America can see the start of the event until the Sun sets, people in Europe and the Middle East can see the end of the event after sunrise.  
 Here in Chile, things don't look to promising but we have a plan (see below).  
   
-[![](assets/img/posts/2012/20120428/ToV2012_WebMap_English.png)](assets/img/posts/2012/20120428/ToV2012_WebMap_English_1.png)  
+![](/assets/img/posts/2012/20120428/ToV2012_WebMap_English_1.png)  
 ---  
 June 2012 transit visibility  
   
@@ -61,6 +61,6 @@ Our own team of Chilean astronomers will be hosting a viewing event and outreach
 Details for the Easter Island event can be found [here](http://das.uchile.cl/~drodrigu/easter/index.html) (Spanish) or [here](http://das.uchile.cl/~drodrigu/easter/index_en.html) (English).  
 
 
-[![](assets/img/posts/2012/20120428/venustransitlogo_v3.png)](assets/img/posts/2012/20120428/venustransitlogo_v3_1.png)
+![](/assets/img/posts/2012/20120428/venustransitlogo_v3_1.png)
 
 Be sure to share this (and our Facebook [page](https://www.facebook.com/RapaNuiTransitoVenus)) with anyone you know that might be travelling to Easter Island! 

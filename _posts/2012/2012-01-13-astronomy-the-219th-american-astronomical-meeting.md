@@ -20,7 +20,7 @@ I've now returned to Chile after spending a few days at the largest, bi-yearly, 
 
 This was my first time in Austin; it's a nice city. Lots of good tex-mex and the capitol building was nice to visit:
 
-[![](assets/img/posts/2012/20120113/IMG_3944_1.JPG)](assets/img/posts/2012/20120113/IMG_3944.JPG)
+![](/assets/img/posts/2012/20120113/IMG_3944.JPG)
 
   
 
@@ -44,7 +44,7 @@ This last result is particularly relevant to my research (and the poster I prese
 As I've mentioned already, I was keeping track of the conference via the twitter feed (#aas219). I started using [The Archivist](http://archivist.visitmix.com/Strakul/1), but the output of that is not always terribly useful. The most interesting result from that is the following:  
 
 
-[![](assets/img/posts/2012/20120113/Screen+shot+2012-01-13+at+9.58.43+AM.png)](assets/img/posts/2012/20120113/Screen+shot+2012-01-13+at+9.58.43+AM_3.png)
+![](/assets/img/posts/2012/20120113/Screen+shot+2012-01-13+at+9.58.43+AM_3.png)
 
   
 This is a breakdown of the most prolific twitterers using the #aas219 hashtag. I've you've been wondering who to follow for astronomy news, these are good folks to consider.  
@@ -52,13 +52,13 @@ This is a breakdown of the most prolific twitterers using the #aas219 hashtag. I
 Also interesting is the frequency of posts (alas without a vertical scale), which clearly shows when the conference was in session:  
 
 
-[![](assets/img/posts/2012/20120113/Screen+shot+2012-01-13+at+9.58.29+AM_3.png)](assets/img/posts/2012/20120113/Screen+shot+2012-01-13+at+9.58.29+AM.png)
+![](/assets/img/posts/2012/20120113/Screen+shot+2012-01-13+at+9.58.29+AM.png)
 
   
 However, my personal favorite way to visualize the social media's response to AAS is through word clouds. Using Google Reader I gathered all tweets from January 6 to 13th and present here a word cloud generated with [Wordle](http://www.wordle.net/):  
 
 
-[![](assets/img/posts/2012/20120113/Screen+shot+2012-01-13+at+10.39.35+AM.png)](assets/img/posts/2012/20120113/Screen+shot+2012-01-13+at+10.39.35+AM_3.png)
+![](/assets/img/posts/2012/20120113/Screen+shot+2012-01-13+at+10.39.35+AM_3.png)
 
   
 I afterwards realized that my copy-pasting may have duplicated some entries, but that should not affect the results too much. I'm only including the 100 most common words after removing a few things like #aas219, RT, and time stamps. For those seeing word clouds for the first time: the larger the text, the more frequently it was mentioned. Note that upper case and lower case words (see Exoplanets and exoplanets) are unfortunately not counted together.  

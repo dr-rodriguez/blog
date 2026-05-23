@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](assets/img/posts/2016/20160729/map_twitter.png)](assets/img/posts/2016/20160729/map_twitter_1.png)
+![](/assets/img/posts/2016/20160729/map_twitter_1.png)
 
   
   
@@ -21,7 +21,7 @@ In the prior [two](http://strakul.blogspot.com/2016/07/data-science-presidential
 **Support Vector Machine Classifier**  
 While attending the [Essentials of Data Science Bootcamp](http://strakul.blogspot.com/2016/04/data-science-essentials-of-data-science.html), we were briefly introduced to a variety of models capable of classifying data among several groups. We briefly mentioned Support Vector Machines, or SVM, but never applied it; however, after reading through what they are I grew curious and decided to use this in my analysis. What SVM does is attempt to divide up the data among your classifiers. In the simplest example, it will find the line that fits between the distribution of your two-dimensional data (see figure below). In general, it does not have to be a straight line, you can have more than two classifications, and the data can contain any number of dimensions. The [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) book by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani has a good introduction to SVM.  
   
-[![](http://scikit-learn.org/stable/_images/sphx_glr_plot_separating_hyperplane_0011.png)](http://scikit-learn.org/stable/_images/sphx_glr_plot_separating_hyperplane_0011.png)  
+![](http://scikit-learn.org/stable/_images/sphx_glr_plot_separating_hyperplane_0011.png)  
 ---  
 Example of using SVM to split two types of data points. Credit:[ scikit-learn](http://scikit-learn.org/stable/modules/svm.html#svm-mathematical-formulation)  
   
@@ -31,7 +31,7 @@ I used scikit-learn’s [SVC](http://scikit-learn.org/stable/modules/generated/s
 Given that my data is multi-dimensional (123 columns), I can’t create a figure like the one above. However, I can use a [confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) to see how accurately I predict values from my test dataset. You can see this below.  
 
 
-[![](assets/img/posts/2016/20160729/confusion_matrix_1.png)](assets/img/posts/2016/20160729/confusion_matrix.png)
+![](/assets/img/posts/2016/20160729/confusion_matrix.png)
 
   
   
@@ -71,7 +71,7 @@ Above is a [Bokeh](http://bokeh.pydata.org/en/latest/) interactive figure of the
 This map is the figure that’s displayed at the very top of this blog post. Here is a cleaner version without the Twitter data superimposed:  
 
 
-[![](assets/img/posts/2016/20160729/map_1.png)](assets/img/posts/2016/20160729/map.png)
+![](/assets/img/posts/2016/20160729/map.png)
 
   
   

@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-[![](assets/img/posts/2013/20130419/19planets-span-articleLarge.jpg)](assets/img/posts/2013/20130419/19planets-span-articleLarge.jpg)  
+![](/assets/img/posts/2013/20130419/19planets-span-articleLarge.jpg)  
 ---  
 Artist depiction of Kepler 62f  
   
@@ -20,6 +20,6 @@ In the latest astronomy-related news, a pair of planets in the habitable zone of
   
 In addition to the reports on the planetary system, the New York Times released [an impressive visualization/infographic](http://www.nytimes.com/interactive/science/space/keplers-tally-of-planets.html?_r=0) of many of the Kepler planets discovered to date. It's very much like the older [Kepler orrery](http://strakul.blogspot.com/2012/10/exoplanet-visualizations.html), but this one is interactive so you can see extra information on the system like the name, any artist conception, or any article associated with it. Go [check it out](http://www.nytimes.com/interactive/science/space/keplers-tally-of-planets.html?_r=0)!  
   
-[![](http://img.gawkerassets.com/img/18l1oxxx5bjykjpg/k-bigpic.jpg)](http://img.gawkerassets.com/img/18l1oxxx5bjykjpg/k-bigpic.jpg)  
+![](http://img.gawkerassets.com/img/18l1oxxx5bjykjpg/k-bigpic.jpg)  
 ---  
 The New York Times Kepler planet infographic 

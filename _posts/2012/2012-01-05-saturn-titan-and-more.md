@@ -14,7 +14,7 @@ img_show: false
 
 A short post on today's [Astronomy Picture of the Day](http://apod.nasa.gov/apod/astropix.html).  
 Jupiter has always been my favorite planet, but I completely understand why people love Saturn when I see pictures like these:  
-[![](assets/img/posts/2012/20120105/PIA14910_900c.jpg)](assets/img/posts/2012/20120105/PIA14910_900c.jpg)  
+![](/assets/img/posts/2012/20120105/PIA14910_900c.jpg)  
 ---  
 _Credit :[Cassini Imaging Team](http://ciclops.org/), [SSI](http://www.spacescience.org/), [JPL](http://www.jpl.nasa.gov/), [ESA](http://www.esa.int/), [NASA](http://www.nasa.gov/home/index.html)_  
   
