@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: Observing at APEX"
 date: 2012-04-25
-img: posts/2012/20120425/IMG_2153_1.JPG
+image: /assets/img/posts/2012/20120425/IMG_2153_1.JPG
 tags: [Travel, Disks, Astronomy]
 category: Travel
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Last week, I went to San Pedro de Atacama in Northern Chile to participate in service observations at APEX Observatory. APEX stands for the Atacama Pathfinder Experiment and is a modified ALMA prototype 12-meter antenna located at the Chajnantor Plateau at a 5100-meter (16,000-feet) altitude. Like ALMA, APEX observes at submillimeter wavelengths and so requires such a high and dry site to observe.  

@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Astronomy: Mars Curiosity"
 date: 2012-08-02
-img: http://www.nasa.gov/images/content/657466main_pia15791-43_946-710.jpg
+image: http://www.nasa.gov/images/content/657466main_pia15791-43_946-710.jpg
 tags: [Astronomy, Planets]
 category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 On August 6th 2012 (1:31 am EDT), the Mars Curiosity Rover, also known as the Mars Science Laboratory, lands on planet Mars. You've probably heard tons about this in the last few days. Everyone's talking about it!  

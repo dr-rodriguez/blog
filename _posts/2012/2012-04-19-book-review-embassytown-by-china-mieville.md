@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Embassytown by China Mieville"
 date: 2012-04-19
-img: posts/2012/20120419/embassytown-china-mieville_1.jpg
+image: /assets/img/posts/2012/20120419/embassytown-china-mieville_1.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2012/20120419/embassytown-china-mieville_1.jpg)](assets/img/posts/2012/20120419/embassytown-china-mieville.jpg)
+![](/assets/img/posts/2012/20120419/embassytown-china-mieville_1.jpg){: width="500" .w-50 .left}
 
 This is my second read of **Embassytown** , but I've been dying to repeat the book after I finished it. As I've mentioned, it was my[ favorite book I read in 2011](http://strakul.blogspot.com/2012/01/favorite-books-of-2011.html). The book has been nominated for the[ 2012 Arthur C. Clarke award](http://www.clarkeaward.com/2012-clarke-award/2012-shortlist/) and the [2012 Hugo award](http://www.tor.com/blogs/2012/04/announcing-the-2012-hugo-award-nominees). If he wins, these would be his fourth Arthur C. Clarke award, after **Perdido Street Station** (nominated for the 2001 Hugo), **Iron Council** , and **The City & The City**; and his second Hugo, after **The City & The City**. He's also won a bunch of other awards that I didn't even know existed.  
   

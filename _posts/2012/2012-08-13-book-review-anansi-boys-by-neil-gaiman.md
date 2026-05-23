@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Anansi Boys by Neil Gaiman"
 date: 2012-08-13
-img: posts/2012/20120813/51HRAVbE2lL._SS500_.jpg
+image: /assets/img/posts/2012/20120813/51HRAVbE2lL._SS500_.jpg
 tags: [Fantasy, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](assets/img/posts/2012/20120813/51HRAVbE2lL._SS500_.jpg)](assets/img/posts/2012/20120813/51HRAVbE2lL._SS500_.jpg)
+![](/assets/img/posts/2012/20120813/51HRAVbE2lL._SS500_.jpg){: width="500" .w-50 .left}
 
 I've only read a little of Gaiman's work (**American Gods** and [Neverwhere](http://strakul.blogspot.com/2012/04/book-review-neverwhere-by-neil-gaiman.html)) and while I enjoyed it, I wasn't blown away like everyone else seems to be. When I found **Anansi Boys** on special, I figured: why not? Let's find out how good this is.  
   

@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "The Transit of the Earth... from Mars!"
 date: 2012-06-20
-img: http://upload.wikimedia.org/wikipedia/commons/d/dd/13-ml-04-deimos-A067R1.jpg
+image: http://upload.wikimedia.org/wikipedia/commons/d/dd/13-ml-04-deimos-A067R1.jpg
 tags: [Planets, Transit of Venus, Astronomy]
 category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Several weeks ago we were witness to one of the rarest, yet predictable, astronomical events known: the [transit of Venus](http://strakul.blogspot.com/2012/04/transit-of-venus-june-2012.html). The next such transit will be in the year 2117. You can always catch the next transit of Mercury, though. These are far more common with 13-14 events per century: the next one is May 9, 2016. However, you do need a telescope to see it as Mercury is much smaller.  

@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Redshirts by John Scalzi"
 date: 2012-06-24
-img: http://photo.goodreads.com/books/1339166503l/15517815.jpg
+image: http://photo.goodreads.com/books/1339166503l/15517815.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](http://photo.goodreads.com/books/1339166503l/15517815.jpg)](http://photo.goodreads.com/books/1339166503l/15517815.jpg)
+![](http://photo.goodreads.com/books/1339166503l/15517815.jpg){: width="500" .w-50 .left}
 
 While I'm off traveling, here is a review I wrote up last week.  
 I first heard about **Redshirts** when John Scalzi read a preview of it at a signing I went to (for **Fuzzy Nation** , which I still haven't read). The reading was hilarious (he also read the first sentence from [The Shadow War of the Night Dragons: Book One: The Dead City: Prologue](http://www.tor.com/stories/2011/04/the-shadow-war-of-the-night-dragons-book-one-the-dead-city-excerpt)).  

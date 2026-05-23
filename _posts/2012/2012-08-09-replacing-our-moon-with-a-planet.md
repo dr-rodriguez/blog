@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Replacing our Moon with a Planet"
 date: 2012-08-09
-img: http://img.gawkerassets.com/img/17txyvvbflggzjpg/original.jpg
+image: http://img.gawkerassets.com/img/17txyvvbflggzjpg/original.jpg
 tags: [Astronomy, Planets]
 category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Do you know how big the Moon is compared to the other planets?

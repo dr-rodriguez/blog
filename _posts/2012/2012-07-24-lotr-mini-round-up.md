@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "LoTR Mini-Round Up"
 date: 2012-07-24
-img: http://cdn3.blogs.babble.com/strollerderby/files/covers/20.jpg
+image: http://cdn3.blogs.babble.com/strollerderby/files/covers/20.jpg
 tags: [Misc, Books]
 category: Misc
 author: Strakul
 description: ""
+img_show: false
 ---
 
 [![](http://cdn3.blogs.babble.com/strollerderby/files/covers/20.jpg)](http://cdn3.blogs.babble.com/strollerderby/files/covers/20.jpg)It's been a while since I posted anything, so here's a short post gathering a few interesting things related to **The Lord of the Rings** and **The Hobbit** by J.R.R. Tolkien.  

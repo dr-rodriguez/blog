@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Transit of Venus: June 2012"
 date: 2012-04-28
-img: http://upload.wikimedia.org/wikipedia/commons/b/bc/Transit_diagram_angles.png
+image: http://upload.wikimedia.org/wikipedia/commons/b/bc/Transit_diagram_angles.png
 tags: [Travel, Planets, Stars, Transit of Venus, Culture, Astronomy]
 category: Travel
 author: Strakul
 description: ""
+img_show: false
 ---
 
 On June 5/6, 2012 we will witness one of the rarest, yet predictable, astronomical phenomena: the transit of Venus.  

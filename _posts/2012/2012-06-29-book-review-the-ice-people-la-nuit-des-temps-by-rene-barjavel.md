@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: The Ice People (La Nuit des Temps) by Rene Barjavel"
 date: 2012-06-29
-img: http://photo.goodreads.com/books/1210399164l/106750.jpg
+image: http://photo.goodreads.com/books/1210399164l/106750.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](http://photo.goodreads.com/books/1210399164l/106750.jpg)](http://photo.goodreads.com/books/1210399164l/106750.jpg)
+![](http://photo.goodreads.com/books/1210399164l/106750.jpg){: width="500" .w-50 .left}
 
 This book was lent to me by a friend, with very little preamble. She knows I like to read and she's French so I can only assume she wanted to introduce me to French authors. The good thing is that it was short (so I felt OK pausing my read of **The Winds Of Khalakovo**) and by being a "dead-tree" book, I didn't have to turn it off during takeoff for my flight. I finished the book and wrote the review on the same (13-hour) flight and decided to post it today.  
   

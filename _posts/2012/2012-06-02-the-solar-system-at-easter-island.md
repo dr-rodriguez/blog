@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "The Solar System at Easter Island"
 date: 2012-06-02
-img: posts/2012/20120602/venustransitlogo_v3.png
+image: /assets/img/posts/2012/20120602/venustransitlogo_v3.png
 tags: [Planets, Transit of Venus, Education, Astronomy]
 category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 By now, you've probably heard about the transit of Venus on June 5-6, 2012. I wrote a short post ([here](http://strakul.blogspot.com/2012/04/transit-of-venus-june-2012.html)) describing it and a second one ([here](http://strakul.blogspot.com/2012/05/measuring-distance-to-sun-with-transit.html)) describing one method to estimate the distance to the Sun using the transit. Although Chile won't see the transit, [a group of us](http://www.das.uchile.cl/~drodrigu/easter/index_en.html) will be traveling to Easter Island to watch it from there (technically *have* travelled since this post was scheduled in advance).  

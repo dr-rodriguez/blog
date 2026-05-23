@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "A Line of Fire Across The Andes"
 date: 2012-08-14
-img: posts/2012/20120814/IMG_6465-6466.jpg
+image: /assets/img/posts/2012/20120814/IMG_6465-6466.jpg
 tags: [Life in Chile, Pictures]
 category: Life in Chile
 author: Strakul
 description: ""
+img_show: false
 ---
 
 Today was a cold, overcast day with some light rain in Santiago. It wasn't the rainest or the coldest day I've seen, but when I looked out in the late afternoon I was impressed.  

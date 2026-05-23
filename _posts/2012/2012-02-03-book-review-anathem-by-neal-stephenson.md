@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Book Review: Anathem by Neal Stephenson"
 date: 2012-02-03
-image: /assets/img/http:/upload.wikimedia.org/wikipedia/en/c/ca/Anathem.png
+image: http://upload.wikimedia.org/wikipedia/en/c/ca/Anathem.png
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul

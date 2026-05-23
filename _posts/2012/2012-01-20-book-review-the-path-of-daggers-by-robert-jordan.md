@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Book Review: The Path of Daggers by Robert Jordan"
 date: 2012-01-20
-image: /assets/img/http:/www.dragonmount.com/forums/uploads/1282861877/med_gallery_2_2_389374.jpg
+image: http://www.dragonmount.com/forums/uploads/1282861877/med_gallery_2_2_389374.jpg
 tags: [Fantasy, Books, Wheel of Time]
 category: Books
 author: Strakul

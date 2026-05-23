@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Midnight Tides by Steven Erikson"
 date: 2012-08-05
-img: http://photo.goodreads.com/books/1328300817l/8119976.jpg
+image: http://photo.goodreads.com/books/1328300817l/8119976.jpg
 tags: [Fantasy, Malazan, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](http://photo.goodreads.com/books/1328300817l/8119976.jpg)](http://photo.goodreads.com/books/1328300817l/8119976.jpg)
+![](http://photo.goodreads.com/books/1328300817l/8119976.jpg){: width="500" .w-50 .left}
 
 When looking at my blog stats I realized that my Malazan reviews are some of the most popular and that I've been writing them every 2 months. I figure that's a good timescale: that means only 20 months to read the 10-book series and I think I'll try to stick to that. With all the recent travel and work I've had, I am falling behind on this tentative schedule. That is now rectified with this review of Book 5 of the **Malazan Book of the Fallen: Midnight Tides**.  
   

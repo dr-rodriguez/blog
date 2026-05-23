@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Easter Island: Outreach Activities (1/3)"
 date: 2012-06-10
-img: posts/2012/20120610/Hetuu.png
+image: /assets/img/posts/2012/20120610/Hetuu.png
 tags: [Pictures, Travel, Planets, Education, Life in Chile, Transit of Venus, Astronomy]
 category: Pictures
 author: Strakul
 description: ""
+img_show: false
 ---
 
 This past week I've been with a group of astronomers on Easter Island to do outreach, observe the transit of Venus, and do some tourism. This is the first of a 3 post series describing our adventures. Part 1 is a description of the outreach activities we did at Easter Island. [Part 2](http://strakul.blogspot.com/2012/06/easter-island-transit-of-venus-23.html) describes our viewing of the transit of Venus along with our distance estimate, and [Part 3](http://strakul.blogspot.com/2012/06/easter-island-tourism-33.html) is about the places we visited.  

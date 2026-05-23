@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: Assassin's Apprentice by Robin Hobb"
 date: 2012-08-17
-img: http://photo.goodreads.com/books/1328314937l/12479382.jpg
+image: http://photo.goodreads.com/books/1328314937l/12479382.jpg
 tags: [Fantasy, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](http://photo.goodreads.com/books/1328314937l/12479382.jpg)](http://photo.goodreads.com/books/1328314937l/12479382.jpg)
+![](http://photo.goodreads.com/books/1328314937l/12479382.jpg){: width="500" .w-50 .left}
 
 I consider myself a fan of fantasy and science fiction and there are certain names that always get mentioned by people in the genre. Robin Hobb is one of these names and yet I had never read her books. Given that Sword & Laser, one of the shows on the amazing Geek & Sundry lineup, is reading the book this month, I figured: it's time. And I have to say I'm glad I finally read Robin Hobb's **Assassin's Apprentice**.  
   

@@ -4,14 +4,15 @@ read_time: true
 show_date: true
 title: "Book Review: House of Chains by Steven Erikson"
 date: 2012-05-16
-img: http://photo.goodreads.com/books/1328313081l/8177008.jpg
+image: http://photo.goodreads.com/books/1328313081l/8177008.jpg
 tags: [Fantasy, Malazan, Books]
 category: Books
 author: Strakul
 description: ""
+img_show: false
 ---
 
-[![](http://photo.goodreads.com/books/1328313081l/8177008.jpg)](http://photo.goodreads.com/books/1328313081l/8177008.jpg)
+![](http://photo.goodreads.com/books/1328313081l/8177008.jpg){: width="500" .w-50 .left}
 
 **House of Chains** is the 4th book in the Malazan Book of the Fallen series by Steven Erikson. I have previously written reviews for [Book 3](http://strakul.blogspot.com/2012/03/book-review-memories-of-ice-by-steven.html): **Memories of Ice** and [Book 2](http://strakul.blogspot.com/2012/01/book-review-deadhouse-gates-by-steven.html): **Deadhouse Gates**.  
 I understand that Ian Cameron Esslemont has also written books in the Malazan universe and they both collaborated on the series. I may have to check Esslemont's works later on, but I intend to finish the 10-book series first.  

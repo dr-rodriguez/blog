@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Astronomy: Debris Disks"
 date: 2012-01-10
-image: /assets/img/http:/www.das.uchile.cl/~drodrigu/images/hd98800.jpg
+image: http://www.das.uchile.cl/~drodrigu/images/hd98800.jpg
 tags: [Disks, Astronomy]
 category: Astronomy
 author: Strakul

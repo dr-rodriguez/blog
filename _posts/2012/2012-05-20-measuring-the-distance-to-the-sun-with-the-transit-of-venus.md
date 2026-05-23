@@ -4,11 +4,12 @@ read_time: true
 show_date: true
 title: "Measuring the Distance to the Sun with the Transit of Venus"
 date: 2012-05-20
-img: posts/2012/20120520/tov2012-diagram_1.png
+image: /assets/img/posts/2012/20120520/tov2012-diagram_1.png
 tags: [Planets, Transit of Venus, Education, Astronomy]
 category: Astronomy
 author: Strakul
 description: ""
+img_show: false
 ---
 
 With the upcoming [transit of Venus](http://strakul.blogspot.com/2012/04/transit-of-venus-june-2012.html), scientists from across the world are coordinating with groups to measure the contact times of the transit and re-measure the distance to the Sun. There are several websites (such as [this one](http://www-istp.gsfc.nasa.gov/stargaze/Svenus1.htm), or [this one](http://www.astro.uni-bonn.de/~dfischer/skyreports/2004/venus.html)) that detail how to do this, and a nice (math heavy) paper by Mignard in 2004 (PDF file [here](https://www.oca.eu/Mignard/Transits/Data/venus_contact.pdf)). Many of these methods, however, require you to get the full duration of the transit or directly measure the parallax with imaging. Here I describe a much more simple method that requires you to measure only the time at _ingress interior_ or _egress interior_ for two locations on the Earth. This method is convenient as you don't need to witness the full transit (only ingress seen from Easter Island, for example). This is a retelling of the information derived by Udo Backhaus in [this website](http://www.venus2012.de/venusprojects/contacttimes/basicidea/basicideatimes.php) with some added explanations.  
