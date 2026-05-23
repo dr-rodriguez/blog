@@ -14,7 +14,7 @@ img_show: false
 
 ![](/assets/img/posts/2022/20220501/56392665._SY475_.jpg){: width="500" .w-50 .left}
 
-This book pretty much immediately follows [The Hands of the Emperor](https://strakul.blogspot.com/2022/04/book-review-hands-of-emperor-by.html) and while it is very different in scope and tone, you can consider it a bit of a sequel and should start with the former.
+This book pretty much immediately follows [The Hands of the Emperor]({% post_url 2022/2022-04-09-book-review-the-hands-of-the-emperor-by-victoria-goddard %}) and while it is very different in scope and tone, you can consider it a bit of a sequel and should start with the former.
 
 _Artorin Damara is the Last Emperor of Astandalas and present Lord Magus of Zunidh. He is respected as a great mage, revered as a living god, regarded as the embodiment of power and wealth and majesty. Few have seen him in anything but the most resplendent garments; fewer still have ever looked him in the eyes._
 
@@ -28,7 +28,7 @@ This was an interesting book, sort of a travelogue. While starting with the Empe
 
 ## Plot
 
-The story starts with the Emperor's quest to search for his successor. That was the premise behind a lot of the preparations behind [The Hands of the Emperor](https://strakul.blogspot.com/2022/04/book-review-hands-of-emperor-by.html), so it great to see a continuation of that arc. However, very quickly on we meet Fitzroy Angursell and get some interesting mysteries revealed. From there on, we follow the story of Fitzroy instead as he journeys to find friends and some particular artifacts to aid him in his quest.
+The story starts with the Emperor's quest to search for his successor. That was the premise behind a lot of the preparations behind [The Hands of the Emperor]({% post_url 2022/2022-04-09-book-review-the-hands-of-the-emperor-by-victoria-goddard %}), so it great to see a continuation of that arc. However, very quickly on we meet Fitzroy Angursell and get some interesting mysteries revealed. From there on, we follow the story of Fitzroy instead as he journeys to find friends and some particular artifacts to aid him in his quest.
 
 The only thing that I disliked about the story was that seemed to be too many coincidences. Characters arrive just in the nick of time, right before some big quest or event is about to take place. While this occurring once or twice isn't bad, there are just a few too many for my tastes that it felt a bit ridiculous. Nevertheless, the plot was decently paced and had some great moments in it. It felt a little bit like a travelogue as the characters go from place to place, meet new people, solve problems, and move on. A lot of backstory is hinted at for even the secondary characters and I've heard other novels and short stories cover them.
 
@@ -44,4 +44,4 @@ The nature of the separate worlds is still a bit vague for me. It sounds like so
 
 ## Final Thoughts
 
-This was a pretty fun book. While not as impactful as [The Hands of the Emperor](https://strakul.blogspot.com/2022/04/book-review-hands-of-emperor-by.html) it was still enjoyable. Fitzroy is a particularly chaotic character, in sharp contrast with the meticulous and orderly Kip. It was clear even to me that Fitzroy has changed a lot, compared to all the legends alluded to in this book and the prior. The reconciliation of his past, present, and future is a bit of a theme and plays out with his interactions with old and new friends. Goddard's knack for powerful emotional encounters is a key driver to the plot. I look forward to her upcoming book,  _At the Feet of the Sun_ , for even more adventures! 
+This was a pretty fun book. While not as impactful as [The Hands of the Emperor]({% post_url 2022/2022-04-09-book-review-the-hands-of-the-emperor-by-victoria-goddard %}) it was still enjoyable. Fitzroy is a particularly chaotic character, in sharp contrast with the meticulous and orderly Kip. It was clear even to me that Fitzroy has changed a lot, compared to all the legends alluded to in this book and the prior. The reconciliation of his past, present, and future is a bit of a theme and plays out with his interactions with old and new friends. Goddard's knack for powerful emotional encounters is a key driver to the plot. I look forward to her upcoming book,  _At the Feet of the Sun_ , for even more adventures! 

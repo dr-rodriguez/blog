@@ -13,7 +13,7 @@ description: ""
 
 Today is June 5, 2012 (for me, for others it will be June 6). This is the day that Venus passes in front of the Sun in a rare alignment resulting in a transit. This is similar to an eclipse, though Venus will only block ~1/30th of the Sun's disk. Unlike an eclipse, a transit of Venus is an extremely rare event. The next one will be more than a century from now: December 2117.  
   
-I had previously written about the transit ([here](http://strakul.blogspot.com/2012/04/transit-of-venus-june-2012.html)) and detailed some of the math ([here](http://strakul.blogspot.com/2012/05/measuring-distance-to-sun-with-transit.html)) involved in estimating the distance to the Sun. My prior post details one of the outreach activities I created as part of the event.  
+I had previously written about the transit ([here]({% post_url 2012/2012-04-28-transit-of-venus-june-2012 %})) and detailed some of the math ([here]({% post_url 2012/2012-05-20-measuring-the-distance-to-the-sun-with-the-transit-of-venus %})) involved in estimating the distance to the Sun. My prior post details one of the outreach activities I created as part of the event.  
   
 Today, this post is short and intended only to say one thing: WATCH IT!  
 This is a scheduled post so hopefully it goes out on time (regardless, the transit lasts for 6 hours).  

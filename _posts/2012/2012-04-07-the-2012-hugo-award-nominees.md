@@ -51,7 +51,7 @@ I have personally read three of the five nominated works: **A Dance With Dragons
 >
 >> In conclusion: I am very happy with the book and will be checking out the rest of The Expanse when it comes out.
 
-And finally, **Embassytown**. If I were voting this year (not sure yet, I'd have to pay the $50 supporting fee...) this is the one I would pick. I consider it the [best book I read in 2011](http://strakul.blogspot.com/2012/01/favorite-books-of-2011.html). I'm actually re-reading it at the moment and will have a detailed review later this week. For now, here's what I wrote on [Goodreads](http://www.goodreads.com/review/show/138428055):  
+And finally, **Embassytown**. If I were voting this year (not sure yet, I'd have to pay the $50 supporting fee...) this is the one I would pick. I consider it the [best book I read in 2011]({% post_url 2012/2012-01-03-favorite-books-of-2011 %}). I'm actually re-reading it at the moment and will have a detailed review later this week. For now, here's what I wrote on [Goodreads](http://www.goodreads.com/review/show/138428055):  
 
 
 > > China Mieville does it again: an excellent book! This may be the best I've read from him yet (or best ever), though at the moment I can't decide if I like it more than The City & The City. The first ~third of the book is absolutely awesome. It's classic sci-fi like something you would expect from Asimov or Clarke. The next ~third drags a bit, but only because the focus shifts a bit from being about the concepts to being about the plot/characters. The final ~third is great and shines new light on that middle third that makes it quite exciting. 

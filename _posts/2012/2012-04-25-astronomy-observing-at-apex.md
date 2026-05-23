@@ -22,7 +22,7 @@ We actually had to take some medical exams to show that we could work at altitud
 ---  
 Panoramic shot at Chajnantor. APEX is near the center, ALMA is off to the left.  
   
-I mentioned APEX was a prototype ALMA antenna. I previously talked about ALMA in [this article about the Fomalhaut disk](http://strakul.blogspot.com/2012/04/astronomy-alma-observations-of.html). Well, both ALMA and APEX are located at Chajnantor. We saw ALMA every day when going up. Here's a photo of ALMA as seen from APEX:  
+I mentioned APEX was a prototype ALMA antenna. I previously talked about ALMA in [this article about the Fomalhaut disk]({% post_url 2012/2012-04-03-astronomy-alma-observations-of-fomalhaut %}). Well, both ALMA and APEX are located at Chajnantor. We saw ALMA every day when going up. Here's a photo of ALMA as seen from APEX:  
 ![](/assets/img/posts/2012/20120425/IMG_2117.JPG)  
 ---  
 The ALMA array, from APEX  
@@ -38,7 +38,7 @@ In general, this place is extremely dry. However, the recent Bolivian winter has
 Notice that for larger precipitable water vapor (pwv), the transmission is lower. That is: all that extra water is absorbing the sub-millimeter light. Typical conditions here have pwv of ~1 mm. During our run, however, we had some excellent weather the first 2-3 nights with pwv **down to 0.2 mm**. I had a program requesting 9 hours of time to reach a particular sensitivity, but we reached (and exceeded) the goal in just 5 hours.  
   
 What sort of science can you do at submillimeter wavelengths? It turns out a lot; with the Age of ALMA just around the corner we'll start learning a ton about the submillimeter universe.  
-Some of my research interests are actually tied to submillimeter astronomy: the study of circumstellar gas and dust disks. I've talked about gas-poor debris disks before ([here](http://strakul.blogspot.com/2012/01/astronomy-debris-disks.html)), but there are also cases where gas-rich disks surround young stars. These are protoplanetary disks as they form the sites of planet formation and evolution. I'll leave talking about all the great science involved in protoplanetary disks for a future post and just mention that my project was targeting some of them.  
+Some of my research interests are actually tied to submillimeter astronomy: the study of circumstellar gas and dust disks. I've talked about gas-poor debris disks before ([here]({% post_url 2012/2012-01-10-astronomy-debris-disks %})), but there are also cases where gas-rich disks surround young stars. These are protoplanetary disks as they form the sites of planet formation and evolution. I'll leave talking about all the great science involved in protoplanetary disks for a future post and just mention that my project was targeting some of them.  
   
 Observing at APEX was a great experience, despite the frequent technical problems we ran into. Chile gets 10% of the observing time for any telescope in the country and APEX is no exception. That means Chile has about 12 days (removing engineering time) per semester for its science projects. This is split typically in 3 weeks throughout the semester and this was the first such week. Those who have accepted APEX proposals (I had two) are asked to assist in these observing runs if possible.  
 ![](/assets/img/posts/2012/20120425/apex2_1.jpg)  

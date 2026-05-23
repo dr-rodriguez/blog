@@ -14,7 +14,7 @@ img_show: false
 
 ![](/assets/img/posts/2020/20200110/43936287._SY475_.jpg){: width="500" .w-50 .left}
 
-**Starsight** is the latest young-adult novel by Brandon Sanderson and is a follow up to [Skyward](https://strakul.blogspot.com/2018/12/book-review-skyward-by-brandon-sanderson.html). It picks up a bit after the prior novel and raises the stakes even higher.  
+**Starsight** is the latest young-adult novel by Brandon Sanderson and is a follow up to [Skyward]({% post_url 2018/2018-12-14-book-review-skyward-by-brandon-sanderson %}). It picks up a bit after the prior novel and raises the stakes even higher.  
   
 _All her life, Spensa has dreamed of becoming a pilot. Of proving she's a hero like her father. She made it to the sky, but the truths she learned about her father were crushing. The rumors of his cowardice are true--he deserted his flight during battle against the Krell. Worse, though, he turned against his team and attacked them._  
 _  
@@ -22,7 +22,7 @@ __Spensa is sure there's more to the story. And she's sure that whatever happene
 _  
 __But Spensa also discovered a few other things about herself--and she'll travel to the end of the galaxy to save humankind if she needs to._  
   
-Read on for my review. Bear in mind that this spoils some events of the prior book, [Skyward](https://strakul.blogspot.com/2018/12/book-review-skyward-by-brandon-sanderson.html), and does need to spoil a minor point that happens very early in this book.  
+Read on for my review. Bear in mind that this spoils some events of the prior book, [Skyward]({% post_url 2018/2018-12-14-book-review-skyward-by-brandon-sanderson %}), and does need to spoil a minor point that happens very early in this book.  
   
 **Overall Impression**  
 I'm a fan of Sanderson and this is a classic Sanderson novel. Good characters, intricate setting, and a racing plot. One of my favorite things about his books is how he sets up a mystery for the characters to solve and effectively encourages the reader to do the same. Yet somehow, he always manages to stay one step ahead of me- I always think I know what the 'answer' is yet at the end, I'm always proven wrong and the real answer is far more interesting than what I expected. This happens again here and in hindsight there is plenty of cleverly hidden foreshadowing that would be rewarding to look through in a re-read.  

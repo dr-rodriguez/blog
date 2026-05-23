@@ -84,4 +84,4 @@ Here's the ruins of the set, at the end of the show:
 **Overall Impression**  
 This was a fantastic show. Practically no dialog, everything is told by the characters interactions on set. The set itself was amazing: it gets constructed and dismantled on-show as part of telling the story. The show touches on the blind faith in technology and briefly on the disparity between the social classes. Lots of special effects (fire, water, music) make this a memorable experience. I would highly recommend any Santiagians catch the final show Sunday Jan 22.  
   
-Update: the following day I went to see El Encanto del Rio Amarillo. You can read my summary/review [here](http://strakul.blogspot.com/2012/01/santiago-mil-el-encanto-del-rio.html). 
+Update: the following day I went to see El Encanto del Rio Amarillo. You can read my summary/review [here]({% post_url 2012/2012-01-23-santiago-a-mil-el-encanto-del-rio-amarillo %}). 

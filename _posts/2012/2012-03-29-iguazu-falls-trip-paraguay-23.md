@@ -13,7 +13,7 @@ img_show: false
 ---
 
 This is the second post of three regarding our trip to Iguazu Falls.  
-Iguazu falls at the intersection of 3 countries: Brazil, Argentina, and Paraguay. I've already described our [brief trip to Argentina](http://strakul.blogspot.com/2012/03/iguazu-falls-trip-argentina-13.html). For the second day, we took a brief trip into Paraguay to check it out.  
+Iguazu falls at the intersection of 3 countries: Brazil, Argentina, and Paraguay. I've already described our [brief trip to Argentina]({% post_url 2012/2012-03-27-iguazu-falls-trip-argentina-13 %}). For the second day, we took a brief trip into Paraguay to check it out.  
   
 The main attraction to Paraguay is the [Itaipu Dam](http://www.itaipu.gov.br/en). This is the second largest hydroelectric dam, in size, in the world, second only to the [Three Gorges Dam](http://en.wikipedia.org/wiki/Three_Gorges_Dam) in China. However, the annual energy output of Itaipu is the largest. In 2008, the produced a record 94.7 terrawatt-hours which is comparable to the amount of electricity the **entire planet uses in two days**.  
 ![](/assets/img/posts/2012/20120329/Paraguay1_1.jpg)  

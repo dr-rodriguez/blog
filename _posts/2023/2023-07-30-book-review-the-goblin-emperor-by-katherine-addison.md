@@ -14,7 +14,7 @@ img_show: false
 
 ![](/assets/img/posts/2023/20230730/17404280.jpg){: width="500" .w-50 .left}
 
-This book has been on my to-read for a long time and I had heard it was very similar to [The Hands of the Emperor](https://strakul.blogspot.com/2022/04/book-review-hands-of-emperor-by.html), which remains one my favorite books to date. I finally decided to give it a try. Here is the Goodreads blurb:
+This book has been on my to-read for a long time and I had heard it was very similar to [The Hands of the Emperor]({% post_url 2022/2022-04-09-book-review-the-hands-of-the-emperor-by-victoria-goddard %}), which remains one my favorite books to date. I finally decided to give it a try. Here is the Goodreads blurb:
 
 _The youngest, half-goblin son of the Emperor has lived his entire life in exile, distant from the Imperial Court and the deadly intrigue that suffuses it. But when his father and three sons in line for the throne are killed in an "accident," he has no choice but to take his place as the only surviving rightful heir._
 
@@ -46,4 +46,4 @@ My only drawback for this story, though, is the language. Initially there are lo
 
 ## Final Thoughts
 
-Overall this was a good book. It was fairly straightforward in its plot and characters, which allowed it to have a more personal feel to the main character. The setting is hindered a little by aspects of the language which, while they add some depth, they also add a great amount of complexity. I can certainly see the similarities to [The Hands of the Emperor](https://strakul.blogspot.com/2022/04/book-review-hands-of-emperor-by.html), though I prefer that book for its broader story and the focus on the secretary rather than the emperor himself. 
+Overall this was a good book. It was fairly straightforward in its plot and characters, which allowed it to have a more personal feel to the main character. The setting is hindered a little by aspects of the language which, while they add some depth, they also add a great amount of complexity. I can certainly see the similarities to [The Hands of the Emperor]({% post_url 2022/2022-04-09-book-review-the-hands-of-the-emperor-by-victoria-goddard %}), though I prefer that book for its broader story and the focus on the secretary rather than the emperor himself. 

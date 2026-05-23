@@ -14,7 +14,7 @@ img_show: false
 
 ![](/assets/img/posts/2023/20230204/9361589.jpg){: width="500" .w-50 .left}
 
-A friend of mine had recommended several books by Erin Morgenstern and I had read and thoroughly enjoyed [The Starless Sea](https://strakul.blogspot.com/2020/11/book-review-starless-sea-by-erin.html), so I figured it give **The Night Circus** a read. Instead of a magical library we have a magical circus. It seemed intriguing and atmospheric, here's the Goodreads blurb:
+A friend of mine had recommended several books by Erin Morgenstern and I had read and thoroughly enjoyed [The Starless Sea]({% post_url 2020/2020-11-14-book-review-the-starless-sea-by-erin-morgenstern %}), so I figured it give **The Night Circus** a read. Instead of a magical library we have a magical circus. It seemed intriguing and atmospheric, here's the Goodreads blurb:
 
 _The circus arrives without warning. No announcements precede it. It is simply there, when yesterday it was not. Within the black-and-white striped canvas tents is an utterly unique experience full of breathtaking amazements. It is called Le Cirque des Rêves, and it is only open at night._
 
@@ -30,7 +30,7 @@ _Written in rich, seductive prose, this spell-casting novel is a feast for the s
 
 ## 
 
-This was quite an enjoyable book. I don't think it was as good as [The Starless Sea](https://strakul.blogspot.com/2020/11/book-review-starless-sea-by-erin.html), but it was still fun and had a charming ambience. I wish I could visit a circus as intriguing and magical as this one. The plot jumps a little in time, which made it hard to follow at first and while the characters are interesting, the focus is really on the circus and how it relates to the mysterious challenge of the key characters Celia and Marco.
+This was quite an enjoyable book. I don't think it was as good as [The Starless Sea]({% post_url 2020/2020-11-14-book-review-the-starless-sea-by-erin-morgenstern %}), but it was still fun and had a charming ambience. I wish I could visit a circus as intriguing and magical as this one. The plot jumps a little in time, which made it hard to follow at first and while the characters are interesting, the focus is really on the circus and how it relates to the mysterious challenge of the key characters Celia and Marco.
 
 Plot
 
@@ -56,4 +56,4 @@ While there is real magic in this book, it plays a minor role and is more the se
 
 Final Thoughts
 
-This was a fun book that I read a little slowly to enjoy some of the aspects of it. As I mentioned previously, I preferred [The Starless Sea](https://strakul.blogspot.com/2020/11/book-review-starless-sea-by-erin.html) much more- the magic and ambience in that one are hard to beat. Regardless, this book makes you wish you could visit such a unique circus. While the plot and characters are weaker, the setting helps carry the story all the way through. 
+This was a fun book that I read a little slowly to enjoy some of the aspects of it. As I mentioned previously, I preferred [The Starless Sea]({% post_url 2020/2020-11-14-book-review-the-starless-sea-by-erin-morgenstern %}) much more- the magic and ambience in that one are hard to beat. Regardless, this book makes you wish you could visit such a unique circus. While the plot and characters are weaker, the setting helps carry the story all the way through. 

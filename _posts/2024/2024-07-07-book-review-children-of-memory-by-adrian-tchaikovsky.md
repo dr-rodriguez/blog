@@ -14,7 +14,7 @@ img_show: false
 
 ![](/assets/img/posts/2024/20240707/61344353.jpg){: width="500" .w-50 .left}
 
-This is the third book that started with [Children of Time](https://strakul.blogspot.com/2024/06/book-review-children-of-time-by-adrian.html). It continues shortly after the prior one, [Children of Ruin](https://strakul.blogspot.com/2024/06/book-review-children-of-ruin-by-adrian.html), left off and is another take of terraforming efforts gone wrong and the subsequent events as the descendants of humanity rediscover them. Here is the Goodreads blurb:
+This is the third book that started with [Children of Time]({% post_url 2024/2024-06-02-book-review-children-of-time-by-adrian-tchaikovsky %}). It continues shortly after the prior one, [Children of Ruin]({% post_url 2024/2024-06-23-book-review-children-of-ruin-by-adrian-tchaikovsky %}), left off and is another take of terraforming efforts gone wrong and the subsequent events as the descendants of humanity rediscover them. Here is the Goodreads blurb:
 
 _Earth failed. In a desperate bid to escape, the spaceship Enkidu and its captain, Heorest Holt, carried its precious human cargo to a potential new paradise. Generations later, this fragile colony has managed to survive, eking out a hardy existence. Yet life is tough, and much technological knowledge has been lost._
 
@@ -36,7 +36,7 @@ There's a couple of recurring characters here, like Kern, Portia, Fabian, Paul, 
 
 ## Setting / World Building
 
-The setting of this series is fascinating and keeps delivering. As a continuation after [Children of Ruin](https://strakul.blogspot.com/2024/06/book-review-children-of-ruin-by-adrian.html), we benefit from the new faster-than-light engine the Octopuses from Damascus have developed. There's also a real sense of a budding inter-species community as there are now 4 main species that make this group- Humans, Portiids, Octopuses, and the reformed Nodan mold. Their perspectives are very different and part of how fun the story can be.
+The setting of this series is fascinating and keeps delivering. As a continuation after [Children of Ruin]({% post_url 2024/2024-06-23-book-review-children-of-ruin-by-adrian-tchaikovsky %}), we benefit from the new faster-than-light engine the Octopuses from Damascus have developed. There's also a real sense of a budding inter-species community as there are now 4 main species that make this group- Humans, Portiids, Octopuses, and the reformed Nodan mold. Their perspectives are very different and part of how fun the story can be.
 
 In this novel in particular, we visit two other terraforming worlds. One, Rourke, established a bit of a foothold, but like the others, suffered from the virus that shut down all equipment. The process was never finished, but a species of crows were able to flourish in a sense. The other, Imir, was very distant and it's process was barely begun. It's visited by the _Enkidu_ , another ark ship reminiscent of the _Gilgamesh_ from the first book, and it has to establish a foothold however it can, but there is something out in the hills that calls to them.
 

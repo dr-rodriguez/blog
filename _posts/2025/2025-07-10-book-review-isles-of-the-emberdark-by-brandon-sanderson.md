@@ -25,7 +25,7 @@ This was an excellent short novel in the Cosmere. It has a fascinating setting c
 
 ## Plot
 
-This book takes place 5 years after the events of the novella [Sixth of the Dusk](https://strakul.blogspot.com/2014/11/book-review-sixth-of-dusk-by-brandon.html). However, in a clever design, Sanderson decided to incorporate that into flashbacks during the first part. This is useful for any that hadn't read it, or for those that need a refresher. It works well and makes the first part go quite fast. That said, the story really picks up when our two main characters meet and from there onwards I could not put the book down.
+This book takes place 5 years after the events of the novella [Sixth of the Dusk]({% post_url 2014/2014-11-01-book-review-sixth-of-the-dusk-by-brandon-sanderson %}). However, in a clever design, Sanderson decided to incorporate that into flashbacks during the first part. This is useful for any that hadn't read it, or for those that need a refresher. It works well and makes the first part go quite fast. That said, the story really picks up when our two main characters meet and from there onwards I could not put the book down.
 
 ## Characters
 
@@ -33,7 +33,7 @@ This book focuses heavily on two main characters, Sixth of the Dusk, the trapper
 
 ## Setting / World Building
 
-I used to think [The Sunlit Man](https://strakul.blogspot.com/2023/10/book-review-sunlit-man-by-brandon.html) was the most Cosmere of Sanderson's Cosmere books, but that has been surpassed by this one. To be fair, a lot of the Secret Projects series, because they tend to be more far-future than his regular series, are heavy in Cosmere lore. Here we get to see glimpses of how the future shapes up with Scadrian spaceships, Rosharan shard-rifles, regular travel through Shadesmar, and much more.
+I used to think [The Sunlit Man]({% post_url 2023/2023-10-22-book-review-the-sunlit-man-by-brandon-sanderson %}) was the most Cosmere of Sanderson's Cosmere books, but that has been surpassed by this one. To be fair, a lot of the Secret Projects series, because they tend to be more far-future than his regular series, are heavy in Cosmere lore. Here we get to see glimpses of how the future shapes up with Scadrian spaceships, Rosharan shard-rifles, regular travel through Shadesmar, and much more.
 
 I sometimes worry that this will limit or pin down events in his other stories, but it's probably not as much as I fear. For example, he avoids directly referencing some of the specific events in Roshar and Scadrial that we are aware of from **The Stormlight Archive** and **Mistborn** , instead being vague or introducing completely new things. Sanderson has already revealed shades from Threnody, aether spores, and hinted at dragons, but we get to learn a bit more here. We also see things he has never (to my knowledge) revealed, like teasers of the Grand Apparatus in a world touched by the Shard of Invention.
 

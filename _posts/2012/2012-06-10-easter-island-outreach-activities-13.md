@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-This past week I've been with a group of astronomers on Easter Island to do outreach, observe the transit of Venus, and do some tourism. This is the first of a 3 post series describing our adventures. Part 1 is a description of the outreach activities we did at Easter Island. [Part 2](http://strakul.blogspot.com/2012/06/easter-island-transit-of-venus-23.html) describes our viewing of the transit of Venus along with our distance estimate, and [Part 3](http://strakul.blogspot.com/2012/06/easter-island-tourism-33.html) is about the places we visited.  
+This past week I've been with a group of astronomers on Easter Island to do outreach, observe the transit of Venus, and do some tourism. This is the first of a 3 post series describing our adventures. Part 1 is a description of the outreach activities we did at Easter Island. [Part 2]({% post_url 2012/2012-06-12-easter-island-transit-of-venus-23 %}) describes our viewing of the transit of Venus along with our distance estimate, and [Part 3]({% post_url 2012/2012-06-18-easter-island-tourism-33 %}) is about the places we visited.  
 
 
   
@@ -30,7 +30,7 @@ Our outreach activities consisted on three main parts: a 2-day workshop at the m
   
 
 
-One of the first things we did was to contact the museum and schools to begin coordinating. Unfortunately, communicating with such a remote island was tricky. We did reach them via email and had to rely on the museum staff to help promote the event and confirm with the schools. We all designed separate activities to promote the event, but I was a bit worried that things wouldn't flow very nicely or there would be unreasonable material/space requests. Fortunately, the activities were basic and very flexible (my activity is described [here](http://strakul.blogspot.com/2012/06/solar-system-at-easter-island.html)) so no problems there. We had activities about the Sun, the solar system, light, color, and perspective.
+One of the first things we did was to contact the museum and schools to begin coordinating. Unfortunately, communicating with such a remote island was tricky. We did reach them via email and had to rely on the museum staff to help promote the event and confirm with the schools. We all designed separate activities to promote the event, but I was a bit worried that things wouldn't flow very nicely or there would be unreasonable material/space requests. Fortunately, the activities were basic and very flexible (my activity is described [here]({% post_url 2012/2012-06-02-the-solar-system-at-easter-island %})) so no problems there. We had activities about the Sun, the solar system, light, color, and perspective.
 
   
 ![](/assets/img/posts/2012/20120610/319749_10150999300810935_1524039395_n_1.jpeg)  

@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-This is the third and last post on our trip to Iguazu Falls. After brief visits to [Argentina](http://strakul.blogspot.com/2012/03/iguazu-falls-trip-argentina-13.html) and [Paraguay](http://strakul.blogspot.com/2012/03/iguazu-falls-trip-paraguay-23.html), we now turned to Brazil. We were actually staying in Foz do Iguaçu, but had yet to visit the parks on the Brazilian side.  
+This is the third and last post on our trip to Iguazu Falls. After brief visits to [Argentina]({% post_url 2012/2012-03-27-iguazu-falls-trip-argentina-13 %}) and [Paraguay]({% post_url 2012/2012-03-29-iguazu-falls-trip-paraguay-23 %}), we now turned to Brazil. We were actually staying in Foz do Iguaçu, but had yet to visit the parks on the Brazilian side.  
   
 First up was the Parque das Aves, or Bird Park.  
 Needless to say, there were TONS of birds, particularly of the tropical variety like [macaws](http://en.wikipedia.org/wiki/Macaw) and [toucans](http://en.wikipedia.org/wiki/Toucan). Many were located in aviaries so you could walk among them. You could also try and touch them, but I saw a toucan bite a little kid, so you should probably keep your fingers to yourself.  
@@ -48,7 +48,7 @@ I also took a picture with a small [boa constrictor](http://en.wikipedia.org/wik
 The last aviary was full of macaws and parrots. Here's a very short video I made there:  
 
 
-After the bird park was the Iguazu Falls again, but this time on the Brazillian side. We had heard, many times, that the Brazillian side of the falls was better. After [Day 1](http://strakul.blogspot.com/2012/03/iguazu-falls-trip-argentina-13.html), we found that hard to believe. Surely nothing could compare to the majestic views we saw in Argentina? Well, we were proven wrong. As before, you can click on any image to see it larger. You can also see more panoramic views in this [Picasa Album](https://picasaweb.google.com/107352926946754821853/IguazuFallsPanoramas).   
+After the bird park was the Iguazu Falls again, but this time on the Brazillian side. We had heard, many times, that the Brazillian side of the falls was better. After [Day 1]({% post_url 2012/2012-03-27-iguazu-falls-trip-argentina-13 %}), we found that hard to believe. Surely nothing could compare to the majestic views we saw in Argentina? Well, we were proven wrong. As before, you can click on any image to see it larger. You can also see more panoramic views in this [Picasa Album](https://picasaweb.google.com/107352926946754821853/IguazuFallsPanoramas).   
 ![](/assets/img/posts/2012/20120402/Iguazu_Bra4_1.jpg)  
 ---  
 Part of the Iguazu Falls  

@@ -14,7 +14,7 @@ img_show: false
 
 ![](/assets/img/posts/2020/20200628/39873472._SY475_.jpg){: width="500" .w-50 .left}
 
-This book has been on my to-read list for a while since, along with [Gideon The Ninth](https://strakul.blogspot.com/2020/03/book-review-gideon-ninth-by-tamsyn-muir.html), it's received a lot of praise and award nominations. I did have to put a pause while I read a collection of short stories, but that did not detract from my enjoyment. Here's the Goodreads blurb:
+This book has been on my to-read list for a while since, along with [Gideon The Ninth]({% post_url 2020/2020-03-15-book-review-gideon-the-ninth-by-tamsyn-muir %}), it's received a lot of praise and award nominations. I did have to put a pause while I read a collection of short stories, but that did not detract from my enjoyment. Here's the Goodreads blurb:
 
   
 

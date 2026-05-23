@@ -14,7 +14,7 @@ img_show: false
 
 ![](http://d.gr-assets.com/books/1320415915l/827.jpg){: width="500" .w-50 .left}
 
-A good friend of mine visited me a few months ago and she brought along a book as a gift. **The Diamond Age, Or, A Young Lady's Illustrated Primer** was that book. I have read some of Neal Stephenson's other works; in particular, **Snow Crash** and [Anathem](http://strakul.blogspot.com/2012/02/book-review-anathem-by-neal-stephenson.html). I enjoyed those two books and have been meaning to read more from him. This was an excellent opportunity to read the book some consider a stepping stone into the steampunk genre, despite the fact that at a glance it doesn't look like a steampunk novel at all.  
+A good friend of mine visited me a few months ago and she brought along a book as a gift. **The Diamond Age, Or, A Young Lady's Illustrated Primer** was that book. I have read some of Neal Stephenson's other works; in particular, **Snow Crash** and [Anathem]({% post_url 2012/2012-02-03-book-review-anathem-by-neal-stephenson %}). I enjoyed those two books and have been meaning to read more from him. This was an excellent opportunity to read the book some consider a stepping stone into the steampunk genre, despite the fact that at a glance it doesn't look like a steampunk novel at all.  
   
 Click through to read the review. As always, I try to avoid spoilers.  
   
@@ -43,4 +43,4 @@ In addition to the neo-Victorians, there are also the Nipponese and the Han as p
 **Final Thoughts**  
 Despite the meandering plot, I enjoyed the book. I am a big fan of clever constructed worlds and this novel certainly presents one. The characters were cool and I personally identified somewhat with Hackworth, who has trouble blending in and socializing, yet is brilliant in terms of nanotechnology. The socially incompetent scientist may be an overused trope, but sometimes I feel just like that. Characters like Nell or Hackworth, with their similarities and differences to the reader, can, when placed in fantastical situations, broaden our views of society and ourselves.  
   
-Having read several of Neal Stephenson's novels, I am not sure I would recommend this one as his best. My favorite thus far has been [Anathem](http://strakul.blogspot.com/2012/02/book-review-anathem-by-neal-stephenson.html), but I hope to continue reading some of his other works and see what else he has to offer. 
+Having read several of Neal Stephenson's novels, I am not sure I would recommend this one as his best. My favorite thus far has been [Anathem]({% post_url 2012/2012-02-03-book-review-anathem-by-neal-stephenson %}), but I hope to continue reading some of his other works and see what else he has to offer. 

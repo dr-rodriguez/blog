@@ -27,7 +27,7 @@ This was probably one of the more engaging Cosmere novels that Sanderson has wri
 
 ## Plot
 
-The plot is a mix of things, it's a bit of a slice of life of how the two characters, Yumi and Painter, live out their lives, but also an investigation as they try to unravel the mystery as to why they are joined and what they can do to help those around them. The point of view alternates between them in separate chapters, but most of the book they are together so it's not as prominent as in other of Sanderson's books (eg, [Elantris](https://strakul.blogspot.com/2022/03/book-review-elantris-by-brandon.html)).
+The plot is a mix of things, it's a bit of a slice of life of how the two characters, Yumi and Painter, live out their lives, but also an investigation as they try to unravel the mystery as to why they are joined and what they can do to help those around them. The point of view alternates between them in separate chapters, but most of the book they are together so it's not as prominent as in other of Sanderson's books (eg, [Elantris]({% post_url 2022/2022-03-18-book-review-elantris-by-brandon-sanderson %})).
 
 ## Characters
 

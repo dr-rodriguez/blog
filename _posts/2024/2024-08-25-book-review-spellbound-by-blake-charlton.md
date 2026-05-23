@@ -30,7 +30,7 @@ An exciting continuation of the Spellwright saga with even more magical text to 
 
 ### Plot
 
-The story takes place a decade after the events from [Spellwright](https://strakul.blogspot.com/2024/08/book-review-spellwright-by-blake.html). Nicodemus and Shannon on the run with their kobold allies and are slowing working to hinder the demon Typhon's machinations. The War of Disjunction has not officially broken out, at least not publicly, but there is a lot going on. The plot puts Nicodemus on the backseat as it focuses on a new character, Francesca, a cleric in the city of Avel. There are plenty of mysteries in this book that reach some interesting conclusions near the end, but overall the book is relatively fast paced and engaging. I felt this one had a better ending, since the prior book didn't seem to wrap up at the right place.
+The story takes place a decade after the events from [Spellwright]({% post_url 2024/2024-08-04-book-review-spellwright-by-blake-charlton %}). Nicodemus and Shannon on the run with their kobold allies and are slowing working to hinder the demon Typhon's machinations. The War of Disjunction has not officially broken out, at least not publicly, but there is a lot going on. The plot puts Nicodemus on the backseat as it focuses on a new character, Francesca, a cleric in the city of Avel. There are plenty of mysteries in this book that reach some interesting conclusions near the end, but overall the book is relatively fast paced and engaging. I felt this one had a better ending, since the prior book didn't seem to wrap up at the right place.
 
 ### Characters
 

@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-Santiago a Mil is an international theater festival that's been going on in Santiago (and a few other cities in Chile) for the month of January. This past weekend was the end of the festival and I had the chance to go see Titanic (see my thoughts [here](http://strakul.blogspot.com/2012/01/santiago-mil-titanic.html)) and El Encanto del Rio Amarillo (The Charm of the Yellow River).  
+Santiago a Mil is an international theater festival that's been going on in Santiago (and a few other cities in Chile) for the month of January. This past weekend was the end of the festival and I had the chance to go see Titanic (see my thoughts [here]({% post_url 2012/2012-01-22-santiago-a-mil-titanic %})) and El Encanto del Rio Amarillo (The Charm of the Yellow River).  
   
 Sunday evening I set out to the Parque Araucano, which is not too far from where I live. This is the first time I went there, but it was not difficult to find and the stage was under a big Santiago a Mil balloon. I'll have to check out the park more carefully in the future. What I saw looked nice, but I hear there's also an aviary and rose garden. Also, I saw a family of bears with Coca-Cola:  
 

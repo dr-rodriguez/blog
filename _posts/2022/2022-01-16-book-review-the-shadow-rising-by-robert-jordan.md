@@ -48,4 +48,4 @@ While the nature of the story is very different, one can't help but be reminded 
 
 Final Thoughts
 
-This is a great book in **The Wheel of Time** series. It picks up where [The Dragon Reborn](https://strakul.blogspot.com/2021/10/book-review-dragon-reborn-by-robert.html) left off and sets the stage for a lot of cool things to happen with the various characters. It has a little bit of everything without focusing too much on a single group of characters, which will become increasingly hard as the cast of characters continues to grow. 
+This is a great book in **The Wheel of Time** series. It picks up where [The Dragon Reborn]({% post_url 2021/2021-10-20-book-review-the-dragon-reborn-by-robert-jordan %}) left off and sets the stage for a lot of cool things to happen with the various characters. It has a little bit of everything without focusing too much on a single group of characters, which will become increasingly hard as the cast of characters continues to grow. 

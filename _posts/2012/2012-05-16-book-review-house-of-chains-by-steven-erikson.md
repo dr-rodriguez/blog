@@ -14,13 +14,13 @@ img_show: false
 
 ![](http://photo.goodreads.com/books/1328313081l/8177008.jpg){: width="500" .w-50 .left}
 
-**House of Chains** is the 4th book in the Malazan Book of the Fallen series by Steven Erikson. I have previously written reviews for [Book 3](http://strakul.blogspot.com/2012/03/book-review-memories-of-ice-by-steven.html): **Memories of Ice** and [Book 2](http://strakul.blogspot.com/2012/01/book-review-deadhouse-gates-by-steven.html): **Deadhouse Gates**.  
+**House of Chains** is the 4th book in the Malazan Book of the Fallen series by Steven Erikson. I have previously written reviews for [Book 3]({% post_url 2012/2012-03-18-book-review-memories-of-ice-by-steven-erikson %}): **Memories of Ice** and [Book 2]({% post_url 2012/2012-01-02-book-review-deadhouse-gates-by-steven-erikson %}): **Deadhouse Gates**.  
 I understand that Ian Cameron Esslemont has also written books in the Malazan universe and they both collaborated on the series. I may have to check Esslemont's works later on, but I intend to finish the 10-book series first.  
   
   
   
 **Overall Impression**  
-One thing I was warned of is that the books are not necessarily written in chronological orders. This fact becomes obvious in this book. The story takes places near the beginning of Book 1: **Gardens of the Moon** , but at the halfway point it skips forward to the end of [Book 2](http://strakul.blogspot.com/2012/01/book-review-deadhouse-gates-by-steven.html): **Deadhouse Gates** , which in turn takes place at about the same time as [Book 3](http://strakul.blogspot.com/2012/03/book-review-memories-of-ice-by-steven.html): **Memories of Ice**. Some of the latter events in Book 3, though, are coincident with Book 4, though we are clearly moving forward in time with this book. All this shuffling around with time can make things confusing, but also extremely interesting and engaging.  
+One thing I was warned of is that the books are not necessarily written in chronological orders. This fact becomes obvious in this book. The story takes places near the beginning of Book 1: **Gardens of the Moon** , but at the halfway point it skips forward to the end of [Book 2]({% post_url 2012/2012-01-02-book-review-deadhouse-gates-by-steven-erikson %}): **Deadhouse Gates** , which in turn takes place at about the same time as [Book 3]({% post_url 2012/2012-03-18-book-review-memories-of-ice-by-steven-erikson %}): **Memories of Ice**. Some of the latter events in Book 3, though, are coincident with Book 4, though we are clearly moving forward in time with this book. All this shuffling around with time can make things confusing, but also extremely interesting and engaging.  
   
 The book starts of very differently from the rest of the series thus far, but in a way it is extremely satisfying and fresh. After a bit you return to the typical Malazan fare of jumping amidst distinct characters who slowly converge on the book's main story arc. Like all of the Malazan books thus far, the conclusion is action packed with the convergence of all seemingly unrelated arcs. Even the prologue, which I had forgotten about by the end of the book, is satisfactorily addressed.  
   

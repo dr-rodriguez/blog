@@ -14,7 +14,7 @@ img_show: false
 
 ![](/assets/img/posts/2012/20120318/memoriesice_1.jpg){: width="500" .w-50 .left}
 
-**Memories of Ice** is Book 3 of the Malazan Book of the Fallen. Naturally, you should probably check out Book 1 (**Gardens of the Moon**) and [Book 2](http://strakul.blogspot.com/2012/01/book-review-deadhouse-gates-by-steven.html) (**Deadhouse Gates**) before this one. It feels like the series diverged in book 2/3 with the story following some characters in book 2 and simultaneously following the other characters in book 3. However, the stories are very well contained so it doesn't feel like the similarly split**Feast for Crows/A Dance with Dragons** by George R.R. Martin.  
+**Memories of Ice** is Book 3 of the Malazan Book of the Fallen. Naturally, you should probably check out Book 1 (**Gardens of the Moon**) and [Book 2]({% post_url 2012/2012-01-02-book-review-deadhouse-gates-by-steven-erikson %}) (**Deadhouse Gates**) before this one. It feels like the series diverged in book 2/3 with the story following some characters in book 2 and simultaneously following the other characters in book 3. However, the stories are very well contained so it doesn't feel like the similarly split**Feast for Crows/A Dance with Dragons** by George R.R. Martin.  
   
   
   

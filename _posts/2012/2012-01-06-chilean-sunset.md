@@ -19,7 +19,7 @@ I had a look outside, and this is what I saw:
 ![](/assets/img/posts/2012/20120106/IMG_3932.JPG)
 
   
-I'll have to post another picture on some other day so you can see how unusual this is; it's usually far clearer (**Update** : see [here](http://strakul.blogspot.com/2012/01/chilean-anti-sunset-1182012.html) for another, much clearer anti-sunset). This image also fails to capture the eerie glow all over the place.  
+I'll have to post another picture on some other day so you can see how unusual this is; it's usually far clearer (**Update** : see [here]({% post_url 2012/2012-01-18-chilean-anti-sunset-1182012 %}) for another, much clearer anti-sunset). This image also fails to capture the eerie glow all over the place.  
   
 Now part of that is just clouds coming in from the East over the Andes, but the part near the ground: I'm not too sure. The most likely culprit is smog, as this is extremely common here in Santiago. I've never seen it like this towards the East, though: it usually is worse (and clearly smog) looking West or South as this is where the densest parts of the city are, relative to where I live and work.  
   

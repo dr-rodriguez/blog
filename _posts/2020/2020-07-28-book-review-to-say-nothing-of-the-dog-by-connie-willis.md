@@ -16,7 +16,7 @@ img_show: false
 
 ![](/assets/img/posts/2020/20200728/824657.jpg){: width="500" .w-50 .left}
 
-To Say Nothing of the Dog, or, How We Found the Bishop's Bird Stump at Last** by Connie Willis is the second of her Oxford Time Travel series and came recommended to me from a friend. I was originally going to skip over it, since I had heard such good things about **Blackout/All Clear** and had enjoyed [Doomsday Book](https://strakul.blogspot.com/2020/02/book-review-doomsday-book-by-connie.html), but was encouraged to give this one a try first. And I'm glad I did. It was surprisingly fun and enjoyable up to the last page! This was also my first time getting a book from the library here, which was also a good experience.
+To Say Nothing of the Dog, or, How We Found the Bishop's Bird Stump at Last** by Connie Willis is the second of her Oxford Time Travel series and came recommended to me from a friend. I was originally going to skip over it, since I had heard such good things about **Blackout/All Clear** and had enjoyed [Doomsday Book]({% post_url 2020/2020-02-15-book-review-doomsday-book-by-connie-willis %}), but was encouraged to give this one a try first. And I'm glad I did. It was surprisingly fun and enjoyable up to the last page! This was also my first time getting a book from the library here, which was also a good experience.
 
   
 
@@ -35,7 +35,7 @@ This book was both hilarious and engaging. I liked the characters and the sense 
 
 **Plot**
 
-I'm not sure quite what I expected from this book. I was told it was a nice palate cleanser after [Doomsday Book](https://strakul.blogspot.com/2020/02/book-review-doomsday-book-by-connie.html). It ended up being quite a ride. In some aspects, it is indeed a palate cleanser with hilarious encounters and miscommunications, yet in others it is a tense journey through space and time as things start to break down. It certainly keeps you engaged all the way through, whether it's from romantic drama or epic universe-shattering chaos. It was so hard to keep myself from reading yet another chapter each time I ended one.
+I'm not sure quite what I expected from this book. I was told it was a nice palate cleanser after [Doomsday Book]({% post_url 2020/2020-02-15-book-review-doomsday-book-by-connie-willis %}). It ended up being quite a ride. In some aspects, it is indeed a palate cleanser with hilarious encounters and miscommunications, yet in others it is a tense journey through space and time as things start to break down. It certainly keeps you engaged all the way through, whether it's from romantic drama or epic universe-shattering chaos. It was so hard to keep myself from reading yet another chapter each time I ended one.
 
   
 
@@ -49,7 +49,7 @@ We follow the story through the eyes of Ned Henry, a historian frequently sent b
 
 **Setting / World Building**
 
-This is a time travel novel set in the same universe as [Doomsday Book](https://strakul.blogspot.com/2020/02/book-review-doomsday-book-by-connie.html). It's set in 2057, though since written quite a while ago the future looks a bit different than I would have expected. We get to see a little bit more of how time travel is handled, particularly since this book heavily focuses on an incongruity- a series of events that should not be possible when something from the past gets brought to the present. This causes all sorts of problems as events in the past stop happening when/how they should, and we get some lengthy discussions of how the space time continuum has measures to prevent this from happening.
+This is a time travel novel set in the same universe as [Doomsday Book]({% post_url 2020/2020-02-15-book-review-doomsday-book-by-connie-willis %}). It's set in 2057, though since written quite a while ago the future looks a bit different than I would have expected. We get to see a little bit more of how time travel is handled, particularly since this book heavily focuses on an incongruity- a series of events that should not be possible when something from the past gets brought to the present. This causes all sorts of problems as events in the past stop happening when/how they should, and we get some lengthy discussions of how the space time continuum has measures to prevent this from happening.
 
   
 

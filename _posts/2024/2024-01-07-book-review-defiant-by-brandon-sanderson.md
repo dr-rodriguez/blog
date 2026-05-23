@@ -34,7 +34,7 @@ Plot
 
 ## 
 
-The story picks up shortly after the events of the prior novel, [Cytonic](https://strakul.blogspot.com/2021/12/book-review-cytonic-by-brandon-sanderson.html). In the prologue, we see Spensa recollecting and learning about all the other events Skyward flight has been up to. There are a lot of things in the other series of books that bring the humans up to the galactic stage along with their new allies. Going from there, it's a big preparatory struggle as both human and Superiority know that there is an inevitable showdown.
+The story picks up shortly after the events of the prior novel, [Cytonic]({% post_url 2021/2021-12-04-book-review-cytonic-by-brandon-sanderson %}). In the prologue, we see Spensa recollecting and learning about all the other events Skyward flight has been up to. There are a lot of things in the other series of books that bring the humans up to the galactic stage along with their new allies. Going from there, it's a big preparatory struggle as both human and Superiority know that there is an inevitable showdown.
 
 Characters
 

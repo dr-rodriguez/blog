@@ -14,7 +14,7 @@ img_show: false
 
 ![](/assets/img/posts/2013/20130413/104089.jpg){: width="500" .w-50 .left}
 
-On my trip to the US several months ago, I picked up two books that were unavailable in ebook format at the time. The first was [A Memory of Light](http://strakul.blogspot.com/2013/02/book-review-memory-of-light-by-robert.html), the final installment of **The Wheel of Time**. The second was **Tigana** by Guy Gavriel Kay.  
+On my trip to the US several months ago, I picked up two books that were unavailable in ebook format at the time. The first was [A Memory of Light]({% post_url 2013/2013-02-09-book-review-a-memory-of-light-by-robert-jordan-and-brandon-sanderson %}), the final installment of **The Wheel of Time**. The second was **Tigana** by Guy Gavriel Kay.  
   
 Tigana is an epic fantasy tale told in a single book. It is the story of a peninsula, whose provinces have been taken over by two Tyrants. In the midsts of the war, one province was utterly devastated, its people killed, its cities burned, and its name taken by magic. Only the few survivors remember and can speak and hear the name of their province. The balance of power is shifting, however, and a band of travelers in the guise of merchants, poets, and musicians must gather what forces they can to overthrow both Tyrants and break the curse of their land. Otherwise none will live who can remember the name _Tigana_.  
   

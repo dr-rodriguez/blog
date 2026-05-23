@@ -33,7 +33,7 @@ Check them out! It will only take a minute per video.
   
 
 
-[Railsea](http://strakul.blogspot.com/2012/05/book-review-railsea-by-china-mieville.html) by China Mieville
+[Railsea]({% post_url 2012/2012-05-27-book-review-railsea-by-china-mieville %}) by China Mieville
 
   
 Text: Railsea is China Mieville's latest work, and a modern retelling of Herman Melville's Moby Dick. The story takes place in a world where humans live on scattered islands separated by the tracks of the railsea. You may ask "what about the ocean?," to which I reply "what ocean?" The railsea, its nature is the great mystery of the book. _The railsea, sitting on the flatearth; that is the second level. Tracks & ties, in the random meanders of geography & ages, in all directions. Extending forever._ So I encourage you to hop on board for the greatest train-ride of your life, in China Mieville's Railsea.  
@@ -41,14 +41,14 @@ Text: Railsea is China Mieville's latest work, and a modern retelling of Herman 
   
 
 
-[A Fire Upon the Deep](http://strakul.blogspot.com/2012/09/book-review-fire-upon-deep-by-vernor.html) by Vernor Vinge
+[A Fire Upon the Deep]({% post_url 2012/2012-09-01-book-review-a-fire-upon-the-deep-by-vernor-vinge %}) by Vernor Vinge
 
 Text: A Fire Upon the Deep by Vernor Vinge is an epic space adventure on the grandest of scales. Humans have inadvertently unleashed a Blight, which threatens to engulf the Galaxy. The solution to their problem, however, has crash landed on a distant planet with a medieval-level society. Two rival groups in that planet are on the verge of war as they struggle to control the advanced technology that has fallen into their hands. The author combines many interesting ideas together, such as [garble of ideas]. There may be a lot going on, but Vernor Vinge manages to tie everything together in A Fire Upon the Deep.  
   
   
 
 
-[Embassytown](http://strakul.blogspot.com/2012/04/book-review-embassytown-by-china.html) by China Mieville  
+[Embassytown]({% post_url 2012/2012-04-19-book-review-embassytown-by-china-mieville %}) by China Mieville  
 
 
   

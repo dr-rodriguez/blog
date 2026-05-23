@@ -27,7 +27,7 @@ First, a breakdown of the name. GJ stands for the Gliese & Jahreiß Catalog of N
   
 
 
-GJ 667, located about 22 light-years away, is a triple system formed by a pair of closely separated K stars and a more distant M-type companion. K and M are spectral types and indicate the effective temperature at the surface of these stars, this in turn is modulated by a star's mass and age. The M star (GJ 667C) is the least massive of them all and is at least 230 astronomical units (AU, the distance between the Earth and the Sun) away from the closer pair. I had recently mentioned how binaries and multiples can hinder planet formation (see [here](http://strakul.blogspot.com/2012/01/planets-in-binary-star-systems.html)), this is yet another example of the case where the separation between the stars is large enough that planets can still form.
+GJ 667, located about 22 light-years away, is a triple system formed by a pair of closely separated K stars and a more distant M-type companion. K and M are spectral types and indicate the effective temperature at the surface of these stars, this in turn is modulated by a star's mass and age. The M star (GJ 667C) is the least massive of them all and is at least 230 astronomical units (AU, the distance between the Earth and the Sun) away from the closer pair. I had recently mentioned how binaries and multiples can hinder planet formation (see [here]({% post_url 2012/2012-01-15-planets-in-binary-star-systems %})), this is yet another example of the case where the separation between the stars is large enough that planets can still form.
 
   
 
@@ -87,7 +87,7 @@ _Orbital configuration of the GJ 667C planet system in comparison to our Sun's. 
   
 
 
-Can the planet truly have life? Unfortunately, we are in no place to answer that question. We still need to pin down the parameters of the system and we would still have no idea on the atmospheric properties of the planet. In addition, I had previously mentioned that low mass stars are notorious in producing large flares of high-energy radiation that can be detrimental to life (see [here](http://strakul.blogspot.com/2012/01/solar-activity.html)). The activity level of the star is not mentioned in the paper, but, if I recall correctly, planet searches tend to focus on the more quiescent stars. Even if it's quiet now, it may have been more active in the past when it was younger (the system is at least 2 billion years old).
+Can the planet truly have life? Unfortunately, we are in no place to answer that question. We still need to pin down the parameters of the system and we would still have no idea on the atmospheric properties of the planet. In addition, I had previously mentioned that low mass stars are notorious in producing large flares of high-energy radiation that can be detrimental to life (see [here]({% post_url 2012/2012-01-28-solar-activity %})). The activity level of the star is not mentioned in the paper, but, if I recall correctly, planet searches tend to focus on the more quiescent stars. Even if it's quiet now, it may have been more active in the past when it was younger (the system is at least 2 billion years old).
 
   
 

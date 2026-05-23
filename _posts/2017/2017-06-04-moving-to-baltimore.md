@@ -15,14 +15,14 @@ img_show: false
 ![](/assets/img/posts/2017/20170604/20170416_125714_1.jpg)
 
   
-A few months ago, I wrote about [leaving the BDNYC research group and moving out of New York](http://strakul.blogspot.com/2017/04/bdnyc-and-beyond.html). However, I haven't talked about the other end of the trip: moving into Baltimore and starting my work at the Space Telescope Science Institute ([STScI](http://www.stsci.edu/portal/)). I've now been here since April so it's well past time I write about this, particularly since I feel that I've settled down nicely and have had several opportunities to see what Baltimore is all about.  
+A few months ago, I wrote about [leaving the BDNYC research group and moving out of New York]({% post_url 2017/2017-04-02-bdnyc-and-beyond %}). However, I haven't talked about the other end of the trip: moving into Baltimore and starting my work at the Space Telescope Science Institute ([STScI](http://www.stsci.edu/portal/)). I've now been here since April so it's well past time I write about this, particularly since I feel that I've settled down nicely and have had several opportunities to see what Baltimore is all about.  
   
 **Searching for Apartments**  
 
 
 ![](/assets/img/posts/2017/20170604/20170401_132840_1.jpg)
 
-Unlike when I [moved to New York](http://strakul.blogspot.com/2015/11/moving-to-new-york-city.html), I had a bit of an easier time searching for a place to live. I used part of my relocation budget to visit Baltimore several weeks before my expected move out date and visited a couple of places. I used primarily [ApartmentList](https://www.apartmentlist.com/) to search for places in downtown Baltimore, though upon arriving I saw plenty of other options that this website hadn't listed. Seems like downtown is bursting with lots of new, really nice apartment buildings. My visit was cut a bit short since I was there for the big blizzard in March, but at least I was able to make a decision in a matter of days. It was a lot less stressful than my prior move since I was already back in the US, with all the accompanying records. Furthermore, because Baltimore is significantly cheaper than NYC, I was able to afford a much nicer place whose rental application was faster and more streamlined.  
+Unlike when I [moved to New York]({% post_url 2015/2015-11-22-moving-to-new-york-city %}), I had a bit of an easier time searching for a place to live. I used part of my relocation budget to visit Baltimore several weeks before my expected move out date and visited a couple of places. I used primarily [ApartmentList](https://www.apartmentlist.com/) to search for places in downtown Baltimore, though upon arriving I saw plenty of other options that this website hadn't listed. Seems like downtown is bursting with lots of new, really nice apartment buildings. My visit was cut a bit short since I was there for the big blizzard in March, but at least I was able to make a decision in a matter of days. It was a lot less stressful than my prior move since I was already back in the US, with all the accompanying records. Furthermore, because Baltimore is significantly cheaper than NYC, I was able to afford a much nicer place whose rental application was faster and more streamlined.  
 **  
 **   
 **Moving from New York**  

@@ -29,7 +29,7 @@ In the figure above, red marks indicate places where the second or third contact
   
 Combining these contact time measurements we derived a distance to the Sun of 152 +/- 30 million kilometers. Not bad given the distance that day was actually 152 million kilometers! (Remember that the Earth's orbit isn't perfectly circular so the distance changes by a small amount throughout the year)  
   
-The details on how we did these calculations are [here](http://strakul.blogspot.com/2012/05/measuring-distance-to-sun-with-transit.html) on this blog and on our [AER article](http://aer.aas.org/resource/1/aerscz/v11/i1/p010203_s1).  
+The details on how we did these calculations are [here]({% post_url 2012/2012-05-20-measuring-the-distance-to-the-sun-with-the-transit-of-venus %}) on this blog and on our [AER article](http://aer.aas.org/resource/1/aerscz/v11/i1/p010203_s1).  
 Credit must be given to Jackie Faherty without whom none of this would have happened. She was an outstanding and enthusiastic leader in all this and I was proud to work with her. Many thanks to Scott Miller as well, who encouraged us to write up the AER article. Of course, a big thanks to Team Hetu'u for their awesome work in all the outreach activities on the Island! And last, but not least: thanks to all participants in the Hetu'u Global Network, which were instrumental in performing this measurement.  
   
 This concludes this chapter in the Transit of Venus activities with one tiny part missing: the American Astronomical Society meeting in Long Beach this January. Jackie and I will both be presenting education posters on the outreach activities we've done as part of Team Hetu'u. If you're attending the AAS meeting, feel free to stop on by and chat with us.  

@@ -18,23 +18,23 @@ According to Goodreads, I've read 20 books this year. However, 3 of those were s
   
 Here are my top 5 this year, roughly sorted.  
   
-5\. [Wild](http://strakul.blogspot.com/2014/02/book-review-wild-by-cheryl-strayed.html) by Cheryl Strayed  
+5\. [Wild]({% post_url 2014/2014-02-24-book-review-wild-by-cheryl-strayed %}) by Cheryl Strayed  
   
 A book club pick I was against and thought would be terrible, yet ended up being among my favorites. This is an autobiography depicting the struggles of the author as she hiked the Pacific Crest Trail after her life pretty much fell apart. A journey both physical as it is emotional, her travels parallel that of the "hero's journey" and lend a greater scope to her personal trip. Furthermore, it was told in such a manner as to get me excited about hiking, something I don't often do.  
   
-4\. [Bridge of Birds](http://strakul.blogspot.com/2014/04/book-review-bridge-of-birds-by-barry.html) by Barry Hughart  
+4\. [Bridge of Birds]({% post_url 2014/2014-04-20-book-review-bridge-of-birds-by-barry-hughart %}) by Barry Hughart  
   
 Based on Chinese mythology, Barry Hughart's **Chronicles of Master Li and Number Ten Ox** begins with the tale of the Bridge of Birds, an adaptation of the tale of the Weaver Girl and the Cowherd. A blend of Sherlock Holmes, Alice in Wonderland, and Chinese myths and legends, this book weaves an intriguing story with plenty of humor, action, and magic. The China it depicts may not be real, but it sure is awesome.  
   
-3\. [Ancillary Justice](http://strakul.blogspot.com/2014/05/book-review-ancillary-justice-by-ann.html) by Ann Leckie  
+3\. [Ancillary Justice]({% post_url 2014/2014-05-10-book-review-ancillary-justice-by-ann-leckie %}) by Ann Leckie  
   
 This is a highly praised novel that came out recently and it certainly deserves the recognition. It is a tale of revenge in a uniquely fleshed-out sci-fi universe. The main character is an ancillary of the ship Justice of Toren and seeing her life and the rest of her ancillaries was cool. Now that **Ancillary Sword** is out, I'll certainly be continuing this series.  
   
-2\. [The Wandering Earth](http://strakul.blogspot.com/2014/12/short-story-review-wandering-earth-by.html) by Cixin Liu  
+2\. [The Wandering Earth]({% post_url 2014/2014-12-17-short-story-review-the-wandering-earth-by-liu-cixin %}) by Cixin Liu  
   
 Despite not being a novel, this short story was such an amazing read I felt it deserved mention here. You can read it in an hour or two, but you'll stay thinking about it for days. A modern take on the classic science fiction short stories that formed the backbone of the genre, this is a must-read for fans of sci-fi.  
   
-1\. [Words of Radiance](http://strakul.blogspot.com/2014/03/book-review-words-of-radiance-by.html) by Brandon Sanderson  
+1\. [Words of Radiance]({% post_url 2014/2014-03-13-book-review-words-of-radiance-by-brandon-sanderson %}) by Brandon Sanderson  
   
 
 

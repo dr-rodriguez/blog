@@ -16,7 +16,7 @@ img_show: false
 
 **![](/assets/img/posts/2021/20210530/49808669._SY475_.jpg){: width="500" .w-50 .left}**
 
-**Ten Arrows of Iron** follows****[Seven Blades in Black](https://strakul.blogspot.com/2019/10/book-review-seven-blades-in-black-by.html) in the series **The Grave of Empires** by Sam Sykes and continues the story of Sal the Cacophony. Being a fan of the first one I had to check out the second. Here's the Goodreads blurb:
+**Ten Arrows of Iron** follows****[Seven Blades in Black]({% post_url 2019/2019-10-20-book-review-seven-blades-in-black-by-sam-sykes %}) in the series **The Grave of Empires** by Sam Sykes and continues the story of Sal the Cacophony. Being a fan of the first one I had to check out the second. Here's the Goodreads blurb:
 
 _The second novel in an epic fantasy trilogy that follows an unforgettable outcast mage caught between two warring empires._
 
@@ -32,7 +32,7 @@ This was a pretty good book. For many reasons I had to take several long pauses 
 
 ## Plot
 
-Similarly to [Seven Blades in Black](https://strakul.blogspot.com/2019/10/book-review-seven-blades-in-black-by.html), this is a frame story where Sal is telling the tale of how they got to the present. However, it doesn't flow as smoothly between the two narratives compared to the prior novel except towards the very end. Added to this are a couple of flashback scenes of Red Cloud's life and you get some significant whiplash as you go back and forth. This does get better towards the finale, though, as the flashbacks are over and the story and frame story converge. The narrative is interesting throughout, but it's trying to do a lot all at once.
+Similarly to [Seven Blades in Black]({% post_url 2019/2019-10-20-book-review-seven-blades-in-black-by-sam-sykes %}), this is a frame story where Sal is telling the tale of how they got to the present. However, it doesn't flow as smoothly between the two narratives compared to the prior novel except towards the very end. Added to this are a couple of flashback scenes of Red Cloud's life and you get some significant whiplash as you go back and forth. This does get better towards the finale, though, as the flashbacks are over and the story and frame story converge. The narrative is interesting throughout, but it's trying to do a lot all at once.
 
 In terms of the plot, this is still following Sal the Cacophony's journey of revenge. In her quest for more names to track down, she joins a group of thieves with some lofty goals to steal a prize from the heart of the Revolution's flying armada. It's pretty ambitious but unlike other heist stories I keep thinking our characters are wholly unprepared for it (especially Sal).
 
