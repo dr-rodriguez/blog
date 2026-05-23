@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-![](/assets/img/posts/2025/20250913/62979034.jpg){: width="500" .w-50 .left}It's been a while since I read a book by Ann Leckie and I remember enjoying [Ancillary Justice](https://strakul.blogspot.com/2014/05/book-review-ancillary-justice-by-ann.html) very much. I probably should reread it since it's been a decade since I first read it. This book isn't a sequel, but it is set in the universe and we get to see some of the ramifications of the original trilogy at least indirectly. Here's the Goodreads blurb:
+![](/assets/img/posts/2025/20250913/62979034.jpg){: width="500" .w-50 .left}It's been a while since I read a book by Ann Leckie and I remember enjoying [Ancillary Justice]({% post_url 2014/2014-05-10-book-review-ancillary-justice-by-ann-leckie %}) very much. I probably should reread it since it's been a decade since I first read it. This book isn't a sequel, but it is set in the universe and we get to see some of the ramifications of the original trilogy at least indirectly. Here's the Goodreads blurb:
 
 _The mystery of a missing translator sets three lives on a collision course that will have a ripple effect across the stars in this powerful new novel by award-winning author Ann Leckie._
 

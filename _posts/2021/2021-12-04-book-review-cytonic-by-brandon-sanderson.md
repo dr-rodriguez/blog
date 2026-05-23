@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-![](/assets/img/posts/2021/20211204/58167188._SY475_.jpg){: width="500" .w-50 .left}**Cytonic** is the third book in the **Skyward** series by Brandon Sanderson, following [Skyward](https://strakul.blogspot.com/2018/12/book-review-skyward-by-brandon-sanderson.html) and [Starsight](https://strakul.blogspot.com/2020/01/book-review-starsight-by-brandon.html). For some reason I thought this was a trilogy but it is at least 4 books long. There's also a handful of collaborative novellas in this universe as well, though I have yet to read those. Regardless, this is a very interesting sci-fi series from an author better known for fantasy.
+![](/assets/img/posts/2021/20211204/58167188._SY475_.jpg){: width="500" .w-50 .left}**Cytonic** is the third book in the **Skyward** series by Brandon Sanderson, following [Skyward]({% post_url 2018/2018-12-14-book-review-skyward-by-brandon-sanderson %}) and [Starsight]({% post_url 2020/2020-01-10-book-review-starsight-by-brandon-sanderson %}). For some reason I thought this was a trilogy but it is at least 4 books long. There's also a handful of collaborative novellas in this universe as well, though I have yet to read those. Regardless, this is a very interesting sci-fi series from an author better known for fantasy.
 
 As part of a series, the prior books are fair-game when it comes to spoilers, but I'll avoid major ones here.
 

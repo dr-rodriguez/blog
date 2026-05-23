@@ -14,7 +14,7 @@ img_show: false
 
 ![](/assets/img/posts/2021/20211020/359820.jpg){: width="500" .w-50 .left}
 
-This is the third book in **The Wheel of Time** and, with a title of **The Dragon Reborn** , you know this book is one of the big turning points in the series. Following several months after the events of [The Great Hunt](https://strakul.blogspot.com/2021/10/book-review-great-hunt-by-robert-jordan.html), we find our characters facing new threats and learning new secrets as the mysteries of the Prophecies of the Dragon unfold.
+This is the third book in **The Wheel of Time** and, with a title of **The Dragon Reborn** , you know this book is one of the big turning points in the series. Following several months after the events of [The Great Hunt]({% post_url 2021/2021-10-09-book-review-the-great-hunt-by-robert-jordan %}), we find our characters facing new threats and learning new secrets as the mysteries of the Prophecies of the Dragon unfold.
 
 Read on for my review. As before, prior books in the series are considered fair game in terms of spoilers.
 

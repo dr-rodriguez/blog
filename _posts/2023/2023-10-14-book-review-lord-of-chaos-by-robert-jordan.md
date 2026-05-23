@@ -34,7 +34,7 @@ This was a good book, but not my favorite in the series. A lot of it feels like 
 
 ## Plot
 
-The story starts a little after the events of the prior book, [The Fires of Heaven](https://strakul.blogspot.com/2022/07/book-review-fires-of-heaven-by-robert.html). Rand controls Caemlyn after defeating the Forsaken Rahvin. Moirane is gone after dealing with Lanfear and Moghedien is captured by Nynaeve. With all these victories against the Forsaken, there is some sort of plot brewing among the forces of the Dark One. While we never see the full extent, chaos appears to be the goal and indeed the various remaining Forsaken and their agents seem keen in doing just that.
+The story starts a little after the events of the prior book, [The Fires of Heaven]({% post_url 2022/2022-07-21-book-review-the-fires-of-heaven-by-robert-jordan %}). Rand controls Caemlyn after defeating the Forsaken Rahvin. Moirane is gone after dealing with Lanfear and Moghedien is captured by Nynaeve. With all these victories against the Forsaken, there is some sort of plot brewing among the forces of the Dark One. While we never see the full extent, chaos appears to be the goal and indeed the various remaining Forsaken and their agents seem keen in doing just that.
 
 There are some cool developments in this book, particular with regards to Salidar and the rebel Aes Sedai and with Rand and his establishment of several schools, both for saidin and for general learning. There is a lot hinted or promised to come in later stories.
 

@@ -19,23 +19,23 @@ In terms of page count (by Goodreads' standards since I read electronically), th
   
 Here then are my top 5 books, roughly sorted.  
   
-5\. [The Drowned Cities](http://strakul.blogspot.com/2013/01/book-review-drowned-cities-by-paolo.html) by Paolo Bacigalupi  
+5\. [The Drowned Cities]({% post_url 2013/2013-01-29-book-review-the-drowned-cities-by-paolo-bacigalupi %}) by Paolo Bacigalupi  
   
 Paolo Bacigalupi paints a terrifying view of humanity's future. Unfortunately, he makes it look so believable that you can't help but feel scared as to what tomorrow will bring. This book is simple and fast paced (it's a young adult novel), but what really catches my attention is the description of the world the characters inhabit and its deliberate and eerie familiarity to our own.  
   
-4\. [The Lies of Locke Lamora](http://strakul.blogspot.com/2013/11/book-review-lies-of-locke-lamora-by.html) by Scott Lynch  
+4\. [The Lies of Locke Lamora]({% post_url 2013/2013-11-03-book-review-the-lies-of-locke-lamora-by-scott-lynch %}) by Scott Lynch  
   
 It's always interesting to read (or watch movies) of clever heists or perfectly executed confidence games. You never want to be in the receiving end, but it's amazing to see a band of thieves pull it off. This is part of what makes **The Lies of Locke Lamora** so enjoyable. The character of Locke Lamora is fascinating and we cheer him on as he encounters and triumphs against ever increasing odds. As a bonus, it's set in a Venice-like city with plenty of magic around so you also get to explore a fantastic setting.  
   
-3\. [Tigana](http://strakul.blogspot.com/2013/04/book-review-tigana-by-guy-gavriel-kay.html) by Guy Gavriel Kay  
+3\. [Tigana]({% post_url 2013/2013-04-13-book-review-tigana-by-guy-gavriel-kay %}) by Guy Gavriel Kay  
   
 It's rare to see a fully developed and engaging epic fantasy in a single volume. However, Guy Gavriel Kay manages that perfectly with **Tigana**. The plot and setting are great, but it's the characters that really make the story shine. They are intricate and feel utterly real. The characters are confused and hurt at times and you feel exactly the same thing. Kay is certainly a master at creating beautiful stories with fascinating characters.  
   
-2\. [Reaper's Gale](http://strakul.blogspot.com/2013/05/book-review-reapers-gale-by-steven.html) by Steven Erikson  
+2\. [Reaper's Gale]({% post_url 2013/2013-05-18-book-review-reapers-gale-by-steven-erikson %}) by Steven Erikson  
   
 This is the 7th book in the **Malazan Book of the Fallen** series. I am thoroughly enjoying the series and wish I could devote more time to reading them in sequence or with less time spans between. This particular volume had lots of emotion in its characters, from sad deaths to epic victories. Probably my favorite moment was how Karsa Orlong faced the Emperor of a Thousand Deaths. Hearing the conviction and arrogance of his statements was amazing, particularly when he carried them through. The one drawback to this series is how involved and convoluted it is. Nevertheless, I look forward to completing it so I can compare against one of the other great epic fantasy series of our times:  
   
-1\. [A Memory of Light](http://strakul.blogspot.com/2013/02/book-review-memory-of-light-by-robert.html) by Robert Jordan & Brandon Sanderson  
+1\. [A Memory of Light]({% post_url 2013/2013-02-09-book-review-a-memory-of-light-by-robert-jordan-and-brandon-sanderson %}) by Robert Jordan & Brandon Sanderson  
   
 
 

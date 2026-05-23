@@ -12,7 +12,7 @@ description: ""
 
 I have had no time to write or even think about my blog in the past few weeks thanks to lots of work deadlines and a bit of traveling. So, to fill up time, I present you with another old poem I wrote. This one recounts the story of Isildur, son of Elendir, and the Last Alliance of Elves and Men. It is not strictly canon in the Lord of the Rings universe, but that's alright: it's just meant for fun.  
   
-As [before](http://strakul.blogspot.com/2012/08/poetry-fellowship.html), I'm not a poet so forgive me if the meter, rhyme, or whatever is not quite right.  
+As [before]({% post_url 2012/2012-08-22-poetry-the-fellowship %}), I'm not a poet so forgive me if the meter, rhyme, or whatever is not quite right.  
   
 
 

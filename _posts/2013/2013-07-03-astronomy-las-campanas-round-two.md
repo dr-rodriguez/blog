@@ -21,7 +21,7 @@ At least one paragraph is very science-y, so feel free to skip that one if you'r
   
 More after the jump.  
   
-The first notable difference from last time (see [here](http://strakul.blogspot.com/2013/04/astronomy-observing-at-las-campanas.html)) was the lack of people. Previously I had arrived just in time for a bunch of VIP visiting the observatory, plus a large group of engineers was hard at work with MagAO, the new adaptive optics system at Magellan. This time was far quieter with only the basic support staff and observers present.  
+The first notable difference from last time (see [here]({% post_url 2013/2013-04-06-astronomy-observing-at-las-campanas %})) was the lack of people. Previously I had arrived just in time for a bunch of VIP visiting the observatory, plus a large group of engineers was hard at work with MagAO, the new adaptive optics system at Magellan. This time was far quieter with only the basic support staff and observers present.  
   
 ![](/assets/img/posts/2013/20130703/lco_1_hdr.png)  
 ---  

@@ -28,7 +28,7 @@ img_show: false
 > 
 > _And each night, Nona dreams of a woman with a skull-painted face..._
 
-Read on for my spoiler-free review; spoilers for the prior books ([Gideon the Ninth](https://strakul.blogspot.com/2020/03/book-review-gideon-ninth-by-tamsyn-muir.html) and [Harrow the Ninth](https://strakul.blogspot.com/2020/08/book-review-harrow-ninth-by-tamsyn-muir.html)) may be present, though.  
+Read on for my spoiler-free review; spoilers for the prior books ([Gideon the Ninth]({% post_url 2020/2020-03-15-book-review-gideon-the-ninth-by-tamsyn-muir %}) and [Harrow the Ninth]({% post_url 2020/2020-08-23-book-review-harrow-the-ninth-by-tamsyn-muir %})) may be present, though.  
 
 
 ## Overall Impression

@@ -16,7 +16,7 @@ img_show: false
 
 **Toll the Hounds** is the 8th book in the Malazan Book of the Fallen series.  
   
-In this book, we return to the city of Darujhistan, which we saw in **Gardens of the Moon** , and to Black Coral, which we saw at the end of [Memories of Ice](http://strakul.blogspot.com/2012/03/book-review-memories-of-ice-by-steven.html). Lots of characters we are familiar with are key to the story and mysteries that have haunted us since the beginning are starting to get answers.  
+In this book, we return to the city of Darujhistan, which we saw in **Gardens of the Moon** , and to Black Coral, which we saw at the end of [Memories of Ice]({% post_url 2012/2012-03-18-book-review-memories-of-ice-by-steven-erikson %}). Lots of characters we are familiar with are key to the story and mysteries that have haunted us since the beginning are starting to get answers.  
   
 Read on for my full review.  
   

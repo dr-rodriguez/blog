@@ -14,7 +14,7 @@ img_show: false
 
 ![](/assets/img/posts/2012/20120813/51HRAVbE2lL._SS500_.jpg){: width="500" .w-50 .left}
 
-I've only read a little of Gaiman's work (**American Gods** and [Neverwhere](http://strakul.blogspot.com/2012/04/book-review-neverwhere-by-neil-gaiman.html)) and while I enjoyed it, I wasn't blown away like everyone else seems to be. When I found **Anansi Boys** on special, I figured: why not? Let's find out how good this is.  
+I've only read a little of Gaiman's work (**American Gods** and [Neverwhere]({% post_url 2012/2012-04-06-book-review-neverwhere-by-neil-gaiman %})) and while I enjoyed it, I wasn't blown away like everyone else seems to be. When I found **Anansi Boys** on special, I figured: why not? Let's find out how good this is.  
   
 By the way, as you may have noticed I'm now breaking up my posts with a 'jump break'. You'll have to click through to see the full article. That should make the main page far less cluttered and you can scroll through to find what you want to read. It also facilitates the RSS feed.  
   
@@ -31,7 +31,7 @@ In addition to the brotherly tale, there's also a detective story involving murd
 
   
 **Characters**  
-As previously mentioned, I did not immediately like the main character. Fat Charlie is just an average guy that is content (not necessarily happy) to remain that way. It felt very much like Richard from [Neverwhere](http://strakul.blogspot.com/2012/04/book-review-neverwhere-by-neil-gaiman.html). He is so boring you just don't want to hear about him. Many times we read books to hear about amazing characters and their incredible adventures. This is not one of those books. However, the author has an amazing skill of turning this ordinary, boring character into someone you care about and you want him to win or succeed at what he's doing. The author does it so subtly that at first you have no idea why you are so engaged in the story. At the end, you see the work of art Gaiman has created and you cheer for the good guys. Definitely a "zero to hero" type story.  
+As previously mentioned, I did not immediately like the main character. Fat Charlie is just an average guy that is content (not necessarily happy) to remain that way. It felt very much like Richard from [Neverwhere]({% post_url 2012/2012-04-06-book-review-neverwhere-by-neil-gaiman %}). He is so boring you just don't want to hear about him. Many times we read books to hear about amazing characters and their incredible adventures. This is not one of those books. However, the author has an amazing skill of turning this ordinary, boring character into someone you care about and you want him to win or succeed at what he's doing. The author does it so subtly that at first you have no idea why you are so engaged in the story. At the end, you see the work of art Gaiman has created and you cheer for the good guys. Definitely a "zero to hero" type story.  
   
 In addition to Fat Charlie, we also see his brother Spider and father Anansi. These two are cool because they are actually gods. They turn the story from a simple story about some brothers to something fantastical. We also see a few other gods like Tiger and Bird Woman that act as antagonists. Human characters like Rosie and her mom, Daisy, and Graham Coats serve to drive up the action and intrigue.  
   

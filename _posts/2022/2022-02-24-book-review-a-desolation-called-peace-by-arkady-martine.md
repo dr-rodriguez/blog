@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-![](/assets/img/posts/2022/20220224/45154547._SY475_.jpg){: width="500" .w-50 .left}This is the second book in the **Teixcalaan** series by Arkady Martine and follows a few months after the prior, [A Memory of Empire](https://strakul.blogspot.com/2020/06/book-review-memory-called-empire-by.html). Here is the Goodreads blurb:
+![](/assets/img/posts/2022/20220224/45154547._SY475_.jpg){: width="500" .w-50 .left}This is the second book in the **Teixcalaan** series by Arkady Martine and follows a few months after the prior, [A Memory of Empire]({% post_url 2020/2020-06-28-book-review-a-memory-called-empire-by-arkady-martine %}). Here is the Goodreads blurb:
 
 > __
 >
@@ -28,7 +28,7 @@ Read on for my spoiler-free review.
 
 ## Overall Impression
 
-This continues a few months after [A Memory of Empire](https://strakul.blogspot.com/2020/06/book-review-memory-called-empire-by.html) and has many of the same similar notes, but with a wider scope of the Teixcalaanli Empire. Some of the same characters join in and we get new ones as well. Overall, it sets the stage for a wider conflict while still keeping the interpersonal drama that was prominent in the first book.
+This continues a few months after [A Memory of Empire]({% post_url 2020/2020-06-28-book-review-a-memory-called-empire-by-arkady-martine %}) and has many of the same similar notes, but with a wider scope of the Teixcalaanli Empire. Some of the same characters join in and we get new ones as well. Overall, it sets the stage for a wider conflict while still keeping the interpersonal drama that was prominent in the first book.
 
 ## Plot
 
@@ -52,4 +52,4 @@ Beyond Teixcalaan, we get our first direct look at the aliens that had been prev
 
 Final Thoughts
 
-This was a satisfying continuation to the series and I hope to see more of it, though it wraps up so well I don't know if we should expect more stories in this series. Compared to the first novelI found it a little bit more enjoyable since it has a bit more external, overt conflict, while the [A Memory of Empire](https://strakul.blogspot.com/2020/06/book-review-memory-called-empire-by.html) was very much focused on Dzmare and the internal politics. The introduction of the alien species, and how long and difficult it was to establish communications, was cleverly done in my opinion and helps spread the tension throughout the novel. And while there is political drama in the form of the various Ministries, it's balanced with the external war against the aliens. 
+This was a satisfying continuation to the series and I hope to see more of it, though it wraps up so well I don't know if we should expect more stories in this series. Compared to the first novelI found it a little bit more enjoyable since it has a bit more external, overt conflict, while the [A Memory of Empire]({% post_url 2020/2020-06-28-book-review-a-memory-called-empire-by-arkady-martine %}) was very much focused on Dzmare and the internal politics. The introduction of the alien species, and how long and difficult it was to establish communications, was cleverly done in my opinion and helps spread the tension throughout the novel. And while there is political drama in the form of the various Ministries, it's balanced with the external war against the aliens. 

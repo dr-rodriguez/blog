@@ -14,7 +14,7 @@ img_show: false
 
 ![](/assets/img/posts/2017/20170916/34017126.jpg){: width="500" .w-50 .left}
 
-**The Stone Sky** is the third and final book of **The Broken Earth** trilogy by N.K. Jemisin. It follows after Hugo award-winning [The Obelisk Gate](https://strakul.blogspot.com/2017/01/book-review-obelisk-gate-by-nk-jemisin.html), which itself follows Hugo award-winning [The Fifth Season](https://strakul.blogspot.com/2016/09/book-review-fifth-season-by-nk-jemisin.html). Could **The Stone Sky** be three times in a row for Jemisin? Very much so as this book surpasses the prior two books in practically every way possible.  
+**The Stone Sky** is the third and final book of **The Broken Earth** trilogy by N.K. Jemisin. It follows after Hugo award-winning [The Obelisk Gate]({% post_url 2017/2017-01-11-book-review-the-obelisk-gate-by-nk-jemisin %}), which itself follows Hugo award-winning [The Fifth Season]({% post_url 2016/2016-09-05-book-review-the-fifth-season-by-nk-jemisin %}). Could **The Stone Sky** be three times in a row for Jemisin? Very much so as this book surpasses the prior two books in practically every way possible.  
   
 Read on for my spoiler-free review, though minor points of the prior two books are fair game.  
   
@@ -24,7 +24,7 @@ This was an incredible, epic journey that also manages to be uniquely personal a
 **Plot**  
 Jemisin frequently breaks from the norm when it comes to her narrative style and this book is no different. Essun's chapters are your chapters, that is, they are told in the rare 2nd person. Nassun's on the other hand, are told in the much more common 3rd person. As if that isn't enough, there is also a set of chapters told in first person. This gives each set of characters a unique feel that goes beyond their setting or attributes.  
   
-Story-wise we pick up shortly after events from [The Obelisk Gate](https://strakul.blogspot.com/2017/01/book-review-obelisk-gate-by-nk-jemisin.html) and speed on as the various characters try to survive the Season while at the same time planning for the use of the Gate. One set of chapters is set in the distant path and we get to see the origin of the Gate and how events led up to the Shattering and the cycle of Seasons.  
+Story-wise we pick up shortly after events from [The Obelisk Gate]({% post_url 2017/2017-01-11-book-review-the-obelisk-gate-by-nk-jemisin %}) and speed on as the various characters try to survive the Season while at the same time planning for the use of the Gate. One set of chapters is set in the distant path and we get to see the origin of the Gate and how events led up to the Shattering and the cycle of Seasons.  
   
 **Characters**  
 Except for a sprinkling of secondary characters, we don't have too many new faces here. The story is still focused strongly on Essun as she searches for her daughter Nassun. We also see plenty of Hoa, Essun's stone eater friend and Schaffa, Essun's former Guardian who travels with Nassun. All of the characters are driven by their strong wills, which sometimes put them at odds with each other. It was very satisfying to see the natural conclusion as the plot lines converged and distant characters met up.  

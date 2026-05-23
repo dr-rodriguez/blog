@@ -18,11 +18,11 @@ As I try to do every year, this post will list and briefly describe the best boo
   
 I don't usually read graphic novels, and certainly don't review them, but I randomly met Evan Dahm at New York Comic Con this year and immediately recognized his work from having read [Vattu](http://www.rice-boy.com/vattu/). I forgot his exact explanation for Rice Boy, but it was a something along the lines of a young person, the aforementioned rice boy, gets sent by a robot-man on an epic adventure to fulfill a prophecy he knows nothing about. It is indeed an epic and fascinating adventure, with simple yet captivating artwork that draws you in. The story can be found in its entirety [online](http://www.rice-boy.com/see/) and for free, but I found it easier to read when you have the hardcopy.  
   
-2\. [Death's End](http://strakul.blogspot.com/2016/10/book-review-deaths-end-by-liu-cixin.html) by Liu Cixin  
+2\. [Death's End]({% post_url 2016/2016-10-19-book-review-deaths-end-by-liu-cixin %}) by Liu Cixin  
   
-The long awaited conclusion of [The Three Body Problem](http://strakul.blogspot.com/2015/07/book-review-three-body-problem-by-liu.html) saga, as translated by Ken Liu (for the 1st and 3rd books). A fan favorite among the science fiction community, it should come as no surprise that it's in my list for this year. This is a series I highly recommend fans of science fiction read as it truly evokes the grand masters of old, while still providing a fresh story. In Death's End, we see the Earth develop beyond the events surrounding the prior two books as it discovered alien life in the universe and attempts to protect itself from the threats they pose.  
+The long awaited conclusion of [The Three Body Problem]({% post_url 2015/2015-07-12-book-review-the-three-body-problem-by-liu-cixin %}) saga, as translated by Ken Liu (for the 1st and 3rd books). A fan favorite among the science fiction community, it should come as no surprise that it's in my list for this year. This is a series I highly recommend fans of science fiction read as it truly evokes the grand masters of old, while still providing a fresh story. In Death's End, we see the Earth develop beyond the events surrounding the prior two books as it discovered alien life in the universe and attempts to protect itself from the threats they pose.  
   
-1\. [The Fifth Season](http://strakul.blogspot.com/2016/09/book-review-fifth-season-by-nk-jemisin.html) by N.K. Jemisin  
+1\. [The Fifth Season]({% post_url 2016/2016-09-05-book-review-the-fifth-season-by-nk-jemisin %}) by N.K. Jemisin  
   
 
 

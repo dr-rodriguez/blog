@@ -14,7 +14,7 @@ img_show: false
 
 ![](/assets/img/posts/2023/20231121/55578956.jpg){: width="500" .w-50 .left}
 
-I've read several of Ann Leckie's science fiction books, like [Ancillary Justice](https://strakul.blogspot.com/2014/05/book-review-ancillary-justice-by-ann.html) and [Provenance](https://strakul.blogspot.com/2018/01/book-review-provenance-by-ann-leckie.html). The Raven Tower is her newest fantasy novel and I decided to give it a try. Here is the Goodreads blurb:
+I've read several of Ann Leckie's science fiction books, like [Ancillary Justice]({% post_url 2014/2014-05-10-book-review-ancillary-justice-by-ann-leckie %}) and [Provenance]({% post_url 2018/2018-01-15-book-review-provenance-by-ann-leckie %}). The Raven Tower is her newest fantasy novel and I decided to give it a try. Here is the Goodreads blurb:
 
 > _For centuries, the kingdom of Iraden has been protected by the god known as the Raven. He watches over his territory from atop a tower in the powerful port of Vastai. His will is enacted through the Raven's Lease, a human ruler chosen by the god himself. His magic is sustained via the blood sacrifice that every Lease must offer. And under the Raven's watch, the city flourishes._
 > 

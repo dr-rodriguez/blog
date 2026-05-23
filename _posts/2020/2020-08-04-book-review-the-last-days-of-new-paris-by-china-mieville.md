@@ -14,7 +14,7 @@ img_show: false
 
 ![](/assets/img/posts/2020/20200804/27833610.jpg){: width="500" .w-50 .left}
 
-I've had **The Last Days of New Paris** on my to-read list for a while. I'm a fan of China Mieville and enjoyed many of his books, particularly [The City and The City](https://strakul.blogspot.com/2013/06/book-review-city-city-by-china-mieville.html) and [The Scar](https://strakul.blogspot.com/2015/04/book-review-scar-by-china-mieville.html). This is a novella, so it's much shorter than before and I decided to go ahead and just dive right into it.
+I've had **The Last Days of New Paris** on my to-read list for a while. I'm a fan of China Mieville and enjoyed many of his books, particularly [The City and The City]({% post_url 2013/2013-06-26-book-review-the-city-the-city-by-china-mieville %}) and [The Scar]({% post_url 2015/2015-04-12-book-review-the-scar-by-china-mieville %}). This is a novella, so it's much shorter than before and I decided to go ahead and just dive right into it.
 
   
 

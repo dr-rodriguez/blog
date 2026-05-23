@@ -43,7 +43,7 @@ The io9 article I've [linked to](http://io9.com/5929076/what-if-we-had-a-planet-
 
 Wouldn't these look **awesome** in real life or in a movie?  
   
-Author N.K. Jemisin had [a recent book](http://strakul.blogspot.com/2012/06/book-review-killing-moon-by-nk-jemisin.html) where one of the 'moons' was actually a gas giant planet similar to Jupiter. It turns out these pictures are not too far from what she had in mind:  _The shot of Jupiter is almost how I visualize Dreaming Moon, in Dreamblood. What if we had a planet instead of a moon?_[...]__ \- @nkjemisin  
+Author N.K. Jemisin had [a recent book]({% post_url 2012/2012-06-15-book-review-the-killing-moon-by-nk-jemisin %}) where one of the 'moons' was actually a gas giant planet similar to Jupiter. It turns out these pictures are not too far from what she had in mind:  _The shot of Jupiter is almost how I visualize Dreaming Moon, in Dreamblood. What if we had a planet instead of a moon?_[...]__ \- @nkjemisin  
   
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Io_highest_resolution_true_color.jpg/600px-Io_highest_resolution_true_color.jpg)  
 ---  

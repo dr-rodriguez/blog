@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-Several weeks ago we were witness to one of the rarest, yet predictable, astronomical events known: the [transit of Venus](http://strakul.blogspot.com/2012/04/transit-of-venus-june-2012.html). The next such transit will be in the year 2117. You can always catch the next transit of Mercury, though. These are far more common with 13-14 events per century: the next one is May 9, 2016. However, you do need a telescope to see it as Mercury is much smaller.  
+Several weeks ago we were witness to one of the rarest, yet predictable, astronomical events known: the [transit of Venus]({% post_url 2012/2012-04-28-transit-of-venus-june-2012 %}). The next such transit will be in the year 2117. You can always catch the next transit of Mercury, though. These are far more common with 13-14 events per century: the next one is May 9, 2016. However, you do need a telescope to see it as Mercury is much smaller.  
   
 Perhaps you are now hooked on transits and want to catch an even more exciting event. You may actually have already seen the November 2006 Mercury transit. How about a (near) simultaneous transit of both Venus and Mercury? Good luck: the next one will be around September in the year 13,425 AD.  
   

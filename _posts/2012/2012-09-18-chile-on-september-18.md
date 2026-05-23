@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-September is a month of history in Chile. Back on [September 11](http://strakul.blogspot.com/2012/09/chile-on-september-11.html), we saw the remembrance of the military coup that overthrew Allende and established the Pinochet dictatorship. Today, however, we go further back in history: to September 18, 1810 and the first steps in Chile's independence. From my readings, it looks like there were many notable dates throughout the process for independence, but September 18 is celebrated as the Day.  
+September is a month of history in Chile. Back on [September 11]({% post_url 2012/2012-09-11-chile-on-september-11 %}), we saw the remembrance of the military coup that overthrew Allende and established the Pinochet dictatorship. Today, however, we go further back in history: to September 18, 1810 and the first steps in Chile's independence. From my readings, it looks like there were many notable dates throughout the process for independence, but September 18 is celebrated as the Day.  
   
 The process of Chilean independence took many years, but began a few years before 1810, when a well-liked royally-appointed governor died. At the time, Spain would appoint governors for it's provinces, but was unable to do so since Ferdinand VII, had abdicated and was then imprisoned by Napoleon. Joseph Bonaparte, Napoleon's older brother, was installed as King of Spain by the Emperor on May 1808. Thus began the Peninsular War, when the Spanish attempted to overthrow Joseph and replace Ferdinand on the throne. So needless to say, Spain was busy with it's own problems and Chile, along with many of the colonies, started on their quest for independence.  
   

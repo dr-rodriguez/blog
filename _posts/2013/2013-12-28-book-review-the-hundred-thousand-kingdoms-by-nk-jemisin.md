@@ -14,7 +14,7 @@ img_show: false
 
 ![](/assets/img/posts/2013/20131228/6437061.jpg){: width="500" .w-50 .left}
 
-**The Hundred Thousand Kingdoms** is the first part of The Inheritance Trilogy by N.K. Jemisin. Despite being a trilogy, the first book stands on its own and can be read without the others. This is my second read through it thanks to selection by our local book club. I sure hope they like it better than my [last recommendation](http://strakul.blogspot.com/2013/06/book-review-city-city-by-china-mieville.html)!  
+**The Hundred Thousand Kingdoms** is the first part of The Inheritance Trilogy by N.K. Jemisin. Despite being a trilogy, the first book stands on its own and can be read without the others. This is my second read through it thanks to selection by our local book club. I sure hope they like it better than my [last recommendation]({% post_url 2013/2013-06-26-book-review-the-city-the-city-by-china-mieville %})!  
   
 Without further ado, let's jump right in to my spoiler-free review.  
   

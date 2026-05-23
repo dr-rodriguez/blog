@@ -15,7 +15,7 @@ img_show: false
 ![](/assets/img/posts/2020/20201223/49021976.jpg){: width="500" .w-50 .left}
 
   
-Brandon Sanderson's **Rhythm of War** is the 4th book of **The Stormlight Archive** series. I've been a huge fan of this series since it started and eagerly await each book. The books, however, are quite massive and intricate and benefit from multiple readings. I wish I had re-read the prior book, [Oathbringer](https://strakul.blogspot.com/2017/12/book-review-oathbringer-by-brandon.html), before starting this one as there were many details I had forgotten! Still, it was good to revisit this world and see how the story is building up.
+Brandon Sanderson's **Rhythm of War** is the 4th book of **The Stormlight Archive** series. I've been a huge fan of this series since it started and eagerly await each book. The books, however, are quite massive and intricate and benefit from multiple readings. I wish I had re-read the prior book, [Oathbringer]({% post_url 2017/2017-12-13-book-review-oathbringer-by-brandon-sanderson %}), before starting this one as there were many details I had forgotten! Still, it was good to revisit this world and see how the story is building up.
 
 Read on for my spoiler-free review.
 
@@ -26,7 +26,7 @@ As the fourth book in what is likely to be a 9 or 10-book series, a lot of the c
 **Plot**  
 
 
-The plot of this book picks up about a year or so after the events in [Oathbringer](https://strakul.blogspot.com/2017/12/book-review-oathbringer-by-brandon.html). Having not re-read that in a long time I had actually forgotten many important details of both in plot and setting. However, the story is focused enough that I was able to pick up quickly. There are two main arcs to the story, Shallan's and Kaladin's, though they of course feature many of the other characters too. They happen roughly at the same time and at times the book puts one 'on-hold' while focusing on the other. This isn't too bad as it stretches the tension a bit, though I did feel that because of that one arc effectively ended earlier than I expected. However, I guess this is better than having an avalanche of resolutions all at once as in some of Sanderson's earlier works.
+The plot of this book picks up about a year or so after the events in [Oathbringer]({% post_url 2017/2017-12-13-book-review-oathbringer-by-brandon-sanderson %}). Having not re-read that in a long time I had actually forgotten many important details of both in plot and setting. However, the story is focused enough that I was able to pick up quickly. There are two main arcs to the story, Shallan's and Kaladin's, though they of course feature many of the other characters too. They happen roughly at the same time and at times the book puts one 'on-hold' while focusing on the other. This isn't too bad as it stretches the tension a bit, though I did feel that because of that one arc effectively ended earlier than I expected. However, I guess this is better than having an avalanche of resolutions all at once as in some of Sanderson's earlier works.
 
 **Characters**  
 

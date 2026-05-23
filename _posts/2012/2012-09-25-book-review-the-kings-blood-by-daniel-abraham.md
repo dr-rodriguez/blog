@@ -14,7 +14,7 @@ img_show: false
 
 ![](http://photo.goodreads.com/books/1326556831l/13075018.jpg){: width="500" .w-50 .left}
 
-**The King's Blood** , by Daniel Abraham, is the sequel to **The Dragon's Path** , one of [my top 5 books of 2011](http://strakul.blogspot.com/2012/01/favorite-books-of-2011.html). The story continues where we left off with mostly the same characters. Not sure if I'll have the sequel among my top 5 this year, since I've read so many other good books in 2012.  
+**The King's Blood** , by Daniel Abraham, is the sequel to **The Dragon's Path** , one of [my top 5 books of 2011]({% post_url 2012/2012-01-03-favorite-books-of-2011 %}). The story continues where we left off with mostly the same characters. Not sure if I'll have the sequel among my top 5 this year, since I've read so many other good books in 2012.  
   
 A tyrant's power increases with the help of priests of a ravenous Goddess while a young banker struggles to hold on to her bank. Things are going to get messy as war breaks out in the lands once ruled by dragons.  
   

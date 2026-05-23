@@ -14,7 +14,7 @@ img_show: false
 
 ![](/assets/img/posts/2024/20240623/41742154.jpg){: width="500" .w-50 .left}
 
-This is the sequel to [Children of Time](https://strakul.blogspot.com/2024/06/book-review-children-of-time-by-adrian.html) and I just had to read it after enjoying that one so much. Here's the Goodreads blurb:
+This is the sequel to [Children of Time]({% post_url 2024/2024-06-02-book-review-children-of-time-by-adrian-tchaikovsky %}) and I just had to read it after enjoying that one so much. Here's the Goodreads blurb:
 
 _Thousands of years ago, Earth's terraforming program took to the stars. On the world they called Nod, scientists discovered alien life -- but it was their mission to overwrite it with the memory of Earth. Then humanity's great empire fell, and the program's decisions were lost to time. Aeons later, humanity and its new spider allies detected fragmentary radio signals between the stars. They dispatched an exploration vessel, hoping to find cousins from old Earth. But those ancient terraformers woke something on Nod better left undisturbed._
 
@@ -40,4 +40,4 @@ One of the interesting themes of this book is language. While it was also somewh
 
 ## Final Thoughts
 
-This was a great book, a worthy sequel to [Children of Time](https://strakul.blogspot.com/2024/06/book-review-children-of-time-by-adrian.html). It touches on some interesting concepts behind language, evolution, and the sense of self, while still being a tense story about alien contact. The characters and plot are interesting, but I focused far more on the setting. The ending opens up the universe a bit and ends with a little bit of a teaser which I can only assume is the subject of the next book. 
+This was a great book, a worthy sequel to [Children of Time]({% post_url 2024/2024-06-02-book-review-children-of-time-by-adrian-tchaikovsky %}). It touches on some interesting concepts behind language, evolution, and the sense of self, while still being a tense story about alien contact. The characters and plot are interesting, but I focused far more on the setting. The ending opens up the universe a bit and ends with a little bit of a teaser which I can only assume is the subject of the next book. 

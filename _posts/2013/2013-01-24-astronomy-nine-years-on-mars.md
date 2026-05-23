@@ -22,5 +22,5 @@ To celebrate the occasion, [Space.com](http://www.space.com/79-distances-driven-
 This is showing how much we (including our robots) have travelled on distant worlds, in particular Mars and the Moon. Now, we've sent landers to other worlds, such as [Venus](http://en.wikipedia.org/wiki/Venera_7) and [Titan](http://en.wikipedia.org/wiki/Huygens_\(spacecraft\)) (largest moon of Saturn), but these others couldn't move around.  
   
 Opportunity, in the past nine years, has travelled over 22 miles. And the coolest thing: it's [still working](http://www.space.com/19411-mars-rover-opportunity-year-ten.html)! Nine years in Mars and still going strong when it was made to last just over 90 days.  
-[Curiosity](http://strakul.blogspot.com/2012/08/astronomy-mars-curiosity.html), our newest Mars rover, is nuclear powered and expected to last 2 (Earth) years. Its power supply, however, could let it work for many more years if nothing goes wrong.  
+[Curiosity]({% post_url 2012/2012-08-02-astronomy-mars-curiosity %}), our newest Mars rover, is nuclear powered and expected to last 2 (Earth) years. Its power supply, however, could let it work for many more years if nothing goes wrong.  
 Let's hope Opportunity and Curiosity last for many more years and keep doing great science on Mars! 

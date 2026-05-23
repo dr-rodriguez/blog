@@ -14,7 +14,7 @@ img_show: false
 
 ![](/assets/img/posts/2015/20150502/6318144.jpg){: width="500" .w-50 .left}
 
-For the latest book club pick, and as a tribute to the late Terry Pratchett, we decided to read on the Discworld novels. We looked online and found a listing of the best ones, which included [The Color of Magic](http://strakul.blogspot.com/2012/12/book-review-color-of-magic-by-terry.html), **Mort** , **Going Postal** , and, the one we selected, **The Wee Free Men**. It's a fairly short book.  
+For the latest book club pick, and as a tribute to the late Terry Pratchett, we decided to read on the Discworld novels. We looked online and found a listing of the best ones, which included [The Color of Magic]({% post_url 2012/2012-12-31-book-review-the-color-of-magic-by-terry-pratchett %}), **Mort** , **Going Postal** , and, the one we selected, **The Wee Free Men**. It's a fairly short book.  
   
 Read on for my full review.  
   
@@ -27,7 +27,7 @@ This is a young adult Discworld novel featuring Tiffany Aching, a young girl in 
 The Wee Free Men has a fairly simple and straightforward plot. It moves along at a very fast paced as the young girl, Tiffany Aching, works to save her little brother. Along the way she meets the odd Wee Free Men and other strange fairy creatures. It'll take clever thinking to avoid the traps and get the upper hand in rescuing her brother in this wild adventure.  
   
 **Characters**  
-The main character is Tiffany Aching and, as a young adult book, it focuses heavily on her with minimal secondary characters. She is a young, hard working girl with a bright mind and keen interesting in the world. As the story progresses, you realize she has the makings of a witch, even if she herself doesn't understand just what that means. She is a cool, clever character that takes charge of her destiny in an empowering way. Other characters, such as Miss Tick, Rob Anybody, and Not-as-big-as-Medium-Sized-Jock-but-bigger-than-Wee-Jock-Jock, serve to accentuate Tiffany in her quest. The Queen is a suitably evil villain for the story as well. We also get to briefly see Weatherwax, who first appeared in [Equal Rites](http://strakul.blogspot.com/2014/08/book-review-equal-rites-by-terry.html).  
+The main character is Tiffany Aching and, as a young adult book, it focuses heavily on her with minimal secondary characters. She is a young, hard working girl with a bright mind and keen interesting in the world. As the story progresses, you realize she has the makings of a witch, even if she herself doesn't understand just what that means. She is a cool, clever character that takes charge of her destiny in an empowering way. Other characters, such as Miss Tick, Rob Anybody, and Not-as-big-as-Medium-Sized-Jock-but-bigger-than-Wee-Jock-Jock, serve to accentuate Tiffany in her quest. The Queen is a suitably evil villain for the story as well. We also get to briefly see Weatherwax, who first appeared in [Equal Rites]({% post_url 2014/2014-08-19-book-review-equal-rites-by-terry-pratchett %}).  
   
 **Setting / World Building**  
 This is a Discworld novel, but the setting is actually fairly generic. No mention of turtles or elephants or a flat disc in this book. Instead, we get a more pastoral feel as we see the daily lives of shepherds and farmers. Still, there are some odd and cool things in this world, such as the traveling teachers and the problems with witch magic in that region, known as the Chalk.  

@@ -31,7 +31,7 @@ Already a few papers have announced ALMA results, but I want to point out one re
 ---  
 Fomalhaut, its disk, and candidate planet. Credit: NASA, ESA and P. Kalas (University of California, Berkeley, USA)  
   
-Fomalhaut is a star about 25-light years away surrounded by a [debris disk](http://strakul.blogspot.com/2012/01/astronomy-debris-disks.html) that has been observed at multiple wavelengths. The image above is from scattered light emission, that is, the dust particles reflect light from the star and we see this light. An alternative way to look at dust particles in disks is through thermal emission. This is the result of dust grains emitting light due to their temperature. The hotter they are, the brighter, and the peak emission will depend on the temperature. Dust grains in circumstellar disks tend to be quite cold, so the peak emission is at hundreds of microns (note that 1000 microns=1 millimeter). Hence, submillimeter observations of disks, like those ALMA can provide, are sampling the thermal (or heat) emission the dust particles give off.  
+Fomalhaut is a star about 25-light years away surrounded by a [debris disk]({% post_url 2012/2012-01-10-astronomy-debris-disks %}) that has been observed at multiple wavelengths. The image above is from scattered light emission, that is, the dust particles reflect light from the star and we see this light. An alternative way to look at dust particles in disks is through thermal emission. This is the result of dust grains emitting light due to their temperature. The hotter they are, the brighter, and the peak emission will depend on the temperature. Dust grains in circumstellar disks tend to be quite cold, so the peak emission is at hundreds of microns (note that 1000 microns=1 millimeter). Hence, submillimeter observations of disks, like those ALMA can provide, are sampling the thermal (or heat) emission the dust particles give off.  
   
 Prior work has already imaged the Fomalhaut disk at these long wavelengths. For example, here is the image from Holland et al. ([2003](http://adsabs.harvard.edu/abs/2003ApJ...582.1141H)) which used the James Clerk Maxwell Telescope (JCMT) to observe the system at 450 and 850 microns:  
 ![](/assets/img/posts/2012/20120403/fomal_scuba_holland03.tiff)  
@@ -41,7 +41,7 @@ Fomalhaut disk seen at 850 microns with SCUBA on JCMT. Credit: Holland et al. (2
 The star symbol marks the location of the star, which is undetected in the data (stars are really faint at those wavelengths). You can, however, see the thermal emission from the dust very clearly as two lobes at either side of the star. Not bad, but _this_ is what ALMA saw when looking at part of Fomalhaut's disk:  
 ![](/assets/img/posts/2012/20120403/fomalma_nice_1.tiff)  
 ---  
-Preliminary data for the Fomalhaut disk presented at [AAS 219](http://strakul.blogspot.com/2012/01/astronomy-219th-american-astronomical.html) by A.M. Hughes.  
+Preliminary data for the Fomalhaut disk presented at [AAS 219]({% post_url 2012/2012-01-13-astronomy-the-219th-american-astronomical-meeting %}) by A.M. Hughes.  
   
 I, and others in the audience, were amazed at such beautiful data during the presentation at AAS this past January. The paper describing the results is now released. Here are the final images resulting from this work:  
 ![](/assets/img/posts/2012/20120403/fomalhautalma_1.tiff)  

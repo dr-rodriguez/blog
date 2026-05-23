@@ -30,7 +30,7 @@ The second arc of the story is about 60 years later. The Mule is long dead and t
 
 **Characters**
 
-The characters get somewhat better in this book compared to the prior ones, with their classical emphasis on themes more than characters. In the first arc we have The Mule and Han Pritcher who also appeared in the prior novel. The second arc features heavily Arkady Darell, granddaughter of Bayta Darell who put a stop to The Mule's initial search at the end of [Foundation and Empire](https://strakul.blogspot.com/2021/08/book-review-foundation-and-empire-by.html). While they don't necessarily have their own growth arcs, they feel unique. I certainly remembered The Mule from my first read many many years ago.
+The characters get somewhat better in this book compared to the prior ones, with their classical emphasis on themes more than characters. In the first arc we have The Mule and Han Pritcher who also appeared in the prior novel. The second arc features heavily Arkady Darell, granddaughter of Bayta Darell who put a stop to The Mule's initial search at the end of [Foundation and Empire]({% post_url 2021/2021-08-13-book-review-foundation-and-empire-by-isaac-asimov %}). While they don't necessarily have their own growth arcs, they feel unique. I certainly remembered The Mule from my first read many many years ago.
 
 **Setting / World Building**
 

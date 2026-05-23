@@ -18,7 +18,7 @@ Las Campanas Observatory
   
 A few weeks ago, I went up to Las Campanas Observatory to observe with the du Pont 2.5-meter telescope. I had only a single night, but this blog post recounts my experience there.  
   
-From the get-go, you can tell that Las Campanas is run differently from [La Silla](http://strakul.blogspot.com/2013/02/astronomy-observing-at-la-silla.html). At La Silla, they book your flight and you arrive at the time they designate to take one of the limited vans/buses up to the mountain. Here, you tell them when you'll arrive and they'll have someone waiting to take you up, even if you are the only person for the trip.  
+From the get-go, you can tell that Las Campanas is run differently from [La Silla]({% post_url 2013/2013-02-18-astronomy-observing-at-la-silla %}). At La Silla, they book your flight and you arrive at the time they designate to take one of the limited vans/buses up to the mountain. Here, you tell them when you'll arrive and they'll have someone waiting to take you up, even if you are the only person for the trip.  
 The observatory is also far nicer looking. The buildings are more rustic and blend into the surrounding mountainside.  
   
 ![](/assets/img/posts/2013/20130406/IMG_0725.JPG)  
@@ -44,7 +44,7 @@ The instrument was far simpler to use than I had feared. The manual provided ver
   
 ![](/assets/img/posts/2013/20130406/spectrum.png)  
 ---  
-Spectrum of a [young, low-mass star](http://strakul.blogspot.com/2012/11/astronomy-young-stellar-moving-groups.html).   
+Spectrum of a [young, low-mass star]({% post_url 2012/2012-11-05-astronomy-young-stellar-moving-groups %}).   
 The spike at 6563 angstroms is emission from Hydrogen in the atmosphere of the star.  
   
 I've yet to fully process all the data, but above you can see a spectrum of a known young (~10 Myr), low-mass star. It serves as a comparison so I can see how good the instrument is. For the astronomers out there, this was taken with the 600 lines/mm grating set at an angle of 13.5 degrees and using the 100 micron (~1") slit. While decent enough, I think I may opt for the 832 lines/mm grating in my next run.  

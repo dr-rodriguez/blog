@@ -14,7 +14,7 @@ img_show: false
 
 ![](/assets/img/posts/2021/20211009/233649._SY475_.jpg){: width="500" .w-50 .left}
 
-This is the second book of **The Wheel of Time** by Robert Jordan (and finished by Brandon Sanderson). I'll probably read at least the first 3 to mentally prepare myself for the new TV series. This one follows straight after [The Eye of the World](https://strakul.blogspot.com/2021/09/book-review-eye-of-world-by-robert.html) and continues the adventures of Rand, Perrin, Mat, and the others in their struggle to stay alive and figure out why the Dark One is hunting them.
+This is the second book of **The Wheel of Time** by Robert Jordan (and finished by Brandon Sanderson). I'll probably read at least the first 3 to mentally prepare myself for the new TV series. This one follows straight after [The Eye of the World]({% post_url 2021/2021-09-28-book-review-the-eye-of-the-world-by-robert-jordan %}) and continues the adventures of Rand, Perrin, Mat, and the others in their struggle to stay alive and figure out why the Dark One is hunting them.
 
 Read on for my review. I avoid major spoilers for this book, but assume you've read the prior ones.
 
@@ -42,4 +42,4 @@ There is also a bit of a deeper dive at saidar and saidin, particularly since Eg
 
 ## Final Thoughts
 
-Overall, this was a good book. It's not as strong as [The Eye of the World](https://strakul.blogspot.com/2021/09/book-review-eye-of-world-by-robert.html), but does a good job of continuing the story and setting up some interesting threads that we will want to see resolved in the series. The reluctant hero is a big part of this particular book, but we see some payoffs with epic scenes near the end that cement their role in the story. It is a must read for fans of **The Wheel of Time** as it sets the stage for more to come. 
+Overall, this was a good book. It's not as strong as [The Eye of the World]({% post_url 2021/2021-09-28-book-review-the-eye-of-the-world-by-robert-jordan %}), but does a good job of continuing the story and setting up some interesting threads that we will want to see resolved in the series. The reluctant hero is a big part of this particular book, but we see some payoffs with epic scenes near the end that cement their role in the story. It is a must read for fans of **The Wheel of Time** as it sets the stage for more to come. 

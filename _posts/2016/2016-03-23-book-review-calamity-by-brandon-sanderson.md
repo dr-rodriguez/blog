@@ -14,7 +14,7 @@ img_show: false
 
 ![](/assets/img/posts/2016/20160323/25402243.jpg){: width="500" .w-50 .left}
 
-**Calamity** , by Brandon Sanderson, is the final book in the **Reckoners** series, preceded by [Firefight](http://strakul.blogspot.com/2015/01/book-review-firefight-by-brandon.html) and [Steelheart](http://strakul.blogspot.com/2013/10/book-review-steelheart-by-brandon.html). I've been enjoying that series immensely as it's fun, action-packed, and light-hearted. I should probably read **Mitosis** at some point, as it's a novella taken place between Steelheart and Firefight. Sanderson is planning [a new young-adult trilogy](http://www.tor.com/2016/03/01/brandon-sanderson-announces-new-apocalypse-guard-book-trilogy/) set "in a world parallel to that of the Reckoners." Now that I've read Calamity, I understand exactly what that means and I'm excited for it.  
+**Calamity** , by Brandon Sanderson, is the final book in the **Reckoners** series, preceded by [Firefight]({% post_url 2015/2015-01-16-book-review-firefight-by-brandon-sanderson %}) and [Steelheart]({% post_url 2013/2013-10-01-book-review-steelheart-by-brandon-sanderson %}). I've been enjoying that series immensely as it's fun, action-packed, and light-hearted. I should probably read **Mitosis** at some point, as it's a novella taken place between Steelheart and Firefight. Sanderson is planning [a new young-adult trilogy](http://www.tor.com/2016/03/01/brandon-sanderson-announces-new-apocalypse-guard-book-trilogy/) set "in a world parallel to that of the Reckoners." Now that I've read Calamity, I understand exactly what that means and I'm excited for it.  
   
 Below you can find my review. I aim to avoid spoilers, but you may encounter some if you haven't read the prior books in the trilogy.  
   

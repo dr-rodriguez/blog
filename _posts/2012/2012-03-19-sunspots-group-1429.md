@@ -22,6 +22,6 @@ Look very carefully at that sunset picture. Ignore the birds, the tree, and the 
 ---  
 Credit: APOD, [Alan Friedman](http://www.avertedimagination.com/)  
   
-Sunspot group 1429 is a particularly large set of sunspots that was quite active a few weeks ago. You may have heard the news of a massive solar flare emanating from this region around March 7th or so. This increase in [solar activity](http://strakul.blogspot.com/2012/01/solar-activity.html) happens periodically as the Sun reaches solar maximum.  
+Sunspot group 1429 is a particularly large set of sunspots that was quite active a few weeks ago. You may have heard the news of a massive solar flare emanating from this region around March 7th or so. This increase in [solar activity]({% post_url 2012/2012-01-28-solar-activity %}) happens periodically as the Sun reaches solar maximum.  
   
 One last thing I want to point out is the scale of these sunspots. If you look at the first image you'll see a few smallish spots near the center. Each of those is **larger than the planet Earth**. The Sun is big, and yet it is an average star that's just one of a hundred billion or so stars in our own Galaxy. 

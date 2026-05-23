@@ -14,7 +14,7 @@ img_show: false
 
 ![](/assets/img/posts/2012/20121224/16004601.jpg){: width="500" .w-50 .left}
 
-Here is a quick review of **Legion** by Brandon Sanderson. This is another short novella and can be read in a single day. I tried to stretch it out as much as I could, but it was difficult. It was actually quite engaging, even more so than [The Emperor's Soul](http://strakul.blogspot.com/2012/12/novella-review-emperors-soul-by-brandon.html), which I also recently finished.  
+Here is a quick review of **Legion** by Brandon Sanderson. This is another short novella and can be read in a single day. I tried to stretch it out as much as I could, but it was difficult. It was actually quite engaging, even more so than [The Emperor's Soul]({% post_url 2012/2012-12-22-novella-review-the-emperors-soul-by-brandon-sanderson %}), which I also recently finished.  
   
 The story revolves around Stephen Leeds, a unique man who has very specialized hallucinations. He relies on those hallucinations, or aspects, to solves mysteries and puzzles in a sort of detective fashion.   
   
@@ -30,4 +30,4 @@ In a word, this book was fun. It fluidly combined several neat elements together
   
 A second, very interesting part to the story is the detective story within it. Leeds receives a series of photographs depicting old events, so old that cameras could not exist when the pictures were to have been taken. A camera that can take pictures of the past has been developed... and stolen. It's up to him, and his aspects, to figure out who stole the camera, and more importantly, recover it. The implications of such a device are many and the story leads to a very satisfying conclusion regarding this.  
   
-In comparison to Brandon Sanderson's other novella, [The Emperor's Soul](http://strakul.blogspot.com/2012/12/novella-review-emperors-soul-by-brandon.html), I found this one to be more engaging and a faster read. While this could also be attributed to more free time to spend reading, I would like to attribute it to the intriguing plot, characters, and the playful banter between the aspects. Though both stories are very simple given the short nature of a novella, **Legion** has the advantage of being set on the "real" world which facilitates our immersion in the story. Regardless, I would recommend both if you want a quick read. 
+In comparison to Brandon Sanderson's other novella, [The Emperor's Soul]({% post_url 2012/2012-12-22-novella-review-the-emperors-soul-by-brandon-sanderson %}), I found this one to be more engaging and a faster read. While this could also be attributed to more free time to spend reading, I would like to attribute it to the intriguing plot, characters, and the playful banter between the aspects. Though both stories are very simple given the short nature of a novella, **Legion** has the advantage of being set on the "real" world which facilitates our immersion in the story. Regardless, I would recommend both if you want a quick read. 

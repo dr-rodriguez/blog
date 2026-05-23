@@ -14,7 +14,7 @@ img_show: false
 
 ![](/assets/img/posts/2020/20201229/wordcloud_1.png)
 
-A few years ago, in 2016, I wrote a brief post on statistics when looking at my [Goodreads reviews](https://strakul.blogspot.com/2016/09/data-science-my-goodreads-reviews_13.html). A friend's comment recently reminded me of this work and I decided to update it with information all the way up to the present day. Unfortunately, a big limitation has been that, as of earlier this month, Goodreads discontinued their API. I had a lot of code written to access it and generate the plots and had to spend some time rewriting it to use a CSV export of my library. It's not the same, but I was able to reconstruct most of the information. So without further ado, let's look at what we can discover.
+A few years ago, in 2016, I wrote a brief post on statistics when looking at my [Goodreads reviews]({% post_url 2016/2016-09-13-data-science-my-goodreads-reviews %}). A friend's comment recently reminded me of this work and I decided to update it with information all the way up to the present day. Unfortunately, a big limitation has been that, as of earlier this month, Goodreads discontinued their API. I had a lot of code written to access it and generate the plots and had to spend some time rewriting it to use a CSV export of my library. It's not the same, but I was able to reconstruct most of the information. So without further ado, let's look at what we can discover.
 
   
 

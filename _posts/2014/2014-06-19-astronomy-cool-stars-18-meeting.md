@@ -21,7 +21,7 @@ Here I summarize some of my thoughts on the meeting.
   
   
   
-Cool Stars 18 was a great conference and I enjoyed it much more than my prior Cool Stars. I think that may be because I now know a lot more people in the field, whereas [last Cool Stars](http://strakul.blogspot.com/2012/07/astronomy-cool-stars-17-meeting.html) was the first time meeting these people. I also liked that breakfast and lunch were provided in the conference center, which facilitated interaction and meant that it was less likely that you would be eating alone or struggling to find a good place to eat. The continued interaction with my peers led to many good conversations and made me feel a valued member of the low mass community. I took it as an opportunity to catch up with people and socialize a lot more than at other conferences.  
+Cool Stars 18 was a great conference and I enjoyed it much more than my prior Cool Stars. I think that may be because I now know a lot more people in the field, whereas [last Cool Stars]({% post_url 2012/2012-07-15-astronomy-cool-stars-17-meeting %}) was the first time meeting these people. I also liked that breakfast and lunch were provided in the conference center, which facilitated interaction and meant that it was less likely that you would be eating alone or struggling to find a good place to eat. The continued interaction with my peers led to many good conversations and made me feel a valued member of the low mass community. I took it as an opportunity to catch up with people and socialize a lot more than at other conferences.  
   
 ![](/assets/img/posts/2014/20140619/IMG_3678.JPG)  
 ---  

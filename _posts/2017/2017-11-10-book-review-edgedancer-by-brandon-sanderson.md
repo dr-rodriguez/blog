@@ -11,7 +11,7 @@ description: ""
 img_show: false
 ---
 
-In preparation for the imminent release of **Oathbringer** , the third book in Brandon Sanderson's **The Stormlight Archive** series, I've been re-reading the prior books. I had first read [The Way of Kings](https://www.goodreads.com/review/show/133304456?book_show_action=false&from_review_page=1) before staring my blog, so I don't have a full review of the first book, but you can read my review of [Words of Radiance](https://strakul.blogspot.com/2014/03/book-review-words-of-radiance-by.html) here. I've been a huge fan of Sanderson since **Mistborn** and consider **The** **Stormlight Archive** series to be some of his best work. While reading the second book, I heard that there was a short novella as well- **Edgedancer** , featuring one of the characters in the interludes. Here I review that novella.  
+In preparation for the imminent release of **Oathbringer** , the third book in Brandon Sanderson's **The Stormlight Archive** series, I've been re-reading the prior books. I had first read [The Way of Kings](https://www.goodreads.com/review/show/133304456?book_show_action=false&from_review_page=1) before staring my blog, so I don't have a full review of the first book, but you can read my review of [Words of Radiance]({% post_url 2014/2014-03-13-book-review-words-of-radiance-by-brandon-sanderson %}) here. I've been a huge fan of Sanderson since **Mistborn** and consider **The** **Stormlight Archive** series to be some of his best work. While reading the second book, I heard that there was a short novella as well- **Edgedancer** , featuring one of the characters in the interludes. Here I review that novella.  
   
 Minor spoilers for **Words of Radiance** follow.  
   

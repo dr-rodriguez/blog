@@ -22,7 +22,7 @@ Read on for my spoiler-free review.
 
 ## Overall Impression
 
-This is a bit of an odd book as it feels like two disconnected halves; a hallmark of the fact that it was published originally as two separate novellas. The first part naturally follows from the prior [Foundation](https://strakul.blogspot.com/2021/08/book-review-foundation-by-isaac-asimov.html) book, but the second introduced what will be the main point in the third, **Second Foundation**. That being said, it's still a fun book and continues exploring how psychohistory could work. There's also a few more characters since we tend to stay in the same time period for longer.
+This is a bit of an odd book as it feels like two disconnected halves; a hallmark of the fact that it was published originally as two separate novellas. The first part naturally follows from the prior [Foundation]({% post_url 2021/2021-08-01-book-review-foundation-by-isaac-asimov %}) book, but the second introduced what will be the main point in the third, **Second Foundation**. That being said, it's still a fun book and continues exploring how psychohistory could work. There's also a few more characters since we tend to stay in the same time period for longer.
 
 ## Plot
 

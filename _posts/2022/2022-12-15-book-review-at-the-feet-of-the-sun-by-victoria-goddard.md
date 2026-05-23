@@ -14,7 +14,7 @@ img_show: false
 
 ![](/assets/img/posts/2022/20221215/61918023.jpg){: width="500" .w-50 .left}
 
-This is the highly anticipated sequel to [The Hands of the Emperor](https://strakul.blogspot.com/2022/04/book-review-hands-of-emperor-by.html). While it follows a few months after that book, I recommend those interested in this book read first [The Return of Fitzroy Angursell](https://strakul.blogspot.com/2022/05/book-review-return-of-fitzroy-angursell.html) and [The Redoubtable Pali Avramapul](https://strakul.blogspot.com/2022/10/book-review-redoubtable-pali-avramapul.html) at the very least. The stories there happen in tandem and set the stage for what will happen in this particular novel.
+This is the highly anticipated sequel to [The Hands of the Emperor]({% post_url 2022/2022-04-09-book-review-the-hands-of-the-emperor-by-victoria-goddard %}). While it follows a few months after that book, I recommend those interested in this book read first [The Return of Fitzroy Angursell]({% post_url 2022/2022-05-01-book-review-the-return-of-fitzroy-angursell-by-victoria-goddard %}) and [The Redoubtable Pali Avramapul]({% post_url 2022/2022-10-30-book-review-the-redoubtable-pali-avramapul-by-victoria-goddard %}) at the very least. The stories there happen in tandem and set the stage for what will happen in this particular novel.
 
 _Cliopher Mdang has been appointed Viceroy of Zunidh by his beloved Radiancy, the Last Emperor, who has now left him behind in the Palace to safeguard the world during his absence on a quest to find an appropriately magical heir. When he returns, he will abdicate, and Cliopher will at last retire, satisfied with having achieved most of his life's political goals--even if his long-suppressed personal dreams are starting to bubble up._
 
@@ -30,13 +30,13 @@ Read on for my review, spoilers for the preceding books.
 
 ## 
 
-This was an excellent sequel, though it's hard to call it that when several other books take place between this (or adjacent to) and [The Hands of the Emperor](https://strakul.blogspot.com/2022/04/book-review-hands-of-emperor-by.html). Regardless, this book has many recognizable characters and a few new additions, though a significant part is solitary introspection by Kip or one-on-one's between Kip and Fitzroy. The story takes us across the world to magical new places and really expands on the lore behind the Islanders.
+This was an excellent sequel, though it's hard to call it that when several other books take place between this (or adjacent to) and [The Hands of the Emperor]({% post_url 2022/2022-04-09-book-review-the-hands-of-the-emperor-by-victoria-goddard %}). Regardless, this book has many recognizable characters and a few new additions, though a significant part is solitary introspection by Kip or one-on-one's between Kip and Fitzroy. The story takes us across the world to magical new places and really expands on the lore behind the Islanders.
 
 Plot
 
 ## 
 
-Similar [The Hands of the Emperor](https://strakul.blogspot.com/2022/04/book-review-hands-of-emperor-by.html), this one's story takes part in several sections with interludes between them. Each one is interesting in its own right, but differs in the setting and some of the characters present. I found the interludes to have a clever sort of symmetry to the prior novel. In that one, Kip is being elevated each step of the way until he becomes the Viceroy. Here, it is somewhat more the reverse, a symbolic fall, as Kip progresses in his personal journey that leads him down and then up to even greater heights than before. The only drawback for me was one of the sections felt a bit slow with some angsty back-and-forth between Kip and Fitzroy in their relationship. It wasn't too bad, but it did seem a bit repetitive for what it was (and the characters do shine a light on it).
+Similar [The Hands of the Emperor]({% post_url 2022/2022-04-09-book-review-the-hands-of-the-emperor-by-victoria-goddard %}), this one's story takes part in several sections with interludes between them. Each one is interesting in its own right, but differs in the setting and some of the characters present. I found the interludes to have a clever sort of symmetry to the prior novel. In that one, Kip is being elevated each step of the way until he becomes the Viceroy. Here, it is somewhat more the reverse, a symbolic fall, as Kip progresses in his personal journey that leads him down and then up to even greater heights than before. The only drawback for me was one of the sections felt a bit slow with some angsty back-and-forth between Kip and Fitzroy in their relationship. It wasn't too bad, but it did seem a bit repetitive for what it was (and the characters do shine a light on it).
 
 ## Characters
 
@@ -54,4 +54,4 @@ The setting of this novel is much the same as the prior one, with scenes in both
 
 Final Thoughts
 
-This was a good continuation of the story, but it is far from complete. Without spoiling much there is still so much left to do for these characters, not to mention all of their friends. I can't wait to see how it continues and what sort of adventures they get to. The characters and setting are great and the story takes some very interesting turns- I don't think I saw any of it coming. If you've already read and enjoyed [The Hands of the Emperor](https://strakul.blogspot.com/2022/04/book-review-hands-of-emperor-by.html), you need to read this one! 
+This was a good continuation of the story, but it is far from complete. Without spoiling much there is still so much left to do for these characters, not to mention all of their friends. I can't wait to see how it continues and what sort of adventures they get to. The characters and setting are great and the story takes some very interesting turns- I don't think I saw any of it coming. If you've already read and enjoyed [The Hands of the Emperor]({% post_url 2022/2022-04-09-book-review-the-hands-of-the-emperor-by-victoria-goddard %}), you need to read this one! 

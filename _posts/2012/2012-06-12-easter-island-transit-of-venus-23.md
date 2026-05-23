@@ -12,9 +12,9 @@ description: ""
 img_show: false
 ---
 
-This is the second of a three part post series on our recent trip to Easter Island. Previously I [wrote](http://strakul.blogspot.com/2012/06/easter-island-outreach-activities-13.html) about the outreach activities we did on the days leading up to the transit. In this post I describe the main event itself: the transit of Venus.  
+This is the second of a three part post series on our recent trip to Easter Island. Previously I [wrote]({% post_url 2012/2012-06-10-easter-island-outreach-activities-13 %}) about the outreach activities we did on the days leading up to the transit. In this post I describe the main event itself: the transit of Venus.  
   
-I've previously talked about the transit of Venus ([here](http://strakul.blogspot.com/2012/04/transit-of-venus-june-2012.html)) and described the math involved in determining the distance ([here](http://strakul.blogspot.com/2012/05/measuring-distance-to-sun-with-transit.html)). Hence, I'll skip the overview and jump right into the details.  
+I've previously talked about the transit of Venus ([here]({% post_url 2012/2012-04-28-transit-of-venus-june-2012 %})) and described the math involved in determining the distance ([here]({% post_url 2012/2012-05-20-measuring-the-distance-to-the-sun-with-the-transit-of-venus %})). Hence, I'll skip the overview and jump right into the details.  
   
 We gathered at Ahu Tahai, a ceremonial site with several moai located near to the museum at the edge of Hanga Roa, the only town in Easter Island. We had been promoting the event for several days and the island is so small (4000-5000 inhabitants) that pretty much everyone knew what was going on.  
   
@@ -30,7 +30,7 @@ The weather also cooperated: we had mostly clear skies and saw the transit unint
 ---  
 The transit of Venus captured by Jackie Faherty (U. Chile). Sunspots can be seen near the center and some clouds are rolling in oposite to Venus (the large black dot). Additional photos can be found [here](http://www.flickr.com/photos/jfaherty/sets/72157630029839847/).  
   
-In particular, the time we observed was near the beginning of the transit. In order to measure the distance one needs accurate times of the ingress interior or ingress interior (see [my post](http://strakul.blogspot.com/2012/05/measuring-distance-to-sun-with-transit.html) on how to determine the distance for more information). We were able to time ingress interior thanks to the weather. The predicted time was 16:28:18 local time and, though we split on several teams, Francisco Förster, Helene Flohic, and Milena Bufano win the prize of getting closest to the predicted time: 16:28:10.  
+In particular, the time we observed was near the beginning of the transit. In order to measure the distance one needs accurate times of the ingress interior or ingress interior (see [my post]({% post_url 2012/2012-05-20-measuring-the-distance-to-the-sun-with-the-transit-of-venus %}) on how to determine the distance for more information). We were able to time ingress interior thanks to the weather. The predicted time was 16:28:18 local time and, though we split on several teams, Francisco Förster, Helene Flohic, and Milena Bufano win the prize of getting closest to the predicted time: 16:28:10.  
   
 Our fearless leader, Jackie Faherty, had spread the news of our effort in order to collaborate with school groups from across the planet. You may have seen the article on [Universe Today](http://www.universetoday.com/95570/help-astronomers-collect-venus-transit-data/) on this effort. We are pleased to report that we had about 20 school and outreach groups onboard for this measurement including the good folks of Astronomy Live at UCLA. Here's a map of our network:  
 ![](/assets/img/posts/2012/20120612/mapahetuu_1.tiff)  

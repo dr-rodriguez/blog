@@ -56,6 +56,9 @@ main() {
 
   read_baseurl
 
+  echo "Debug: _baseurl is '$_baseurl'"
+  echo "Debug: Destination is '$SITE_DIR$_baseurl'"
+
   # build
   JEKYLL_ENV=production bundle exec jekyll b \
     -d "$SITE_DIR$_baseurl" -c "$_config"

@@ -12,7 +12,7 @@ description: ""
 img_show: false
 ---
 
-This is the last of my three posts on Easter Island. [Part 1](http://strakul.blogspot.com/2012/06/easter-island-outreach-activities-13.html) described the astronomy outreach we did there, [part 2](http://strakul.blogspot.com/2012/06/easter-island-transit-of-venus-23.html) was about the transit of Venus, our main event. This part now describes all the touristy things we squeezed in when we weren't working.  
+This is the last of my three posts on Easter Island. [Part 1]({% post_url 2012/2012-06-10-easter-island-outreach-activities-13 %}) described the astronomy outreach we did there, [part 2]({% post_url 2012/2012-06-12-easter-island-transit-of-venus-23 %}) was about the transit of Venus, our main event. This part now describes all the touristy things we squeezed in when we weren't working.  
   
 First, a map:  
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Easter_Island_map-en.svg/2000px-Easter_Island_map-en.svg.png)  
@@ -78,7 +78,7 @@ There was a ceremony every year in which a champion would go out to swim to the 
 ---  
 Motu Nui, where the manutara would have their nests is the 'large' island more distant in this shot.  
   
-And finally, here's a shot of Ahu Tahai at sunset on June 5, 2012 (the day of the [transit of Venus](http://strakul.blogspot.com/2012/06/easter-island-transit-of-venus-23.html)).  
+And finally, here's a shot of Ahu Tahai at sunset on June 5, 2012 (the day of the [transit of Venus]({% post_url 2012/2012-06-12-easter-island-transit-of-venus-23 %})).  
   
 
 

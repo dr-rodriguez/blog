@@ -10,5 +10,5 @@ author: Strakul
 description: ""
 ---
 
-Short post today to point out Emily Rice's excellent work compiling a parody video of Call Me, Maybe. This was a hackAAS project at the most recent [American Astronomical Society meeting](http://strakul.blogspot.com/2013/01/astronomy-221th-american-astronomical.html).  
+Short post today to point out Emily Rice's excellent work compiling a parody video of Call Me, Maybe. This was a hackAAS project at the most recent [American Astronomical Society meeting]({% post_url 2013/2013-01-21-astronomy-the-221th-american-astronomical-meeting %}).  
 You have to see this; it's excellent. And as a bonus, I appear briefly near the end! 
