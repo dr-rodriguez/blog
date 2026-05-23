@@ -6,6 +6,11 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
+david_rodriguez:
+  name: David Rodriguez
+  twitter: Strakul
+  url: https://github.com/dr-rodriguez/
+
 cotes:
   name: Cotes Chung
   twitter: cotes2020
