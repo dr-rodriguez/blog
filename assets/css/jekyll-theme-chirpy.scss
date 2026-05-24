@@ -10,14 +10,57 @@
 
 /* append your custom style below */
 
-h1,
-h2 {
-  color: #9DCC67;
+@mixin light-overrides {
+  --main-bg: #f2f1ec;
+  --topbar-bg: rgb(242 241 236 / 70%);
+
+  h1,
+  h2 {
+    color: #4a6d2c !important;
+  }
+
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #3a5a22 !important;
+  }
 }
 
-h3,
-h4,
-h5,
-h6 {
-  color: #89BD51;
+@mixin dark-overrides {
+  h1,
+  h2 {
+    color: #9dcc67 !important;
+  }
+
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #89bd51 !important;
+  }
+}
+
+html {
+  @media (prefers-color-scheme: light) {
+    &:not([data-mode]),
+    &[data-mode='light'] {
+      @include light-overrides;
+    }
+
+    &[data-mode='dark'] {
+      @include dark-overrides;
+    }
+  }
+
+  @media (prefers-color-scheme: dark) {
+    &:not([data-mode]),
+    &[data-mode='dark'] {
+      @include dark-overrides;
+    }
+
+    &[data-mode='light'] {
+      @include light-overrides;
+    }
+  }
 }
