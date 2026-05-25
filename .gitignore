@@ -23,7 +23,6 @@ package-lock.json
 
 # Additional ignores
 _site/
-google*.html
 Gemfile.lock
 .jekyll-metadata
 .jekyll-cache
