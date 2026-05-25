@@ -8,4 +8,5 @@ order: 4
 
 ## David Rodriguez
 
-Astronomical data scientist, book-loving Puerto Rican, and Maryland resident.
+Astronomical data scientist, book-loving Puerto Rican, and Maryland resident.   
+See my [Homepage](https://www.strakul.com/) for more information.
