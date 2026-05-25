@@ -16,10 +16,10 @@ timezone: America/New_York
 
 title: Strakul's Thoughts # the main title
 
-tagline: Random thoughts from a book-loving Puerto Rican astronomical data scientist in Baltimore. # it will display as the subtitle
+tagline: Random thoughts from a book-loving Puerto Rican astronomical data scientist in Maryland. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Random thoughts from a book-loving Puerto Rican astronomical data scientist in Baltimore.
+  Random thoughts from a book-loving Puerto Rican astronomical data scientist in Maryland.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
