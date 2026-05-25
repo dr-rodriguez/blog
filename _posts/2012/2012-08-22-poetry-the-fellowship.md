@@ -4,8 +4,8 @@ read_time: true
 show_date: true
 title: "Poetry: The Fellowship"
 date: 2012-08-22
-tags: [Poetry, Writting]
-category: Writting
+tags: [Poetry, Writing]
+category: Writing
 author: Strakul
 description: ""
 ---

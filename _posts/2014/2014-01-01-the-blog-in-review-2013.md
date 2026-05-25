@@ -5,7 +5,7 @@ show_date: true
 title: "The Blog in Review: 2013"
 date: 2014-01-01
 image: /assets/img/posts/2014/20140101/Screen+Shot+2014-01-01+at+9.42.53+AM.png
-tags: [Misc, Writting]
+tags: [Misc, Writing]
 category: Misc
 author: Strakul
 description: ""
