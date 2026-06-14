@@ -25,6 +25,11 @@
   h6 {
     color: #3a5a22 !important;
   }
+
+  strong,
+  b {
+    color: #9c5a1e;
+  }
 }
 
 @mixin dark-overrides {
@@ -38,6 +43,11 @@
   h5,
   h6 {
     color: #89bd51 !important;
+  }
+
+  strong,
+  b {
+    color: #d99a4e;
   }
 }
 
