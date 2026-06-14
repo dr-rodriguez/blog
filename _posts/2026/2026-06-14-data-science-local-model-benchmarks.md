@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: "Data Science: Local Model Benchmarks"
+title: "Data Science: Local AI Model Benchmarks"
 date: 2026-06-14
 image: /assets/img/posts/2026/20260614/benchmark_summary.png
 img_show: false
