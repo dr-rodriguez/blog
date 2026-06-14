@@ -12,7 +12,7 @@ author: Strakul
 description: "A look at the performance of local AI models on a mid-tier gaming PC."
 ---
 
-![](/assets/img/posts/2026/20260614/benchmark_summary.png){: width="500" .w-50 .left}
+![](/assets/img/posts/2026/20260614/benchmark_summary.png){: .w-100}
 
 I believe local open-source models are the future of AI — today you can run one that rivals what frontier models did a year ago. So I spent a week finding out how far my mid-tier gaming PC could actually push them. Here's the benchmark setup, the models I ran, and how they did.
 
@@ -28,7 +28,7 @@ My main focus was on token generation, which is how fast the model will respond.
 
 ## Setup
 
-![](/assets/img/posts/2026/20260614/model-execution.png){: width="500" .w-50 .left}
+![](/assets/img/posts/2026/20260614/model-execution.png){: .w-100}
 
 I decided to test out a Claude subscription and use it to generate the scripts that would help validate my local models. I started with Sonnet 4.6 and it did a good job, but then tweaked it with further prompting and also tried Opus 4.6 and Opus 4.8. The initial implementation by Sonnet was good enough, I just kept adding features so it's not like if I had started with Opus it would have been any better.
 
@@ -47,7 +47,7 @@ Write a single Python print statement using a list comprehension that prints the
 
 ## Models
 
-![](/assets/img/posts/2026/20260614/model-results.png){: width="500" .w-50 .left}
+![](/assets/img/posts/2026/20260614/model-results.png){: .w-100}
 
 Based on my GPU's VRAM, I focus a lot on 8-9 billion parameter models. At 4-bit quantization, these fit comfortably in my GPU and today's models tend to be quite good even at these lower parameter counts. These models included:
 - **Deepseek-R1:8B**
@@ -67,8 +67,7 @@ The **Gemma4:12B** and **Phi4:14B** did not fit at Q4 so I picked Q3 versions of
 The **Phi4-mini** is the smallest model I considered at just 4B and I stuck to Q4 even though I could have used a lower quantization. It's also about 2GB in size, comparable to the Bonsai 8B.
 
 I used a models.ini file to start llama.cpp in router mode so I didn't have to specify each manually or tweak the parameters. Here's a snippet of how mine looks like:
-
-```models.ini
+```
 version = 1
 
 # Global baseline optimizations for your hardware setup
@@ -106,7 +105,8 @@ c = 131072
 
 ## Results
 
-![](/assets/img/posts/2026/20260614/benchmark_speed.png){: width="500" .w-50 .left}
+![](/assets/img/posts/2026/20260614/benchmark_accuracy.png){: .w-100}
+
 
 I was initially worried that all models would pass since the questions being asked seemed relatively simple. I was pleasantly surprised then to see that none of them scored perfectly, and some did quite poorly.
 
@@ -116,10 +116,10 @@ The next bracket of speed came with the slew of 8B models I tested. At Q4 these 
 
 The next bracket was for the largest models I ran, the 12-26B ones. When trying to load without any special settings, part of the model would spill into system RAM and significantly impact performance. This was particularly notable for **Qwen3:14B-Q4** and **GPT-OSS:20B** which had speeds of 6 and 12 t/s, respectively. Human reading ranges from 3-8 t/s so watching these generate any output would be painfully slow.
 
+![](/assets/img/posts/2026/20260614/benchmark_speed.png){: .w-100}
+
 This is where clever strategies and higher quantization pay off. **Qwen3:14B-Q2**, **Gemma4:12B-Q3**, **Phi4:14B-Q3** reached 35 t/s generation and the first two had 84% accuracy while Phi's was at 73%.
 The heavy weights are both MoE models and I ran them in a special mode that only loaded the active experts into the GPU, with the rest being in RAM. **Gemma4:26B-moe** and **GPT-OSS:20B-moe** generated at 30 t/s with good accuracy, too. The only drawback is that system RAM is being used to hold the model and if too many background processes or applications are running, you can crash programs.
-
-![](/assets/img/posts/2026/20260614/benchmark_accuracy.png){: width="500" .w-50 .left}
 
 ## Conclusions
 
@@ -128,4 +128,4 @@ I was surprised to see how **Qwen3.5:9B** is better than **Gemma4:26B-moe** and 
 
 One word of caution is that these tests are fairly simple and also fairly short. There are only 26 tests total and they ran 3 times, requiring at least 2 success to be counted. But because there are so few tests, a single failure amounts to a drop of ~4%. So I would not worry about minor differences in the accuracy here, considering anything above 80% to be good enough. After all, my focus was more on capturing speed than being robust about accuracy.
 
-In practicality, I would more likely be using these for agentic work using a harness like pi.dev, so these tests aren't fully representative of how they will perform there. However, if they struggle with these simple tests, then they are unlikely to do well in more complex agentic tasks.
+In practicality, I would more likely be using these for agentic work using a harness like [pi.dev](https://pi.dev/), so these tests aren't fully representative of how they will perform there. However, if they struggle with these simple tests, then they are unlikely to do well in more complex agentic tasks.
