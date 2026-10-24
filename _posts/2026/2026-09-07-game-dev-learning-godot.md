@@ -6,8 +6,8 @@ title: "Game Dev: Learning Godot"
 date: 2026-09-07
 image: /assets/img/posts/2026/20260907/penguin-last-stand-1.png
 img_show: false
-tags: [Game Dev, Godot]
-category: Game Dev
+tags: [Game Dev, Games, Godot]
+category: Gaming
 author: Strakul
 description: "How I got started with the Godot game engine, the small games I built, and what I learned along the way."
 toc: yes
